@@ -8,12 +8,11 @@ AROS, jedna z trzech odnóg tzw. Amigi Nowej Generacji ma się całkiem nieźle 
 
 Najbardziej aktywnie rozwijaną jest wersja 32-bitowa AROSa (ABIv0) za którą obecnie odpowiada Krzysztof “deadw00d” Śmiechowicz i na śledzeniu tej wersji się skupimy, gdyż na dzień dzisiejszy jest ona rekomendowana do instalowania na prawdziwym sprzęcie.  
 
-Najnowszy, czysty system ABIv0 rekomendowany do instalacji na prawdziwym sprzęcie:
-[https://github.com/deadw00d/AROS/releases](https://github.com/deadw00d/AROS/releases)
+Najnowszy, czysty system ABIv0 rekomendowany do instalacji na prawdziwym sprzęcie: [ABIv0](https://github.com/deadw00d/AROS/releases)
 
 Na bazie aktualnego ABIv0 są na bieżąco wspierane dwie dystrybucje, czyli systemy wypchane pakietami dodatkowego oprogramowania:
-[Aros One x86](https://sites.google.com/view/arosone)
-[Tiny Aros i386](https://tinyaros.flazio.com)
+[Aros One x86](https://sites.google.com/view/arosone)  
+[Tiny Aros i386](https://tinyaros.flazio.com)  
 Nie polecam na chwilę obecną innych dystrybucji takich jak popularny kilka lat temu Icaros Desktop, przynajmniej do czasu kiedy autorzy ich nie zaktualizują.
 
 W listopadzie dzięki wysiłkowi deadw00d’a i społeczności udało się załatać 16 bugów, co mocno przybliża wydanie w grudniu nowej stabilnej wersji ABIv0. 
@@ -24,98 +23,81 @@ Kolejną nową inicjatywą jest zrobienie listy rekomendowanego sprzętu dla ARO
 
 Na koniec zostaje lista nowego softu. W tym miesiącu nie mieliśmy niestety aktualizacji żadnego dużego programu. Pojawiło się za to na Aros Archives kilka mniejszych produkcji i aktualizacji. Z poniższą listą zostawiam was do przyszłego miesiąca :)
 
-[Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha) (v. 2.00)
+**[Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha)** (v. 2.00)  
 (autor: Juan Carlos Herran Martin)
 
 Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom. 
 
-Zmiany w wersji 2.00 (01-11-2023):
-1. Dodano język hiszpański.
-2. Zmiana muzyki w tle intro.
-3. Nowe tła dla rytuału.
+Zmiany w wersji 2.00 (01-11-2023):  
+1. Dodano język hiszpański.  
+2. Zmiana muzyki w tle intro.  
+3. Nowe tła dla rytuału.  
 
-
-[Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha) (v. 1.00)
+**[Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha)** (v. 1.00)  
 (autor: Nathan Hesterman)
 
 AROSowa wersja popularnej planszowej gry Codenames (Tajniacy). Passcodes działa w sieci lokalnej (klient/serwer) i umożliwia zabawę dla dwóch do 32 graczy.
 
 
-**AGet** (v. 0.1)
+**[AGet](http://archives.aros-exec.org/?function=showfile&file=network/aget.lha)** (v. 0.1)  
 (autor: C. Hahn)
 
 AGet to prosta aplikacja do testowania serwerów HTTP, aplikacji internetowych i API poprzez wysyłanie żądań protokołu HTTP do serwera.
 
-http://archives.aros-exec.org/?function=showfile&file=network/aget.lha
 
-
-**AnimWebConverter** (v. 6.00)
+**[AnimWebConverter](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/animwebconverter.lha)** (v. 6.00)  
 (autor: Juan Carlos Herran Martin)
 
 Prosty program do odtwarzania lub konwertowania animacji: anim, gif, apng/png, yafa i lbm (tylko tryb 5), avi.
 
-Zmiany w wersji 6.00 (15-11-2023):
-    1. Nowe intro i zmienione środowisko programu.
-    2. Kompilacja pod ostatnią wersją Hollywood 10.0.
-    3. Usunięto użycie starego pluginu flicanim dla nowego flic.
-
-http://archives.aros-exec.org/?function=showfile&file=graphics/convert/animwebconverter.lha
+Zmiany w wersji 6.00 (15-11-2023):  
+    1. Nowe intro i zmienione środowisko programu.  
+    2. Kompilacja pod ostatnią wersją Hollywood 10.0.  
+    3. Usunięto użycie starego pluginu flicanim dla nowego flic.  
 
 
-**NetStratego** (v. 1.1)
+**[NetStratego](http://archives.aros-exec.org/?function=showfile&file=game/server/netstratego.i386-aros.lha)** (v. 1.1)  
 (autor: Nathan Hesterman)
 
 AROSowa implementacja planszowej gry Stratego dla dwóch graczy. Grać możemy w sieci LAN lub na jednym komputerze.
 
-http://archives.aros-exec.org/?function=showfile&file=game/server/netstratego.i386-aros.lha
 
-
-**Videntium Picta** (v. 3.00)
+**[Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha)** (v. 3.00)  
 (autor: Juan Carlos Herran Martin)
 
 Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, można go używać z pamięci USB, płyty CD itp.).
 
-Zmiany w wersji 3.00 (23-11-2023):       
-1. Program staje się mailware. Aby odblokować wersję demo należy wysłać email do autora.
-2. Teraz program ma intro.
-3. Usunięto stary plugin flicanim.hwp na rzecz nowego flic.hwp.
-
-http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha
+Zmiany w wersji 3.00 (23-11-2023):  
+1. Program staje się mailware. Aby odblokować wersję demo należy wysłać email do autora.  
+2. Teraz program ma intro.  
+3. Usunięto stary plugin flicanim.hwp na rzecz nowego flic.hwp.  
 
 
-**iConecta** (v. 5.00)
+**[iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha)** (v. 5.00)  
 (autor: Juan Carlos Herran Martin)
 
 Mały i prosty program do testowania połączenia internetowego.
 
-http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha
 
-
-**F1Champ** (v. 6.21)
+**[F1Champ](http://archives.aros-exec.org/?function=showfile&file=document/misc/f1champ.lha)** (v. 6.21)  
 
 Statystyki dotyczące Formuły 1 w formie dokumentu Amigaguide obejmujące każdy rok od 1950 do 2023. Obowiązkowa pozycja dla każdego fana F1. W nowej wersji dodano 22 tory na 2023 rok.
 
-http://archives.aros-exec.org/?function=showfile&file=document/misc/f1champ.lha
 
-
-**Omanko!** (v. 1.20)
+**[Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha)** (v. 1.20)  
 (autor: Juan Carlos Herran Martin)
 
 Niewielkie narzędzie stworzone w celu generowania kodów sum kontrolnych MD5 i CRC32 plików.
 
-Zmiany w wersji 1.20 (28-11-2023):
-- Skompilowane z Hollywood 10.0.
-- Niewielkie ulepszenia wizualne.
-
-http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha
+Zmiany w wersji 1.20 (28-11-2023): 
+- Skompilowane z Hollywood 10.0. 
+- Niewielkie ulepszenia wizualne. 
 
 
-**IFFIconDataDecoder** (v. 1.00)
+**[IFFIconDataDecoder](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/iff_icon_data_decoder.zip)** (v. 1.00)  
 (autor: Mike R.)
 
 Dokumentacja w formacie PDF i towarzyszące jej fragmenty kodu źródłowego mająca pomóc w wyjaśnieniu formatu przechowywania danych obrazu w fragmentach IMAG dla Glow Icons.
-
-http://archives.aros-exec.org/?function=showfile&file=graphics/icon/iff_icon_data_decoder.zip
 
 
 ![Crepe](/assets/img/crepe.jpg)
