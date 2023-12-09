@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Aros News
+title: AROS News
 
 # Your name to show in the footer
 author: Andrzej "retrofaza" Subocz
@@ -24,7 +24,9 @@ navbar-links:
     - ABIv0: "https://github.com/deadw00d/AROS/releases"
     - AROS One x86: "https://sites.google.com/view/arosone"
     - Tiny AROS: "https://tinyaros.flazio.com"
-  Aros World: "https://www.arosworld.org"
+  AROS World: "https://www.arosworld.org"
+  AROS Wiki: "https://en.wikibooks.org/wiki/Aros"
+  
 
 ################
 # --- Logo --- #
