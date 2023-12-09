@@ -9,24 +9,23 @@ AROS, jedna z trzech odnóg tzw. Amigi Nowej Generacji ma się całkiem nieźle 
 Najbardziej aktywnie rozwijaną jest wersja 32-bitowa AROSa (ABIv0) za którą obecnie odpowiada Krzysztof “deadw00d” Śmiechowicz i na śledzeniu tej wersji się skupimy, gdyż na dzień dzisiejszy jest ona rekomendowana do instalowania na prawdziwym sprzęcie.  
 
 Najnowszy, czysty system ABIv0 rekomendowany do instalacji na prawdziwym sprzęcie:
-https://github.com/deadw00d/AROS/releases
+[https://github.com/deadw00d/AROS/releases](https://github.com/deadw00d/AROS/releases)
 
 Na bazie aktualnego ABIv0 są na bieżąco wspierane dwie dystrybucje, czyli systemy wypchane pakietami dodatkowego oprogramowania:
-Aros One x86 - https://sites.google.com/view/arosone
-Tiny Aros i386 - https://tinyaros.flazio.com/
+[Aros One x86](https://sites.google.com/view/arosone)
+[Tiny Aros i386](https://tinyaros.flazio.com)
 Nie polecam na chwilę obecną innych dystrybucji takich jak popularny kilka lat temu Icaros Desktop, przynajmniej do czasu kiedy autorzy ich nie zaktualizują.
 
 W listopadzie dzięki wysiłkowi deadw00d’a i społeczności udało się załatać 16 bugów, co mocno przybliża wydanie w grudniu nowej stabilnej wersji ABIv0. 
 
-Jeden z bugów został załatany w ramach inicjatywy “Błąd miesiąca”, która polega na tym, że użytkownicy forum ArosWorld oddają swój głos w ankiecie na najbardziej ich zdaniem irytujący błąd, a następnie jest on naprawiany priorytetowo :) W listopadzie w ten sposób udało się wyeliminować problem w bibliotece workbench.library. Aktualną ankietę znaleźć można w tym temacie: https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1158
+Jeden z bugów został załatany w ramach inicjatywy “Błąd miesiąca”, która polega na tym, że użytkownicy forum ArosWorld oddają swój głos w ankiecie na najbardziej ich zdaniem irytujący błąd, a następnie jest on naprawiany priorytetowo :) W listopadzie w ten sposób udało się wyeliminować problem w bibliotece workbench.library. Aktualną ankietę znaleźć można w [tym temacie](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1158).
 
-Kolejną nową inicjatywą jest zrobienie listy rekomendowanego sprzętu dla AROS x86. Od lat pokutuje błędne przekonanie, że skoro istnieje AROS x86 to powinien uruchamiać się na każdym sprzęcie x86. Nie, tak nie jest i jeszcze bardzo długo nie będzie. Oczywiście sprawdzanie, czy AROS przypadkiem zadziała na tym, co akurat mamy pod ręką może być świetną zabawą samą w sobie, jeśli jednak chcemy używać tego systemu powinniśmy sięgnąć po jeden z rekomendowanych sprzętów. Dobrane zostały nie tylko pod względem kompatybilności na dzień dzisiejszy, ale także ceny i dostępności na portalach takich jak Ebay czy Aliexpress. Na liście w pełni wspieranego sprzętu mamy dwa laptopy, jeden kompletny desktop oraz dwie płyty główne. Lista nie jest jeszcze zamknięta i z pewnością trafią na nią dodatkowe sprzęty. 
-https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware
+Kolejną nową inicjatywą jest zrobienie listy rekomendowanego sprzętu dla AROS x86. Od lat pokutuje błędne przekonanie, że skoro istnieje AROS x86 to powinien uruchamiać się na każdym sprzęcie x86. Nie, tak nie jest i jeszcze bardzo długo nie będzie. Oczywiście sprawdzanie, czy AROS przypadkiem zadziała na tym, co akurat mamy pod ręką może być świetną zabawą samą w sobie, jeśli jednak chcemy używać tego systemu powinniśmy sięgnąć po jeden z rekomendowanych sprzętów. Dobrane zostały nie tylko pod względem kompatybilności na dzień dzisiejszy, ale także ceny i dostępności na portalach takich jak Ebay czy Aliexpress. Na [liście w pełni wspieranego sprzętu](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware) mamy dwa laptopy, jeden kompletny desktop oraz dwie płyty główne. Lista nie jest jeszcze zamknięta i z pewnością trafią na nią dodatkowe sprzęty. 
 
 Na koniec zostaje lista nowego softu. W tym miesiącu nie mieliśmy niestety aktualizacji żadnego dużego programu. Pojawiło się za to na Aros Archives kilka mniejszych produkcji i aktualizacji. Z poniższą listą zostawiam was do przyszłego miesiąca :)
 
-Sacrificio Pagano (v. 2.00)
-(autor: 	Juan Carlos Herran Martin)
+[Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha) (v. 2.00)
+(autor: Juan Carlos Herran Martin)
 
 Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom. 
 
@@ -35,15 +34,11 @@ Zmiany w wersji 2.00 (01-11-2023):
 2. Zmiana muzyki w tle intro.
 3. Nowe tła dla rytuału.
 
-http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha
 
-
-**Passcodes** (v. 1.00)
+[Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha) (v. 1.00)
 (autor: Nathan Hesterman)
 
 AROSowa wersja popularnej planszowej gry Codenames (Tajniacy). Passcodes działa w sieci lokalnej (klient/serwer) i umożliwia zabawę dla dwóch do 32 graczy.
-
-http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha
 
 
 **AGet** (v. 0.1)
