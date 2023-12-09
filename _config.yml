@@ -20,11 +20,11 @@ author: Andrzej "retrofaza" Subocz
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Dystrybucje AROS:
+    - ABIv0: "https://github.com/deadw00d/AROS/releases"
+    - AROS One x86: "https://sites.google.com/view/arosone"
+    - Tiny AROS: "https://tinyaros.flazio.com"
+  Aros World: "https://www.arosworld.org"
 
 ################
 # --- Logo --- #
@@ -50,9 +50,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  # email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  # facebook: deanattali
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: AROS NEWS
 
 ###########################
 # --- General options --- #
@@ -90,9 +90,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -120,7 +120,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "AROS,ABIv0,Amiga,AmigaNG"
 
 ######################################
 # --- Colours / background image --- #
@@ -252,7 +252,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Warsaw"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
