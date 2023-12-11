@@ -8,18 +8,18 @@ ref: 1123
 
 
 
-> ## [Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha) (v. 2.00)
+> ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 4.00)
 > (autor: Juan Carlos Herrán Martín)
 
-Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom. 
+Łatwy w obsłudze program do edycji zdjęć wykorzystywanych w projektach stron internetowych. Umożliwia zmianę rozmiaru, obrót, stosowanie efektów wizualnych, dodawanie znaku wodnego lub logo marki, zapisywanie w różnych formatach.
 
-Zmiany w wersji 2.00 (01-11-2023):  
-- Dodano język hiszpański.  
-- Zmiana muzyki w tle intro.  
-- Nowe tła dla rytuału.  
+Zmiany w najnowszej wersji:
+- Kompilacja z ostatnią wersją Hollywood 10.0.
+- Dodano nowe efekty wizualne.
+- Nowa instrukcja PDF z przykładami i wskazówkami.
 
-![Sacrificio Pagano](/assets/img/pagano.jpg)
-*Sacrificio Pagano*
+![Pintor Web](/assets/img/pintor.jpg)
+*Pintor Web*
 
 > ## [Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha) (v. 1.00)
 > (autor: Nathan Hesterman)
