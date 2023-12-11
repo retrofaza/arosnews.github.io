@@ -57,18 +57,13 @@ Zmiany w wersji 2.0:
 ![Font Tester](/assets/img/fonttester.jpg)
 *Font Tester*
 
-> ## [AnimWebConverter](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/animwebconverter.lha) (v. 6.00)
-> (autor: Juan Carlos Herrán Martín)
+> ## [XPDF-GUI](http://archives.aros-exec.org/?function=showfile&file=office/dtp/xpdf-gui.i386-aros.zip) (v. 1.0)
+> (autor: Yannick Buchy)
 
-Prosty program do odtwarzania lub konwertowania animacji: anim, gif, apng/png, yafa i lbm (tylko tryb 5), avi.
+Jest to nowy graficzny interfejs użytkownika stworzony za pomocą Hollywood dla XPDF Suite. Interfejs ten wykorzystuje polecenia XPDF: pdfinfo, pdfdetach, pdffonts, pdftohtml, pdfimages, pdftopng, pdftoppm, pdftops i pdftotxt. Należy je skopiować do szuflady Bin/. Interfejs ułatwia konwertowanie i wyodrębnianie tekstu i obrazów z plików PDF.
 
-Zmiany w wersji 6.00 (15-11-2023):
-- Nowe intro i zmienione środowisko programu.  
-- Kompilacja pod ostatnią wersją Hollywood 10.0.  
-- Usunięto użycie starego pluginu flicanim dla nowego flic.  
-
-![AnimWebConverter](/assets/img/animwebconv.jpg)
-*AnimWebConverter*
+![XPDF-GUI](/assets/img/xpdfgui.jpg)
+*XPDF-GUI*
 
 > ## [NetStratego](http://archives.aros-exec.org/?function=showfile&file=game/server/netstratego.i386-aros.lha) (v. 1.1)
 > (autor: Nathan Hesterman)
