@@ -45,13 +45,17 @@ Zmiany w wersji 2.4:
 ![Image2PDF](/assets/img/image2pdf.jpg)
 *Image2PDF*
 
-> ## [AGet](http://archives.aros-exec.org/?function=showfile&file=network/aget.lha) (v. 0.1)
-> (autor: C. Hahn)
+> ## [Font Tester](http://archives.aros-exec.org/?function=showfile&file=utility/text/fonttester.lha) (v. 2.00)
+> (autor: Juan Carlos Herrán Martín)
 
-AGet to prosta aplikacja do testowania serwerów HTTP, aplikacji internetowych i API poprzez wysyłanie żądań protokołu HTTP do serwera.
+Font Tester to narzędzie do testowania czcionek zainstalowanych w systemie. Za jego pomocą możemy w łatwy sposób sprawdzić jak dana czcionka prezentuje się na tle obrazka lub tesktury.
 
-![AGet](/assets/img/aget.jpg)
-*AGet*
+Zmiany w wersji 2.0:
+- Skompilowany z ostatnią wersją Hollywood 10.0.
+- Nowa grafika w intro.
+
+![Font Tester](/assets/img/fonttester.jpg)
+*Font Tester*
 
 > ## [AnimWebConverter](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/animwebconverter.lha) (v. 6.00)
 > (autor: Juan Carlos Herrán Martín)
