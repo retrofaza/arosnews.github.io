@@ -65,13 +65,18 @@ Jest to nowy graficzny interfejs użytkownika stworzony za pomocą Hollywood dla
 ![XPDF-GUI](/assets/img/xpdfgui.jpg)
 *XPDF-GUI*
 
-> ## [NetStratego](http://archives.aros-exec.org/?function=showfile&file=game/server/netstratego.i386-aros.lha) (v. 1.1)
-> (autor: Nathan Hesterman)
+> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.20)
+> (autor: Juan Carlos Herrán Martín)
 
-AROSowa implementacja planszowej gry Stratego dla dwóch graczy. Grać możemy w sieci LAN lub na jednym komputerze.
+Mały i prosty program do testowania połączenia internetowego.
 
-![NetStratego](/assets/img/netstratego.jpg)
-*NetStratego*
+Zmiany w wersji 5.20:
+- Nowa skórka: Cyborg.
+- Nowe czcionki.
+- Naprawiono drobne błędy.
+
+![iConecta](/assets/img/iconecta52.jpg)
+*iConecta*
 
 > ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.00)
 > (autor: Juan Carlos Herrán Martín)
