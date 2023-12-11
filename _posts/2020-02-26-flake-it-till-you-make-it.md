@@ -1,18 +1,108 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: AROS x86 - listopad 2023
+subtitle: podsumowanie miesiąca
+lang: pl
+ref: 1123
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+> ## [Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificopagano.lha) (v. 2.00)
+> (autor: Juan Carlos Herrán Martín)
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom. 
+
+Zmiany w wersji 2.00 (01-11-2023):  
+- Dodano język hiszpański.  
+- Zmiana muzyki w tle intro.  
+- Nowe tła dla rytuału.  
+
+![Sacrificio Pagano](/assets/img/pagano.jpg)
+*Sacrificio Pagano*
+
+> ## [Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha) (v. 1.00)
+> (autor: Nathan Hesterman)
+
+AROSowa wersja popularnej planszowej gry Codenames (Tajniacy). Passcodes działa w sieci lokalnej (klient/serwer) i umożliwia zabawę dla dwóch do 32 graczy.
+
+![Passcodes](/assets/img/passcodes.jpg)
+*Passcodes*
+
+> ## [AGet](http://archives.aros-exec.org/?function=showfile&file=network/aget.lha) (v. 0.1)
+> (autor: C. Hahn)
+
+AGet to prosta aplikacja do testowania serwerów HTTP, aplikacji internetowych i API poprzez wysyłanie żądań protokołu HTTP do serwera.
+
+![AGet](/assets/img/aget.jpg)
+*AGet*
+
+> ## [AnimWebConverter](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/animwebconverter.lha) (v. 6.00)
+> (autor: Juan Carlos Herrán Martín)
+
+Prosty program do odtwarzania lub konwertowania animacji: anim, gif, apng/png, yafa i lbm (tylko tryb 5), avi.
+
+Zmiany w wersji 6.00 (15-11-2023):
+- Nowe intro i zmienione środowisko programu.  
+- Kompilacja pod ostatnią wersją Hollywood 10.0.  
+- Usunięto użycie starego pluginu flicanim dla nowego flic.  
+
+![AnimWebConverter](/assets/img/animwebconv.jpg)
+*AnimWebConverter*
+
+> ## [NetStratego](http://archives.aros-exec.org/?function=showfile&file=game/server/netstratego.i386-aros.lha) (v. 1.1)
+> (autor: Nathan Hesterman)
+
+AROSowa implementacja planszowej gry Stratego dla dwóch graczy. Grać możemy w sieci LAN lub na jednym komputerze.
+
+![NetStratego](/assets/img/netstratego.jpg)
+*NetStratego*
+
+> ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.00)
+> (autor: Juan Carlos Herrán Martín)
+
+Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, można go używać z pamięci USB, płyty CD itp.).
+
+Zmiany w wersji 3.00 (23-11-2023):
+- Program staje się mailware. Aby odblokować wersję demo należy wysłać email do autora.  
+- Teraz program ma intro.  
+- Usunięto stary plugin flicanim.hwp na rzecz nowego flic.hwp.  
+
+![Videntium Picta](/assets/img/videntium.jpg)
+*Videntium Picta*
+
+> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.00)
+> (autor: Juan Carlos Herrán Martín)
+
+Mały i prosty program do testowania połączenia internetowego.
+
+![iConecta](/assets/img/iconecta.jpg)
+*iConecta*
+
+> ## [F1Champ](http://archives.aros-exec.org/?function=showfile&file=document/misc/f1champ.lha) (v. 6.21)
+> (autor: Pasi Ylinen)
+
+Statystyki dotyczące Formuły 1 w formie dokumentu Amigaguide obejmujące każdy rok od 1950 do 2023. Obowiązkowa pozycja dla każdego fana F1. W nowej wersji dodano 22 tory na 2023 rok.
+
+![F1Champ](/assets/img/f1champ.jpg)
+*F1Champ*
+
+> ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v. 1.20)
+> (autor: Juan Carlos Herrán Martín)
+
+Niewielkie narzędzie stworzone w celu generowania kodów sum kontrolnych MD5 i CRC32 plików.
+
+Zmiany w wersji 1.20 (28-11-2023):
+- Skompilowane z Hollywood 10.0. 
+- Niewielkie ulepszenia wizualne. 
+
+![Omanko!](/assets/img/omanko.jpg)
+*Omanko!*
+
+> ## [IFFIconDataDecoder](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/iff_icon_data_decoder.zip) (v. 1.00)
+> (autor: Mike R.)
+
+Dokumentacja w formacie PDF i towarzyszące jej fragmenty kodu źródłowego mająca pomóc w wyjaśnieniu formatu przechowywania danych obrazu w fragmentach IMAG dla Glow Icons.
+
+![IFFIconDataDecoder](/assets/img/ifficon.jpg)
+*IFFIconDataDecoder*
