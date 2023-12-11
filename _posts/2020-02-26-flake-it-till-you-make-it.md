@@ -21,13 +21,29 @@ Zmiany w najnowszej wersji:
 ![Pintor Web](/assets/img/pintor.jpg)
 *Pintor Web*
 
-> ## [Passcodes](http://archives.aros-exec.org/?function=showfile&file=game/misc/passcodes.i386-aros.lha) (v. 1.00)
-> (autor: Nathan Hesterman)
+> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.4)
+> (autor: Bernd Assenmacher)
 
-AROSowa wersja popularnej planszowej gry Codenames (Tajniacy). Passcodes działa w sieci lokalnej (klient/serwer) i umożliwia zabawę dla dwóch do 32 graczy.
+Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak
+A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
 
-![Passcodes](/assets/img/passcodes.jpg)
-*Passcodes*
+Zmiany w wersji 2.4:
+- dodano funkcję "PDF2Image" (nie działa z Aros)
+- dodano funkcję "PDF2PDF" (nie działa z Aros) 
+- dodano funkcję "Skalowanie" --> Image2PDF, gdy "ImageSize" jest ustawiony jako format
+- dodano funkcję "Skalowanie" --> PDF2Image 
+- dodano funkcję "Skalowanie" --> Image2NewSize
+- dodano funkcję "Jakość" --> PDF2Image, gdy "JP(E)G" jest ustawione jako format
+- zmieniono metodę zliczania plików podczas zapisywania obrazów 
+- Skrypt instalacyjny kopiuje teraz ikony i obrazki (MorphOS, AmigaOS3/4 i Aros)
+- Skrypt instalacyjny instaluje teraz AmiKit, jeśli został wybrany
+- Skrypt instalacyjny tworzy teraz szufladę o nazwie "Image2PDF" w wybranym miejscu docelowym (MorphOS, AmigaOS3/4 i Aros)
+- wprowadzono kilka kosmetycznych zmian w graficznym interfejsie użytkownika
+- zaktualizowano przewodnik 
+- naprawiono kilka drobnych błędów
+
+![Image2PDF](/assets/img/image2pdf.jpg)
+*Image2PDF*
 
 > ## [AGet](http://archives.aros-exec.org/?function=showfile&file=network/aget.lha) (v. 0.1)
 > (autor: C. Hahn)
