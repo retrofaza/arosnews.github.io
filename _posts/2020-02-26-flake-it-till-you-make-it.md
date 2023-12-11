@@ -78,18 +78,13 @@ Zmiany w wersji 5.20:
 ![iConecta](/assets/img/iconecta52.jpg)
 *iConecta*
 
-> ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.00)
-> (autor: Juan Carlos Herrán Martín)
+> ## [WhatIFF](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff2.12.lha) (v. 2.12)
+> (autorzy: I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, and T. Paul)
 
-Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, można go używać z pamięci USB, płyty CD itp.).
+Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 12 - Grudzień 2023.
 
-Zmiany w wersji 3.00 (23-11-2023):
-- Program staje się mailware. Aby odblokować wersję demo należy wysłać email do autora.  
-- Teraz program ma intro.  
-- Usunięto stary plugin flicanim.hwp na rzecz nowego flic.hwp.  
-
-![Videntium Picta](/assets/img/videntium.jpg)
-*Videntium Picta*
+![WhatIFF](/assets/img/whatiff212.jpg)
+*WhatIFF*
 
 > ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.00)
 > (autor: Juan Carlos Herrán Martín)
