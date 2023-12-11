@@ -118,10 +118,10 @@ AMI Tech-Gazette to publikacja elektroniczna, której celem jest dostarczenie u�
 ![AmiTechGazette](/assets/img/amitech6.jpg)
 *AmiTechGazette*
 
-> ## [IFFIconDataDecoder](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/iff_icon_data_decoder.zip) (v. 1.00)
-> (autor: Mike R.)
+> ## [Apng](http://archives.aros-exec.org/?function=showfile&file=development/library/apng_amiga.lha) (v. 1.3)
+> (autor: Andreas Falkenhahn)
 
-Dokumentacja w formacie PDF i towarzyszące jej fragmenty kodu źródłowego mająca pomóc w wyjaśnieniu formatu przechowywania danych obrazu w fragmentach IMAG dla Glow Icons.
+Ta wtyczka umożliwia Hollywood ładowanie i zapisywanie animacji w formacie APNG (Animated Portable Network Graphics). Wielką zaletą formatu APNG jest to, że obsługuje on animacje wykorzystujące przezroczystość kanału alfa. Ani format IFF ANIM ani GIF ANIM nie obsługują przezroczystości kanału alfa. Ponadto, APNG może również obsługiwać dane ramek w prawdziwym kolorze. Formatem konkurencyjnym dla APNG jest MNG, ale APNG został wybrany, ponieważ obsługuje go więcej aplikacji.
 
-![IFFIconDataDecoder](/assets/img/ifficon.jpg)
-*IFFIconDataDecoder*
+Zmiany w wersji 1.3:
+- Poprawka: Pliki APNG bez kanału przezroczystości nie były poprawnie ładowane (zgłoszone przez Juan Carlos Herrán Martín).
