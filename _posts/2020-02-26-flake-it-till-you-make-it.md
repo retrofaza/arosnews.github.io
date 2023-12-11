@@ -102,13 +102,13 @@ Zmiany w wersji 1.3:
 ![ZoomIt](/assets/img/zoomit.jpg)
 *ZoomIt*
 
-> ## [F1Champ](http://archives.aros-exec.org/?function=showfile&file=document/misc/f1champ.lha) (v. 6.21)
-> (autor: Pasi Ylinen)
+> ## [ZuneARC](http://archives.aros-exec.org/?function=showfile&file=utility/archive/zunearc.i386-aros.zip) (v. 1.6)
+> (autor: Yannick Erb)
 
-Statystyki dotyczące Formuły 1 w formie dokumentu Amigaguide obejmujące każdy rok od 1950 do 2023. Obowiązkowa pozycja dla każdego fana F1. W nowej wersji dodano 22 tory na 2023 rok.
+Interfejs Zune dla archiwizatorów.
 
-![F1Champ](/assets/img/f1champ.jpg)
-*F1Champ*
+![ZuneARC](/assets/img/zunearc.jpg)
+*ZuneARC*
 
 > ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v. 1.20)
 > (autor: Juan Carlos Herrán Martín)
