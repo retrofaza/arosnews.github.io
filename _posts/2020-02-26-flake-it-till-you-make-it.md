@@ -86,13 +86,21 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 12 - Grudzień
 ![WhatIFF](/assets/img/whatiff212.jpg)
 *WhatIFF*
 
-> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.00)
-> (autor: Juan Carlos Herrán Martín)
+> ## [ZoomIt](http://archives.aros-exec.org/?function=showfile&file=utility/misc/zoomit.i386-aros.lha) (v. 1.3)
+> (autor: Stefan Blixth)
 
-Mały i prosty program do testowania połączenia internetowego.
+ZoomIT jest prostą aplikacją powiększającą opartą na MUI.
 
-![iConecta](/assets/img/iconecta.jpg)
-*iConecta*
+Zmiany w wersji 1.3:
+- Usunięto wymagania dla CyberGraphX (będzie działać nawet na nie-RTG miejmy nadzieję).
+- Dodano tłumaczenie na język turecki (dzięki Serkan Dursun).
+- Dodano tłumaczenie na język hiszpański (dzięki Dámaso Domínguez).
+- Usunięto tryb skali
+- Usunięto tryb kolorów
+- Usunięto powiększenia powyżej 1000%
+
+![ZoomIt](/assets/img/zoomit.jpg)
+*ZoomIt*
 
 > ## [F1Champ](http://archives.aros-exec.org/?function=showfile&file=document/misc/f1champ.lha) (v. 6.21)
 > (autor: Pasi Ylinen)
