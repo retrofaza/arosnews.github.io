@@ -110,17 +110,13 @@ Interfejs Zune dla archiwizatorów.
 ![ZuneARC](/assets/img/zunearc.jpg)
 *ZuneARC*
 
-> ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v. 1.20)
-> (autor: Juan Carlos Herrán Martín)
+> ## [AmiTechGazette](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (Nr 6)
+> (autor: Eric Schwharz)
 
-Niewielkie narzędzie stworzone w celu generowania kodów sum kontrolnych MD5 i CRC32 plików.
+AMI Tech-Gazette to publikacja elektroniczna, której celem jest dostarczenie użytkownikom doświadczenie podobne do klasycznego biuletynu lokalnej grupy użytkowników komputerów, z osobistym, nie do końca profesjonalnym akcentem, obejmującym Amigę i jej krewnych (OS4, MorphOS, AROS, Apollo i nie tylko!) z okazjonalnym odchyleniem do gier, zabawek i życia w ogóle.
 
-Zmiany w wersji 1.20 (28-11-2023):
-- Skompilowane z Hollywood 10.0. 
-- Niewielkie ulepszenia wizualne. 
-
-![Omanko!](/assets/img/omanko.jpg)
-*Omanko!*
+![AmiTechGazette](/assets/img/amitech6.jpg)
+*AmiTechGazette*
 
 > ## [IFFIconDataDecoder](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/iff_icon_data_decoder.zip) (v. 1.00)
 > (autor: Mike R.)
