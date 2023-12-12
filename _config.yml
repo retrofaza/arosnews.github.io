@@ -24,9 +24,10 @@ navbar-links:
     - ABIv0: "https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1"
     - AROS One x86: "https://sites.google.com/view/arosone"
     - Tiny AROS: "https://tinyaros.flazio.com"
-  AROS World: "https://www.arosworld.org"
-  AROS Wiki: "https://en.wikibooks.org/wiki/Aros"
-  AROS.org: "https://www.aros.org"
+  AROS Sites:  
+    - AROS World: "https://www.arosworld.org"
+    - AROS Wiki: "https://en.wikibooks.org/wiki/Aros"
+    - AROS.org: "https://www.aros.org"
   Download: "/download"
   
 
