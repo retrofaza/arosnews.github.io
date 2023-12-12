@@ -20,6 +20,7 @@ author: Andrzej “retrofaza” Subocz
 ###############################################
 
 navbar-links:
+  Download: "/download"
   AROS Distributions:
     - ABIv0: "https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1"
     - AROS One x86: "https://sites.google.com/view/arosone"
