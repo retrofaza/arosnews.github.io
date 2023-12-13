@@ -57,10 +57,17 @@ Zmiany w wersji 2.0:
 ![Font Tester](/assets/img/fonttester.jpg)
 *Font Tester*
 
-> ## [XPDF-GUI](http://archives.aros-exec.org/?function=showfile&file=office/dtp/xpdf-gui.i386-aros.zip) (v. 1.0)
+> ## [XPDF-GUI](http://archives.aros-exec.org/?function=showfile&file=office/dtp/xpdf-gui.i386-aros.zip) (v. 1.1)
 > (autor: Yannick Buchy)
 
 Jest to nowy graficzny interfejs użytkownika stworzony za pomocą Hollywood dla XPDF Suite. Interfejs ten wykorzystuje polecenia XPDF: pdfinfo, pdfdetach, pdffonts, pdftohtml, pdfimages, pdftopng, pdftoppm, pdftops i pdftotxt. Należy je skopiować do szuflady Bin/. Interfejs ułatwia konwertowanie i wyodrębnianie tekstu i obrazów z plików PDF.
+
+Zmiany w wersji 1.1:
+- naprawiono: okno informacyjne nie było czyszczone w niektórych warunkach
+- dodano ścieżkę docelową
+- poprawiono ikonę ikonyfikacji
+- teraz wybór operacji zachowuje ten sam stan. Na przykład po wybraniu opcji "Pobierz Informacje", gdy następnie wybierzesz inny pliki PDF to od razu uzyskasz informacje o nowym pliku PDF. To samo dotyczy opcji "Pobierz listę osadzonych plików" i "Pobierz listę używanych czcionek".
+- dodano skróty klawiszowe
 
 ![XPDF-GUI](/assets/img/xpdfgui.jpg)
 *XPDF-GUI*
