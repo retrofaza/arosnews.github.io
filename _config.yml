@@ -26,6 +26,7 @@ navbar-links:
     - Tiny AROS: "https://tinyaros.flazio.com"
   AROS Sites:  
     - AROS World: "https://www.arosworld.org"
+    - AROS Archives: "http://archives.aros-exec.org"
     - AROS Wiki: "https://en.wikibooks.org/wiki/Aros"
     - AROS.org: "https://www.aros.org"
   Download: "/download"
