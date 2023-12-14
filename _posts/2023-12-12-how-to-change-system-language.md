@@ -31,7 +31,7 @@ After opening the new window with font parameters, in the **Name** field, you ca
 
 ![Install](/assets/img/lang6.jpg)
 
-## Krok 2: Input and Locale
+## Step 2: Input and Locale
 
 Navigate to *AROS:Prefs/Input*, where we’ll change the keyboard mapping to one suitable for our language. In the **Keyboards** list, double-click on *“Polski”*. The Polish flag will appear in the **Default** field. Click the button located next to it labeled *“Set”* to confirm your choice. Finally, click *“Save”*.
 
@@ -41,7 +41,7 @@ Next, go to *AROS:Prefs/Locale*. In the **Region** section, select *“Polska”
 
 ![Locale](/assets/img/lang2.jpg)
 
-## Krok 3: Configuring Fonts in the System
+## Step 3: Configuring Fonts in the System
 
 If you have installed one or more fonts with Polish characters, proceed to *AROS:Prefs/Fonts* and select them. You have the option to set different fonts and/or sizes. Click *“Save”* and then navigate to *AROS:Prefs/Zune*. Here, you can adjust fonts in the **“Windows”** and **“Groups”** tabs. After saving the changes, restart your computer, and your basic language switch is complete.
 
