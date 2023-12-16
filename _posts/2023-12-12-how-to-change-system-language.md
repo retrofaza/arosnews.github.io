@@ -33,7 +33,7 @@ After opening the new window with font parameters, in the **Name** field, you ca
 
 
 {: .box-success}
-If you need **bitmap** fonts, it's best to download a ready-made package from Aminet. For Polish fonts, you can download this file:
+If you need **bitmap** fonts, it's best to download a ready-made package from Aminet. For Polish fonts, you can download this file:  
 [http://aminet.net/text/bfont/CzcionkiISO.lha](http://aminet.net/text/bfont/CzcionkiISO.lha)  
 It contains a set of four typefaces of Polish bitmap fonts in the ISO-8859-2 encoding standard. The contents should be extracted to the *AROS:Fonts/* directory.
 
