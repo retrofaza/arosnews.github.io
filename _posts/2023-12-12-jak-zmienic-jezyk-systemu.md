@@ -31,6 +31,11 @@ Otworzy nam się nowe okno z parametrami czcionki. W polu **Name** możemy w tym
 
 ![Install](/assets/img/lang6.jpg)
 
+{: .box-success}
+Jeśli potrzebujemy czcionek **bitmapowych**, najlepiej ściągnąć gotową paczkę z Aminetu. W przypadku polskich czcionek można ściągnąć ten plik:
+[http://aminet.net/text/bfont/CzcionkiISO.lha](http://aminet.net/text/bfont/CzcionkiISO.lha)
+Zawiera zestaw czterech krojów polskich czcionek bitmapowych w standardzie kodowania ISO-8859-2. Zawartość należy rozpakować do katalogu *AROS:Fonts/*
+
 ## Krok 2: Input i Locale.
 
 Kierujemy się do *AROS:Prefs/Input* gdzie zmienimy mapowanie klawiatury na przystosowane do naszego języka. Na liście **Keyboards** klikamy dwukrotnie na *"Polski"*. W polu **Default** pojawi nam się polska flaga. Klikamy w zlokalizowany obok niego przycisk *"Set"*, aby zatwierdzić swój wybór. Na koniec klikamy przycisk *"Save"*.
