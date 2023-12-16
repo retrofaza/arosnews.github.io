@@ -32,8 +32,8 @@ Otworzy nam się nowe okno z parametrami czcionki. W polu **Name** możemy w tym
 ![Install](/assets/img/lang6.jpg)
 
 {: .box-success}
-Jeśli potrzebujemy czcionek **bitmapowych**, najlepiej ściągnąć gotową paczkę z Aminetu. W przypadku polskich czcionek można ściągnąć ten plik:
-[http://aminet.net/text/bfont/CzcionkiISO.lha](http://aminet.net/text/bfont/CzcionkiISO.lha)
+Jeżeli potrzebujemy czcionek **bitmapowych**, najlepiej ściągnąć gotową paczkę z Aminetu. W przypadku polskich czcionek można ściągnąć ten plik:
+[http://aminet.net/text/bfont/CzcionkiISO.lha](http://aminet.net/text/bfont/CzcionkiISO.lha)  
 Zawiera zestaw czterech krojów polskich czcionek bitmapowych w standardzie kodowania ISO-8859-2. Zawartość należy rozpakować do katalogu *AROS:Fonts/*
 
 ## Krok 2: Input i Locale.
