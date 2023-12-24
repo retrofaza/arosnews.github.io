@@ -125,6 +125,38 @@ AMI Tech-Gazette to publikacja elektroniczna, której celem jest dostarczenie u�
 ![AmiTechGazette](/assets/img/amitech6.jpg)
 *AmiTechGazette*
 
+> ## [AstralGame](http://archives.aros-exec.org/?function=showfile&file=utility/misc/astralgame.lha) (v. 4.0)
+> (autor: Juan Carlos Herrán Martín)
+
+AstralGame
+
+![AstralGame](/assets/img/astral.jpg)
+*AstralGame*
+
+> ## [kensV4_Drawer_Games](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/drawer_games_unofficial_kensv4.zip) (v. 1.3)
+> (autor: amiwell79)
+
+kensV4_Drawer_Games
+
+![kensV4_Drawer_Games](/assets/img/kensv4.jpg)
+*kensV4_Drawer_Games*
+
+> ## [Black_White Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/black_white_drawers.zip) (v. 1.0)
+> (autor: Mike R.)
+
+Black_White Icons
+
+![Black_White Icons](/assets/img/blackwhite.jpg)
+*Black_White Icons*
+
+> ## [Icon Drop](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/icondrop_12-18-23.i386-aros.zip) (v. 1.0)
+> (autor: Mike R.)
+
+IconDrop
+
+![Icon Drop](/assets/img/icondrop.jpg)
+*Icon Drop*
+
 > ## [Apng](http://archives.aros-exec.org/?function=showfile&file=development/library/apng_amiga.lha) (v. 1.3)
 > (autor: Andreas Falkenhahn)
 
