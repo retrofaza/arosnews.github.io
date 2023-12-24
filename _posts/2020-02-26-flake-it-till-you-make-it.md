@@ -138,7 +138,7 @@ AstralGame
 
 kensV4_Drawer_Games
 
-![kensV4_Drawer_Games](/assets/img/kensv4.jpg)
+![kensV4_Drawer_Games](/assets/img/kenv4.jpg)
 *kensV4_Drawer_Games*
 
 > ## [Black_White Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/black_white_drawers.zip) (v. 1.0)
