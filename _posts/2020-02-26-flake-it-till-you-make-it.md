@@ -128,7 +128,14 @@ AMI Tech-Gazette to publikacja elektroniczna, której celem jest dostarczenie u�
 > ## [AstralGame](http://archives.aros-exec.org/?function=showfile&file=utility/misc/astralgame.lha) (v. 4.0)
 > (autor: Juan Carlos Herrán Martín)
 
-AstralGame
+Ten ezoteryczny program pozwala ci odkryć tajemnice swojej osobowości i związku z naturą. Dowiesz się, jakie znaki zodiaku astralnego, chińskiego, majów haab i tzolkin oraz celtyckiego odpowiadają twojej dacie urodzenia. Poznasz też swoją magiczną liczbę osobistą, która ma wpływ na twoje życie. Program pokazuje ci również fazę księżyca, która jest przydatna do sadzenia nasion, oraz celtycko-wiccańskie święta lub sabaty, które są związane z cyklem przyrody. Ponadto, informuje cię o różnych wydarzeniach, takich jak Boże Narodzenie, pory roku i wiele innych.
+
+Zmiany w wersji 4.00:
+- Okno programu jest teraz większe, z rozdzielczością 640x480 pikseli.
+- Narzędzie jest teraz bardziej mroczne i poważne.
+- Skompilowane z Hollywood 10.0.
+- Nowa grafika stworzona z pomocą IA.
+- Naprawiono duży błąd z obliczaniem faz księżyca.
 
 ![AstralGame](/assets/img/astral.jpg)
 *AstralGame*
@@ -136,7 +143,9 @@ AstralGame
 > ## [kensV4_Drawer_Games](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/drawer_games_unofficial_kensv4.zip) (v. 1.3)
 > (autor: amiwell79)
 
-kensV4_Drawer_Games
+Nieoficjalne ikony szuflad dla gier w stylu kens v4.
+
+*Kens v4 to zestaw ikon dla Amigi, które mają dwa formaty PNG: jeden dla ekranów AGA, a drugi dla ekranów RTG. Są one inspirowane ikonami AmigaOS4, ale mają własny charakter i kolorystykę. Autor tych ikon to Ken Lester, który jest znanym grafikiem w świecie Amigi.*
 
 ![kensV4_Drawer_Games](/assets/img/kenv4.jpg)
 *kensV4_Drawer_Games*
@@ -144,7 +153,7 @@ kensV4_Drawer_Games
 > ## [Black_White Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/black_white_drawers.zip) (v. 1.0)
 > (autor: Mike R.)
 
-Black_White Icons
+W tym archiwum znajdują się oryginalne obrazy i gotowe ikony dla obu zestawów ikon: czarnego i białego. Każdy zestaw ikon (czarny i biały) zawiera trzy warianty neonowych niebieskich, zielonych i żółtych świecących obramowań.
 
 ![Black_White Icons](/assets/img/blackwhite.jpg)
 *Black_White Icons*
@@ -152,7 +161,7 @@ Black_White Icons
 > ## [Icon Drop](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/icondrop_12-18-23.i386-aros.zip) (v. 1.0)
 > (autor: Mike R.)
 
-IconDrop
+Icon Drop używa małego i prostego GUI GadTools do zapisywania obrazów ikon do nowej ikony docelowej.
 
 ![Icon Drop](/assets/img/icondrop.jpg)
 *Icon Drop*
