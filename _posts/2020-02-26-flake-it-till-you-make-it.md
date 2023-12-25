@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AROS x86 - grudzień 2024
+title: AROS x86 - grudzień 2023
 subtitle: podsumowanie miesiąca
 lang: pl
 ref: 1223
@@ -10,7 +10,7 @@ W grudniu system AROS doczekał się wielu ciekawych zmian i ulepszeń, które z
 
 {: .box-success}
 Aby pobrać ISO i zapoznać się z pełną listą zmian, odwiedź:  
-https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1
+[https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1](https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1)
 
 Wydanie nowej wersji bazowej zaowocowało niemal natychmiast pojawieniem się zaktualizowanych dystrybucji. Wyszedł Tiny AROS v3.0 oraz AROS One v2.3.
 
@@ -20,6 +20,8 @@ Wydanie nowej wersji bazowej zaowocowało niemal natychmiast pojawieniem się za
 {: .box-success}
 Pełna lista zmian dla AROS One v2.3:  
 [https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=3217#post_2876](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=3217#post_2876)
+
+W związku z ogromną ilością zmian nie jest wskazane nadpisywanie starego systemu nowym. Należy zainstalować nowy system "na czysto". Najlepiej na jednym z [rekomendowanych sprzętów](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware).
 
 W grudniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem ze zmianą nazwy pod Wandererem.
 
