@@ -23,7 +23,7 @@ Pełna lista zmian dla AROS One 2.3:
 
 W grudniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem ze zmianą nazwy pod Wandererem.
 
-![Irytujący bug miesiąca](/assets/img/iboth1223.jpg)
+![Irytujący bug miesiąca](/assets/img/ibotm1223.jpg)
 *Irytujący bug miesiąca - grudzień 2023*
 
 Oczywiście bug został załatany przez **deadwooda** priorytetowo, a na styczeń pojawiła się już nowa ankieta. Zachęcamy do zarejestrwania sie na forum i wzięcia udziału w kolejnym głosowaniu.
