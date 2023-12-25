@@ -1,12 +1,24 @@
 ---
 layout: post
-title: AROS x86 - listopad 2023
+title: AROS x86 - grudzień 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 1123
+ref: 1223
 ---
 
+W grudniu system AROS doczekał się wielu ciekawych zmian i ulepszeń, które zwiększają jego funkcjonalność i wydajność. Najważniejszą nowością jest wydanie przezd deadwood'a nowej wersji bazowej 32-bitowego systemu dla x86 (ABIv0), która wprowadza blisko 1000 zmian od kilku programistów AROS, w tym ulepszenia wsparcia sprzętowego i pulpitu Wanderer, aktualizacje kilku bibliotek oraz wiele poprawek błędów. 
 
+Aby pobrać ISO i zapoznać się z pełną listą zmian, odwiedź:
+https://github.com/deadw00d/AROS/releases/tag/ABIv0_20211128-1
+
+Wydanie nowej wersji bazowej zaowocowało niemal natychmiast pojawieniem się zaktualizowanych dystrybucji. Wyszedł Tiny AROS v3.0 oraz AROS One 2.3.
+
+Pełna lista zmian dla AROS One 2.3:
+[https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=3217#post_2876](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=3217#post_2876)
+
+W grudniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem ze zmianą nazwy pod Wandererem.
+
+Oczywiście bug został załatany przez deadwooda priorytetowo, a na styczeń pojawiła się już nowa ankieta. Zachęcamy do zarejestrwania sie na forum i wzięcia udziału w kolejnym głosowaniu.
 
 > ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 4.00)
 > (autor: Juan Carlos Herrán Martín)
