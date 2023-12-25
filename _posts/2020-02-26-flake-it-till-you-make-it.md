@@ -32,7 +32,7 @@ Oczywiście bug został załatany przez **deadwooda** priorytetowo, a na stycze�
 
 Trwają już też prace nad kolejnym buildem ABIv0. Najważniejszą zmianą ma być przejście na nową bibliotekę C. Krok ten będzie wymagał ponownego przetestowania dużej części oprogramowania, więc, jeżeli masz ochotę, możesz pomóc w testach. Testowy build znajdziesz [w tym wątku](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1171&rowstart=0).
 
-Na koniec jak zwykle nowości z AROS Archives. W tym miesiący pojawiło się kilkanaście nowych pozycji, więc jest się czym bawić :) Poniżej szczegółowa lista.
+Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilkanaście nowych pozycji, więc jest się czym bawić :) Poniżej szczegółowa lista.
 
 > ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 4.00)
 > (autor: Juan Carlos Herrán Martín)
