@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - grudzień 2023
+title: AROS x86 - styczeń 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 1223
+ref: 0124
 ---
 
 W grudniu system AROS doczekał się wielu ciekawych zmian i ulepszeń, które zwiększają jego funkcjonalność i wydajność. Najważniejszą nowością jest wydanie przez **deadwood**'a nowej wersji bazowej 32-bitowego systemu dla x86 (ABIv0), która wprowadza blisko 1000 zmian od kilku programistów AROS, w tym ulepszenia wsparcia sprzętowego i pulpitu Wanderer, aktualizacje kilku bibliotek oraz wiele poprawek błędów. 
@@ -34,18 +34,15 @@ Trwają już też prace nad kolejnym buildem ABIv0. Najważniejszą zmianą ma b
 
 Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilkanaście nowych pozycji, więc jest się czym bawić :) Poniżej szczegółowa lista.
 
-> ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 4.00)
-> (autor: Juan Carlos Herrán Martín)
+> ## [Worm Wars](http://archives.aros-exec.org/?function=showfile&file=game/action/wormwars.i386-aros.zip) (v. 9.34)
+> (autor: James Jacobs)
 
-Łatwy w obsłudze program do edycji zdjęć wykorzystywanych w projektach stron internetowych. Umożliwia zmianę rozmiaru, obrót, stosowanie efektów wizualnych, dodawanie znaku wodnego lub logo marki, zapisywanie w różnych formatach.
+Jest to wersja AROS gry Worm Wars, darmowej gry zręcznościowej autorstwa Jamesa Jacobsa z Amigan Software. Funkcje obejmują: 37 typów obiektów, 37 typów stworzeń, 13 typów bonusowych poziomów, zintegrowany edytor poziomów, do 4 robaków, kontrola ludzka lub komputerowa nad wszystkimi robakami, zapisywane tabele najlepszych wyników, wsparcie podwójnej klawiatury, opcja tasowania poziomów, czułość trybu ekranowego, wsparcie lokalne, kod źródłowy, uruchamianie na własnym lub publicznym ekranie, itp.
 
-Zmiany w najnowszej wersji:
-- Kompilacja z ostatnią wersją Hollywood 10.0.
-- Dodano nowe efekty wizualne.
-- Nowa instrukcja PDF z przykładami i wskazówkami.
+Muzyka i joysticki nie są obecnie obsługiwane przez port AROS.
 
-![Pintor Web](/assets/img/pintor.jpg)
-*Pintor Web*
+![Pintor Web](/assets/img/wormwars.jpg)
+*Worm Wars*
 
 > ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.4)
 > (autor: Bernd Assenmacher)
