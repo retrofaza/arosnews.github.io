@@ -14,52 +14,52 @@ VirtualBox is a free and open source program for creating and running virtual ma
 
 ## Step 2: Create a virtual machine running AROS
 
-![Install](/assets/img/pend2.jpg)
+![Install](/assets/img/pend2__.jpg)
 
 Click the **New** button to create a new virtual machine. Point to our downloaded .iso file with AROS ABIv0, select *Other* in the **Type:** field and **Version:** *Other/Unknown* in the Version field.
 
-![Install](/assets/img/pend3.jpg)
+![Install](/assets/img/pend3__.jpg)
 
 Set the memory and number of processors as above.
 
-![Install](/assets/img/pend4.jpg)
+![Install](/assets/img/pend4__.jpg)
 
 If you are only going to use our virtual machine to prepare a flash drive you can choose not to create a virtual disk.
 
-![Install](/assets/img/pend5.jpg)
+![Install](/assets/img/pend5__.jpg)
 
-![Install](/assets/img/pend6.jpg)
+![Install](/assets/img/pend6__.jpg)
 
 Your virtual machine is ready. AROS will boot on this default configuration.
 
 ## Step 3: Install AROS on the USB flash drive
 
-![Install](/assets/img/pend7.jpg)
+![Install](/assets/img/pend7__.jpg)
 
 Insert your USB flash drive and select it under **Devices/USB** options.
 
-![Install](/assets/img/pend8.jpg)
+![Install](/assets/img/pend8__.jpg)
 
 Click on the InstallAROS icon. In the installer window, select *Wipe disk*, and in **Drive type:** *USB*. Note that the installer will delete all partitions on this USB drive.
 
-![Install](/assets/img/pend9.jpg)
+![Install](/assets/img/pend9__.jpg)
 
-![Install](/assets/img/pend10.jpg)
+![Install](/assets/img/pend10__.jpg)
 
 After resetting the virtual machine, click InstallAROS again, this time check *Use existing AROS partitions (on any drive)*.
 
-![Install](/assets/img/pend11.jpg)
+![Install](/assets/img/pend11__.jpg)
 
 Here you can additionally check *Install Debugging tools and Developer Software* if you intend to use these tools.
 
-![Install](/assets/img/pend12.jpg)
+![Install](/assets/img/pend12__.jpg)
 
-![Install](/assets/img/pend13.jpg)
+![Install](/assets/img/pend13__.jpg)
 
-![Install](/assets/img/pend14.jpg)
+![Install](/assets/img/pend14__.jpg)
 
 ![Install](/assets/img/pend15.jpg)
 
-![Install](/assets/img/pend16.jpg)
+![Install](/assets/img/pend16__.jpg)
 
 After the installer finishes copying the files, press Proceed one last time and your USB flash drive with the system is ready. You can now install AROS on real hardware, preferably get a computer from the [recommended list](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware).
