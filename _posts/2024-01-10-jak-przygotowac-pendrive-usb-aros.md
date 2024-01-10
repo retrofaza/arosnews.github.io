@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Jak przygotować pendrive USB z AROS ABIv0
+title: Jak przygotować pendrive USB
+subtitle: z AROS ABIv0
 lang: pl
 ref: tutPendrive
 ---
