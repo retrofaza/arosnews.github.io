@@ -14,52 +14,52 @@ VirtualBox to darmowy i otwarty program do tworzenia i uruchamiania wirtualnych 
 
 ## Krok 2: Utworzenie maszyny wirtualnej z systemem AROS
 
-![Install](/assets/img/pend2.jpg)
+![Install](/assets/img/pend2_.jpg)
 
 Klikamy przycisk *New* w celu utwrzenia nowej maszyny wirtualnej. Wskazujemy nasz pobrany plik .iso z AROS ABIv0, w polu **Type:** wybieramy *Other*, a w polu **Version:** *Other/Unknown*.
 
-![Install](/assets/img/pend3.jpg)
+![Install](/assets/img/pend3_.jpg)
 
 Pamięć i liczbę procesorów ustawiamy jak powyżej.
 
-![Install](/assets/img/pend4.jpg)
+![Install](/assets/img/pend4_.jpg)
 
 Jeśli mamy zamiar wykorzystać naszą wirtualną maszynę tylko do przygotowania pendrive możemy nie tworzyć wirtualnego dysku.
 
-![Install](/assets/img/pend5.jpg)
+![Install](/assets/img/pend5_.jpg)
 
-![Install](/assets/img/pend6.jpg)
+![Install](/assets/img/pend6_.jpg)
 
 Nasza wirtualna maszyna jest gotowa. AROS odpali się na tej domyślnej konfiguracji.
 
 ## Krok 3: Instalacja AROS na pendrive USB
 
-![Install](/assets/img/pend7.jpg)
+![Install](/assets/img/pend7_.jpg)
 
 Wkładamy nasz pendrive USB i zaznaczamy go w opcjach **Devices/USB**. 
 
-![Install](/assets/img/pend8.jpg)
+![Install](/assets/img/pend8_.jpg)
 
 Klikamy w ikonę InstallAROS. W oknie instalatora zaznaczamy *Wipe disk*, a w **Drive type:** *USB*. Uwaga! Instalator usunie wszystkie partycje znajdujące się na tym dysku USB.
 
-![Install](/assets/img/pend9.jpg)
+![Install](/assets/img/pend9_.jpg)
 
-![Install](/assets/img/pend10.jpg)
+![Install](/assets/img/pend10_.jpg)
 
 Po resecie wirtualnej maszyny ponownie odpalamy InstallAROS tym razem zaznaczamy opcję *Use existing AROS partitions (on any drive)*.
 
-![Install](/assets/img/pend11.jpg)
+![Install](/assets/img/pend11_.jpg)
 
 Tutaj możemy dodatkowo zaznaczyć *Install Debugging tools and Developer Software* jeśli mamy zamiar korzystać z tych narzędzi.
 
-![Install](/assets/img/pend12.jpg)
+![Install](/assets/img/pend12_.jpg)
 
-![Install](/assets/img/pend13.jpg)
+![Install](/assets/img/pend13_.jpg)
 
-![Install](/assets/img/pend14.jpg)
+![Install](/assets/img/pend14_.jpg)
 
-![Install](/assets/img/pend15.jpg)
+![Install](/assets/img/pend15_.jpg)
 
-![Install](/assets/img/pend16.jpg)
+![Install](/assets/img/pend16_.jpg)
 
 Po zakończeniu kopiowania plików wciskamy ostatni raz *Proceed* i nasz pendrive USB z systemem jest gotowy. Możemy teraz zainstalować AROS na prawdziwym sprzęcie, najlepiej zaopatrzyć się w komputer z [rekomendowanej listy](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware).
