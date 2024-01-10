@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to prepare a USB flash drive with AROS ABIv0
+title: How to prepare a USB flash drive
+subtitle: with AROS ABIv0
 lang: en
 ref: tutPendrive
 ---
