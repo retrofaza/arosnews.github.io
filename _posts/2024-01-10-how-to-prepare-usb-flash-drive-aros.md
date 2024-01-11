@@ -58,7 +58,7 @@ Here you can additionally check *Install Debugging tools and Developer Software*
 
 ![Install](/assets/img/pend14__.jpg)
 
-![Install](/assets/img/pend15.jpg)
+![Install](/assets/img/pend15__.jpg)
 
 ![Install](/assets/img/pend16__.jpg)
 
