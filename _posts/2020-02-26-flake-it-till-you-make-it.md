@@ -78,88 +78,73 @@ Zestawy nowych ikonek w stylu Kens Icons v4.
 ![Set of New Icons](/assets/img/newicons.jpg)
 *Set of New Icons*
 
-> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.20)
-> (autor: Juan Carlos Herrán Martín)
+> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.50)
+> (autor: Bernd Assenmacher)
 
-Mały i prosty program do testowania połączenia internetowego.
+Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
 
-Zmiany w wersji 5.20:
-- Nowa skórka: Cyborg.
-- Nowe czcionki.
-- Naprawiono drobne błędy.
+Zmiany w wersji 2.50:
+- zmieniono GUI, aby było bardziej intuicyjne
+- stopiono docelowe requestery do jednego docelowego requestera
+- dodano źródłowy requester plików PDF do GUI dla PDF2Image i PDF2PDF
+- dodano funkcję "Image2Image" do zmiany formatu obrazów
+- dodano funkcję "scan file(s)" do określania atrybutów obrazu(ów)
+- dodano funkcję "rem (dup)" do usuwania zduplikowanych wpisów z widoku listy
+- dodano funkcję "check" do sprawdzania, czy podane obrazy są prawidłowe do
+  przetwarzania i czyszczenia widoku listy z nieprawidłowych plików graficznych    
+- dodano możliwość skalowania obrazów do ustalonego rozmiaru
+- dodano więcej formatów dla Image2PDF (B4, B5, US, Executive, Comm10)
+- instalator automatycznie ustawia teraz system operacyjny (dzięki Daniel ;-))
+- klawisz F1 otwiera teraz również plik przewodnika jako pomoc
+- zaktualizowane podpowiedzi
+- zoptymalizowane komunikaty wyjściowe
+- naprawiono błąd, w którym "odczyt źródła" czasami nie działał poprawnie 
+- wiele usprawnień "pod maską" ... ;-)
 
-![iConecta](/assets/img/iconecta52.jpg)
-*iConecta*
+![Image2PDF](/assets/img/img2pdf250.jpg)
+*Image2PDF*
 
-> ## [WhatIFF](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff2.12.lha) (v. 2.12)
-> (autorzy: I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, and T. Paul)
+> ## [RNOEffects](http://archives.aros-exec.org/?function=showfile&file=graphics/edit/rnoeffects.i386-aros.lha) (v. 2.0)
+> (autor: jPV^RNO)
 
-Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 12 - Grudzień 2023.
+RNOEffects to prosty program do przetwarzania obrazów z naciskiem na dobre opcje konwersji wsadowej, efekty oparte na kanale alfa i edycję pikseli.
 
-![WhatIFF](/assets/img/whatiff212.jpg)
-*WhatIFF*
+Zmiany w wersji 2.0:
+- Dodano narzędzie "Edytor pikseli" z konfigurowalnymi opcjami rysowania pikseli dla lewego, środkowego i prawego przycisku myszy
+- Dodano narzędzie "Color picker" do wyświetlania informacji o kolorze pod wskaźnikiem myszy oraz do tymczasowego wybierania i przechowywania wielu wartości kolorów
+- Dodano narzędzie "Selektor obszaru", które może być używane do stosowania określonych efektów na ograniczonym obszarze obrazu
+- Dodano narzędzie "Przybornik", aby ograniczyć korzystanie z menu rozwijanego.
+- Dodano obsługę zapisywania obrazów w trybie palety (1-8 bitów), opcjonalnie z 16 predefiniowanymi paletami, w tym paletą MagicWB.
+- Palety mogą być zapisywane w formatach IFF, ILBM, RGB32, LoadRGB4 i LoadRGB32.
+- Obrazy palety mogą być zapisywane jako duże dane
+- Dane obrazu Chunky i oddzielne palety mogą być zapisywane jako kod źródłowy C.
+- Dodano opcję użycia mapy krycia do częściowego zastosowania efektu (działa z efektami Blur, Contrast, Draw/Brush, Gamma, Modulate, Monochrome i Tint)
+- Dodano efekty "Klucz chrominancji" i "Klucz luminescencji", aby zakresy kolorów były przezroczyste.
+- Konwertowane wsadowo obrazy mogą być zapisywane jako wideo
+- Dodano obsługę MagicWB dla zapisywania ikon
+- Dodano informacje o stanie programu w tytule okna
+- Dodano przycisk Cofnij w oknach efektów
+- Skróty klawiszy funkcyjnych mogą być używane do zapisywania obrazów w kilku formatach
+- Dodano opcję zamiany obrazu głównego z obrazem bufora.
+- Efekt mapy krycia może używać obrazu bufora jako mapy krycia.
+- Dodano opcję odwracania efektu mapy krycia.
+- Dodano przykłady map krycia w katalogu OpacityMaps
+- Zmieniono nazwę efektu "Zmniejsz alfa" na "Zmień alfa" i dodano opcję usunięcia całego kanału alfa z obrazu
+- Obrazy tła mogą być wyśrodkowane w efekcie tła
+- Dodano opcję wyczyszczenia bieżącego obrazu.
+- Bufor cofania nie był inicjowany podczas ładowania obrazu przy uruchamianiu.
+- Naprawiono wybieranie kolorów przy skalowanych obrazach
+- Poprawiono efekty Węgiel i Krawędź dla obrazów z przezroczystością.
+- Lepsza zmiana rozmiaru okna podczas ładowania obrazów
+- Pomijanie operacji klawisza strzałki, jeśli jednocześnie naciśnięto klawisz polecenia, aby nie wpływać na sterowanie wskaźnikiem myszy za pomocą klawiatury.
+- Uporządkowanie efektów w menu według kategorii
+- Dodano wtyczki JPEG2000, PCX i TIFF
+- Dodano obsługę zapisywania obrazów w formatach JPEG2000 i TIFF
+- Wybór konkretnego obrazu/stanu do załadowania ikony z wieloma obrazami
+- Dodano ustawienie ładowania właściwości ikon i używania ich w opcjach zapisywania ikon
+- Pliki mogą być przeciągane i upuszczane na listę plików konwersji wsadowej
+- Okna narzędzi otwierają się podczas uruchamiania, jeśli były otwarte podczas zapisywania ustawień
+- Inne drobne poprawki
 
-> ## [ZoomIt](http://archives.aros-exec.org/?function=showfile&file=utility/misc/zoomit.i386-aros.lha) (v. 1.3)
-> (autor: Stefan Blixth)
-
-ZoomIT jest prostą aplikacją powiększającą opartą na MUI.
-
-Zmiany w wersji 1.3:
-- Usunięto wymagania dla CyberGraphX (będzie działać nawet na nie-RTG miejmy nadzieję).
-- Dodano tłumaczenie na język turecki (dzięki Serkan Dursun).
-- Dodano tłumaczenie na język hiszpański (dzięki Dámaso Domínguez).
-- Usunięto tryb skali
-- Usunięto tryb kolorów
-- Usunięto powiększenia powyżej 1000%
-
-![ZoomIt](/assets/img/zoomit.jpg)
-*ZoomIt*
-
-> ## [ZuneARC](http://archives.aros-exec.org/?function=showfile&file=utility/archive/zunearc.i386-aros.zip) (v. 1.6)
-> (autor: Yannick Erb)
-
-Interfejs Zune dla archiwizatorów.
-
-![ZuneARC](/assets/img/zunearc.jpg)
-*ZuneARC*
-
-> ## [AmiTechGazette](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (Nr 6)
-> (autor: Eric Schwharz)
-
-AMI Tech-Gazette to publikacja elektroniczna, której celem jest dostarczenie użytkownikom doświadczenie podobne do klasycznego biuletynu lokalnej grupy użytkowników komputerów, z osobistym, nie do końca profesjonalnym akcentem, obejmującym Amigę i jej krewnych (OS4, MorphOS, AROS, Apollo i nie tylko!) z okazjonalnym odchyleniem do gier, zabawek i życia w ogóle.
-
-![AmiTechGazette](/assets/img/amitech6.jpg)
-*AmiTechGazette*
-
-> ## [AstralGame](http://archives.aros-exec.org/?function=showfile&file=utility/misc/astralgame.lha) (v. 4.0)
-> (autor: Juan Carlos Herrán Martín)
-
-Ten ezoteryczny program pozwala ci odkryć tajemnice swojej osobowości i związku z naturą. Dowiesz się, jakie znaki zodiaku astralnego, chińskiego, majów haab i tzolkin oraz celtyckiego odpowiadają twojej dacie urodzenia. Poznasz też swoją magiczną liczbę osobistą, która ma wpływ na twoje życie. Program pokazuje ci również fazę księżyca, która jest przydatna do sadzenia nasion, oraz celtycko-wiccańskie święta lub sabaty, które są związane z cyklem przyrody. Ponadto, informuje cię o różnych wydarzeniach, takich jak Boże Narodzenie, pory roku i wiele innych.
-
-Zmiany w wersji 4.00:
-- Okno programu jest teraz większe, z rozdzielczością 640x480 pikseli.
-- Narzędzie jest teraz bardziej mroczne i poważne.
-- Skompilowane z Hollywood 10.0.
-- Nowa grafika stworzona z pomocą IA.
-- Naprawiono duży błąd z obliczaniem faz księżyca.
-
-![AstralGame](/assets/img/astral.jpg)
-*AstralGame*
-
-> ## [kensV4_Drawer_Games](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/drawer_games_unofficial_kensv4.zip) (v. 1.3)
-> (autor: amiwell79)
-
-Nieoficjalne ikony szuflad dla gier w stylu kens v4.
-
-*Kens v4 to zestaw ikon dla Amigi, które mają dwa formaty PNG: jeden dla ekranów AGA, a drugi dla ekranów RTG. Są one inspirowane ikonami AmigaOS4, ale mają własny charakter i kolorystykę. Autor tych ikon to Ken Lester, który jest znanym grafikiem w świecie Amigi.*
-
-![kensV4_Drawer_Games](/assets/img/kenv4.jpg)
-*kensV4_Drawer_Games*
-
-> ## [Apng](http://archives.aros-exec.org/?function=showfile&file=development/library/apng_amiga.lha) (v. 1.3)
-> (autor: Andreas Falkenhahn)
-
-Ta wtyczka umożliwia Hollywood ładowanie i zapisywanie animacji w formacie APNG (Animated Portable Network Graphics). Wielką zaletą formatu APNG jest to, że obsługuje on animacje wykorzystujące przezroczystość kanału alfa. Ani format IFF ANIM ani GIF ANIM nie obsługują przezroczystości kanału alfa. Ponadto, APNG może również obsługiwać dane ramek w prawdziwym kolorze. Formatem konkurencyjnym dla APNG jest MNG, ale APNG został wybrany, ponieważ obsługuje go więcej aplikacji.
-
-Zmiany w wersji 1.3:
-- Poprawka: Pliki APNG bez kanału przezroczystości nie były poprawnie ładowane (zgłoszone przez Juan Carlos Herrán Martín).
+![RNOEffects](/assets/img/rnoeffects20.jpg)
+*RNOEffects*
