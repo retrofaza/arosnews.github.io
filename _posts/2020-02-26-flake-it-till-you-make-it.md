@@ -59,32 +59,24 @@ Zmiany w wersji 2.10 (02-01-2024):
 ![Sacrificio Pagano](/assets/img/pagano210.jpg)
 *Sacrificio Pagano*
 
-> ## [Font Tester](http://archives.aros-exec.org/?function=showfile&file=utility/text/fonttester.lha) (v. 2.00)
-> (autor: Juan Carlos Herrán Martín)
+> ## [Icon Drop](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/icondropx_12-29-23.i386-aros.zip) (v. 1.02)
+> (autor: Mike R.)
 
-Font Tester to narzędzie do testowania czcionek zainstalowanych w systemie. Za jego pomocą możemy w łatwy sposób sprawdzić jak dana czcionka prezentuje się na tle obrazka lub tesktury.
+Icon Drop używa małego i prostego GUI GadTools do zapisywania obrazów ikon do nowej ikony docelowej.
 
-Zmiany w wersji 2.0:
-- Skompilowany z ostatnią wersją Hollywood 10.0.
-- Nowa grafika w intro.
+![Icon Drop](/assets/img/icondrop102.jpg)
+*Icon Drop*
 
-![Font Tester](/assets/img/fonttester.jpg)
-*Font Tester*
+> ## [New Colored Disks](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_colored_disks.zip) (v. 1.0)
+> ## [New Flash Disk Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_flash_disk_icons.zip) (v. 1.0)
+> ## [New Floppy Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_floppy_icons.zip) (v. 1.0)
+> ## [New Ram Disk Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_ram_disk_icons.zip) (v. 1.0)
+> (autor: Mike R.)
 
-> ## [XPDF-GUI](http://archives.aros-exec.org/?function=showfile&file=office/dtp/xpdf-gui.i386-aros.zip) (v. 1.1)
-> (autor: Yannick Buchy)
+Zestawy nowych ikonek w stylu Kens Icons v4.
 
-Jest to nowy graficzny interfejs użytkownika stworzony za pomocą Hollywood dla XPDF Suite. Interfejs ten wykorzystuje polecenia XPDF: pdfinfo, pdfdetach, pdffonts, pdftohtml, pdfimages, pdftopng, pdftoppm, pdftops i pdftotxt. Należy je skopiować do szuflady Bin/. Interfejs ułatwia konwertowanie i wyodrębnianie tekstu i obrazów z plików PDF.
-
-Zmiany w wersji 1.1:
-- naprawiono: okno informacyjne nie było czyszczone w niektórych warunkach
-- dodano ścieżkę docelową
-- poprawiono ikonę ikonyfikacji
-- teraz wybór operacji zachowuje ten sam stan. Na przykład po wybraniu opcji "Pobierz Informacje", gdy następnie wybierzesz inny pliki PDF to od razu uzyskasz informacje o nowym pliku PDF. To samo dotyczy opcji "Pobierz listę osadzonych plików" i "Pobierz listę używanych czcionek".
-- dodano skróty klawiszowe
-
-![XPDF-GUI](/assets/img/xpdfgui.jpg)
-*XPDF-GUI*
+![Set of New Icons](/assets/img/newicons.jpg)
+*Set of New Icons*
 
 > ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.20)
 > (autor: Juan Carlos Herrán Martín)
@@ -163,22 +155,6 @@ Nieoficjalne ikony szuflad dla gier w stylu kens v4.
 
 ![kensV4_Drawer_Games](/assets/img/kenv4.jpg)
 *kensV4_Drawer_Games*
-
-> ## [Black_White Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/black_white_drawers.zip) (v. 1.0)
-> (autor: Mike R.)
-
-W tym archiwum znajdują się oryginalne obrazy i gotowe ikony dla obu zestawów ikon: czarnego i białego. Każdy zestaw ikon (czarny i biały) zawiera trzy warianty neonowych niebieskich, zielonych i żółtych świecących obramowań.
-
-![Black_White Icons](/assets/img/blackwhite.jpg)
-*Black_White Icons*
-
-> ## [Icon Drop](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/icondrop_12-18-23.i386-aros.zip) (v. 1.0)
-> (autor: Mike R.)
-
-Icon Drop używa małego i prostego GUI GadTools do zapisywania obrazów ikon do nowej ikony docelowej.
-
-![Icon Drop](/assets/img/icondrop.jpg)
-*Icon Drop*
 
 > ## [Apng](http://archives.aros-exec.org/?function=showfile&file=development/library/apng_amiga.lha) (v. 1.3)
 > (autor: Andreas Falkenhahn)
