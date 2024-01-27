@@ -44,29 +44,20 @@ Muzyka i joysticki nie są obecnie obsługiwane przez port AROS.
 ![Pintor Web](/assets/img/wormwars.jpg)
 *Worm Wars*
 
-> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.4)
-> (autor: Bernd Assenmacher)
+> ## [Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 2.10)
+> (autor: Juan Carlos Herrán Martín)
 
-Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak
-A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom.
 
-Zmiany w wersji 2.4:
-- dodano funkcję "PDF2Image" (nie działa z Aros)
-- dodano funkcję "PDF2PDF" (nie działa z Aros) 
-- dodano funkcję "Skalowanie" --> Image2PDF, gdy "ImageSize" jest ustawiony jako format
-- dodano funkcję "Skalowanie" --> PDF2Image 
-- dodano funkcję "Skalowanie" --> Image2NewSize
-- dodano funkcję "Jakość" --> PDF2Image, gdy "JP(E)G" jest ustawione jako format
-- zmieniono metodę zliczania plików podczas zapisywania obrazów 
-- Skrypt instalacyjny kopiuje teraz ikony i obrazki (MorphOS, AmigaOS3/4 i Aros)
-- Skrypt instalacyjny instaluje teraz AmiKit, jeśli został wybrany
-- Skrypt instalacyjny tworzy teraz szufladę o nazwie "Image2PDF" w wybranym miejscu docelowym (MorphOS, AmigaOS3/4 i Aros)
-- wprowadzono kilka kosmetycznych zmian w graficznym interfejsie użytkownika
-- zaktualizowano przewodnik 
-- naprawiono kilka drobnych błędów
+Zmiany w wersji 2.10 (02-01-2024):
 
-![Image2PDF](/assets/img/image2pdf.jpg)
-*Image2PDF*
+- Nowa grafika (oryginalna wykonana z pomocą IA).
+- Nowe darmowe czcionki.
+- Drobne ulepszenia.
+- Teraz program ma pogańskie tapety na pogański pulpit.
+
+![Sacrificio Pagano](/assets/img/pagano210.jpg)
+*Sacrificio Pagano*
 
 > ## [Font Tester](http://archives.aros-exec.org/?function=showfile&file=utility/text/fonttester.lha) (v. 2.00)
 > (autor: Juan Carlos Herrán Martín)
