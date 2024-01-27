@@ -84,7 +84,7 @@ Zmiany w wersji 2.50:
 - naprawiono błąd, w którym "odczyt źródła" czasami nie działał poprawnie 
 - wiele usprawnień "pod maską" ... ;-)
 
-![Image2PDF](/assets/img/img2pdf250.jpg)
+![Image2PDF](/assets/img/image2pdf25.jpg)
 *Image2PDF*
 
 > ## [RNOEffects](http://archives.aros-exec.org/?function=showfile&file=graphics/edit/rnoeffects.i386-aros.lha) (v. 2.0)
