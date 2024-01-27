@@ -6,7 +6,11 @@ lang: pl
 ref: 0124
 ---
 
-Styczeń stał pod znakiem wdrażania nowej biblioteki C w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych będzie łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit. 
+Styczeń stał pod znakiem wdrażania **nowej biblioteki C** w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych stanie się łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit.
+
+Aktualnie nadal trwają testy kompatybilności oprogramowania, niektóre rzeczy wymagają ponownego przekompilowania. Wszystko to sprawia, że nowego stabilnego builda możemy się spodziewać nie wcześniej niż pod koniec lutego. Jest za to duża szansa, że wraz z nim dostaniemy nieco odświeżoną wersję przeglądarki internetowej OWB.
+
+Na blogu zamieściłem [tutorial o przygotowaniu nośnika USB z ABIv0](https://arosnews.github.io/jak-przygotowac-pendrive-usb-aros/). Robi się to trochę inaczej niż w innych systemach, więc wierzę, że ta instrukcja będzie przydatna dla początkujących.
 
 W styczniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem z zapisem ustawień parametrów rozruchu.
 
@@ -15,7 +19,7 @@ W styczniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem z z
 
 Bug został już poprawiony, w najnowszym buildzie można konfigurować parametry rozruchu w preferencjach. Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
 
-Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. RNOEffects rozwija się bardzo prężnie i może być przydatny w codziennym użytkowaniu. Pełna lista poniżej.
+Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. **RNOEffects**, napisany w Hollywood i dostępny na wszystkie Amigi NG, rozwija się bardzo prężnie i z pewnością może być przydatny w codziennym użytkowaniu. Pełna lista nowych programów poniżej.
 
 > ## [Worm Wars](http://archives.aros-exec.org/?function=showfile&file=game/action/wormwars.i386-aros.zip) (v. 9.34)
 > (autor: James Jacobs)
