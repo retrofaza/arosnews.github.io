@@ -6,16 +6,16 @@ lang: pl
 ref: 0124
 ---
 
-Styczeń stał pod znakiem wdrażania nowej biblioteki C w AROS x86. 
+Styczeń stał pod znakiem wdrażania nowej biblioteki C w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych będzie łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit. 
 
 W styczniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem z zapisem ustawień parametrów rozruchu.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0124.jpg)
 *Irytujący bug miesiąca - styczeń 2024*
 
-Bug został już poprawiony, w najnowszym buildzie można konfigurować parametry rozruchu w preferencjach. Zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
+Bug został już poprawiony, w najnowszym buildzie można konfigurować parametry rozruchu w preferencjach. Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
 
-Styczniowych nowości w AROS Archives nie jest zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. RNOEffects rozwija się bardzo prężnie i może być przydatny w codziennym użytkowaniu. Pełna lista poniżej.
+Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. RNOEffects rozwija się bardzo prężnie i może być przydatny w codziennym użytkowaniu. Pełna lista poniżej.
 
 > ## [Worm Wars](http://archives.aros-exec.org/?function=showfile&file=game/action/wormwars.i386-aros.zip) (v. 9.34)
 > (autor: James Jacobs)
