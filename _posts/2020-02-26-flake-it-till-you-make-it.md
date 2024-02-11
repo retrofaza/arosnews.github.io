@@ -60,7 +60,7 @@ OWB
 *Odyssey Web rowser*
 
 > ## [WCS](http://archives.aros-exec.org/?function=showfile&file=graphics/raytrace/wcs.multi-aros.lha) (v. 2.031)
-> (autor: Porting Selco)
+> (autor: Alexander Fritsch “Selco”)
 
 World Construction Set
 
