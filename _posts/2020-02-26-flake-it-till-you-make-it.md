@@ -26,6 +26,23 @@ Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zareje
 
 Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. **RNOEffects**, napisany w Hollywood i dostępny na wszystkie Amigi NG, rozwija się bardzo prężnie i z pewnością może być przydatny w codziennym użytkowaniu. Pełna lista nowych programów poniżej.
 
+> ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb8-aros.i386-aros.zip) (nr 8)
+> ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb11-aros.i386-aros.zip) (nr 11)
+> (autor: Void)
+
+Feedback
+
+![Feedback](/assets/img/feedback11.jpg)
+*Feedback 8 & 11*
+
+> ## [Protrekkr](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.4.i386-aros.zip) (v. 2.6.4)
+> (autor: Franck "hitchhikr" Charlet)
+
+Protrekkr
+
+![Protrekkr](/assets/img/ptk.jpg)
+*Protrekkr*
+
 > ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
 > (autor: Simone Bevilacqua "Saimo")
 
@@ -33,29 +50,6 @@ BOH
 
 ![BOH](/assets/img/boh.jpg)
 *BOH*
-
-> ## [Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 2.10)
-> (autor: Juan Carlos Herrán Martín)
-
-Prosty programik dla wierzących w magię ;) Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom.
-
-Zmiany w wersji 2.10 (02-01-2024):
-
-- Nowa grafika (oryginalna wykonana z pomocą IA).
-- Nowe darmowe czcionki.
-- Drobne ulepszenia.
-- Teraz program ma pogańskie tapety na pogański pulpit.
-
-![Sacrificio Pagano](/assets/img/pagano210.jpg)
-*Sacrificio Pagano*
-
-> ## [Icon Drop](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/icondropx_12-29-23.i386-aros.zip) (v. 1.02)
-> (autor: Mike R.)
-
-Icon Drop używa małego i prostego GUI GadTools do zapisywania obrazów ikon do nowej ikony docelowej.
-
-![Icon Drop](/assets/img/icondrop102.jpg)
-*Icon Drop*
 
 > ## [New Colored Disks](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_colored_disks.zip) (v. 1.0)
 > ## [New Flash Disk Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_flash_disk_icons.zip) (v. 1.0)
