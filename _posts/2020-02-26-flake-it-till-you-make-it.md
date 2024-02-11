@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - styczeń 2024
+title: AROS x86 - luty 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0124
+ref: 0224
 ---
 
 Styczeń stał pod znakiem wdrażania **nowej biblioteki C** w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych stanie się łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit.
@@ -14,22 +14,20 @@ Na blogu zamieściłem [tutorial o przygotowaniu nośnika USB z ABIv0](https://a
 
 W styczniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem z zapisem ustawień parametrów rozruchu.
 
-![Irytujący bug miesiąca](/assets/img/ibotm0124.jpg)
-*Irytujący bug miesiąca - styczeń 2024*
+![Irytujący bug miesiąca](/assets/img/ibotm0224.jpg)
+*Irytujący bug miesiąca - luty 2024*
 
 Bug został już poprawiony, w najnowszym buildzie można konfigurować parametry rozruchu w preferencjach. Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
 
 Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. **RNOEffects**, napisany w Hollywood i dostępny na wszystkie Amigi NG, rozwija się bardzo prężnie i z pewnością może być przydatny w codziennym użytkowaniu. Pełna lista nowych programów poniżej.
 
-> ## [Worm Wars](http://archives.aros-exec.org/?function=showfile&file=game/action/wormwars.i386-aros.zip) (v. 9.34)
-> (autor: James Jacobs)
+> ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
+> (autor: Simone Bevilacqua "Saimo")
 
-Jest to wersja AROS gry Worm Wars, darmowej gry zręcznościowej autorstwa Jamesa Jacobsa z Amigan Software. Funkcje obejmują: 37 typów obiektów, 37 typów stworzeń, 13 typów bonusowych poziomów, zintegrowany edytor poziomów, do 4 robaków, kontrola ludzka lub komputerowa nad wszystkimi robakami, zapisywane tabele najlepszych wyników, wsparcie podwójnej klawiatury, opcja tasowania poziomów, czułość trybu ekranowego, wsparcie lokalne, kod źródłowy, uruchamianie na własnym lub publicznym ekranie, itp.
+BOH
 
-Muzyka i joysticki nie są obecnie obsługiwane przez port AROS.
-
-![Pintor Web](/assets/img/wormwars.jpg)
-*Worm Wars*
+![BOH](/assets/img/boh.jpg)
+*BOH*
 
 > ## [Sacrificio Pagano](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 2.10)
 > (autor: Juan Carlos Herrán Martín)
