@@ -35,13 +35,13 @@ Feedback
 ![Feedback](/assets/img/feedback11.jpg)
 *Feedback 8 & 11*
 
-> ## [Protrekkr](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.4.i386-aros.zip) (v. 2.6.4)
+> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.4.i386-aros.zip) (v. 2.6.4)
 > (autor: Franck "hitchhikr" Charlet)
 
-Protrekkr
+Protrekkr 2
 
-![Protrekkr](/assets/img/ptk.jpg)
-*Protrekkr*
+![Protrekkr 2](/assets/img/ptk.jpg)
+*Protrekkr 2*
 
 > ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
 > (autor: Simone Bevilacqua "Saimo")
@@ -51,84 +51,19 @@ BOH
 ![BOH](/assets/img/boh.jpg)
 *BOH*
 
-> ## [New Colored Disks](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_colored_disks.zip) (v. 1.0)
-> ## [New Flash Disk Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_flash_disk_icons.zip) (v. 1.0)
-> ## [New Floppy Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_floppy_icons.zip) (v. 1.0)
-> ## [New Ram Disk Icons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/new_ram_disk_icons.zip) (v. 1.0)
-> (autor: Mike R.)
+> ## [Odyssey Web Browser](http://archives.aros-exec.org/?function=showfile&file=network/browser/owb-1.26.i386-aros.zip) (v. 1.26)
+> (autorzy: WebKit Team, Fabien Coeurjoly, Krzysztof Śmiechowicz)
 
-Zestawy nowych ikonek w stylu Kens Icons v4.
+OWB
 
-![Set of New Icons](/assets/img/newicons.jpg)
-*Set of New Icons*
+![OWB](/assets/img/owb126.jpg)
+*Odyssey Web rowser*
 
-> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.50)
-> (autor: Bernd Assenmacher)
+> ## [WCS](http://archives.aros-exec.org/?function=showfile&file=graphics/raytrace/wcs.multi-aros.lha) (v. 2.031)
+> (autor: Porting Selco)
 
-Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+World Construction Set
 
-Zmiany w wersji 2.50:
-- zmieniono GUI, aby było bardziej intuicyjne
-- stopiono docelowe requestery do jednego docelowego requestera
-- dodano źródłowy requester plików PDF do GUI dla PDF2Image i PDF2PDF
-- dodano funkcję "Image2Image" do zmiany formatu obrazów
-- dodano funkcję "scan file(s)" do określania atrybutów obrazu(ów)
-- dodano funkcję "rem (dup)" do usuwania zduplikowanych wpisów z widoku listy
-- dodano funkcję "check" do sprawdzania, czy podane obrazy są prawidłowe do
-  przetwarzania i czyszczenia widoku listy z nieprawidłowych plików graficznych    
-- dodano możliwość skalowania obrazów do ustalonego rozmiaru
-- dodano więcej formatów dla Image2PDF (B4, B5, US, Executive, Comm10)
-- instalator automatycznie ustawia teraz system operacyjny (dzięki Daniel ;-))
-- klawisz F1 otwiera teraz również plik przewodnika jako pomoc
-- zaktualizowane podpowiedzi
-- zoptymalizowane komunikaty wyjściowe
-- naprawiono błąd, w którym "odczyt źródła" czasami nie działał poprawnie 
-- wiele usprawnień "pod maską" ... ;-)
+![WCS](/assets/img/wcs.jpg)
+*WCS - World Construction Set*
 
-![Image2PDF](/assets/img/image2pdf25.jpg)
-*Image2PDF*
-
-> ## [RNOEffects](http://archives.aros-exec.org/?function=showfile&file=graphics/edit/rnoeffects.i386-aros.lha) (v. 2.0)
-> (autor: jPV^RNO)
-
-RNOEffects to prosty program do przetwarzania obrazów z naciskiem na dobre opcje konwersji wsadowej, efekty oparte na kanale alfa i edycję pikseli.
-
-Zmiany w wersji 2.0:
-- Dodano narzędzie "Edytor pikseli" z konfigurowalnymi opcjami rysowania pikseli dla lewego, środkowego i prawego przycisku myszy
-- Dodano narzędzie "Color picker" do wyświetlania informacji o kolorze pod wskaźnikiem myszy oraz do tymczasowego wybierania i przechowywania wielu wartości kolorów
-- Dodano narzędzie "Selektor obszaru", które może być używane do stosowania określonych efektów na ograniczonym obszarze obrazu
-- Dodano narzędzie "Przybornik", aby ograniczyć korzystanie z menu rozwijanego.
-- Dodano obsługę zapisywania obrazów w trybie palety (1-8 bitów), opcjonalnie z 16 predefiniowanymi paletami, w tym paletą MagicWB.
-- Palety mogą być zapisywane w formatach IFF, ILBM, RGB32, LoadRGB4 i LoadRGB32.
-- Obrazy palety mogą być zapisywane jako duże dane
-- Dane obrazu Chunky i oddzielne palety mogą być zapisywane jako kod źródłowy C.
-- Dodano opcję użycia mapy krycia do częściowego zastosowania efektu (działa z efektami Blur, Contrast, Draw/Brush, Gamma, Modulate, Monochrome i Tint)
-- Dodano efekty "Klucz chrominancji" i "Klucz luminescencji", aby zakresy kolorów były przezroczyste.
-- Konwertowane wsadowo obrazy mogą być zapisywane jako wideo
-- Dodano obsługę MagicWB dla zapisywania ikon
-- Dodano informacje o stanie programu w tytule okna
-- Dodano przycisk Cofnij w oknach efektów
-- Skróty klawiszy funkcyjnych mogą być używane do zapisywania obrazów w kilku formatach
-- Dodano opcję zamiany obrazu głównego z obrazem bufora.
-- Efekt mapy krycia może używać obrazu bufora jako mapy krycia.
-- Dodano opcję odwracania efektu mapy krycia.
-- Dodano przykłady map krycia w katalogu OpacityMaps
-- Zmieniono nazwę efektu "Zmniejsz alfa" na "Zmień alfa" i dodano opcję usunięcia całego kanału alfa z obrazu
-- Obrazy tła mogą być wyśrodkowane w efekcie tła
-- Dodano opcję wyczyszczenia bieżącego obrazu.
-- Bufor cofania nie był inicjowany podczas ładowania obrazu przy uruchamianiu.
-- Naprawiono wybieranie kolorów przy skalowanych obrazach
-- Poprawiono efekty Węgiel i Krawędź dla obrazów z przezroczystością.
-- Lepsza zmiana rozmiaru okna podczas ładowania obrazów
-- Pomijanie operacji klawisza strzałki, jeśli jednocześnie naciśnięto klawisz polecenia, aby nie wpływać na sterowanie wskaźnikiem myszy za pomocą klawiatury.
-- Uporządkowanie efektów w menu według kategorii
-- Dodano wtyczki JPEG2000, PCX i TIFF
-- Dodano obsługę zapisywania obrazów w formatach JPEG2000 i TIFF
-- Wybór konkretnego obrazu/stanu do załadowania ikony z wieloma obrazami
-- Dodano ustawienie ładowania właściwości ikon i używania ich w opcjach zapisywania ikon
-- Pliki mogą być przeciągane i upuszczane na listę plików konwersji wsadowej
-- Okna narzędzi otwierają się podczas uruchamiania, jeśli były otwarte podczas zapisywania ustawień
-- Inne drobne poprawki
-
-![RNOEffects](/assets/img/rnoeffects20.jpg)
-*RNOEffects*
