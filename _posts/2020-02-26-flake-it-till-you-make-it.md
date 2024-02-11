@@ -10,14 +10,19 @@ Styczeń stał pod znakiem wdrażania **nowej biblioteki C** w AROS x86. Ta zmia
 
 Aktualnie nadal trwają testy kompatybilności oprogramowania, niektóre rzeczy wymagają ponownego przekompilowania. Wszystko to sprawia, że nowego stabilnego builda możemy się spodziewać nie wcześniej niż pod koniec lutego. Jest za to duża szansa, że wraz z nim dostaniemy nieco odświeżoną wersję przeglądarki internetowej OWB.
 
-Na blogu zamieściłem [tutorial o przygotowaniu nośnika USB z ABIv0](https://arosnews.github.io/jak-przygotowac-pendrive-usb-aros/). Robi się to trochę inaczej niż w innych systemach, więc wierzę, że ta instrukcja będzie przydatna dla początkujących.
+Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). Może będzie inspiracją dla nowych twórców oprogramowania? :)
 
-W styczniowej ankiecie na "Irytujący bug miesiąca" wybrany został problem z zapisem ustawień parametrów rozruchu.
+Tadycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0224.jpg)
 *Irytujący bug miesiąca - luty 2024*
 
-Bug został już poprawiony, w najnowszym buildzie można konfigurować parametry rozruchu w preferencjach. Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
+Dzięki tetheringowi możemy korzystać z internetu na AROSie przy pomocy telefonu z androidem podłączonego kablem USB. Pozwala to cieszyć się siecią nawet na urządzeniach, które nie posiadają wspieranej karty sieciowej. Tethering USB był obecny w AROS od dawna, ale przez brak opcji do łatwej aktywacji wielu użytkowników nie miało o jego istnieniu pojęcia. Teraz dzięki **deadwood**'owi można odpowiednią opcję "wyklikać".
+
+![Tethering USB](/assets/img/tethering.jpg)
+*Tethering USB*
+
+Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
 
 Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. **RNOEffects**, napisany w Hollywood i dostępny na wszystkie Amigi NG, rozwija się bardzo prężnie i z pewnością może być przydatny w codziennym użytkowaniu. Pełna lista nowych programów poniżej.
 
