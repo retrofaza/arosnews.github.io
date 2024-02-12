@@ -57,14 +57,6 @@ BOH
 ![BOH](/assets/img/boh.jpg)
 *BOH*
 
-> ## [Odyssey Web Browser](http://archives.aros-exec.org/?function=showfile&file=network/browser/owb-1.26.i386-aros.zip) (v. 1.26)
-> (autorzy: WebKit Team, Fabien Coeurjoly, Krzysztof Śmiechowicz)
-
-OWB
-
-![OWB](/assets/img/owb126.jpg)
-*Odyssey Web rowser*
-
 > ## [WCS](http://archives.aros-exec.org/?function=showfile&file=graphics/raytrace/wcs.multi-aros.lha) (v. 2.031)
 > (autor: Alexander Fritsch “Selco”)
 
@@ -72,4 +64,12 @@ World Construction Set
 
 ![WCS](/assets/img/wcs.jpg)
 *WCS - World Construction Set*
+
+> ## [Odyssey Web Browser](http://archives.aros-exec.org/?function=showfile&file=network/browser/owb-1.26.i386-aros.zip) (v. 1.26)
+> (autorzy: WebKit Team, Fabien Coeurjoly, Krzysztof Śmiechowicz)
+
+Wydana została nowa wersja Odyssey Web Browser. Poprzednia wersja została udostępniona w 2016 roku, a nowe wydanie przynosi ponowną kompilację z nowszym SDK i szereg poprawek błędów. Ta wersja Odyssey do działania wymaga najnowszego wydania systemu bazowego AROS. 
+
+![OWB](/assets/img/owb126.jpg)
+*Odyssey Web Browser*
 
