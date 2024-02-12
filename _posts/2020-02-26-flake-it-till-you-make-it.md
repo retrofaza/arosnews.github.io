@@ -12,7 +12,7 @@ Aktualnie nadal trwają testy kompatybilności oprogramowania, niektóre rzeczy 
 
 Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). Może będzie inspiracją dla nowych twórców oprogramowania? :)
 
-Tadycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
+Tradycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0224.jpg)
 *Irytujący bug miesiąca - luty 2024*
@@ -30,7 +30,7 @@ Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program,
 > ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb11-aros.i386-aros.zip) (nr 11)
 > (autor: Void)
 
-Feedback
+Puni z demoscenowej grupy Void skompilował dla AROSa dwa music dyski swojej grupy. Są to Feedback wydanie 8 z 2019 r. oraz Feedback wydanie 11 z 2021 r. Oba music dyski zawierają po 10 utworów różnych autorów i zdecydowanie warto ich posłuchać. Jak zapewnia Puni wkrótce na AROS powinny pojawić się nowe produkcje od Void. Czekamy z niecierpliwością :)   
 
 ![Feedback](/assets/img/feedback11.jpg)
 *Feedback 8 & 11*
