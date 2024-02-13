@@ -62,6 +62,9 @@ BOH
 
 World Construction Set
 
+Program może być skomplikowany w obsłudze dla początkujących, polecam zapoznać się z tutorialem:
+[Tutorial WCS](http://www.bertinettobartolomeodavide.it/graficadigitale/amiga/WCS/Tutorial%20World%20Construction%20Set.html)
+
 ![WCS](/assets/img/wcs.jpg)
 *WCS - World Construction Set*
 
