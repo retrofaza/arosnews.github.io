@@ -78,7 +78,7 @@ Wydana została nowa wersja Odyssey Web Browser. Poprzednia wersja została udos
 *Odyssey Web Browser*
 
 {: .box-success}
-Kilka innych aplikacji z AROS Archives także zostało przekompilowanych dla zachowania kompatybilności z najnowszym buildem:  
+Kilka innych aplikacji z AROS Archives także zostało przekompilowanych dla zachowania kompatybilności z najnowszym buildem:
 - [Acidwarp](http://archives.aros-exec.org/?function=showfile&file=demo/misc/acidwarp.i386-aros.zip) - kilka ciekawych efektów graficznych.  
 - [Bad Apple](http://archives.aros-exec.org/?function=showfile&file=demo/misc/badapple.i386-aros.zip) - słynne demo/animacja Bad Apple.  
 - [Dosbox](http://archives.aros-exec.org/?function=showfile&file=emulation/computer/dosbox.i386-aros.zip) - emulator systemu DOS.  
