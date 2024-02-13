@@ -62,8 +62,7 @@ BOH
 
 To jest nowo skompilowana wersja World Construction Set 2.031. WCS został opracowany przez Gary'ego R. Hubera i Chrisa "Xenona" Hansona z Questar Productions. Jest to oprogramowanie do tworzenia fraktalnych krajobrazów, takie jak Scenery Animator, Vista Pro i Panorama.
 
-Program może być skomplikowany w obsłudze dla początkujących, polecam zapoznać się z tutorialem:
-[Tutorial WCS](http://www.bertinettobartolomeodavide.it/graficadigitale/amiga/WCS/Tutorial%20World%20Construction%20Set.html)
+Program może być skomplikowany w obsłudze dla początkujących, polecam zapoznać się z [tutorialem](http://www.bertinettobartolomeodavide.it/graficadigitale/amiga/WCS/Tutorial%20World%20Construction%20Set.html). Tutorial w języku angielskim jest także załączony do archiwum z programem.
 
 ![WCS](/assets/img/wcs.jpg)
 *WCS - World Construction Set*
