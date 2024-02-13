@@ -60,7 +60,7 @@ BOH
 > ## [WCS](http://archives.aros-exec.org/?function=showfile&file=graphics/raytrace/wcs.multi-aros.lha) (v. 2.031)
 > (autor: Alexander Fritsch “Selco”)
 
-World Construction Set
+To jest nowo skompilowana wersja World Construction Set 2.031. WCS został opracowany przez Gary'ego R. Hubera i Chrisa "Xenona" Hansona z Questar Productions. Jest to oprogramowanie do tworzenia fraktalnych krajobrazów, takie jak Scenery Animator, Vista Pro i Panorama.
 
 Program może być skomplikowany w obsłudze dla początkujących, polecam zapoznać się z tutorialem:
 [Tutorial WCS](http://www.bertinettobartolomeodavide.it/graficadigitale/amiga/WCS/Tutorial%20World%20Construction%20Set.html)
