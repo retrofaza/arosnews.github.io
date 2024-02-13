@@ -52,7 +52,9 @@ Zmiany w wersji 2.6.4:
 > ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
 > (autor: Simone Bevilacqua "Saimo")
 
-BOH
+BOH to dungeon crawler, w którym musisz rozwiązywać zagadki, zbierać przedmioty, otwierać przejścia, unikać pułapek, zabijać złych mistrzów i generowanych przez nich sługusów, a ostatecznie wyjść z labiryntów w jednym kawałku. Zachowaj zimną krew, unikaj wrogów tak bardzo, jak to możliwe, skup się na labiryntach, a w końcu dotrzesz do końca.
+
+W Aros Archives pojawiła się najnowsza iteracja tej znanej gry oznaczona numerem 2.3. Jest to dobra okazja do odświeżenia sobie tego tytułu :)
 
 ![BOH](/assets/img/boh.jpg)
 *BOH*
