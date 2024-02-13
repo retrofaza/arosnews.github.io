@@ -77,3 +77,9 @@ Wydana została nowa wersja Odyssey Web Browser. Poprzednia wersja została udos
 ![OWB](/assets/img/owb126.jpg)
 *Odyssey Web Browser*
 
+Kilka innych aplikacji z AROS Archives także zostało przekompilowanych dla zachowania kompatybilności z najnowszym buildem:  
+[Acidwarp](http://archives.aros-exec.org/?function=showfile&file=demo/misc/acidwarp.i386-aros.zip) - kilka ciekawych efektów graficznych.  
+[Bad Apple](http://archives.aros-exec.org/?function=showfile&file=demo/misc/badapple.i386-aros.zip) - słynne demo/animacja Bad Apple.  
+[Dosbox](http://archives.aros-exec.org/?function=showfile&file=emulation/computer/dosbox.i386-aros.zip) - emulator systemu DOS.
+[wput](http://archives.aros-exec.org/?function=showfile&file=network/ftp/wput-0.3.4c.i386-aros.zip) - klient FTP działający z wiersza poleceń.  
+[JetPac - The Return](http://archives.aros-exec.org/?function=showfile&file=game/action/jetpac.i386-aros.zip) - remake klasycznej gry z ZX Spectrum.  
