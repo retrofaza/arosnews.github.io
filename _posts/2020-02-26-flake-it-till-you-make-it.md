@@ -24,13 +24,13 @@ Dzięki tetheringowi możemy korzystać z internetu na AROSie przy pomocy telefo
 
 Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
 
-Styczniowych nowości w AROS Archives nie ma zbyt wiele, ale jest jeden program, któremu zdecydowanie warto się przyjrzeć. **RNOEffects**, napisany w Hollywood i dostępny na wszystkie Amigi NG, rozwija się bardzo prężnie i z pewnością może być przydatny w codziennym użytkowaniu. Pełna lista nowych programów poniżej.
+W lutym nie zabrakło też nowych programów w AROS Archives. Znajdą coś dla siebie fani muzyki, grafiki, gier i demosceny :)
 
 > ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb8-aros.i386-aros.zip) (nr 8)
 > ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb11-aros.i386-aros.zip) (nr 11)
 > (autor: Void)
 
-Puni z demoscenowej grupy Void skompilował dla AROSa dwa music dyski swojej grupy. Są to Feedback wydanie 8 z 2019 r. oraz Feedback wydanie 11 z 2021 r. Oba music dyski zawierają po 10 utworów różnych autorów i zdecydowanie warto ich posłuchać. Jak zapewnia Puni wkrótce na AROS powinny pojawić się nowe produkcje od Void. Czekamy z niecierpliwością :)   
+Puni z demoscenowej grupy Void skompilował dla AROSa dwa music dyski swojej grupy. Są to Feedback wydanie 8 z 2019 r. oraz Feedback wydanie 11 z 2021 r. Obie produkcje zawierają po 10 utworów różnych autorów i zdecydowanie warto ich posłuchać. Jak zapewnia Puni wkrótce na AROS powinny pojawić się nowe produkcje od Void. Czekamy z niecierpliwością :)   
 
 ![Feedback](/assets/img/feedback11.jpg)
 *Feedback 8 & 11*
@@ -62,7 +62,7 @@ W Aros Archives pojawiła się najnowsza iteracja tej znanej gry oznaczona numer
 > ## [WCS](http://archives.aros-exec.org/?function=showfile&file=graphics/raytrace/wcs.multi-aros.lha) (v. 2.031)
 > (autor: Alexander Fritsch “Selco”)
 
-To jest nowo skompilowana wersja World Construction Set 2.031. WCS został opracowany przez Gary'ego R. Hubera i Chrisa "Xenona" Hansona z Questar Productions. Jest to oprogramowanie do tworzenia fraktalnych krajobrazów, takie jak Scenery Animator, Vista Pro i Panorama.
+To jest nowo skompilowana wersja World Construction Set 2.031. Aplikacja została oryginalnie opracowana przez Gary'ego R. Hubera i Chrisa "Xenona" Hansona z Questar Productions. WCS służy do tworzenia fraktalnych krajobrazów, podobnie jak Scenery Animator, Vista Pro i Panorama.
 
 Program może być skomplikowany w obsłudze dla początkujących, polecam zapoznać się z [tutorialem](http://www.bertinettobartolomeodavide.it/graficadigitale/amiga/WCS/Tutorial%20World%20Construction%20Set.html). Tutorial w języku angielskim jest także załączony do archiwum z programem.
 
