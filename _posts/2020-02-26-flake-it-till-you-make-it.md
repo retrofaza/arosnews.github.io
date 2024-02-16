@@ -51,7 +51,7 @@ Zmiany w najnowszej wersji:
 - W repozytorium brakowało pliku keyboards.txt.
 - Dodano efekty 29, 2A i 2B do włączania/wyłączania kompresora ścieżek, ustawiania odpowiednio progu i współczynnika kompresji.
 
-![Protrekkr 2](/assets/img/ptk265.bmp)
+![Protrekkr 2](/assets/img/ptk265.png)
 *Protrekkr 2*
 
 > ## [MIDIDriver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/mididriver.zip) (v. 1.2)
