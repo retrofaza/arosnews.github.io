@@ -54,6 +54,11 @@ Zmiany w najnowszej wersji:
 ![Protrekkr 2](/assets/img/ptk265.bmp)
 *Protrekkr 2*
 
+> ## [MIDIDriver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/mididriver.zip) (v. 1.2)
+> (autorzy: hitchhikr, kalamatee, Alfred Faust, Neil Cafferkey)
+
+Nowy sterownik MIDI dla AROSa.
+
 > ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
 > (autor: Simone Bevilacqua "Saimo")
 
