@@ -6,17 +6,21 @@ lang: pl
 ref: 0224
 ---
 
-Styczeń stał pod znakiem wdrażania **nowej biblioteki C** w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych stanie się łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit.
+Luty przynosi dobre wieści dla społeczności AROSa. Po blisko dwóch miesiącach wytężonej pracy mamy nową wersję bazową systemu AROS x86. Zgodnie z zapowiedziami w tej iteracji nastąpiło przejście na nową bibliotekę C. Ta zmiana nie przynosi na dzień dzisiejszy wielu widocznych zmian dla końcowego użytkownika, ale jest krokiem milowym w ogólnym rozwoju systemu. Programiści powinni pamiętać o zaktualizowaniu swoich SDK. 
 
 {: .box-success}
 Aby pobrać ISO i zapoznać się z pełną listą zmian, odwiedź:  
 [https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)
 
+
+
 {: .box-success}
 Pełna lista zmian dla AROS One v2.4:  
 [https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=4150#post_3217](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=4150#post_3217)
 
-Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). Może będzie inspiracją dla nowych twórców oprogramowania? :)
+Na [kanale YouTube Jamesa Mattsona](https://www.youtube.com/@jamesmattson6813/videos) można zobaczyć kilka filmików z działania AROS One 2.4.  
+
+Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). W zasadzie robi się to tak samo jak pod linuksem, ale dla osób przywiązanych do Windowsa to takie przypomnienie, że WSL istnieje i działa dobrze :)
 
 Tradycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
 
