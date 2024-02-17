@@ -98,7 +98,9 @@ Program może być skomplikowany w obsłudze dla początkujących, polecam zapoz
 > ## [Odyssey Web Browser](http://archives.aros-exec.org/?function=showfile&file=network/browser/owb-1.26.i386-aros.zip) (v. 1.26)
 > (autorzy: WebKit Team, Fabien Coeurjoly, Krzysztof Śmiechowicz)
 
-Wydana została nowa wersja Odyssey Web Browser. Poprzednia wersja została udostępniona w 2016 roku, a nowe wydanie przynosi ponowną kompilację z nowszym SDK i szereg poprawek błędów. Ta wersja Odyssey do działania wymaga najnowszego wydania systemu bazowego AROS. 
+Wydana została nowa wersja Odyssey Web Browser. Poprzednia wersja została udostępniona w 2016 roku, a nowe wydanie przynosi ponowną kompilację z nowszym SDK i szereg poprawek błędów. Ta wersja Odyssey do działania wymaga najnowszego wydania systemu bazowego AROS.  
+
+Przeglądarka ma być dalej rozwijana. Kolejnym krokiem będzie wydanie 64-bitowej wersji Odyssey dla systemów AROS, Linux i Windows oraz doprowadzenie jej do poziomu stabilności, który pozwoli na codzienne surfowanie po stronach związanych z Amigą. Wszelkie ulepszenia, które zostaną wprowadzone, będą również dostępne dla 32-bitowej wersji OWB.
 
 ![OWB](/assets/img/owb126.jpg)
 *Odyssey Web Browser*
