@@ -12,6 +12,8 @@ Luty przynosi dobre wieści dla społeczności AROSa. Po blisko dwóch miesiąca
 Aby pobrać ISO i zapoznać się z pełną listą zmian, odwiedź:  
 [https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)
 
+Wydanie nowej wersji bazowej zaowocowało pojawieniem się zaktualizowanej dystrybucji **AROS One 2.4**. Ze względu na ilość zmian zalecana jest czysta instalacja.
+
 ![AROS One 2.4](/assets/img/arosone24.jpg)
 *AROS One 2.4*
 
