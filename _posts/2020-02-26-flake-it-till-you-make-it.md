@@ -8,7 +8,13 @@ ref: 0224
 
 Styczeń stał pod znakiem wdrażania **nowej biblioteki C** w AROS x86. Ta zmiana ma za zadanie ułatwić życie przede wszystkim samym programistom AROSa. Wersja 32-bitowa będzie bardziej zgodna z wersją 64-bitową, więc utrzymanie dwóch linii rozwojowych stanie się łatwiejsze. W dłuższej perspektywie jest to także krok przybliżający AROSa do całkowitego przejścia na wersję 64-bit.
 
-Aktualnie nadal trwają testy kompatybilności oprogramowania, niektóre rzeczy wymagają ponownego przekompilowania. Wszystko to sprawia, że nowego stabilnego builda możemy się spodziewać nie wcześniej niż pod koniec lutego. Jest za to duża szansa, że wraz z nim dostaniemy nieco odświeżoną wersję przeglądarki internetowej OWB.
+{: .box-success}
+Aby pobrać ISO i zapoznać się z pełną listą zmian, odwiedź:  
+[https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)
+
+{: .box-success}
+Pełna lista zmian dla AROS One v2.4:  
+[https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=4150#post_3217](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=4150#post_3217)
 
 Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). Może będzie inspiracją dla nowych twórców oprogramowania? :)
 
