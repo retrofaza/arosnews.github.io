@@ -21,8 +21,10 @@ Pełna lista zmian dla AROS One v2.4:
 
 Na [kanale YouTube Jamesa Mattsona](https://www.youtube.com/@jamesmattson6813/videos) można zobaczyć kilka filmików z działania AROS One 2.4.  
 
+Lista [rekomendowanego sprzętu dla AROSa](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware) wzbogadziła się o dwie płyty główne: *ASUS P8Z68-V LX* oraz *Gigabyte GA-MA770T UD3/UD3P*. Moim zdaniem warto przyjrzeć się konstrucji ASUSa. Na tę chwilę jest to najnowszy i najmocniejszy sprzęt z listy rekomendowanych, niedrogi i szeroko dostępny w serwisach aukcyjnych. Jeśli planujesz zakup sprzętu pod AROSa będzie to najlepszy wybór. Rekomendowane płyty mają zapewnione długoterminowe wsparcie, wszystkie nowe wydania AROSa będą testowane pod względem kompatybilności z nimi. 
+
 ![P8Z68-v LX](/assets/img/p8z68v-lx.jpg)
-*ASUS P8Z68-V LX*
+*Płyta główna ASUS P8Z68-V LX*
 
 Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). W zasadzie robi się to tak samo jak pod linuksem, ale dla osób przywiązanych do Windowsa to takie przypomnienie, że WSL istnieje i działa dobrze :)
 
