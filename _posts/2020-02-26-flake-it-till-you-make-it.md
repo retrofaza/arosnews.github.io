@@ -21,6 +21,9 @@ Pełna lista zmian dla AROS One v2.4:
 
 Na [kanale YouTube Jamesa Mattsona](https://www.youtube.com/@jamesmattson6813/videos) można zobaczyć kilka filmików z działania AROS One 2.4.  
 
+![P8Z68-v LX](/assets/img/p8z68v-lx.jpg)
+*ASUS P8Z68-V LX*
+
 Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). W zasadzie robi się to tak samo jak pod linuksem, ale dla osób przywiązanych do Windowsa to takie przypomnienie, że WSL istnieje i działa dobrze :)
 
 Tradycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
