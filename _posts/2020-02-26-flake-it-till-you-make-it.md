@@ -35,7 +35,7 @@ Puni z demoscenowej grupy Void skompilował dla AROSa dwa music dyski swojej gru
 ![Feedback](/assets/img/feedback11.jpg)
 *Feedback 8 & 11*
 
-> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.4.i386-aros.zip) (v. 2.6.5)
+> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.5.i386-aros.zip) (v. 2.6.5)
 > (autor: Franck "hitchhikr" Charlet)
 
 ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru. 
