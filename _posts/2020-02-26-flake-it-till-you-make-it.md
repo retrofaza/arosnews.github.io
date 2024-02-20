@@ -28,7 +28,7 @@ Lista [rekomendowanego sprzętu dla AROSa](https://en.wikibooks.org/wiki/Aros/Pl
 ![P8Z68-v LX](/assets/img/p8z68v-lx.jpg)
 *Płyta główna ASUS P8Z68-V LX*
 
-Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). W zasadzie robi się to tak samo jak pod linuksem, ale dla osób przywiązanych do Windowsa to takie przypomnienie, że WSL istnieje i działa dobrze :)
+Na blogu zamieściłem [tutorial na temat cross-kompilowania dla AROS pod Windows z WSL2](https://arosnews.github.io/jak-cross-kompilowac-aros-hosted-wsl/). W zasadzie robi się to tak samo jak pod linuksem, ale dla osób przywiązanych do Windowsa to takie przypomnienie, że WSL istnieje i działa dobrze :) Jeśli jesteś programistą, który chciałby zacząć przygodę z AROSem, to Krzysztof "deadwood" Śmiechowicz zamieścił na forum Aros World post z [zasobami dla programistów](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1201). Są tam cenne informacje i linki, które z pewnością ułatwią start.
 
 Tradycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym razem społeczność zdecydowała, że dobrze byłoby rozszerzyć opcje w preferencjach sieci o możliwość łatwego włączenia tetheringu USB.
 
@@ -72,7 +72,7 @@ Zmiany w najnowszej wersji:
 ![Protrekkr 2](/assets/img/ptk265.png)
 *Protrekkr 2*
 
-> ## [MIDIDriver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/mididriver.zip) (v. 1.2)
+> ## [CAMD MIDI Driver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/usbmidi.i386-aros.zip) (v. 1.3)
 > (autorzy: hitchhikr, kalamatee, Alfred Faust, Neil Cafferkey)
 
 Nowy sterownik MIDI dla AROSa.
