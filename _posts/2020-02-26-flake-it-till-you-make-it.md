@@ -72,7 +72,7 @@ Zmiany w najnowszej wersji:
 ![Protrekkr 2](/assets/img/ptk265.png)
 *Protrekkr 2*
 
-> ## [CAMD MIDI Driver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/usbmidi.i386-aros.zip) (v. 1.3)
+> ## [CAMD MIDI Driver](http://archives.aros-exec.org/?function=showfile&file=driver/audio/usbmidi.i386-aros.lha) (v. 1.4)
 > (autorzy: hitchhikr, kalamatee, Alfred Faust, Neil Cafferkey)
 
 Nowy sterownik MIDI dla AROSa.
