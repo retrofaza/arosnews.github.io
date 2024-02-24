@@ -40,7 +40,7 @@ Dzięki tetheringowi możemy korzystać z internetu na AROSie przy pomocy telefo
 ![Tethering USB](/assets/img/tethering.jpg)
 *Tethering USB*
 
-Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1191&pid=3842).
+Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1207).
 
 W lutym nie zabrakło też nowych programów w AROS Archives. Znajdą coś dla siebie fani muzyki, grafiki, gier i demosceny :)
 
