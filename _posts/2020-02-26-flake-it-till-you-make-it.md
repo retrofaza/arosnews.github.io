@@ -55,7 +55,7 @@ Puni z demoscenowej grupy Void skompilował dla AROSa dwa music dyski swojej gru
 ![Feedback](/assets/img/feedback11.jpg)
 *Feedback 8 & 11*
 
-> ## [Protrekkr 2](https://github.com/hitchhikr/protrekkr/releases/download/v2.6.6/ptk_v2.6.6_aros.zip) (v. 2.6.6)
+> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/ptk_v2.6.6.i386-aros.zip) (v. 2.6.6)
 > (autor: Franck "hitchhikr" Charlet)
 
 ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru. 
@@ -82,6 +82,17 @@ Zmiany w najnowszej wersji:
 > (autorzy: hitchhikr, kalamatee, Alfred Faust, Neil Cafferkey)
 
 Nowy sterownik MIDI dla AROSa.
+
+> ## [SonosController](http://archives.aros-exec.org/?function=showfile&file=audio/misc/sonoscontroller.lha) (v. 1.4)
+> (autor: Michael Rupp)
+
+SonosController umożliwia sterowanie głośnikami Sonos z dowolnej Amigi podłączonej do tej samej sieci.
+
+Wersja 1.4 to pierwsze wydanie dla AROS x86.
+
+![SonosController](/assets/img/sonos.jpg)
+*SonosController*
+
 
 > ## [BOH](http://archives.aros-exec.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.3)
 > (autor: Simone Bevilacqua "Saimo")
