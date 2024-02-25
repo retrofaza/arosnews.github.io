@@ -39,7 +39,7 @@ Dzięki tetheringowi możemy korzystać z internetu na AROSie przy pomocy telefo
 
 ![Tethering USB](/assets/img/te1.png)
 
-![Tethering USB](/assets/img/te2.png)
+![Tethering USB](/assets/img/te2.png)  
 *Tethering USB*
 
 Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1207).
