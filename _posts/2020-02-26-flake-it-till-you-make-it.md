@@ -37,7 +37,8 @@ Tradycją już staje się cykliczna ankieta na "Irytujący bug miesiąca". Tym r
 
 Dzięki tetheringowi możemy korzystać z internetu na AROSie przy pomocy telefonu z androidem podłączonego kablem USB. Pozwala to cieszyć się siecią nawet na urządzeniach, które nie posiadają wspieranej karty sieciowej. Tethering USB był obecny w AROS od dawna, ale przez brak opcji do łatwej aktywacji wielu użytkowników nie miało o jego istnieniu pojęcia. Teraz dzięki **deadwood**'owi można odpowiednią opcję "wyklikać".
 
-![Tethering USB](/assets/img/tethering.jpg)
+![Tethering USB](/assets/img/te1.png)  
+![Tethering USB](/assets/img/te2.png)
 *Tethering USB*
 
 Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w [kolejnym głosowaniu](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1207).
