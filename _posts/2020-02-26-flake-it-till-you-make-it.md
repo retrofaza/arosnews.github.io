@@ -90,7 +90,7 @@ SonosController umożliwia sterowanie głośnikami Sonos z dowolnej Amigi podł�
 
 Wersja 1.4 to pierwsze wydanie dla AROS x86.
 
-![SonosController](/assets/img/sonos.jpg)
+![SonosController](/assets/img/sonos.png)
 *SonosController*
 
 
