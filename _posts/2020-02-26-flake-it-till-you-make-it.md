@@ -74,7 +74,7 @@ Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
 - różne czcionki dla programu
 - wiele instrukcji, w tym instrukcje dla Bars & Pipes Pro 2.5
 
-![Bars&Pipes](/assets/img/barspipes.jpg)
+![Bars&Pipes](/assets/img/barspipes.png)
 *Bars & Pipes*
 
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.2)
