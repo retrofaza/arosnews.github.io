@@ -25,16 +25,23 @@ Nowości w AROS Archives z marca:
 ![Raylib](/assets/img/raylib5.png)
 *Raylib 5*
 
-> ## [Arrakis demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/arrakis.i386-aros.zip) (v. 1.0)
 > ## [Nano demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/nano.i386-aros.zip) (v. 1.2)
+> ## [Arrakis demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/arrakis.i386-aros.zip) (v. 1.0)
 > (autorzy: Kakiarts/TRBL)
 
-![Raylib](/assets/img/arrakis.png)
-*Arrakis & Nano demos*
+Nano i Arrakis to porty dla AROSa dwóch dem wydanych oryginalnie na Apple iPod Nano G1. Porty skompilował dla AROSa Farox.
+
+Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich pierwsze demo dla Apple iPod Nano G1. Dekadę później na demoparty Nordlicht 2016 grupa wydała drugie demo - Arrakis.
+
+Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
+
+![Arrakis](/assets/img/arrakis.png)
+*Dema Nano i Arrakis*
 
 > ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb14-aros.i386-aros.zip) (nr 14)
 > (autor: Void)
 
+Ten music-pack zawiera większość zgłoszeń z 4-kanałowego Amiga music-compo na GERP 2023, demo-party zorganizowanym w Szwecji w styczniu 2023 roku. W porównaniu z packami nr 10 i 11 prezentowanymi w zeszłym miesiącu, wydanie nr 14 posiada także nową oprawę graficzną.
 
 ![Feedback](/assets/img/fb14.png)
 *Feedback nr 14*
