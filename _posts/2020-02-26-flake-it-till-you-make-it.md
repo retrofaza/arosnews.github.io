@@ -22,7 +22,7 @@ Nowości w AROS Archives z marca:
 
 GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, OpenGL ES i Vulkan. Zapewnia proste, niezależne od platformy API do tworzenia okien, kontekstów i powierzchni, odczytu danych wejściowych, obsługi zdarzeń itp.
 
-![GLFW](/assets/img/glfw34.jpg)
+![GLFW](/assets/img/glfw.png)
 *GLFW 3.4*
 
 > ## [Raylib](http://archives.aros-exec.org/?function=showfile&file=development/library/raylib5.i386-aros.zip) (v. 5.0)
@@ -33,7 +33,7 @@ Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Rayl
 Więcej na temat GLFW i Raylib dla AROS znajdziecie na stronie autora portu:
 http://serk118.blogspot.com/
 
-![Raylib](/assets/img/raylib5.png)
+![Raylib](/assets/img/raylib.png)
 *Raylib 5*
 
 > ## [Nano demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/nano.i386-aros.zip) (v. 1.2)
@@ -46,7 +46,7 @@ Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich p
 
 Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
 
-![Arrakis](/assets/img/arrakis.png)
+![Arrakis](/assets/img/nano.jpg)
 *Dema Nano i Arrakis*
 
 > ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb14-aros.i386-aros.zip) (nr 14)
@@ -54,7 +54,7 @@ Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczości
 
 Ten music-pack zawiera większość zgłoszeń z 4-kanałowego Amiga music-compo na GERP 2023, demo-party zorganizowanym w Szwecji w styczniu 2023 roku. W porównaniu z packami nr 10 i 11 prezentowanymi w zeszłym miesiącu, wydanie nr 14 posiada także nową oprawę graficzną.
 
-![Feedback](/assets/img/fb14.png)
+![Feedback](/assets/img/fb14.jpg)
 *Feedback nr 14*
 
 
