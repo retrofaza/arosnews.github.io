@@ -6,7 +6,7 @@ lang: pl
 ref: 0324
 ---
 
-Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad prototypem emulatora ABIv0 dla 64-bitowej wersji AROSa. Deadwood nie spoczywa na laurach i konsekwentnie realizuje swoje wcześniejsze zapowiedzi. Działający emulator umożliwiłby płynne przejście na 64-bitową wersję systemu, nie zmuszając do ponownego przekompilowania całej dostępnej obecnie bazy oprogramowania 32-bit. AROS - pierwszy system AmigaNG, będzie także pierwszym w pełni 64-bitowym systemem AmigaNG :) Warto dodać, że emulator ma działać całkowicie w tle i dla użytkownika nie będzie mieć znaczenia, czy uruchamia wersję 32-bitową oprogramowania, czy jego wersję natywną 64-bit. 
+Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad prototypem emulatora ABIv0 dla 64-bitowej wersji AROSa. Deadwood nie spoczywa na laurach i konsekwentnie [realizuje swoje wcześniejsze zapowiedzi](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=0#post_4072). Działający emulator umożliwiłby płynne przejście na 64-bitową wersję systemu, nie zmuszając do ponownego przekompilowania całej dostępnej obecnie bazy oprogramowania 32-bit. AROS - pierwszy system AmigaNG, będzie także pierwszym w pełni 64-bitowym systemem AmigaNG :) Warto dodać, że emulator ma działać całkowicie w tle, a dla użytkownika nie będzie mieć znaczenia, czy uruchamia wersję 32-bitową oprogramowania, czy jego wersję natywną 64-bit. Docelowo emulator ma być kompatybilny z około 80% starego oprogramowania, pozostała część będzie wymagać przekompilowania. Pamiętajmy jednak, że to co jest tworzone obecnie to ciągle jedynie prototyp, a w pełni funkcjonalnego rozwiązania, zgodnie z planem rozwoju, możemy się spodziewać bardziej w perspektywie najbliższych lat niż miesięcy.
 
 W marcowej ankiecie na "Irytujący bug miesiąca" zdecydowaną większością głosów zwyciężył błąd w ahci.device. Problem polegał na tym, że podczas operacji "Wipe Disk" jedynie 7,9 GB zostawało przydzielane do partycji, niezależnie od rozmiaru dysku. Aktualnie, po naprawie tego błędu, partycja może już zajmować cały dysk (ale nie więcej niż 179 GB, bo tyle wynosi ciągle limit w AROS dla pojedynczej partycji). Przy okazji został skrócony o połowę czas bootowania urządzenia AHCI i jednocześnie wprowadzono nowy opcjonalny argument w bootmenu - "slowerstart", który przywraca dłuższy czas ładowania.  
 
@@ -31,7 +31,7 @@ GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, O
 Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Raylib jest silnie inspirowany biblioteką graficzną Borland BGI i frameworkiem XNA i szczególnie dobrze nadaje się do prototypowania, narzędzi, aplikacji graficznych, systemów wbudowanych i edukacji. Dzięki serk118 mamy tę bibliotekę na AROSie w najnowszej wersji 5.0.
 
 Więcej na temat GLFW i Raylib dla AROS znajdziecie na stronie autora portu:
-http://serk118.blogspot.com/
+[http://serk118.blogspot.com](http://serk118.blogspot.com)
 
 ![Raylib](/assets/img/raylib.png)
 *Raylib 5*
@@ -81,6 +81,3 @@ Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
 > (autorzy: Aros, Third Part Dev)
 
 Icaros to swego czasu najpopularniejsza dystrybucja AROSa. Niestety od kilku lat nieaktualizowana. W tym archiwum znajduje się zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki. Jest to nieoficjalna poprawka.
-
-![IcarosFix](/assets/img/icarosfix.jpg)
-*IcarosFix - Małe poprawki dla Icaros v2.3*
