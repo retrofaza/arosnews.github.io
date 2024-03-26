@@ -6,7 +6,7 @@ lang: pl
 ref: 0324
 ---
 
-Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad emulatorem ABIv0 dla 64-bitowej wersji AROSa. Deadwood nie spoczywa na laurach i konsekwentnie realizuje swoje wcześniejsze zapowiedzi. Działający emulator umożliwiłby płynne przejście na 64-bitową wersję systemu, nie zmuszając do ponownego przekompilowania całej dostępnej obecnie bazy oprogramowania 32-bit. AROS - pierwszy system AmigaNG, będzie także pierwszym w pełni 64-bitowym systemem AmigaNG :) Warto dodać, że emulator ma działać całkowicie w tle i dla użytkownika nie będzie mieć znaczenia, czy uruchamia wersję 32-bitowa oprogramowania, czy jego wersję natywną 64-bit. 
+Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad emulatorem ABIv0 dla 64-bitowej wersji AROSa. Deadwood nie spoczywa na laurach i konsekwentnie realizuje swoje wcześniejsze zapowiedzi. Działający emulator umożliwiłby płynne przejście na 64-bitową wersję systemu, nie zmuszając do ponownego przekompilowania całej dostępnej obecnie bazy oprogramowania 32-bit. AROS - pierwszy system AmigaNG, będzie także pierwszym w pełni 64-bitowym systemem AmigaNG :) Warto dodać, że emulator ma działać całkowicie w tle i dla użytkownika nie będzie mieć znaczenia, czy uruchamia wersję 32-bitową oprogramowania, czy jego wersję natywną 64-bit. 
 
 
 Nowości w AROS Archives z marca:
