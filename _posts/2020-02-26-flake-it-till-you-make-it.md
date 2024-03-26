@@ -13,7 +13,7 @@ Nowości w AROS Archives z marca:
 > ## [GLFW](http://archives.aros-exec.org/?function=showfile&file=development/library/glfw3_4.i386-aros.zip) (v.3.4)
 > (autor: serk118)
 
- 
+GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, OpenGL ES i Vulkan. Zapewnia proste, niezależne od platformy API do tworzenia okien, kontekstów i powierzchni, odczytu danych wejściowych, obsługi zdarzeń itp.
 
 ![GLFW](/assets/img/glfw34.jpg)
 *GLFW 3.4*
@@ -21,6 +21,10 @@ Nowości w AROS Archives z marca:
 > ## [Raylib](http://archives.aros-exec.org/?function=showfile&file=development/library/raylib5.i386-aros.zip) (v. 5.0)
 > (autor: serk118)
 
+Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Raylib jest silnie inspirowany biblioteką graficzną Borland BGI i frameworkiem XNA i szczególnie dobrze nadaje się do prototypowania, narzędzi, aplikacji graficznych, systemów wbudowanych i edukacji. Dzięki serk118 mamy tę bibliotekę na AROSie w najnowszej wersji 5.0.
+
+Więcej na temat GLFW i Raylib dla AROS znajdziecie na stronie autora portu:
+http://serk118.blogspot.com/
 
 ![Raylib](/assets/img/raylib5.png)
 *Raylib 5*
@@ -69,7 +73,7 @@ Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.2)
 > (autorzy: Aros, Third Part Dev)
 
-Zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki tymi z archiwum. Jest to nieoficjalna poprawka.
+Icaros to swego czasu najpopularniejsza dystrybucja AROSa. Niestety od kilku lat nieaktualizowana. W tym archiwum znajduje się zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki. Jest to nieoficjalna poprawka.
 
 ![IcarosFix](/assets/img/icarosfix.jpg)
-*IcarosFix - Little fix for Icaros v2.3*
+*IcarosFix - Małe poprawki dla Icaros v2.3*
