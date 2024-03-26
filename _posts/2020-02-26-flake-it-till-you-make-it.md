@@ -63,10 +63,10 @@ Po tym, jak Franck Charlet - jeden z głównych deweloperów AROS - zadał sobie
 Alfred Faust zintegrował tę nową opcję z Bars & Pipes dla AROS. Dostępnych jest 16 nowych niezależnych narzędzi MIDI-IN i MIDI-OUT. Udało się zaimplementować 138 narzędzi (w tym 32 narzędzia MIDI) i 1 akcesorium dla AROS-a. Do implementacji wykorzystana została najnowsza wersja dystrybucji AROSone z AROS w wersji Build ABI_V0 z 30 stycznia 2024 roku.
 
 Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
-- pliki programu (BarsnPipes, narzędzia, akcesoria, 64-kolorowy interfejs itp.)
+- pliki programu (Bars & Pipes, narzędzia, akcesoria, 64-kolorowy interfejs itp.)
 - nowe pliki systemowe (camd.library, camdusbmidi.class, usbmidi - nowy sterownik)
 - różne czcionki dla programu
-- wiele instrukcji, w tym instrukcje dla Bars&Pipes Pro 2.5 Pro
+- wiele instrukcji, w tym instrukcje dla Bars & Pipes Pro 2.5
 
 ![Bars&Pipes](/assets/img/barspipes.jpg)
 *Bars & Pipes*
