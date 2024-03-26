@@ -10,7 +10,7 @@ Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad proto
 
 W marcowej ankiecie na "Irytujący bug miesiąca" zdecydowaną większością głosów zwyciężył błąd w ahci.device. Problem polegał na tym, że podczas operacji "Wipe Disk" jedynie 7,9 GB zostawało przydzielane do partycji, niezależnie od rozmiaru dysku. Aktualnie, po naprawie tego błędu, partycja może już zajmować cały dysk (ale nie więcej niż 179 GB, bo tyle wynosi ciągle limit w AROS dla pojedynczej partycji). Przy okazji został skrócony o połowę czas bootowania urządzenia AHCI i jednocześnie wprowadzono nowy opcjonalny argument w bootmenu - "slowerstart", który przywraca dłuższy czas ładowania.  
 
-![Irytujący bug miesiąca](/assets/img/ibotm0324.jpg)
+![Irytujący bug miesiąca](/assets/img/ibotm0324.png)
 *Irytujący bug miesiąca - marzec 2024*
 
 Jak zwykle zachęcam do wzięcia udziału w kolejnym głosowaniu. Tym razem dla uczczenia pół roku działalności ankiety czeka nas niespodzianka - aż dwa błędy zostaną wytypowane i naprawione :) [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). 
