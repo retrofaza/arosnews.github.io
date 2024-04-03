@@ -1,40 +1,38 @@
 ---
 layout: post
-title: AROS x86 - marzec 2024
+title: AROS x86 - kwiecień 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0324
+ref: 0424
 ---
 
-Najbardziej ekscytującą wiadomością w marcu jest rozpoczęcie prac nad prototypem emulatora ABIv0 dla 64-bitowej wersji AROSa. Deadwood nie spoczywa na laurach i konsekwentnie [realizuje swoje wcześniejsze zapowiedzi](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=0#post_4072). Działający emulator umożliwiłby płynne przejście na 64-bitową wersję systemu, nie zmuszając do ponownego przekompilowania całej dostępnej obecnie bazy oprogramowania 32-bit. AROS - pierwszy system AmigaNG, będzie także pierwszym w pełni 64-bitowym systemem AmigaNG :) Warto dodać, że emulator ma działać całkowicie w tle, a dla użytkownika nie będzie mieć znaczenia, czy uruchamia wersję 32-bitową oprogramowania, czy jego wersję natywną 64-bit. Docelowo emulator ma być kompatybilny z około 80% starego oprogramowania, pozostała część będzie wymagać przekompilowania. Pamiętajmy jednak, że to co jest tworzone obecnie to ciągle jedynie prototyp, a w pełni funkcjonalnego rozwiązania, zgodnie z planem rozwoju, możemy się spodziewać bardziej w perspektywie najbliższych lat niż miesięcy.
 
-W marcowej ankiecie na "Irytujący bug miesiąca" zdecydowaną większością głosów zwyciężył błąd w ahci.device. Problem polegał na tym, że podczas operacji "Wipe Disk" jedynie 7,9 GB zostawało przydzielane do partycji, niezależnie od rozmiaru dysku. Aktualnie, po naprawie tego błędu, partycja może już zajmować cały dysk (ale nie więcej niż 179 GB, bo tyle wynosi ciągle limit w AROS dla pojedynczej partycji). Przy okazji został skrócony o połowę czas bootowania urządzenia AHCI i jednocześnie wprowadzono nowy opcjonalny argument w bootmenu - "slowerstart", który przywraca dłuższy czas ładowania.  
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0324.png)
 *Irytujący bug miesiąca - marzec 2024*
 
 Jak zwykle zachęcam do wzięcia udziału w kolejnym głosowaniu. Tym razem dla uczczenia pół roku działalności ankiety czeka nas niespodzianka - aż dwa błędy zostaną wytypowane i naprawione :) [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). 
 
-Nowości w AROS Archives z marca:
+Nowości w AROS Archives z kwietnia:
 
-> ## [GLFW](http://archives.aros-exec.org/?function=showfile&file=development/library/glfw3_4.i386-aros.zip) (v.3.4)
-> (autor: serk118)
+> ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
+> (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
 
 GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, OpenGL ES i Vulkan. Zapewnia proste, niezależne od platformy API do tworzenia okien, kontekstów i powierzchni, odczytu danych wejściowych, obsługi zdarzeń itp.
 
-![GLFW](/assets/img/glfw.png)
-*GLFW 3.4*
+![ScummVM](/assets/img/scummvm.png)
+*ScummVM 1.9.0*
 
-> ## [Raylib](http://archives.aros-exec.org/?function=showfile&file=development/library/raylib5.i386-aros.zip) (v. 5.0)
-> (autor: serk118)
+> ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
+> (autorzy: Thomas Allen, Torbjorn Andersson i wielu innych)
 
 Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Raylib jest silnie inspirowany biblioteką graficzną Borland BGI i frameworkiem XNA i szczególnie dobrze nadaje się do prototypowania, narzędzi, aplikacji graficznych, systemów wbudowanych i edukacji. Dzięki serk118 mamy tę bibliotekę na AROSie w najnowszej wersji 5.0.
 
 Więcej na temat GLFW i Raylib dla AROS znajdziecie na stronie autora portu:
 [http://serk118.blogspot.com](http://serk118.blogspot.com)
 
-![Raylib](/assets/img/raylib.png)
-*Raylib 5*
+![ResidualVM](/assets/img/residualvm.png)
+*ResidualVM*
 
 > ## [Nano demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/nano.i386-aros.zip) (v. 1.2)
 > ## [Arrakis demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/arrakis.i386-aros.zip) (v. 1.0)
@@ -77,7 +75,7 @@ Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
 ![Bars&Pipes](/assets/img/barspipes.png)
 *Bars & Pipes*
 
-> ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.2)
+> ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.3)
 > (autorzy: Aros, Third Part Dev)
 
 Icaros to swego czasu najpopularniejsza dystrybucja AROSa. Niestety od kilku lat nieaktualizowana. W tym archiwum znajduje się zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki. Jest to nieoficjalna poprawka.
