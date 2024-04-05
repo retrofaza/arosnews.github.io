@@ -49,24 +49,13 @@ ADoom 3
 *ADoom 3*
 
 
-> ## [Bars & Pipes](http://archives.aros-exec.org/?function=showfile&file=audio/edit/barsnpipesaros.lha) (v. 1.0)
-> ## [Bars & Pipes Dev_Tools](http://archives.aros-exec.org/?function=showfile&file=audio/edit/bp_dev_tools_accessories.zip) (v. 1.0)
-> (autorzy: Blue Ribbon, Alfred Faust)
+> ## [What IFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 3.13)
+> (autorzy: A. Vaisey, I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, T. Paul)
 
-Bars & Pipes to sekwencer MIDI o bardzo kreatywnych możliwościach. Wrzucając narzędzia do Pipelines, można łatwo eksperymentować bez wprowadzania trwałych zmian w nagranym utworze.
+Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień 2024.
 
-Po tym, jak Franck Charlet - jeden z głównych deweloperów AROS - zadał sobie trud napisania sterownika, który jest łącznikiem między camd.library i camdusbmidi.class stosu USB Poseidon, Alfred Faust ukończył implementację Bars & Pipes na AROS-ie. Sterownik jest pierwszym, który jest naprawdę dobrze funkcjonującym MIDI dla AROS-a. Zawsze działa z JEDNYM interfejsem MIDI. Może on jednak mieć kilka portów - do 16. Teoretycznie, z 16-portowym interfejsem USB-MIDI, można zaadresować 16x16 = 256 niezależnych kanałów MIDI (instrumentów).
-
-Alfred Faust zintegrował tę nową opcję z Bars & Pipes dla AROS. Dostępnych jest 16 nowych niezależnych narzędzi MIDI-IN i MIDI-OUT. Udało się zaimplementować 138 narzędzi (w tym 32 narzędzia MIDI) i 1 akcesorium dla AROS-a. Do implementacji wykorzystana została najnowsza wersja dystrybucji AROSone z AROS w wersji Build ABI_V0 z 30 stycznia 2024 roku.
-
-Archiwum Bars & Pipes zawiera również wszystkie wymagane pliki:
-- pliki programu (Bars & Pipes, narzędzia, akcesoria, 64-kolorowy interfejs itp.)
-- nowe pliki systemowe (camd.library, camdusbmidi.class, usbmidi - nowy sterownik)
-- różne czcionki dla programu
-- wiele instrukcji, w tym instrukcje dla Bars & Pipes Pro 2.5
-
-![Bars&Pipes](/assets/img/barspipes.png)
-*Bars & Pipes*
+![What IFF?](/assets/img/whatiff.png)
+*What IFF?*
 
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.3)
 > (autorzy: Aros, Third Part Dev)
