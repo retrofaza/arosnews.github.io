@@ -55,7 +55,7 @@ ADoom 3
 Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień 2024.
 
 ![What IFF?](/assets/img/whatiff.png)
-*What IFF?*
+*What IFF? - kwiecień 2024*
 
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.3)
 > (autorzy: Aros, Third Part Dev)
