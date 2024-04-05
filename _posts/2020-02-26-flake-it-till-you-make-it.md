@@ -18,7 +18,7 @@ Nowości w AROS Archives z kwietnia:
 > ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
 > (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
 
-GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, OpenGL ES i Vulkan. Zapewnia proste, niezależne od platformy API do tworzenia okien, kontekstów i powierzchni, odczytu danych wejściowych, obsługi zdarzeń itp.
+ScummVM
 
 ![ScummVM](/assets/img/scummvm.png)
 *ScummVM 1.9.0*
@@ -26,34 +26,27 @@ GLFW to wieloplatformowa biblioteka Open Source do tworzenia aplikacji OpenGL, O
 > ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
 > (autorzy: Thomas Allen, Torbjorn Andersson i wielu innych)
 
-Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Raylib jest silnie inspirowany biblioteką graficzną Borland BGI i frameworkiem XNA i szczególnie dobrze nadaje się do prototypowania, narzędzi, aplikacji graficznych, systemów wbudowanych i edukacji. Dzięki serk118 mamy tę bibliotekę na AROSie w najnowszej wersji 5.0.
-
-Więcej na temat GLFW i Raylib dla AROS znajdziecie na stronie autora portu:
-[http://serk118.blogspot.com](http://serk118.blogspot.com)
+ResidualVM
 
 ![ResidualVM](/assets/img/residualvm.png)
 *ResidualVM*
 
-> ## [Nano demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/nano.i386-aros.zip) (v. 1.2)
-> ## [Arrakis demo](http://archives.aros-exec.org/?function=showfile&file=demo/scene/arrakis.i386-aros.zip) (v. 1.0)
-> (autorzy: Kakiarts/TRBL)
+> ## [ScummVM_Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/scummvm_kens.lha) (v. 0.5)
+> ## [ResidualVM-Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/residualvm-kens.lha) (v. 0.5)
+> (autor: amiwell79)
 
-Nano i Arrakis to porty dla AROSa dwóch dem wydanych oryginalnie na Apple iPod Nano G1. Porty skompilował dla AROSa Farox.
+Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM oraz gry Myst 3.
 
-Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich pierwsze demo dla Apple iPod Nano G1. Dekadę później na demoparty Nordlicht 2016 grupa wydała drugie demo - Arrakis.
+![Kens](/assets/img/kens.jpg)
+*Zestaw ikon w stylu Kens*
 
-Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
+> ## [ADoom3](http://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.i386-aros.zip) (v. 1.5.3)
+> (autor: Nick "Kalamatee" Andrews)
 
-![Arrakis](/assets/img/nano.jpg)
-*Dema Nano i Arrakis*
+ADoom 3
 
-> ## [Feedback](http://archives.aros-exec.org/?function=showfile&file=demo/music/void-fb14-aros.i386-aros.zip) (nr 14)
-> (autor: Void)
-
-Ten music-pack zawiera większość zgłoszeń z 4-kanałowego Amiga music-compo na GERP 2023, demo-party zorganizowanym w Szwecji w styczniu 2023 roku. W porównaniu z packami nr 10 i 11 prezentowanymi w zeszłym miesiącu, wydanie nr 14 posiada także nową oprawę graficzną.
-
-![Feedback](/assets/img/fb14.jpg)
-*Feedback nr 14*
+![ADoom3](/assets/img/adoom3.jpg)
+*ADoom 3*
 
 
 > ## [Bars & Pipes](http://archives.aros-exec.org/?function=showfile&file=audio/edit/barsnpipesaros.lha) (v. 1.0)
