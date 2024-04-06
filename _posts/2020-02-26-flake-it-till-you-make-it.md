@@ -57,7 +57,7 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień
 ![What IFF?](/assets/img/whatiff.png)
 *What IFF? - kwiecień 2024*
 
-> ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=utility/misc/icarosfix.zip) (v. 2.3.3)
+> ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=development/utility/icaros_2.3_fix.lha) (v. 2.3.4)
 > (autorzy: Aros, Third Part Dev)
 
 Icaros to swego czasu najpopularniejsza dystrybucja AROSa. Niestety od kilku lat nieaktualizowana. W tym archiwum znajduje się zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki. Jest to nieoficjalna poprawka.
