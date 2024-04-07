@@ -45,7 +45,7 @@ Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM oraz gry Myst 3.
 
 ADoom 3
 
-![ADoom3](/assets/img/adoom3.jpg)
+![ADoom3](/assets/img/doom3.jpg)
 *ADoom 3*
 
 
