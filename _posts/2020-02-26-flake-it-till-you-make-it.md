@@ -8,8 +8,8 @@ ref: 0424
 
 
 
-![Irytujący bug miesiąca](/assets/img/ibotm0324.png)
-*Irytujący bug miesiąca - marzec 2024*
+![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
+*Irytujący bug miesiąca - kwiecień 2024*
 
 Jak zwykle zachęcam do wzięcia udziału w kolejnym głosowaniu. Tym razem dla uczczenia pół roku działalności ankiety czeka nas niespodzianka - aż dwa błędy zostaną wytypowane i naprawione :) [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). 
 
