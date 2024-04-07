@@ -20,7 +20,7 @@ Nowości w AROS Archives z kwietnia:
 
 ScummVM
 
-![ScummVM](/assets/img/scummvm.png)
+![ScummVM](/assets/img/scumm.png)
 *ScummVM 1.9.0*
 
 > ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
@@ -37,7 +37,7 @@ ResidualVM
 
 Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM oraz gry Myst 3.
 
-![Kens](/assets/img/kens.jpg)
+![Kens](/assets/img/iconscumm.png)
 *Zestaw ikon w stylu Kens*
 
 > ## [ADoom3](http://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.i386-aros.zip) (v. 1.5.3)
@@ -54,7 +54,7 @@ ADoom 3
 
 Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień 2024.
 
-![What IFF?](/assets/img/whatiff.png)
+![What IFF?](/assets/img/whatiff13.png)
 *What IFF? - kwiecień 2024*
 
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=development/utility/icaros_2.3_fix.lha) (v. 2.3.4)
