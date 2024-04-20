@@ -33,9 +33,11 @@ ResidualVM
 
 > ## [ScummVM_Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/scummvm_kens.lha) (v. 0.5)
 > ## [ResidualVM-Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/residualvm-kens.lha) (v. 0.5)
+> ## [DOSBox Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/dosbox-kens.lha) (v. 0.1)
+> ## [MBX Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/mbx-kens-unofficial.lha)(v. 0.1)
 > (autor: amiwell79)
 
-Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM oraz gry Myst 3.
+Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM, DOSBox oraz gier Myst i MBX.
 
 ![Kens](/assets/img/iconscumm.png)
 *Zestaw ikon w stylu Kens*
@@ -48,6 +50,37 @@ ADoom 3
 ![ADoom3](/assets/img/doom3.jpg)
 *ADoom 3*
 
+> ## [MBX Magical Broom Ex](http://archives.aros-exec.org/?function=showfile&file=game/action/mbx.i386-aros.zip) (v. 1.0)
+> (autor: Farox)
+
+MBX Magical Broom Ex
+
+![MBX Magical Broom Ex](/assets/img/mbx.jpg)
+*Magical Broom Extreme (MBX)*
+
+> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.6.7)
+> (autor: Franck "hitchhikr" Charlet)
+
+Protrekkr 2
+
+![Protrekkr](/assets/img/protrekkr267.jpg)
+*Protrekkr 2*
+
+> ## [Origami Intro](http://archives.aros-exec.org/?function=showfile&file=demo/intro/origami.i386-aros.zip) (v. 1.0)
+> (autor: Faemiyah Demogroup)
+
+Origami Intro
+
+![Origami Intro](/assets/img/origami.jpg)
+*Origami Intro*
+
+> ## [The Fulcrum](http://archives.aros-exec.org/?function=showfile&file=demo/scene/thefulcrum.i386-aros.zip) (v. 1.0)
+> (autor: Matrix Demogroup)
+
+The Fulcrum
+
+![The Fulcrum](/assets/img/fulcrum.jpg)
+*The Fulcrum*
 
 > ## [What IFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 3.13)
 > (autorzy: A. Vaisey, I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, T. Paul)
