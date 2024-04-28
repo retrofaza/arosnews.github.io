@@ -75,12 +75,20 @@ Origami Intro
 *Origami Intro*
 
 > ## [The Fulcrum](http://archives.aros-exec.org/?function=showfile&file=demo/scene/thefulcrum.i386-aros.zip) (v. 1.0)
-> (autor: Matrix Demogroup)
+> (autorzy: Matrix Demogroup)
 
 The Fulcrum
 
 ![The Fulcrum](/assets/img/fulcrum.jpg)
 *The Fulcrum*
+
+> ## [DUMB](http://archives.aros-exec.org/?function=showfile&file=development/library/libdumb.i386-aros.zip) (v. 0.93)
+> (autorzy: Dumb team/M-HT)
+
+DUMB
+
+![DUMB](/assets/img/dumb.png)
+*DUMB - "Dynamic Universal Music Bibliotheque"*
 
 > ## [What IFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 3.13)
 > (autorzy: A. Vaisey, I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, T. Paul)
