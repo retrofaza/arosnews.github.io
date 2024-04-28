@@ -63,7 +63,7 @@ MBX Magical Broom Ex
 
 Protrekkr 2
 
-![Protrekkr](/assets/img/protrekkr267.jpg)
+![Protrekkr](/assets/img/protrekkr267.png)
 *Protrekkr 2*
 
 > ## [Origami Intro](http://archives.aros-exec.org/?function=showfile&file=demo/intro/origami.i386-aros.zip) (v. 1.0)
