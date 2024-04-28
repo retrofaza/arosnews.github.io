@@ -90,6 +90,14 @@ DUMB
 ![DUMB](/assets/img/dumb.png)
 *DUMB - "Dynamic Universal Music Bibliotheque"*
 
+> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.6)
+> (autor: Bernd Assenmacher)
+
+Image2PDF
+
+![Image2PDF](/assets/img/image2pdf26.png)
+*Image2PDF*
+
 > ## [What IFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 3.13)
 > (autorzy: A. Vaisey, I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, T. Paul)
 
