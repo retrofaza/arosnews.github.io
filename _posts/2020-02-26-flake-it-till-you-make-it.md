@@ -85,7 +85,7 @@ The Fulcrum
 > ## [DUMB](http://archives.aros-exec.org/?function=showfile&file=development/library/libdumb.i386-aros.zip) (v. 0.93)
 > (autorzy: Dumb team/M-HT)
 
-DUMB
+DUMB to biblioteka odtwarzaczy IT, XM, S3M i MOD opracowana przez Roberta J. Ohannessiana, Juliena Cugnière'a i Bena Davisa. Dzięki Faroxowi, który skompilował ją na potrzeby portu dema Fulcrum, jest teraz dostępna dla wszystkich programistów AROSa do wykorzystania w swoich projektach. 
 
 ![DUMB](/assets/img/dumb.png)
 *DUMB - "Dynamic Universal Music Bibliotheque"*
