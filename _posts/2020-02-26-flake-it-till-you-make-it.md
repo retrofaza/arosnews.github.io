@@ -6,7 +6,10 @@ lang: pl
 ref: 0424
 ---
 
-
+W kwietniowej ankiecie na "irytującegobuga miesiąca" zostały wytypowane dwa: 
+#116 (Wanderer: Allow deleting by pressing Del key)
+#105 (DiskInfo showing OFS instead of FAT)
+Łatki do tych błędów zostały przygotowane przez Deadwooda i można je już pobrać z forum AROSWorld w wątku poświęconym [kwietniowej ankiecie](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). Trafią też do kolejnego builda, gdy tylko zostanie wydany.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
 *Irytujący bug miesiąca - kwiecień 2024*
