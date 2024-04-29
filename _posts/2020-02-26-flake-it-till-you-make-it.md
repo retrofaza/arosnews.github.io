@@ -45,17 +45,19 @@ Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM, DOSBox oraz gie
 > ## [ADoom3](http://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.i386-aros.zip) (v. 1.5.3)
 > (autor: Nick "Kalamatee" Andrews)
 
-ADoom 3
+dhewm 3 jest portem źródłowym Doom 3 GPL. Działa na Windows, Linux, macOS, FreeBSD, OpenBSD i AROS, ale powinien działać (lub być łatwo przenośny na każdy system obsługujący OpenGL 1.4 z shaderami ARB, SDL i OpenAL. W porównaniu do oryginalnej wersji Doom3, dhewm3 ma wiele poprawek błędów, obsługuje efekty dźwiękowe podobne do EAX na wszystkich systemach operacyjnych i sprzęcie (poprzez OpenAL Softs EFX), ma znacznie lepszą obsługę rozdzielczości panoramicznych i 64-bitową wsparcie.
+
+Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez Deremona. 
 
 ![ADoom3](/assets/img/doom3.jpg)
 *ADoom 3*
 
-> ## [MBX Magical Broom Ex](http://archives.aros-exec.org/?function=showfile&file=game/action/mbx.i386-aros.zip) (v. 1.0)
+> ## [MBX Magical Broom Extreme](http://archives.aros-exec.org/?function=showfile&file=game/action/mbx.i386-aros.zip) (v. 1.0)
 > (autor: Farox)
 
-MBX Magical Broom Ex
+Magical Broom Extreme to darmowa horyzontalna strzelanka od japońskiego dewelopera Twin-Tail. Charakteryzuje się trójwymiarowymi efektami broni i całkiem wiągającą rozgrywką. W grze sterujesz czarownicą latającą na miotle. Twoim celem jest przetrwanie podróży do końca etapu. Gra została przeportowana dla AROSa przez Faroxa.
 
-![MBX Magical Broom Ex](/assets/img/mbx.jpg)
+![MBX Magical Broom Extreme](/assets/img/mbx.jpg)
 *Magical Broom Extreme (MBX)*
 
 > ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.6.7)
