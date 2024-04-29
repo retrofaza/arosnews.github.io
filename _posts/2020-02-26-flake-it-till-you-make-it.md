@@ -135,6 +135,14 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień
 ![What IFF?](/assets/img/whatiff13.png)
 *What IFF? - kwiecień 2024*
 
+> ## [High-Low-Equal Poker Card](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 2.10)
+> (autor: Juan Carlos Herrán Martín)
+
+Prosta gra karciana. Odgadnij następną kartę, która pojawi się na stole i zdobądź pieniądze oraz punkty. Jest to specjalna wersja promująca inną grę autora  - Los Malditos del Valle del Cerro, która pojawiła się w marcowym podsumowaniu.
+
+![HLE Poker Card?](/assets/img/hlepoker.jpg)
+*High-Low-Equal Poker Card*
+
 > ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=development/utility/icaros_2.3_fix.lha) (v. 2.3.4)
 > (autorzy: Aros, Third Part Dev)
 
