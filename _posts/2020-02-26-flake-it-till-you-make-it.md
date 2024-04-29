@@ -77,7 +77,8 @@ Origami Intro
 > ## [The Fulcrum](http://archives.aros-exec.org/?function=showfile&file=demo/scene/thefulcrum.i386-aros.zip) (v. 1.0)
 > (autorzy: Matrix Demogroup)
 
-The Fulcrum
+Kolejna demoscenowa produkcja przeportowana dla AROSa przez Faroxa. The Fulcrum to zwycięskie demo z party Mekka & Symposium 1998. To wydanie dla AROS opiera się na imponującej pracy wykonanej przez M-HT, który przekonwertował wszystkie źródła ASM na
+C++/SDL i wydał dla Linuksa i OpenPandora Handheld kilka lat temu. Jego źródła znajdują się tutaj https://github.com/M-HT/fulcrum.
 
 ![The Fulcrum](/assets/img/fulcrum.jpg)
 *The Fulcrum*
