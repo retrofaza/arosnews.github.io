@@ -93,7 +93,20 @@ DUMB
 > ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.6)
 > (autor: Bernd Assenmacher)
 
-Image2PDF
+Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+
+Zmiany w wersji 2.6:
+- zaktualizowany plik instrukcji
+- W systemach MorphOS i AROS plik instrukcji jest teraz kopiowany do szuflady instalacyjnej.
+- W systemie MorphOS polecenie "Path" w s:user-startup jest teraz nieaktywne. Jeśli ma być aktywne, należy je ręcznie odkomentować, zapisać, a następnie zrestartować komputer
+- dodano możliwość skalowania obrazów we wszystkich wybranych formatach
+- dodano możliwość kompresji dokumentów PDF, gdy zainstalowany jest Ghostscript
+- możliwość zmiany orientacji dokumentów PDF (nie w formacie ImageSize)
+- można teraz ustawić margines wydruku
+- użycie wiersza poleceń automatycznie dostosuje orientację (nie dotyczy formatu ImageSize)
+- skompilowano pojedyncze wersje dla obsługiwanych platform
+- usunięto aplet z archiwum
+- dodano funkcję drukowania dokumentów PDF
 
 ![Image2PDF](/assets/img/image2pdf26.png)
 *Image2PDF*
