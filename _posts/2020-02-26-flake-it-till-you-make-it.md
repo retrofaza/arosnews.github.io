@@ -18,7 +18,7 @@ Nowości w AROS Archives z kwietnia:
 > ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
 > (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
 
-ScummVM
+ScummVM – interpretator umożliwiający uruchomienie na współczesnych systemach gier typu wskaż i kliknij. Początkowo zaprojektowany, aby obsługiwać gry firmy LucasArts korzystające z silnika SCUMM (VM w nazwie programu oznacza maszynę wirtualną), teraz obsługuje także produkty innych producentów, takich jak Sierra Entertainment, Revolution Software i Adventure Soft. ScummVM jest wolnym oprogramowaniem, wydanym na licencji GPL. Za sprawą Deremona, ScummVM dla AROSa został uaktualniony do wersji 1.9.0.
 
 ![ScummVM](/assets/img/scumm.png)
 *ScummVM 1.9.0*
