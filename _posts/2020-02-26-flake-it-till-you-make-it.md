@@ -61,7 +61,13 @@ MBX Magical Broom Ex
 > ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.6.7)
 > (autor: Franck "hitchhikr" Charlet)
 
-Protrekkr 2
+ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru.
+
+Zmiany w najnowszej wersji:
+- Naprawiono awarię podczas używania funkcji rand na synth oscs & lfos pod Linuxem
+- Dodano procedurę odtwarzania dla PlayStation Vita
+- Naprawiono awarię podczas ładowania starszych modułów NoiseTrekker
+- Ekran startowy jest teraz opcjonalny
 
 ![Protrekkr](/assets/img/protrekkr267.png)
 *Protrekkr 2*
@@ -69,7 +75,7 @@ Protrekkr 2
 > ## [Origami Intro](http://archives.aros-exec.org/?function=showfile&file=demo/intro/origami.i386-aros.zip) (v. 1.0)
 > (autor: Faemiyah Demogroup)
 
-Origami Intro
+Demoscenowe intro Origami zaprezentowane zostało po raz pierwszy na 64kb introcompo na Assembly 2005, gdzie zajęło trzecie miejsce. Wersja dla AROS skompilowana została przez Faroxa. Do uruchomienia potrzebujesz karty graficznej z obsługą OpenGL.
 
 ![Origami Intro](/assets/img/origami.jpg)
 *Origami Intro*
