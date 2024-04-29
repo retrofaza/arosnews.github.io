@@ -47,7 +47,9 @@ Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM, DOSBox oraz gie
 
 dhewm 3 jest portem źródłowym Doom 3 GPL. Działa na Windows, Linux, macOS, FreeBSD, OpenBSD i AROS, ale powinien działać (lub być łatwo przenośny na każdy system obsługujący OpenGL 1.4 z shaderami ARB, SDL i OpenAL. W porównaniu do oryginalnej wersji Doom3, dhewm3 ma wiele poprawek błędów, obsługuje efekty dźwiękowe podobne do EAX na wszystkich systemach operacyjnych i sprzęcie (poprzez OpenAL Softs EFX), ma znacznie lepszą obsługę rozdzielczości panoramicznych i 64-bitową wsparcie.
 
-Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez Deremona. 
+Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez Deremona.
+
+Do uruchomienia potrzebne są oryginalne pliki z danymi z wersji PC. Zakupić ją można na GOGu: https://www.gog.com/pl/game/doom_3
 
 ![ADoom3](/assets/img/doom3.jpg)
 *ADoom 3*
