@@ -6,10 +6,10 @@ lang: pl
 ref: 0424
 ---
 
-W kwietniowej ankiecie na "irytującegobuga miesiąca" zostały wytypowane dwa:  
-#116 (Wanderer: Allow deleting by pressing Del key)  
-#105 (DiskInfo showing OFS instead of FAT)  
-Łatki do tych błędów zostały przygotowane przez Deadwooda i można je już pobrać z forum AROSWorld w wątku poświęconym [kwietniowej ankiecie](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). Trafią też do kolejnego builda, gdy tylko zostanie wydany.
+W kwietniowej ankiecie na "irytującego buga miesiąca" zostały wytypowane dwa:  
+*#116 (Wanderer: Allow deleting by pressing Del key)*  
+*#105 (DiskInfo showing OFS instead of FAT)*  
+Łatki do tych błędów zostały przygotowane przez **Deadwooda** i można je już pobrać z forum AROSWorld w wątku poświęconym [kwietniowej ankiecie](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). Trafią też do kolejnego builda, gdy tylko zostanie wydany.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
 *Irytujący bug miesiąca - kwiecień 2024*
@@ -21,7 +21,7 @@ Nowości w AROS Archives z kwietnia:
 > ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
 > (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
 
-ScummVM – interpretator umożliwiający uruchomienie na współczesnych systemach gier typu wskaż i kliknij. Początkowo zaprojektowany, aby obsługiwać gry firmy LucasArts korzystające z silnika SCUMM (VM w nazwie programu oznacza maszynę wirtualną), teraz obsługuje także produkty innych producentów, takich jak Sierra Entertainment, Revolution Software i Adventure Soft. ScummVM jest wolnym oprogramowaniem, wydanym na licencji GPL. Za sprawą Deremona, ScummVM dla AROSa został uaktualniony do wersji 1.9.0.
+ScummVM – interpretator umożliwiający uruchomienie na współczesnych systemach gier typu wskaż i kliknij. Początkowo zaprojektowany, aby obsługiwać gry firmy LucasArts korzystające z silnika SCUMM (VM w nazwie programu oznacza maszynę wirtualną), teraz obsługuje także produkty innych producentów, takich jak Sierra Entertainment, Revolution Software i Adventure Soft. ScummVM jest wolnym oprogramowaniem, wydanym na licencji GPL. Za sprawą **Deremona**, ScummVM dla AROSa został uaktualniony do wersji 1.9.0.
 
 ![ScummVM](/assets/img/scumm.png)
 *ScummVM 1.9.0*
@@ -31,7 +31,7 @@ ScummVM – interpretator umożliwiający uruchomienie na współczesnych system
 
 ResidualVM jest wieloplatformowym interpreterem gier 3D o otwartym kodzie źródłowym, umożliwiającym granie w trójwymiarowe gry przygodowe LucasArts oparte na języku Lua/GrimE: Grim Fandango i Escape from Monkey Island, a także Myst 3 i The Longest Journey. Został on przeniesiony na wiele różnych urządzeń i systemów operacyjnych. 
 
-ResidualVM wykorzystuje OpenGL do sprzętowej akceleracji grafiki 3D. Dołączony jest również programowy renderer dla maszyn bez sprzętowego OpenGL. Ostatnia dostępna wersja ResidualVM została skompilowana dla AROSa przez Deremona.
+ResidualVM wykorzystuje OpenGL do sprzętowej akceleracji grafiki 3D. Dołączony jest również programowy renderer dla maszyn bez sprzętowego OpenGL. Ostatnia dostępna wersja ResidualVM została skompilowana dla AROSa przez **Deremona**.
 
 ![ResidualVM](/assets/img/residualvm.png)
 *ResidualVM*
@@ -52,7 +52,7 @@ Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM, DOSBox oraz gie
 
 dhewm 3 jest portem źródłowym Doom 3 GPL. Działa na Windows, Linux, macOS, FreeBSD, OpenBSD i AROS, ale powinien działać (lub być łatwo przenośny na każdy system obsługujący OpenGL 1.4 z shaderami ARB, SDL i OpenAL. W porównaniu do oryginalnej wersji Doom3, dhewm3 ma wiele poprawek błędów, obsługuje efekty dźwiękowe podobne do EAX na wszystkich systemach operacyjnych i sprzęcie (poprzez OpenAL Softs EFX), ma znacznie lepszą obsługę rozdzielczości panoramicznych i 64-bitową wsparcie.
 
-Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez Deremona.
+Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez **Deremona**.
 
 Do uruchomienia potrzebne są oryginalne pliki z danymi z wersji PC. Zakupić ją można na GOGu: https://www.gog.com/pl/game/doom_3
 
@@ -62,7 +62,7 @@ Do uruchomienia potrzebne są oryginalne pliki z danymi z wersji PC. Zakupić j�
 > ## [MBX Magical Broom Extreme](http://archives.aros-exec.org/?function=showfile&file=game/action/mbx.i386-aros.zip) (v. 1.0)
 > (autor: Farox)
 
-Magical Broom Extreme to darmowa horyzontalna strzelanka od japońskiego dewelopera Twin-Tail. Charakteryzuje się trójwymiarowymi efektami broni i całkiem wiągającą rozgrywką. W grze sterujesz czarownicą latającą na miotle. Twoim celem jest przetrwanie podróży do końca etapu. Gra została przeportowana dla AROSa przez Faroxa.
+Magical Broom Extreme to darmowa horyzontalna strzelanka od japońskiego dewelopera Twin-Tail. Charakteryzuje się trójwymiarowymi efektami broni i całkiem wiągającą rozgrywką. W grze sterujesz czarownicą latającą na miotle. Twoim celem jest przetrwanie podróży do końca etapu. Gra została przeportowana dla AROSa przez **Faroxa**.
 
 ![MBX Magical Broom Extreme](/assets/img/mbx.jpg)
 *Magical Broom Extreme (MBX)*
@@ -84,7 +84,7 @@ Zmiany w najnowszej wersji:
 > ## [Origami Intro](http://archives.aros-exec.org/?function=showfile&file=demo/intro/origami.i386-aros.zip) (v. 1.0)
 > (autor: Faemiyah Demogroup)
 
-Demoscenowe intro Origami zaprezentowane zostało po raz pierwszy na 64kb introcompo na Assembly 2005, gdzie zajęło trzecie miejsce. Wersja dla AROS skompilowana została przez Faroxa. Do uruchomienia potrzebujesz karty graficznej z obsługą OpenGL.
+Demoscenowe intro Origami zaprezentowane zostało po raz pierwszy na 64kb introcompo na Assembly 2005, gdzie zajęło trzecie miejsce. Wersja dla AROS skompilowana została przez **Faroxa**. Do uruchomienia potrzebujesz karty graficznej z obsługą OpenGL.
 
 ![Origami Intro](/assets/img/origami.jpg)
 *Origami Intro*
@@ -92,7 +92,7 @@ Demoscenowe intro Origami zaprezentowane zostało po raz pierwszy na 64kb introc
 > ## [The Fulcrum](http://archives.aros-exec.org/?function=showfile&file=demo/scene/thefulcrum.i386-aros.zip) (v. 1.0)
 > (autorzy: Matrix Demogroup)
 
-Kolejna demoscenowa produkcja przeportowana dla AROSa przez Faroxa. The Fulcrum to zwycięskie demo z party Mekka & Symposium 1998. To wydanie dla AROS opiera się na imponującej pracy wykonanej przez M-HT, który przekonwertował wszystkie źródła ASM na
+Kolejna demoscenowa produkcja przeportowana dla AROSa przez **Faroxa**. The Fulcrum to zwycięskie demo z party Mekka & Symposium 1998. To wydanie dla AROS opiera się na imponującej pracy wykonanej przez M-HT, który przekonwertował wszystkie źródła ASM na
 C++/SDL i wydał dla Linuksa i OpenPandora Handheld kilka lat temu. Jego źródła znajdują się tutaj https://github.com/M-HT/fulcrum.
 
 ![The Fulcrum](/assets/img/fulcrum.jpg)
@@ -101,7 +101,7 @@ C++/SDL i wydał dla Linuksa i OpenPandora Handheld kilka lat temu. Jego źród�
 > ## [DUMB](http://archives.aros-exec.org/?function=showfile&file=development/library/libdumb.i386-aros.zip) (v. 0.93)
 > (autorzy: Dumb team/M-HT)
 
-DUMB to biblioteka odtwarzaczy IT, XM, S3M i MOD opracowana przez Roberta J. Ohannessiana, Juliena Cugnière'a i Bena Davisa. Dzięki Faroxowi, który skompilował ją na potrzeby portu dema Fulcrum, jest teraz dostępna dla wszystkich programistów AROSa do wykorzystania w swoich projektach. 
+DUMB to biblioteka odtwarzaczy IT, XM, S3M i MOD opracowana przez Roberta J. Ohannessiana, Juliena Cugnière'a i Bena Davisa. Dzięki **Faroxowi**, który skompilował ją na potrzeby portu dema Fulcrum, jest teraz dostępna dla wszystkich programistów AROSa do wykorzystania w swoich projektach. 
 
 ![DUMB](/assets/img/dumb.png)
 *DUMB - "Dynamic Universal Music Bibliotheque"*
