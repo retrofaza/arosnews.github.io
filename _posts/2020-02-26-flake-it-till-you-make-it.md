@@ -14,7 +14,7 @@ W kwietniowej ankiecie na "irytującego buga miesiąca" zostały wytypowane dwa:
 ![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
 *Irytujący bug miesiąca - kwiecień 2024*
 
-Jak zwykle zachęcam do wzięcia udziału w kolejnym głosowaniu. Tym razem dla uczczenia pół roku działalności ankiety czeka nas niespodzianka - aż dwa błędy zostaną wytypowane i naprawione :) [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). 
+Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w kolejnym głosowaniu: [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1246&pid=5066). 
 
 Nowości w AROS Archives z kwietnia:
 
