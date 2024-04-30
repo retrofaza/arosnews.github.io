@@ -6,6 +6,10 @@ lang: pl
 ref: 0424
 ---
 
+W kwietniu 2024 roku, choć nie pojawiła się nowa wersja AROS dla x86, to i tak działo się bardzo wiele. Deadwood kontynuuje prace nad prototypem emulatora x86 dla 64-bitowej wersji systemu. W niedługim czasie możemy się też spodziewać od niego zbiorczego pakietu poprawek do ostatniego builda. Społeczność AROSa jest niezwykle aktywna, a to przynosi efekty w postaci licznych portów i aktualizacji oprogramowania. Dzięki zaangażowaniu nowych użytkowników, którzy przeportowali lub uaktualnili starsze aplikacje, AROS zyskał sporo nowych możliwości. Przyjrzyjmy się bliżej, co pojawiło się w tym miesiącu!
+
+Z sieci zniknęła strona z której zwykle można było pobrać dystrybucję Tiny AROS. Nie mamy się jednak czym przejmować, jak zapewnia autor dystrybucji - Amiwell79 - nowa strona, pod nowym adresem, pojawi się w najbliższych dniach. Gdy to nastąpi aktualny link znajdziecie na tym blogu.
+
 W kwietniowej ankiecie na "irytującego buga miesiąca" zostały wytypowane dwa:  
 *#116 (Wanderer: Allow deleting by pressing Del key)*  
 *#105 (DiskInfo showing OFS instead of FAT)*  
@@ -16,7 +20,7 @@ W kwietniowej ankiecie na "irytującego buga miesiąca" zostały wytypowane dwa:
 
 Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w kolejnym głosowaniu: [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1246&pid=5066). 
 
-Nowości w AROS Archives z kwietnia:
+W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy znajdzie coś ciekawego dla siebie. Nowości w AROS Archives z kwietnia:
 
 > ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
 > (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
