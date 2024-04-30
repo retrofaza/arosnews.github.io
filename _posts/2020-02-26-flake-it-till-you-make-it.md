@@ -135,10 +135,17 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień
 ![What IFF?](/assets/img/whatiff13.png)
 *What IFF? - kwiecień 2024*
 
-> ## [High-Low-Equal Poker Card](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 2.10)
+> ## [High-Low-Equal Poker Card](http://archives.aros-exec.org/?function=showfile&file=game/card/hle-pokercard.lha) (v. 2.10)
 > (autor: Juan Carlos Herrán Martín)
 
 Prosta gra karciana. Odgadnij następną kartę, która pojawi się na stole i zdobądź pieniądze oraz punkty. Jest to specjalna wersja promująca inną grę autora  - Los Malditos del Valle del Cerro, która pojawiła się w marcowym podsumowaniu.
+
+Zmiany w wersji 2.10:
+- Nowy rozmiar ekranu 800x600 pikseli.
+- Skompilowany z ostatnim Hollywood 10.0.
+- Środowisko i grafika świata Los Malditos.
+- Naprawiono kilka starych błędów.
+- Z dwoma ekskluzywnymi taliami z postaciami Los Malditos.
 
 ![HLE Poker Card?](/assets/img/hlepoker.jpg)
 *High-Low-Equal Poker Card*
