@@ -6,29 +6,19 @@ lang: pl
 ref: 0424
 ---
 
-W kwietniu 2024 roku, choć nie pojawiła się nowa wersja AROS dla x86, to i tak działo się bardzo wiele. Deadwood kontynuuje prace nad prototypem emulatora x86 dla 64-bitowej wersji systemu. W niedługim czasie możemy się też spodziewać od niego zbiorczego pakietu poprawek do ostatniego builda. Społeczność AROSa jest niezwykle aktywna, a to przynosi efekty w postaci licznych portów i aktualizacji oprogramowania. Dzięki zaangażowaniu nowych użytkowników, którzy przeportowali lub uaktualnili starsze aplikacje, AROS zyskał sporo nowych możliwości. Przyjrzyjmy się bliżej, co pojawiło się w tym miesiącu!
-
-Z sieci zniknęła strona z której zwykle można było pobrać dystrybucję Tiny AROS. Nie mamy się jednak czym przejmować, jak zapewnia autor dystrybucji - Amiwell79 - nowa strona, pod nowym adresem, pojawi się w najbliższych dniach. Gdy to nastąpi aktualny link znajdziecie na tym blogu.
-
-W kwietniowej ankiecie na "irytującego buga miesiąca" zostały wytypowane dwa:  
-*#116 (Wanderer: Allow deleting by pressing Del key)*  
-*#105 (DiskInfo showing OFS instead of FAT)*  
-Łatki do tych błędów zostały przygotowane przez **Deadwooda** i można je już pobrać z forum AROSWorld w wątku poświęconym [kwietniowej ankiecie](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1228&pid=4744). Trafią też do kolejnego builda, gdy tylko zostanie wydany.
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
-*Irytujący bug miesiąca - kwiecień 2024*
-
-Jeśli chcesz mieć wpływ na kolejność naprawy błędów, zachęcam do zarejestrowania sie na forum i wzięcia udziału w kolejnym głosowaniu: [Link do aktualnej ankiety](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1246&pid=5066). 
+*Irytujący bug miesiąca - maj 2024*
 
 W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy znajdzie coś ciekawego dla siebie. Nowości w AROS Archives z kwietnia:
 
-> ## [ScummVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.i386-aros.zip) (v.1.9.0)
-> (autorzy: Max Horn, Eugene Sandulenko i wielu innych)
+> ## [wipEout Rewrite](http://archives.aros-exec.org/?function=showfile&file=game/driving/wipeout_rewrite.i386-aros.zip) (v.1.2)
+> (autorzy: phoboslab/arczi/Farox)
 
-ScummVM – interpretator umożliwiający uruchomienie na współczesnych systemach gier typu wskaż i kliknij. Początkowo zaprojektowany, aby obsługiwać gry firmy LucasArts korzystające z silnika SCUMM (VM w nazwie programu oznacza maszynę wirtualną), teraz obsługuje także produkty innych producentów, takich jak Sierra Entertainment, Revolution Software i Adventure Soft. ScummVM jest wolnym oprogramowaniem, wydanym na licencji GPL. Za sprawą **Deremona**, ScummVM dla AROSa został uaktualniony do wersji 1.9.0.
+A re-implementation of the PSX game wipEout
 
-![ScummVM](/assets/img/scumm.png)
-*ScummVM 1.9.0*
+![wipEout Rewrite](/assets/img/wipeout.png)
+*Reimplementacja gry wipEout z PSX-a*
 
 > ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
 > (autorzy: Thomas Allen, Torbjorn Andersson i wielu innych)
