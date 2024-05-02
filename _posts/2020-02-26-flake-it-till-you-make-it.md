@@ -7,7 +7,7 @@ ref: 0424
 ---
 
 
-![Irytujący bug miesiąca](/assets/img/ibotm0424.png)
+![Irytujący bug miesiąca](/assets/img/ibotm0524.png)
 *Irytujący bug miesiąca - maj 2024*
 
 W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy znajdzie coś ciekawego dla siebie. Nowości w AROS Archives z kwietnia:
@@ -17,7 +17,7 @@ W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy z
 
 A re-implementation of the PSX game wipEout
 
-![wipEout Rewrite](/assets/img/wipeout.png)
+![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
 
 > ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
