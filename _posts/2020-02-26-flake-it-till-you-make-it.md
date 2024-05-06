@@ -20,15 +20,13 @@ A re-implementation of the PSX game wipEout
 ![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
 
-> ## [ResidualVM](http://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.i386-aros.zip) (v. 0.3.1)
-> (autorzy: Thomas Allen, Torbjorn Andersson i wielu innych)
+> ## [GI Omino Stage](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 1.1)
+> (autor: Giovanni Iacobelli)
 
-ResidualVM jest wieloplatformowym interpreterem gier 3D o otwartym kodzie źródłowym, umożliwiającym granie w trójwymiarowe gry przygodowe LucasArts oparte na języku Lua/GrimE: Grim Fandango i Escape from Monkey Island, a także Myst 3 i The Longest Journey. Został on przeniesiony na wiele różnych urządzeń i systemów operacyjnych. 
+GI Omino Stage
 
-ResidualVM wykorzystuje OpenGL do sprzętowej akceleracji grafiki 3D. Dołączony jest również programowy renderer dla maszyn bez sprzętowego OpenGL. Ostatnia dostępna wersja ResidualVM została skompilowana dla AROSa przez **Deremona**.
-
-![ResidualVM](/assets/img/residualvm.png)
-*ResidualVM*
+![GI Omino Stage](/assets/img/giomino.png)
+*GI Omino Stage*
 
 > ## [ScummVM_Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/scummvm_kens.lha) (v. 0.5)
 > ## [ResidualVM-Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/residualvm-kens.lha) (v. 0.5)
