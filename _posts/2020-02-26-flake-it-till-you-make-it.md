@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - kwiecień 2024
+title: AROS x86 - maj 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0424
+ref: 0524
 ---
 
 
@@ -28,16 +28,13 @@ GI Omino Stage
 ![GI Omino Stage](/assets/img/giomino.png)
 *GI Omino Stage*
 
-> ## [ScummVM_Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/scummvm_kens.lha) (v. 0.5)
-> ## [ResidualVM-Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/residualvm-kens.lha) (v. 0.5)
-> ## [DOSBox Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/dosbox-kens.lha) (v. 0.1)
-> ## [MBX Kens](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/mbx-kens-unofficial.lha)(v. 0.1)
-> (autor: amiwell79)
+> ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip)(v. 1.5)
+> (autor: Giovanni Iacobelli)
 
-Nieoficjalne ikony szuflad w stylu Kens dla ScummVM, ResidualVM, DOSBox oraz gier Myst i MBX.
+Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesienia ich na dyskietki.
 
-![Kens](/assets/img/iconscumm.png)
-*Zestaw ikon w stylu Kens*
+![GISplit](/assets/img/gisplit.png)
+*GI Split*
 
 > ## [ADoom3](http://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.i386-aros.zip) (v. 1.5.3)
 > (autor: Nick "Kalamatee" Andrews)
