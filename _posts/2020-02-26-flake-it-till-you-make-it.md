@@ -25,7 +25,7 @@ A re-implementation of the PSX game wipEout
 
 GI Omino Stage
 
-![GI Omino Stage](/assets/img/giomino.png)
+![GI Omino Stage](/assets/img/giomino.jpg)
 *GI Omino Stage*
 
 > ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip)(v. 1.5)
