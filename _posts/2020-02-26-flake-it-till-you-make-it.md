@@ -15,7 +15,7 @@ W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy z
 > ## [wipEout Rewrite](http://archives.aros-exec.org/?function=showfile&file=game/driving/wipeout_rewrite.i386-aros.zip) (v.1.2)
 > (autorzy: phoboslab/arczi/Farox)
 
-A re-implementation of the PSX game wipEout
+wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ścigają się na futurystycznych torach, używając szybkich statków antygrawitacyjnych. Wersja z AROS Archives nie zawiera zasobów gry (tekstur, modeli 3D itp.), można je ściągnąć ze strony autora oryginalnego portu. Dla fanów gry wipEout to świetna okazja, aby wrócić do nostalgii i poczuć ducha futurystycznych wyścigów!
 
 ![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
