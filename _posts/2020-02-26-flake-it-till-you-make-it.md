@@ -36,110 +36,74 @@ Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesien
 ![GISplit](/assets/img/gisplit.png)
 *GI Split*
 
-> ## [ADoom3](http://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.i386-aros.zip) (v. 1.5.3)
-> (autor: Nick "Kalamatee" Andrews)
+> ## [GMoreAros](http://archives.aros-exec.org/?function=showfile&file=utility/text/misc/gmore.i386-aros.zip)(v. 1.2)
+> (autor: Giovanni Iacobelli)
 
-dhewm 3 jest portem źródłowym Doom 3 GPL. Działa na Windows, Linux, macOS, FreeBSD, OpenBSD i AROS, ale powinien działać (lub być łatwo przenośny na każdy system obsługujący OpenGL 1.4 z shaderami ARB, SDL i OpenAL. W porównaniu do oryginalnej wersji Doom3, dhewm3 ma wiele poprawek błędów, obsługuje efekty dźwiękowe podobne do EAX na wszystkich systemach operacyjnych i sprzęcie (poprzez OpenAL Softs EFX), ma znacznie lepszą obsługę rozdzielczości panoramicznych i 64-bitową wsparcie.
+Prosta przeglądarka tekstu podobna do MORE. 
 
-Port Doom3 dla AROS-a jest oparty na gałęzi dhewm3 z najnowszej wersji 1.5.3. Skompilowany został przez **Deremona**.
+![GMoreAros](/assets/img/gisplit.png)
+*GMoreAros*
 
-Do uruchomienia potrzebne są oryginalne pliki z danymi z wersji PC. Zakupić ją można na GOGu: https://www.gog.com/pl/game/doom_3
+> ## [GScopaAros](http://archives.aros-exec.org/?function=showfile&file=game/card/giscopa.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-![ADoom3](/assets/img/doom3.jpg)
-*ADoom 3*
+Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera. Grę wygrywa gracz lub komputer, który jako pierwszy osiągnie lub przekroczy wynik 11.
 
-> ## [MBX Magical Broom Extreme](http://archives.aros-exec.org/?function=showfile&file=game/action/mbx.i386-aros.zip) (v. 1.0)
-> (autor: Farox)
+![GScopaAros](/assets/img/gisplit.png)
+*GScopaAros*
 
-Magical Broom Extreme to darmowa horyzontalna strzelanka od japońskiego dewelopera Twin-Tail. Charakteryzuje się trójwymiarowymi efektami broni i całkiem wiągającą rozgrywką. W grze sterujesz czarownicą latającą na miotle. Twoim celem jest przetrwanie podróży do końca etapu. Gra została przeportowana dla AROSa przez **Faroxa**.
+> ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-![MBX Magical Broom Extreme](/assets/img/mbx.jpg)
-*Magical Broom Extreme (MBX)*
+GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Kamień.
 
-> ## [Protrekkr 2](http://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.6.7)
-> (autor: Franck "hitchhikr" Charlet)
+![GIMorraCinese](/assets/img/gisplit.png)
+*GIMorraCinese*
 
-ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru.
+> ## [GIMineAros](http://archives.aros-exec.org/?function=showfile&file=game/board/gimine.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-Zmiany w najnowszej wersji:
-- Naprawiono awarię podczas używania funkcji rand na synth oscs & lfos pod Linuxem
-- Dodano procedurę odtwarzania dla PlayStation Vita
-- Naprawiono awarię podczas ładowania starszych modułów NoiseTrekker
-- Ekran startowy jest teraz opcjonalny
+Jeszcze jedna odsłona klasycznego Minesweepera.
 
-![Protrekkr](/assets/img/protrekkr267.png)
-*Protrekkr 2*
+![GIMineAros](/assets/img/gisplit.png)
+*GIMineAros*
 
-> ## [Origami Intro](http://archives.aros-exec.org/?function=showfile&file=demo/intro/origami.i386-aros.zip) (v. 1.0)
-> (autor: Faemiyah Demogroup)
+> ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-Demoscenowe intro Origami zaprezentowane zostało po raz pierwszy na 64kb introcompo na Assembly 2005, gdzie zajęło trzecie miejsce. Wersja dla AROS skompilowana została przez **Faroxa**. Do uruchomienia potrzebujesz karty graficznej z obsługą OpenGL.
+W latach 70. i 80. bardzo popularne były automaty do pokera wideo. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
+Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać lepszy wynik.
 
-![Origami Intro](/assets/img/origami.jpg)
-*Origami Intro*
+![GI Poker](/assets/img/gisplit.png)
+*GI Poker*
 
-> ## [The Fulcrum](http://archives.aros-exec.org/?function=showfile&file=demo/scene/thefulcrum.i386-aros.zip) (v. 1.0)
-> (autorzy: Matrix Demogroup)
+> ## [Witch Cleaner](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
+> (autor:	Juan Carlos Herrán Martín)
 
-Kolejna demoscenowa produkcja przeportowana dla AROSa przez **Faroxa**. The Fulcrum to zwycięskie demo z party Mekka & Symposium 1998. To wydanie dla AROS opiera się na imponującej pracy wykonanej przez M-HT, który przekonwertował wszystkie źródła ASM na
-C++/SDL i wydał dla Linuksa i OpenPandora Handheld kilka lat temu. Jego źródła znajdują się tutaj https://github.com/M-HT/fulcrum.
+Mały i prosty program do czyszczenia kosza .recycled z przestarzałych i starych plików. Program usuwa kolejne pliki z OWB (Orygin Web
+Browser):
+- Cache drawer.
+- cookies.db
+- History.db
+- TopSites.db
+- WebpageIcons.dbth
+- Pliki cookie LocalStorage
+- 29a5abb3-i386-aros.cache-4 UWAGA: Jeśli usuniesz tę pamięć podręczną to po ponownym uruchomieniu OWB, pamięć podręczna zostanie przywrócona.
+- font: fonts cache
+- AutoFill.db
+- Bookmarks.html
+- Passwords.db
+- sesje
 
-![The Fulcrum](/assets/img/fulcrum.jpg)
-*The Fulcrum*
+![Witch Cleaner](/assets/img/dumb.png)
+*Witch Cleaner*
 
-> ## [DUMB](http://archives.aros-exec.org/?function=showfile&file=development/library/libdumb.i386-aros.zip) (v. 0.93)
-> (autorzy: Dumb team/M-HT)
+> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2024)
+> (autor: Simone "Tuxedo" Monsignori)
 
-DUMB to biblioteka odtwarzaczy IT, XM, S3M i MOD opracowana przez Roberta J. Ohannessiana, Juliena Cugnière'a i Bena Davisa. Dzięki **Faroxowi**, który skompilował ją na potrzeby portu dema Fulcrum, jest teraz dostępna dla wszystkich programistów AROSa do wykorzystania w swoich projektach. 
+Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
+zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy). 
 
-![DUMB](/assets/img/dumb.png)
-*DUMB - "Dynamic Universal Music Bibliotheque"*
+![LoView](/assets/img/image2pdf26.png)
+*LoView*
 
-> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.6)
-> (autor: Bernd Assenmacher)
-
-Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
-
-Zmiany w wersji 2.6:
-- zaktualizowany plik instrukcji
-- W systemach MorphOS i AROS plik instrukcji jest teraz kopiowany do szuflady instalacyjnej.
-- W systemie MorphOS polecenie "Path" w s:user-startup jest teraz nieaktywne. Jeśli ma być aktywne, należy je ręcznie odkomentować, zapisać, a następnie zrestartować komputer
-- dodano możliwość skalowania obrazów we wszystkich wybranych formatach
-- dodano możliwość kompresji dokumentów PDF, gdy zainstalowany jest Ghostscript
-- możliwość zmiany orientacji dokumentów PDF (nie w formacie ImageSize)
-- można teraz ustawić margines wydruku
-- użycie wiersza poleceń automatycznie dostosuje orientację (nie dotyczy formatu ImageSize)
-- skompilowano pojedyncze wersje dla obsługiwanych platform
-- usunięto aplet z archiwum
-- dodano funkcję drukowania dokumentów PDF
-
-![Image2PDF](/assets/img/image2pdf26.png)
-*Image2PDF*
-
-> ## [What IFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.13.nodemo.lha) (v. 3.13)
-> (autorzy: A. Vaisey, I. Sorensen, J. Scolieri, K. Saunders, R. O'Malley, T. Paul)
-
-Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Numer 13 - kwiecień 2024.
-
-![What IFF?](/assets/img/whatiff13.png)
-*What IFF? - kwiecień 2024*
-
-> ## [High-Low-Equal Poker Card](http://archives.aros-exec.org/?function=showfile&file=game/card/hle-pokercard.lha) (v. 2.10)
-> (autor: Juan Carlos Herrán Martín)
-
-Prosta gra karciana. Odgadnij następną kartę, która pojawi się na stole i zdobądź pieniądze oraz punkty. Jest to specjalna wersja promująca inną grę autora  - Los Malditos del Valle del Cerro, która pojawiła się w marcowym podsumowaniu.
-
-Zmiany w wersji 2.10:
-- Nowy rozmiar ekranu 800x600 pikseli.
-- Skompilowany z ostatnim Hollywood 10.0.
-- Środowisko i grafika świata Los Malditos.
-- Naprawiono kilka starych błędów.
-- Z dwoma ekskluzywnymi taliami z postaciami Los Malditos.
-
-![HLE Poker Card?](/assets/img/hlepoker.jpg)
-*High-Low-Equal Poker Card*
-
-> ## [IcarosFix](http://archives.aros-exec.org/?function=showfile&file=development/utility/icaros_2.3_fix.lha) (v. 2.3.4)
-> (autorzy: Aros, Third Part Dev)
-
-Icaros to swego czasu najpopularniejsza dystrybucja AROSa. Niestety od kilku lat nieaktualizowana. W tym archiwum znajduje się zestaw poprawek dla Icaros 2.3. W celu instalacji należy nadpisać pliki. Jest to nieoficjalna poprawka.
