@@ -6,11 +6,16 @@ lang: pl
 ref: 0524
 ---
 
+W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:
+#125 (You can access a drawer icon even if the directory assigned to it does not exist)
+#140 (Wanderer: Changing the disk label does not work)
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0524.png)
 *Irytujący bug miesiąca - maj 2024*
 
-W AROS Archives pojawiło się wiele interesujących pozycji, tym razem każdy znajdzie coś ciekawego dla siebie. Nowości w AROS Archives z kwietnia:
+W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawkę można już pobrać w wątku z majową ankietą. Bug nr #140 automatycznie przechodzi na czerwiec w związku z czym w kolejnym miesiącu nie będzie nowej ankiety.
+
+Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry wipeOut oraz nowa wersja przeglądarki obrazków LoView. Pojawiło się też wiele mniejszych pozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
 
 > ## [wipEout Rewrite](http://archives.aros-exec.org/?function=showfile&file=game/driving/wipeout_rewrite.i386-aros.zip) (v.1.2)
 > (autorzy: phoboslab/arczi/Farox)
