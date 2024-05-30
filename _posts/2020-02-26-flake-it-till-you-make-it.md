@@ -19,13 +19,13 @@ W najbliższych dniach możemy się spodziewać dystrybucji AROS One 2.5, która
 **Amiwell79** uruchomił nową stronę pod adresem [https://www.tinyaros.it/](www.tinyaros.it). Znajdziemy tam dystrybucję Tiny AROS w wersji 3.2, a także dodatkowe paczki z grami i oprogramowaniem.
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:  
-#125 (You can access a drawer icon even if the directory assigned to it does not exist)  
-#140 (Wanderer: Changing the disk label does not work)
+*#125 (You can access a drawer icon even if the directory assigned to it does not exist)*  
+*#140 (Wanderer: Changing the disk label does not work)*
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0524.png)
 *Irytujący bug miesiąca - maj 2024*
 
-W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawkę można już pobrać w wątku z majową ankietą. Bug nr #140 automatycznie przechodzi na czerwiec w związku z czym w kolejnym miesiącu nie będzie nowej ankiety.
+W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawkę można już pobrać w [wątku z majową ankietą](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1246&pid=5344). Bug nr #140 automatycznie przechodzi na czerwiec w związku z czym w kolejnym miesiącu nie będzie nowej ankiety.
 
 Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut** oraz nowa wersja przeglądarki obrazków **LoView**. Pojawiło się też wiele mniejszych propozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
 
@@ -54,7 +54,7 @@ Prosta gra platformowa w której zbieramy apteczki. Bohater którym kierujemy mu
 ![GI Omino Stage](/assets/img/giomino.jpg)
 *GI Omino Stage*
 
-> ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip)(v. 1.5)
+> ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip) (v. 1.5)
 > (autor: Giovanni Iacobelli)
 
 Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesienia ich na dyskietki.
@@ -62,7 +62,7 @@ Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesien
 ![GISplit](/assets/img/gisplit.png)
 *GI Split*
 
-> ## [GMoreAros](http://archives.aros-exec.org/?function=showfile&file=utility/text/misc/gmore.i386-aros.zip)(v. 1.2)
+> ## [GMoreAros](http://archives.aros-exec.org/?function=showfile&file=utility/text/misc/gmore.i386-aros.zip) (v. 1.2)
 > (autor: Giovanni Iacobelli)
 
 Prosta przeglądarka tekstu podobna do MORE. 
@@ -70,7 +70,7 @@ Prosta przeglądarka tekstu podobna do MORE.
 ![GMoreAros](/assets/img/gmore.png)
 *GMoreAros*
 
-> ## [GScopaAros](http://archives.aros-exec.org/?function=showfile&file=game/card/giscopa.i386-aros.zip)(v. 1.0)
+> ## [GScopaAros](http://archives.aros-exec.org/?function=showfile&file=game/card/giscopa.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera. Grę wygrywa gracz lub komputer, który jako pierwszy osiągnie lub przekroczy wynik 11.
@@ -78,7 +78,7 @@ Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie gra
 ![GScopaAros](/assets/img/giscopa.png)
 *GScopaAros*
 
-> ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip)(v. 1.0)
+> ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Kamień.
@@ -86,7 +86,7 @@ GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Ka
 ![GIMorraCinese](/assets/img/gimorra.png)
 *GIMorraCinese*
 
-> ## [GIMineAros](http://archives.aros-exec.org/?function=showfile&file=game/board/gimine.i386-aros.zip)(v. 1.0)
+> ## [GIMineAros](http://archives.aros-exec.org/?function=showfile&file=game/board/gimine.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 Jeszcze jedna odsłona klasycznego Minesweepera.
@@ -94,7 +94,7 @@ Jeszcze jedna odsłona klasycznego Minesweepera.
 ![GIMineAros](/assets/img/gimine.png)
 *GIMineAros*
 
-> ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip)(v. 1.0)
+> ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 W latach 70. i 80. bardzo popularne były automaty do wideo pokera. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
@@ -103,7 +103,7 @@ Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać 
 ![GI Poker](/assets/img/gipoker.png)
 *GI Poker*
 
-> ## [GI Sequence Memory](http://archives.aros-exec.org/?function=showfile&file=game/board/gisequencememory.i386-aros.zip)(v. 1.0)
+> ## [GI Sequence Memory](http://archives.aros-exec.org/?function=showfile&file=game/board/gisequencememory.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji wyświetlanych kolorów.
@@ -111,7 +111,7 @@ Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji w
 ![GI Sequence Memory](/assets/img/gimemory.png)
 *GI Sequence Memory*
 
-> ## [7Mezzo Plus](http://archives.aros-exec.org/?function=showfile&file=game/card/7mezzoplus.i386-aros.zip)(v. 1.0)
+> ## [7Mezzo Plus](http://archives.aros-exec.org/?function=showfile&file=game/card/7mezzoplus.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 Popularna włoska gra świąteczna.
@@ -147,5 +147,3 @@ Zegar i kalendarz z postaciami ze świata gry Los Malditos del Valle del Cerro. 
 
 ![L.M. Calendar&Clock](/assets/img/lmcalendarclock.jpg)
 *L.M. Calendar&Clock*
-
-
