@@ -16,6 +16,8 @@ Pełna lista zmian:
 
 W najbliższych dniach możemy się spodziewać dystrybucji AROS One 2.5, która będzie zawierać wszystkie aktualne poprawki plus wiele dodatkowych udogodnień. W oczekiwaniu na tę dystrybucję możecie poczytać [wywiad z Carlo "AMIGASYSTEM" Spadoni](https://obligement-free-fr.translate.goog/articles/itwcarlospadoni.php?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_sch=http) (autorem dystrybucji AROS One) przeprowadzony przez portal OBLIGEMENT.
 
+**Amiwell79** uruchomił nową stronę pod adresem [https://www.tinyaros.it/](www.tinyaros.it). Znajdziemy tam dystrybucję Tiny AROS w wersji 3.2, a także dodatkowe paczki z grami i oprogramowaniem.
+
 W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:  
 #125 (You can access a drawer icon even if the directory assigned to it does not exist)  
 #140 (Wanderer: Changing the disk label does not work)
@@ -25,12 +27,12 @@ W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę g
 
 W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawkę można już pobrać w wątku z majową ankietą. Bug nr #140 automatycznie przechodzi na czerwiec w związku z czym w kolejnym miesiącu nie będzie nowej ankiety.
 
-Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry wipeOut oraz nowa wersja przeglądarki obrazków LoView. Pojawiło się też wiele mniejszych pozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
+Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut** oraz nowa wersja przeglądarki obrazków **LoView**. Pojawiło się też wiele mniejszych propozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
 
 > ## [wipEout Rewrite](http://archives.aros-exec.org/?function=showfile&file=game/driving/wipeout_rewrite.i386-aros.zip) (v.1.2)
 > (autorzy: phoboslab/arczi/Farox)
 
-wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ścigają się na futurystycznych torach, używając szybkich statków antygrawitacyjnych. Wersja z AROS Archives nie zawiera zasobów gry (tekstur, modeli 3D itp.), można je ściągnąć ze strony autora oryginalnego portu. Dla fanów gry wipEout to świetna okazja, aby wrócić do nostalgii i poczuć ducha futurystycznych wyścigów!
+wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ścigają się na futurystycznych torach, używając szybkich statków antygrawitacyjnych. Wersja z AROS Archives nie zawiera zasobów gry (tekstur, modeli 3D itp.), można je ściągnąć ze [strony autora oryginalnego portu](https://phoboslab.org/log/2023/08/rewriting-wipeout). Dla fanów gry wipEout to świetna okazja, aby wrócić do nostalgii i poczuć ducha futurystycznych wyścigów!
 
 ![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
