@@ -26,7 +26,7 @@ wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ści
 Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
 zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy). 
 
-![LoView](/assets/img/image2pdf26.png)
+![LoView](/assets/img/loview2024.png)
 *LoView*
 
 > ## [GI Omino Stage](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 1.1)
@@ -112,7 +112,7 @@ Browser):
 - Passwords.db
 - sesje
 
-![Witch Cleaner](/assets/img/dumb.png)
+![Witch Cleaner](/assets/img/witchcleaner.jpg)
 *Witch Cleaner*
 
 > ## [L.M. Calendar&Clock](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
@@ -120,7 +120,7 @@ Browser):
 
 Zegar i kalendarz z postaciami ze świata gry Los Malditos del Valle del Cerro. Narzędzie być przydatne do kontrolowania czasu jaki spędzamy przed komputerem. Możemy ustawiać alarmy, a nawet zaplanować porę samoczynnego wyłączenia komputera.
 
-![L.M. Calendar&Clock](/assets/img/dumb.png)
+![L.M. Calendar&Clock](/assets/img/lmcalendarclock.jpg)
 *L.M. Calendar&Clock*
 
 
