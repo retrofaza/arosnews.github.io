@@ -8,12 +8,11 @@ ref: 0524
 
 W maju społeczność AROSa jak zwykle nie próżnowała. Na początku miesiąca Deadwood wypuścił zbiorczy zestaw poprawek dla systemu bazowego w wersji 20220318-1. Aktualizacja **Update 1** zawiera głównie poprawki wprowadzane na przestrzeni ostatnich kilku miesięcy w ramach "irytujących bugów miesiąca".  
 
-::success::
-Strona z której można pobrać najnowszy system bazowy oraz Updade 1:
-https://www.axrt.org/downloads-aros  
-
-Pełna lista zmian:
-https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1  
+{: .box-success}
+Strona z której można pobrać najnowszy system bazowy oraz Updade 1:  
+[https://www.axrt.org/downloads-aros](https://www.axrt.org/downloads-aros)  
+Pełna lista zmian:  
+[https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)  
 
 W najbliższych dniach możemy się spodziewać dystrybucji AROS One 2.5, która będzie zawierać wszystkie aktualne poprawki plus wiele dodatkowych udogodnień. W oczekiwaniu na tę dystrybucję możecie poczytać [wywiad z Carlo "AMIGASYSTEM" Spadoni](https://obligement-free-fr.translate.goog/articles/itwcarlospadoni.php?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_sch=http) (autorem dystrybucji AROS One) przeprowadzony przez portal OBLIGEMENT.
 
