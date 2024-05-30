@@ -20,6 +20,15 @@ wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ści
 ![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
 
+> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2024)
+> (autor: Simone "Tuxedo" Monsignori)
+
+Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
+zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy). 
+
+![LoView](/assets/img/image2pdf26.png)
+*LoView*
+
 > ## [GI Omino Stage](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 1.1)
 > (autor: Giovanni Iacobelli)
 
@@ -71,11 +80,19 @@ Jeszcze jedna odsłona klasycznego Minesweepera.
 > ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip)(v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-W latach 70. i 80. bardzo popularne były automaty do pokera wideo. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
+W latach 70. i 80. bardzo popularne były automaty do wideo pokera. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
 Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać lepszy wynik.
 
 ![GI Poker](/assets/img/gisplit.png)
 *GI Poker*
+
+> ## [GI Sequence Memory](http://archives.aros-exec.org/?function=showfile&file=game/board/gisequencememory.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji wyświetlanych kolorów.
+
+![GI Sequence Memory](/assets/img/gisplit.png)
+*GI Sequence Memory*
 
 > ## [Witch Cleaner](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
 > (autor:	Juan Carlos Herrán Martín)
@@ -98,12 +115,26 @@ Browser):
 ![Witch Cleaner](/assets/img/dumb.png)
 *Witch Cleaner*
 
-> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2024)
-> (autor: Simone "Tuxedo" Monsignori)
 
-Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
-zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy). 
+> ## [L.M. Calendar&Clock](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
+> (autor:	Juan Carlos Herrán Martín)
 
-![LoView](/assets/img/image2pdf26.png)
-*LoView*
+Mały i prosty program do czyszczenia kosza .recycled z przestarzałych i starych plików. Program usuwa kolejne pliki z OWB (Orygin Web
+Browser):
+- Cache drawer.
+- cookies.db
+- History.db
+- TopSites.db
+- WebpageIcons.dbth
+- Pliki cookie LocalStorage
+- 29a5abb3-i386-aros.cache-4 UWAGA: Jeśli usuniesz tę pamięć podręczną to po ponownym uruchomieniu OWB, pamięć podręczna zostanie przywrócona.
+- font: fonts cache
+- AutoFill.db
+- Bookmarks.html
+- Passwords.db
+- sesje
+
+![L.M. Calendar&Clock](/assets/img/dumb.png)
+*L.M. Calendar&Clock*
+
 
