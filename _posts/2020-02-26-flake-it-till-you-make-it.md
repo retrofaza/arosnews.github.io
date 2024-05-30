@@ -7,7 +7,7 @@ ref: 0524
 ---
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:
-#125 (You can access a drawer icon even if the directory assigned to it does not exist)
+#125 (You can access a drawer icon even if the directory assigned to it does not exist)  
 #140 (Wanderer: Changing the disk label does not work)
 
 ![Irytujący bug miesiąca](/assets/img/ibotm0524.png)
@@ -25,7 +25,7 @@ wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ści
 ![wipEout Rewrite](/assets/img/wipeout.jpg)
 *Reimplementacja gry wipEout z PSX-a*
 
-> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2024)
+> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/loview.i386-aros.lha) (v. 2024)
 > (autor: Simone "Tuxedo" Monsignori)
 
 Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
@@ -98,6 +98,14 @@ Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji w
 
 ![GI Sequence Memory](/assets/img/gimemory.png)
 *GI Sequence Memory*
+
+> ## [7Mezzo Plus](http://archives.aros-exec.org/?function=showfile&file=game/card/7mezzoplus.i386-aros.zip)(v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Popularna włoska gra świąteczna.
+
+![7Mezzo Plus](/assets/img/7mezzo.png)
+*7Mezzo Plus*
 
 > ## [Witch Cleaner](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
 > (autor:	Juan Carlos Herrán Martín)
