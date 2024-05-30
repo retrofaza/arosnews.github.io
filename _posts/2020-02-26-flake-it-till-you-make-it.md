@@ -115,24 +115,10 @@ Browser):
 ![Witch Cleaner](/assets/img/dumb.png)
 *Witch Cleaner*
 
-
 > ## [L.M. Calendar&Clock](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
 > (autor:	Juan Carlos Herrán Martín)
 
-Mały i prosty program do czyszczenia kosza .recycled z przestarzałych i starych plików. Program usuwa kolejne pliki z OWB (Orygin Web
-Browser):
-- Cache drawer.
-- cookies.db
-- History.db
-- TopSites.db
-- WebpageIcons.dbth
-- Pliki cookie LocalStorage
-- 29a5abb3-i386-aros.cache-4 UWAGA: Jeśli usuniesz tę pamięć podręczną to po ponownym uruchomieniu OWB, pamięć podręczna zostanie przywrócona.
-- font: fonts cache
-- AutoFill.db
-- Bookmarks.html
-- Passwords.db
-- sesje
+Zegar i kalendarz z postaciami ze świata gry Los Malditos del Valle del Cerro. Narzędzie być przydatne do kontrolowania czasu jaki spędzamy przed komputerem. Możemy ustawiać alarmy, a nawet zaplanować porę samoczynnego wyłączenia komputera.
 
 ![L.M. Calendar&Clock](/assets/img/dumb.png)
 *L.M. Calendar&Clock*
