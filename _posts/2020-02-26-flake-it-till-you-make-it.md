@@ -24,7 +24,7 @@ wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ści
 > (autor: Simone "Tuxedo" Monsignori)
 
 Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
-zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy). 
+zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy, prosta edycja). 
 
 ![LoView](/assets/img/loview2024.png)
 *LoView*
@@ -32,7 +32,7 @@ zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne op
 > ## [GI Omino Stage](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 1.1)
 > (autor: Giovanni Iacobelli)
 
-GI Omino Stage
+Prosta gra platformowa w której zbieramy apteczki. Bohater którym kierujemy musi unikać strzykawek i stawić czoła złemu wirusowi na ostatnich poziomach.
 
 ![GI Omino Stage](/assets/img/giomino.jpg)
 *GI Omino Stage*
