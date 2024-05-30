@@ -6,7 +6,7 @@ lang: pl
 ref: 0524
 ---
 
-W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:
+W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:  
 #125 (You can access a drawer icon even if the directory assigned to it does not exist)  
 #140 (Wanderer: Changing the disk label does not work)
 
