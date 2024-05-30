@@ -50,7 +50,7 @@ Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesien
 
 Prosta przeglądarka tekstu podobna do MORE. 
 
-![GMoreAros](/assets/img/gisplit.png)
+![GMoreAros](/assets/img/gmore.png)
 *GMoreAros*
 
 > ## [GScopaAros](http://archives.aros-exec.org/?function=showfile&file=game/card/giscopa.i386-aros.zip)(v. 1.0)
