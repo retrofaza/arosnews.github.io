@@ -58,7 +58,7 @@ Prosta przeglądarka tekstu podobna do MORE.
 
 Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera. Grę wygrywa gracz lub komputer, który jako pierwszy osiągnie lub przekroczy wynik 11.
 
-![GScopaAros](/assets/img/gisplit.png)
+![GScopaAros](/assets/img/giscopa.png)
 *GScopaAros*
 
 > ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip)(v. 1.0)
@@ -66,7 +66,7 @@ Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie gra
 
 GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Kamień.
 
-![GIMorraCinese](/assets/img/gisplit.png)
+![GIMorraCinese](/assets/img/gimorra.png)
 *GIMorraCinese*
 
 > ## [GIMineAros](http://archives.aros-exec.org/?function=showfile&file=game/board/gimine.i386-aros.zip)(v. 1.0)
@@ -74,7 +74,7 @@ GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Ka
 
 Jeszcze jedna odsłona klasycznego Minesweepera.
 
-![GIMineAros](/assets/img/gisplit.png)
+![GIMineAros](/assets/img/gimine.png)
 *GIMineAros*
 
 > ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip)(v. 1.0)
@@ -83,7 +83,7 @@ Jeszcze jedna odsłona klasycznego Minesweepera.
 W latach 70. i 80. bardzo popularne były automaty do wideo pokera. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
 Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać lepszy wynik.
 
-![GI Poker](/assets/img/gisplit.png)
+![GI Poker](/assets/img/gipoker.png)
 *GI Poker*
 
 > ## [GI Sequence Memory](http://archives.aros-exec.org/?function=showfile&file=game/board/gisequencememory.i386-aros.zip)(v. 1.0)
@@ -91,7 +91,7 @@ Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać 
 
 Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji wyświetlanych kolorów.
 
-![GI Sequence Memory](/assets/img/gisplit.png)
+![GI Sequence Memory](/assets/img/gimemory.png)
 *GI Sequence Memory*
 
 > ## [Witch Cleaner](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
