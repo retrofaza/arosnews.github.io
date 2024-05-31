@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AROS x86 - maj 2024
+title: AROS x86 - czerwiec 2024
 subtitle: podsumowanie miesiąca
 lang: pl
 ref: 0524
@@ -29,30 +29,29 @@ W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawk
 
 Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut** oraz nowa wersja przeglądarki obrazków **LoView**. Pojawiło się też wiele mniejszych propozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
 
-> ## [wipEout Rewrite](http://archives.aros-exec.org/?function=showfile&file=game/driving/wipeout_rewrite.i386-aros.zip) (v.1.2)
-> (autorzy: phoboslab/arczi/Farox)
+> ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v.1.25)
+> (autor: Juan Carlos Hérran Martín)
 
-wipEout Rewrite to reimplentacja kultowej gry z 1995 roku, w której gracze ścigają się na futurystycznych torach, używając szybkich statków antygrawitacyjnych. Wersja z AROS Archives nie zawiera zasobów gry (tekstur, modeli 3D itp.), można je ściągnąć ze [strony autora oryginalnego portu](https://phoboslab.org/log/2023/08/rewriting-wipeout). Dla fanów gry wipEout to świetna okazja, aby wrócić do nostalgii i poczuć ducha futurystycznych wyścigów!
+Małe narzędzie stworzone do generowania sum kontrolnych MD5 i CRC32 plików. W wersji 1.25 wprowadzono drobne poprawki w grafice.
 
-![wipEout Rewrite](/assets/img/wipeout.jpg)
-*Reimplementacja gry wipEout z PSX-a*
+![Omanko!](/assets/img/wipeout.jpg)
+*Omanko!*
 
-> ## [LoView](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/loview.i386-aros.lha) (v. 2024)
-> (autor: Simone "Tuxedo" Monsignori)
+> ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.05)
+> (autor: Juan Carlos Hérran Martín)
 
-Simone Monsignori przygotował nową wersję przeglądarki obrazków - LoView. Program obsługuje wiele formatów plików (w zależności od zainstalowanych DataTypes) i może 
-zapisywać w formacie JPG, PNG, IFF lub BMP. Dostępne są także także inne operacje na tych plikach (kasowanie, kopiowanie, przenoszenie, zmiana nazwy, prosta edycja). 
+Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, może być używana z pamięci USB, CD itp.) Dla użytkownikow AROSa ta wersja jest freeware (wcześniejsza miała wymóg rejestracji drogą mailową).
 
-![LoView](/assets/img/loview2024.png)
-*LoView*
+![Videntium Picta](/assets/img/loview2024.png)
+*Videntium Picta*
 
-> ## [GI Omino Stage](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 1.1)
-> (autor: Giovanni Iacobelli)
+> ## [Vintage Song Player](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 2.6)
+> (autor: Juan Carlos Herrán Martín)
 
-Prosta gra platformowa w której zbieramy apteczki. Bohater którym kierujemy musi unikać strzykawek i stawić czoła złemu wirusowi na ostatnich poziomach.
+Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, mp3, ogg, m4a, mod, med, dbm, hvl, xm, s3m, ac3, wav, flac, sid
 
-![GI Omino Stage](/assets/img/giomino.jpg)
-*GI Omino Stage*
+![Vintage Song Player](/assets/img/giomino.jpg)
+*Vintage Song Player*
 
 > ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip) (v. 1.5)
 > (autor: Giovanni Iacobelli)
