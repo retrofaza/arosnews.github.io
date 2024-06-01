@@ -45,7 +45,7 @@ Videntium Picta to przeglądarka obrazów, której główną cechą jest poszano
 ![Videntium Picta](/assets/img/loview2024.png)
 *Videntium Picta*
 
-> ## [Vintage Song Player](http://archives.aros-exec.org/?function=showfile&file=game/giominoaros.i386-aros.zip) (v. 2.6)
+> ## [Vintage Song Player](http://archives.aros-exec.org/?function=showfile&file=audio/play/vintagesongplayer.lha) (v. 2.6)
 > (autor: Juan Carlos Herrán Martín)
 
 Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, mp3, ogg, m4a, mod, med, dbm, hvl, xm, s3m, ac3, wav, flac, sid
