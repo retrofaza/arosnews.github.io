@@ -3,7 +3,7 @@ layout: post
 title: AROS x86 - czerwiec 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0524
+ref: 0624
 ---
 
 W maju społeczność AROSa jak zwykle nie próżnowała. Na początku miesiąca Deadwood wypuścił zbiorczy zestaw poprawek dla systemu bazowego w wersji 20220318-1. Aktualizacja **Update 1** zawiera głównie poprawki wprowadzane na przestrzeni ostatnich kilku miesięcy w ramach "irytujących bugów miesiąca".  
@@ -34,7 +34,7 @@ Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut
 
 Małe narzędzie stworzone do generowania sum kontrolnych MD5 i CRC32 plików. W wersji 1.25 wprowadzono drobne poprawki w grafice.
 
-![Omanko!](/assets/img/wipeout.jpg)
+![Omanko!](/assets/img/omanko125.png)
 *Omanko!*
 
 > ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.05)
@@ -42,7 +42,7 @@ Małe narzędzie stworzone do generowania sum kontrolnych MD5 i CRC32 plików. W
 
 Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, może być używana z pamięci USB, CD itp.) Dla użytkownikow AROSa ta wersja jest freeware (wcześniejsza miała wymóg rejestracji drogą mailową).
 
-![Videntium Picta](/assets/img/loview2024.png)
+![Videntium Picta](/assets/img/videntium305.png)
 *Videntium Picta*
 
 > ## [Vintage Song Player](http://archives.aros-exec.org/?function=showfile&file=audio/play/vintagesongplayer.lha) (v. 2.6)
@@ -50,7 +50,7 @@ Videntium Picta to przeglądarka obrazów, której główną cechą jest poszano
 
 Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, mp3, ogg, m4a, mod, med, dbm, hvl, xm, s3m, ac3, wav, flac, sid
 
-![Vintage Song Player](/assets/img/giomino.jpg)
+![Vintage Song Player](/assets/img/vintage260.png)
 *Vintage Song Player*
 
 > ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
@@ -61,7 +61,7 @@ Eksperymentalny Python 2.5.2 dla AROS. Ta wersja zotała skompilowana przez Dere
 
 Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
 
-![Python](/assets/img/gisplit.png)
+![Python](/assets/img/python205.png)
 *Python-2.5.2*
 
 > ## [Tressette a Perdere](http://archives.aros-exec.org/?function=showfile&file=game/card/gitressette.i386-aros.zip) (v. 1.0)
@@ -69,7 +69,7 @@ Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
 
 Tressette a Perdere to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera, która zastąpi trzech przeciwników. Gra kończy się, gdy jeden z graczy osiągnie 51 punktów, a wygrywa gracz, który zdobędzie najmniej punktów.
 
-![Tressette a Perdere](/assets/img/gmore.png)
+![Tressette a Perdere](/assets/img/tressette.png)
 *Tressette a Perdere*
 
 > ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.2)
@@ -77,75 +77,5 @@ Tressette a Perdere to popularna włoska gra karciana. W tej cyfrowej wersji gra
 
 Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano nową grafikę, użyto darmowego fontu i zastosowano większe cyfry zegara.
 
-![iConecta](/assets/img/giscopa.png)
+![iConecta](/assets/img/iconecta520.png)
 *iConecta*
-
-> ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-GI Morra Cinese, komputerowa wersja popularnej gry znanej jako Papier Nożyce Kamień.
-
-![GIMorraCinese](/assets/img/gimorra.png)
-*GIMorraCinese*
-
-> ## [GIMineAros](http://archives.aros-exec.org/?function=showfile&file=game/board/gimine.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Jeszcze jedna odsłona klasycznego Minesweepera.
-
-![GIMineAros](/assets/img/gimine.png)
-*GIMineAros*
-
-> ## [GI Poker](http://archives.aros-exec.org/?function=showfile&file=game/card/gipoker.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-W latach 70. i 80. bardzo popularne były automaty do wideo pokera. Gracz stawia zakład, a komputer losowo generuje karty, które są wyświetlane na ekranie.
-Następnie gracz może zmienić kilka wybranych przez siebie kart, aby uzyskać lepszy wynik.
-
-![GI Poker](/assets/img/gipoker.png)
-*GI Poker*
-
-> ## [GI Sequence Memory](http://archives.aros-exec.org/?function=showfile&file=game/board/gisequencememory.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Gra ćwicząca pamięć i koncentrację. Celem gry jest powtórzenie sekwencji wyświetlanych kolorów.
-
-![GI Sequence Memory](/assets/img/gimemory.png)
-*GI Sequence Memory*
-
-> ## [7Mezzo Plus](http://archives.aros-exec.org/?function=showfile&file=game/card/7mezzoplus.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Popularna włoska gra świąteczna.
-
-![7Mezzo Plus](/assets/img/7mezzo.png)
-*7Mezzo Plus*
-
-> ## [Witch Cleaner](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
-> (autor:	Juan Carlos Herrán Martín)
-
-Mały i prosty program do czyszczenia kosza .recycled z przestarzałych i starych plików. Program usuwa kolejne pliki z OWB (Orygin Web
-Browser):
-- Cache drawer.
-- cookies.db
-- History.db
-- TopSites.db
-- WebpageIcons.dbth
-- Pliki cookie LocalStorage
-- 29a5abb3-i386-aros.cache-4 UWAGA: Jeśli usuniesz tę pamięć podręczną to po ponownym uruchomieniu OWB, pamięć podręczna zostanie przywrócona.
-- font: fonts cache
-- AutoFill.db
-- Bookmarks.html
-- Passwords.db
-- sesje
-
-![Witch Cleaner](/assets/img/witchcleaner.jpg)
-*Witch Cleaner*
-
-> ## [L.M. Calendar&Clock](http://archives.aros-exec.org/?function=showfile&file=network/server/misc/witchcleaner.lha) (v. 3.20)
-> (autor:	Juan Carlos Herrán Martín)
-
-Zegar i kalendarz z postaciami ze świata gry Los Malditos del Valle del Cerro. Narzędzie być przydatne do kontrolowania czasu jaki spędzamy przed komputerem. Możemy ustawiać alarmy, a nawet zaplanować porę samoczynnego wyłączenia komputera.
-
-![L.M. Calendar&Clock](/assets/img/lmcalendarclock.jpg)
-*L.M. Calendar&Clock*
