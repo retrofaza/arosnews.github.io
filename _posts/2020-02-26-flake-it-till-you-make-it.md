@@ -53,29 +53,32 @@ Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, m
 ![Vintage Song Player](/assets/img/giomino.jpg)
 *Vintage Song Player*
 
-> ## [GISplit](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/gisplit.i386-aros.zip) (v. 1.5)
+> ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
+> (autor: Stanisław Szymczyk)
+
+Eksperymentalny Python 2.5.2 dla AROS. Ta wersja zotała skompilowana przez Deremona z nową biblioteką C i jest kompatybilna z najnowszym wydaniem AROSa. Zawiera następujące moduły:
+- array, cmath, math, struct, time, operator, weakref, testcapi, random, collections, itertools, strop  
+
+Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
+
+![Python](/assets/img/gisplit.png)
+*Python-2.5.2*
+
+> ## [Tressette a Perdere](http://archives.aros-exec.org/?function=showfile&file=game/card/gitressette.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-Niewielki program do dzielenia dużych plików na małe pliki w celu przeniesienia ich na dyskietki.
+Tressette a Perdere to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera, która zastąpi trzech przeciwników. Gra kończy się, gdy jeden z graczy osiągnie 51 punktów, a wygrywa gracz, który zdobędzie najmniej punktów.
 
-![GISplit](/assets/img/gisplit.png)
-*GI Split*
+![Tressette a Perdere](/assets/img/gmore.png)
+*Tressette a Perdere*
 
-> ## [GMoreAros](http://archives.aros-exec.org/?function=showfile&file=utility/text/misc/gmore.i386-aros.zip) (v. 1.2)
-> (autor: Giovanni Iacobelli)
+> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.2)
+> (autor: Juan Carlos Herrán Martín)
 
-Prosta przeglądarka tekstu podobna do MORE. 
+Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano nową grafikę, użyto darmowego fontu i zastosowano większe cyfry zegara.
 
-![GMoreAros](/assets/img/gmore.png)
-*GMoreAros*
-
-> ## [GScopaAros](http://archives.aros-exec.org/?function=showfile&file=game/card/giscopa.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Scopa to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera. Grę wygrywa gracz lub komputer, który jako pierwszy osiągnie lub przekroczy wynik 11.
-
-![GScopaAros](/assets/img/giscopa.png)
-*GScopaAros*
+![iConecta](/assets/img/giscopa.png)
+*iConecta*
 
 > ## [GIMorraCinese](http://archives.aros-exec.org/?function=showfile&file=game/board/gimorracinese.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
