@@ -29,6 +29,17 @@ W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawk
 
 Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut** oraz nowa wersja przeglądarki obrazków **LoView**. Pojawiło się też wiele mniejszych propozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
 
+> ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
+> (autor: Stanisław Szymczyk)
+
+Eksperymentalny Python 2.5.2 dla AROS. Ta wersja zotała skompilowana przez Deremona z nową biblioteką C i jest kompatybilna z najnowszym wydaniem AROSa. Zawiera następujące moduły:
+- array, cmath, math, struct, time, operator, weakref, testcapi, random, collections, itertools, strop  
+
+Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
+
+![Python](/assets/img/python205.png)
+*Python-2.5.2*
+
 > ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v.1.25)
 > (autor: Juan Carlos Hérran Martín)
 
@@ -53,16 +64,13 @@ Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, m
 ![Vintage Song Player](/assets/img/vintage260.png)
 *Vintage Song Player*
 
-> ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
-> (autor: Stanisław Szymczyk)
+> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.2)
+> (autor: Juan Carlos Herrán Martín)
 
-Eksperymentalny Python 2.5.2 dla AROS. Ta wersja zotała skompilowana przez Deremona z nową biblioteką C i jest kompatybilna z najnowszym wydaniem AROSa. Zawiera następujące moduły:
-- array, cmath, math, struct, time, operator, weakref, testcapi, random, collections, itertools, strop  
+Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano nową grafikę, użyto darmowego fontu i zastosowano większe cyfry zegara.
 
-Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
-
-![Python](/assets/img/python205.png)
-*Python-2.5.2*
+![iConecta](/assets/img/iconecta520.png)
+*iConecta*
 
 > ## [Tressette a Perdere](http://archives.aros-exec.org/?function=showfile&file=game/card/gitressette.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
@@ -72,10 +80,11 @@ Tressette a Perdere to popularna włoska gra karciana. W tej cyfrowej wersji gra
 ![Tressette a Perdere](/assets/img/tressette.png)
 *Tressette a Perdere*
 
-> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.2)
-> (autor: Juan Carlos Herrán Martín)
+> ## [Giocodel15](http://archives.aros-exec.org/?function=showfile&file=game/card/giocodel15.i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano nową grafikę, użyto darmowego fontu i zastosowano większe cyfry zegara.
+GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli z 4 kolumnami i 4 wierszami, w których umieszczono 15 pól ponumerowanych od 1 do 15 oraz pustego pudełka. Celem gry jest przestawienie pól po ich losowym przetasowaniu. 
 
-![iConecta](/assets/img/iconecta520.png)
-*iConecta*
+![Giocodel15](/assets/img/giocodel.png)
+*Giocodel15*
+
