@@ -88,3 +88,11 @@ GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli
 ![Giocodel15](/assets/img/giocodel.png)
 *Giocodel15*
 
+> ## [Catch It](http://archives.aros-exec.org/?function=showfile&file=game/action/catchit.i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli z 4 kolumnami i 4 wierszami, w których umieszczono 15 pól ponumerowanych od 1 do 15 oraz pustego pudełka. Celem gry jest przestawienie pól po ich losowym przetasowaniu. 
+
+![Catch It](/assets/img/catchit.png)
+*Catch It*
+
