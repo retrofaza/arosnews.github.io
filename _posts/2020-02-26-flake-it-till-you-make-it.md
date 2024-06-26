@@ -96,3 +96,10 @@ GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli
 ![Catch It](/assets/img/catchit.png)
 *Catch It*
 
+> ## [Stoppa card game](http://archives.aros-exec.org/?function=showfile&file=game/card/gistoppa.i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+La Stoppa to włoska hazardowa gra karciana podobna do pokera. W tej wersji zmierzymy się przeciwko trzem komputerowym graczom. 
+
+![Stoppa card game](/assets/img/lastoppa.png)
+*Stoppa card game*
