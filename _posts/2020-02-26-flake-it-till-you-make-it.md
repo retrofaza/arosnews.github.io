@@ -91,7 +91,7 @@ GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli
 > ## [Catch It](http://archives.aros-exec.org/?function=showfile&file=game/action/catchit.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli z 4 kolumnami i 4 wierszami, w których umieszczono 15 pól ponumerowanych od 1 do 15 oraz pustego pudełka. Celem gry jest przestawienie pól po ich losowym przetasowaniu. 
+Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
 
 ![Catch It](/assets/img/catchit.png)
 *Catch It*
