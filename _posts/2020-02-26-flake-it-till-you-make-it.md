@@ -104,10 +104,20 @@ La Stoppa to włoska hazardowa gra karciana podobna do pokera. W tej wersji zmie
 ![Stoppa card game](/assets/img/lastoppa.png)
 *Stoppa card game*
 
-> ## [SlotGameAros](http://archives.aros-exec.org/?function=showfile&file=game/board/slotgamearos.i386-aros.zip) (v. 1.0)
+> ## [GI SlotGame](http://archives.aros-exec.org/?function=showfile&file=game/board/slotgamearos.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
 Gra w Slotsy. Na szczęście nie na prawdziwe pieniądze :)
 
-![SlotGameAros](/assets/img/slotgame.png)
-*SlotGameAros*
+![GI SlotGame](/assets/img/slotgame.png)
+*GI SlotGame*
+
+
+> ## [AROS Space Backdrops](http://archives.aros-exec.org/?function=showfile&file=graphics/theme/spacearosbackdrops.zip) (v. 1.0)
+> ## [AROS Scenic Backdrop](http://archives.aros-exec.org/?function=showfile&file=graphics/theme/scenic_backdrops.zip) (v. 1.0)
+> (autor: James Mattson)
+
+Tła dla AROSa. W pierwszym archiwum mamy 10 teł w tematyce kosmicznej, a w drugim 8 innych. Tła mają logo AROS i są w wysokiej rozdzielczości.
+
+![AROS Backdrops](/assets/img/tapety.jpg)
+*AROS Backdrops*
