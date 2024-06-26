@@ -103,3 +103,11 @@ La Stoppa to włoska hazardowa gra karciana podobna do pokera. W tej wersji zmie
 
 ![Stoppa card game](/assets/img/lastoppa.png)
 *Stoppa card game*
+
+> ## [SlotGameAros](http://archives.aros-exec.org/?function=showfile&file=game/board/slotgamearos.i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Gra w Slotsy. Na szczęście nie na prawdziwe pieniądze :)
+
+![SlotGameAros](/assets/img/slotgame.png)
+*SlotGameAros*
