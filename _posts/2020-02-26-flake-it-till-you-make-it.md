@@ -40,6 +40,14 @@ Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
 ![Python](/assets/img/python205.png)
 *Python-2.5.2*
 
+> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.7)
+> (autor: Bernd Assenmacher)
+
+Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+
+![Image2PDF](/assets/img/img2pdf27.png)
+*Image2PDF*
+
 > ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v.1.25)
 > (autor: Juan Carlos Hérran Martín)
 
