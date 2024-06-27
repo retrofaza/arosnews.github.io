@@ -14,9 +14,8 @@ Strona z której można pobrać najnowszy system bazowy oraz Updade 1:
 Pełna lista zmian:  
 [https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)  
 
-W najbliższych dniach możemy się spodziewać dystrybucji AROS One 2.5, która będzie zawierać wszystkie aktualne poprawki plus wiele dodatkowych udogodnień. W oczekiwaniu na tę dystrybucję możecie poczytać [wywiad z Carlo "AMIGASYSTEM" Spadoni](https://obligement-free-fr.translate.goog/articles/itwcarlospadoni.php?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_sch=http) (autorem dystrybucji AROS One) przeprowadzony przez portal OBLIGEMENT.
-
-**Amiwell79** uruchomił nową stronę pod adresem [https://www.tinyaros.it/](www.tinyaros.it). Znajdziemy tam dystrybucję Tiny AROS w wersji 3.2, a także dodatkowe paczki z grami i oprogramowaniem.
+![AROS One 2.5](/assets/img/arosone25.jpg)
+*AROS One 2.5*
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:  
 *#125 (You can access a drawer icon even if the directory assigned to it does not exist)*  
