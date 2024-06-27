@@ -40,10 +40,27 @@ Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
 ![Python](/assets/img/python205.png)
 *Python-2.5.2*
 
+> ## [Aros-GOCR](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 0.52)
+> (autor: Joerg Schulenburg)
+
+GOCR to program do optycznego rozpoznawania znaków, wydany na licencji. Powszechnej Licencji Publicznej GNU. Odczytuje obrazy w wielu formatach i generuje plik tekstowy. Możliwe formaty obrazów to pnm, pbm, pgm, ppm, niektóre pliki obrazów pcx i tga.
+
+Jest to nowa kompilacja wersji 0.52 programu, działająca z najnowszą wersją AROSa.
+
+![Aros-GOCR](/assets/img/gocr.png)
+*Aros-GOCR*
+
+
 > ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.7)
 > (autor: Bernd Assenmacher)
 
 Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+
+Zmiany w wersji 2.7:
+- wprowadzono kilka drobnych poprawek kosmetycznych
+- ulepszone etykiety narzędzi
+- rozszerzono zakres skalowania funkcji "skaluj obraz(y) do" (teraz 10-6000)
+- dodano funkcję "abort", aby mieć możliwość przerwania procesów gdy w pętli znajduje się wiele obrazów. Nie działa to z funkcją "Konwertuj PDF do". 
 
 ![Image2PDF](/assets/img/img2pdf27.png)
 *Image2PDF*
