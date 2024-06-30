@@ -6,27 +6,24 @@ lang: pl
 ref: 0624
 ---
 
-W maju społeczność AROSa jak zwykle nie próżnowała. Na początku miesiąca Deadwood wypuścił zbiorczy zestaw poprawek dla systemu bazowego w wersji 20220318-1. Aktualizacja **Update 1** zawiera głównie poprawki wprowadzane na przestrzeni ostatnich kilku miesięcy w ramach "irytujących bugów miesiąca".  
-
-{: .box-success}
-Strona z której można pobrać najnowszy system bazowy oraz Updade 1:  
-[https://www.axrt.org/downloads-aros](https://www.axrt.org/downloads-aros)  
-Pełna lista zmian:  
-[https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)  
+W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYSTEM" Spadoni oparta jest na najnowszym systemie bazowym i zawiera wszystkie ostatnie aktualizacje i poprawki. Autor wiele wysiłku poświęcił na konfigurację i testowanie załączonego oprogramowania, którego jest naprawdę dużo. Pod ręką mamy wszystko co niezbędne w systemie. AROS One to także nowoczesne, wysokiej jakości tła, okna i ikony. Dzięki temu AROS One to obecnie najlepsza dystrybucja zarówno dla początujących użytkowników AROSa jak i dla zaawansowanych. 
 
 ![AROS One 2.5](/assets/img/arosone25.jpg)
 *AROS One 2.5*
 
-W ankiecie na Irytujący bug miesiąca mieliśmy w maju remis. Równą liczbę głosów otrzymały zgłoszenia:  
-*#125 (You can access a drawer icon even if the directory assigned to it does not exist)*  
+{: .box-success}
+Pełna lista zmian dla AROS One v2.5: 
+[https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394)
+
+Na kanale YouTube Jamesa Mattsona można zobaczyć kilka filmików z działania AROS One 2.5:
+
+
+W czerwcu w ramach **Irytującego buga miesiąca** Deadwood zajął się błędem: 
 *#140 (Wanderer: Changing the disk label does not work)*
+Stosowną poprawkę można już pobrać w [wątku z czerwcową ankietą](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1266&pid=5703#post_5671).
+Aktualną ankietę znajdziemy tutaj: [Irytujący Bug Miesiąca - Lipiec](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1279&pid=5712).
 
-![Irytujący bug miesiąca](/assets/img/ibotm0524.png)
-*Irytujący bug miesiąca - maj 2024*
-
-W drodze losowania Deadwood zajął się błędem z ikonami, a stosowną poprawkę można już pobrać w [wątku z majową ankietą](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1246&pid=5344). Bug nr #140 automatycznie przechodzi na czerwiec w związku z czym w kolejnym miesiącu nie będzie nowej ankiety.
-
-Mocnymi pozycjami w AROS Archives są tym razem z pewnością port gry **wipeOut** oraz nowa wersja przeglądarki obrazków **LoView**. Pojawiło się też wiele mniejszych propozycji, które również mogą przykuć uwagę, m.in. cała seria gier i programów od Giovanni Iacobelli. Poniżej pełna lista.
+Na koniec jak zwykle nowości z AROS Archives, gdzie pojawiło się kilka mniejszych produkcji i aktualizacji. Poniżej szczegółowe zestawienie.
 
 > ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
 > (autor: Stanisław Szymczyk)
