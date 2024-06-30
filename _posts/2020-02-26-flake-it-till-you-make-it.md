@@ -140,5 +140,7 @@ Gra w Slotsy. Na szczęście nie na prawdziwe pieniądze :)
 
 Tła dla AROSa. W pierwszym archiwum mamy 10 teł w tematyce kosmicznej, a w drugim 8 innych. Tła mają logo AROS i są w wysokiej rozdzielczości.
 
+Nagrania na Youtube prezentujące tła: [Video1](https://www.youtube.com/watch?v=PD04-5snP2E), [Video2](https://www.youtube.com/watch?v=U6fSA5-ny9k).
+
 ![AROS Backdrops](/assets/img/tapety.jpg)
 *AROS Backdrops*
