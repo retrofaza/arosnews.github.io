@@ -12,10 +12,10 @@ W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYST
 *AROS One 2.5*
 
 {: .box-success}
-Pełna lista zmian dla AROS One v2.5: 
+Pełna lista zmian dla AROS One v2.5:  
 [https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394)
 
-Na kanale YouTube Jamesa Mattsona można zobaczyć kilka filmików z działania AROS One 2.5:
+Na kanale YouTube Jamesa Mattsona można zobaczyć kilka filmików z działania AROS One 2.5: [Video1](https://www.youtube.com/watch?v=2_E9SkgzHEw), [Video2](https://www.youtube.com/watch?v=e0frJFbanXc), [Video3](https://www.youtube.com/watch?v=tBkEZjfg5yM). 
 
 
 W czerwcu w ramach **Irytującego buga miesiąca** Deadwood zajął się błędem: 
