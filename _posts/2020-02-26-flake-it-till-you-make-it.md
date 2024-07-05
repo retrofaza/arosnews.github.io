@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - czerwiec 2024
+title: AROS x86 - lipiec 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0624
+ref: 0724
 ---
 
 W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYSTEM" Spadoni oparta jest na najnowszym systemie bazowym i zawiera wszystkie ostatnie aktualizacje i poprawki. Autor wiele wysiłku poświęcił na konfigurację i testowanie załączonego oprogramowania, którego jest naprawdę dużo. Pod ręką mamy wszystko co niezbędne w systemie. AROS One to także nowoczesne, wysokiej jakości tła, okna i ikony. Dzięki temu AROS One to obecnie najlepsza dystrybucja zarówno dla początujących użytkowników AROSa jak i dla zaawansowanych. 
@@ -25,16 +25,22 @@ Aktualną ankietę znajdziemy tutaj: [Irytujący Bug Miesiąca - Lipiec](https:/
 
 Na koniec jak zwykle nowości z AROS Archives, gdzie pojawiło się kilka mniejszych produkcji i aktualizacji. Poniżej szczegółowe zestawienie.
 
-> ## [Python](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 2.5.2)
-> (autor: Stanisław Szymczyk)
+> ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 5.0)
+> (autor: Juan Carlos Herrán Martín)
 
-Eksperymentalny Python 2.5.2 dla AROS. Ta wersja zotała skompilowana przez Deremona z nową biblioteką C i jest kompatybilna z najnowszym wydaniem AROSa. Zawiera następujące moduły:
-- array, cmath, math, struct, time, operator, weakref, testcapi, random, collections, itertools, strop  
+Łatwy w obsłudze program do edycji zdjęć wykorzystywanych w projektach stron internetowych. Umożliwia zmianę rozmiaru, obrót, stosowanie efektów wizualnych, dodawanie znaku wodnego lub logo marki, zapisywanie w różnych formatach.
 
-Ten port nie obsługuje dynamicznie łączonych rozszerzeń.
+Zmiany w najnowszej wersji:
+- Zmieniona okładka programu, aby uniknąć jednego problemu z wersją AROS.
+- Poprawioy i ulepszony efekt Polaroid.
+- Naprawiono błędy.
+- Nowe efekty korekcji.
+- Nowe efekty wizualne.
+- Zoptymalizowano kod.
+- Przepisana instrukcja PDF.
 
-![Python](/assets/img/python205.png)
-*Python-2.5.2*
+![Pintor Web](/assets/img/pintorweb5.png)
+*Pintor Web*
 
 > ## [Aros-GOCR](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 0.52)
 > (autor: Joerg Schulenburg)
