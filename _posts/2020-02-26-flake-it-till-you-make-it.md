@@ -8,20 +8,14 @@ ref: 0724
 
 W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYSTEM" Spadoni oparta jest na najnowszym systemie bazowym i zawiera wszystkie ostatnie aktualizacje i poprawki. Autor wiele wysiłku poświęcił na konfigurację i testowanie załączonego oprogramowania, którego jest naprawdę dużo. Pod ręką mamy wszystko co niezbędne w systemie. AROS One to także nowoczesne, wysokiej jakości tła, okna i ikony. Dzięki temu AROS One to obecnie najlepsza dystrybucja zarówno dla początujących użytkowników AROSa jak i dla zaawansowanych. 
 
-![AROS One 2.5](/assets/img/arosone25.jpg)
-*AROS One 2.5*
+W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
+*#144 (Graphical artifacts when dragging an icon)*
+*#25 (Shell won't open from icon that leave out)*
 
-{: .box-success}
-Pełna lista zmian dla AROS One v2.5:  
-[https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=5394#post_5394)
-
-Na kanale YouTube Jamesa Mattsona można zobaczyć kilka filmików z działania AROS One 2.5: [Video1](https://www.youtube.com/watch?v=2_E9SkgzHEw), [Video2](https://www.youtube.com/watch?v=e0frJFbanXc), [Video3](https://www.youtube.com/watch?v=tBkEZjfg5yM). 
+![IBOTM 07.2024](/assets/img/ibotm0724.png)
+*Irytujący Bug Miesiąca - lipiec 2024*
 
 
-W czerwcu w ramach **Irytującego buga miesiąca** Deadwood zajął się błędem: 
-*#140 (Wanderer: Changing the disk label does not work)*
-Stosowną poprawkę można już pobrać w [wątku z czerwcową ankietą](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1266&pid=5703#post_5671).
-Aktualną ankietę znajdziemy tutaj: [Irytujący Bug Miesiąca - Lipiec](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1279&pid=5712).
 
 Na koniec jak zwykle nowości z AROS Archives, gdzie pojawiło się kilka mniejszych produkcji i aktualizacji. Poniżej szczegółowe zestawienie.
 
