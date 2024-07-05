@@ -39,7 +39,7 @@ Zmiany w najnowszej wersji:
 - Zoptymalizowano kod.
 - Przepisana instrukcja PDF.
 
-![Pintor Web](/assets/img/pintorweb5.png)
+![Pintor Web](/assets/img/pintorweb5.jpg)
 *Pintor Web*
 
 > ## [Aros-GOCR](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 0.52)
