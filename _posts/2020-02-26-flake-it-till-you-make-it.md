@@ -44,13 +44,13 @@ Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. 
 ![GI Master Mind](/assets/img/tressette.png)
 *GI Master Mind*
 
-> ## [Giocodel15](http://archives.aros-exec.org/?function=showfile&file=game/card/giocodel15.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+> ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
+> (autor: PolyMars)
 
-GiocoDel15 to klasyczna gra logiczna sprzed około 50 lat. Składa się z tabeli z 4 kolumnami i 4 wierszami, w których umieszczono 15 pól ponumerowanych od 1 do 15 oraz pustego pudełka. Celem gry jest przestawienie pól po ich losowym przetasowaniu. 
+Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przeciągnij, aby utworzyć trajektorię, a następnie zwolnij przycisk myszy, aby wysłać bohatera w powietrze. Gra kończy się, gdy jajko wpadnie do wrzącej lawy. Aby uzyskać wysoki wynik, celuj w spadające platformy i zbierz jak najwięcej monet!
 
-![Giocodel15](/assets/img/giocodel.png)
-*Giocodel15*
+![Terri-Fried](/assets/img/giocodel.png)
+*Terri-Fried*
 
 > ## [Catch It](http://archives.aros-exec.org/?function=showfile&file=game/action/catchit.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
