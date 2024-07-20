@@ -36,70 +36,13 @@ Zmiany w najnowszej wersji:
 ![Pintor Web](/assets/img/pintorweb5.jpg)
 *Pintor Web*
 
-> ## [Aros-GOCR](http://archives.aros-exec.org/?function=showfile&file=development/language/i386-aros-python2.5.2.zip) (v. 0.52)
-> (autor: Joerg Schulenburg)
-
-GOCR to program do optycznego rozpoznawania znaków, wydany na licencji. Powszechnej Licencji Publicznej GNU. Odczytuje obrazy w wielu formatach i generuje plik tekstowy. Możliwe formaty obrazów to pnm, pbm, pgm, ppm, niektóre pliki obrazów pcx i tga.
-
-Jest to nowa kompilacja wersji 0.52 programu, działająca z najnowszą wersją AROSa.
-
-![Aros-GOCR](/assets/img/gocr.png)
-*Aros-GOCR*
-
-
-> ## [Image2PDF](http://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.lha) (v. 2.7)
-> (autor: Bernd Assenmacher)
-
-Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
-
-Zmiany w wersji 2.7:
-- wprowadzono kilka drobnych poprawek kosmetycznych
-- ulepszone etykiety narzędzi
-- rozszerzono zakres skalowania funkcji "skaluj obraz(y) do" (teraz 10-6000)
-- dodano funkcję "abort", aby mieć możliwość przerwania procesów gdy w pętli znajduje się wiele obrazów. Nie działa to z funkcją "Konwertuj PDF do". 
-
-![Image2PDF](/assets/img/img2pdf27.png)
-*Image2PDF*
-
-> ## [Omanko!](http://archives.aros-exec.org/?function=showfile&file=utility/filetool/omanko.lha) (v.1.25)
-> (autor: Juan Carlos Hérran Martín)
-
-Małe narzędzie stworzone do generowania sum kontrolnych MD5 i CRC32 plików. W wersji 1.25 wprowadzono drobne poprawki w grafice.
-
-![Omanko!](/assets/img/omanko125.png)
-*Omanko!*
-
-> ## [Videntium Picta](http://archives.aros-exec.org/?function=showfile&file=graphics/viewer/videntiumpicta.lha) (v. 3.05)
-> (autor: Juan Carlos Hérran Martín)
-
-Videntium Picta to przeglądarka obrazów, której główną cechą jest poszanowanie prywatności użytkownika (nie ma listy ostatnich plików, nie ma listy odtwarzania, może być używana z pamięci USB, CD itp.) Dla użytkownikow AROSa ta wersja jest freeware (wcześniejsza miała wymóg rejestracji drogą mailową).
-
-![Videntium Picta](/assets/img/videntium305.png)
-*Videntium Picta*
-
-> ## [Vintage Song Player](http://archives.aros-exec.org/?function=showfile&file=audio/play/vintagesongplayer.lha) (v. 2.6)
-> (autor: Juan Carlos Herrán Martín)
-
-Odtwarzacz muzyki - Juke Box obsługujący pliki w tych formatach: 8svx, aiff, mp3, ogg, m4a, mod, med, dbm, hvl, xm, s3m, ac3, wav, flac, sid
-
-![Vintage Song Player](/assets/img/vintage260.png)
-*Vintage Song Player*
-
-> ## [iConecta](http://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.2)
-> (autor: Juan Carlos Herrán Martín)
-
-Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano nową grafikę, użyto darmowego fontu i zastosowano większe cyfry zegara.
-
-![iConecta](/assets/img/iconecta520.png)
-*iConecta*
-
-> ## [Tressette a Perdere](http://archives.aros-exec.org/?function=showfile&file=game/card/gitressette.i386-aros.zip) (v. 1.0)
+> ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-Tressette a Perdere to popularna włoska gra karciana. W tej cyfrowej wersji gracz będzie grał przeciwko sztucznej inteligencji komputera, która zastąpi trzech przeciwników. Gra kończy się, gdy jeden z graczy osiągnie 51 punktów, a wygrywa gracz, który zdobędzie najmniej punktów.
+Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. W tym wydaniu można zmierzyć się z komputerem, próbując odgadnąć 4 z pośród 8 kolorów. Liczba prób jest nieograniczona.
 
-![Tressette a Perdere](/assets/img/tressette.png)
-*Tressette a Perdere*
+![GI Master Mind](/assets/img/tressette.png)
+*GI Master Mind*
 
 > ## [Giocodel15](http://archives.aros-exec.org/?function=showfile&file=game/card/giocodel15.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
