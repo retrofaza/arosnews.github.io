@@ -41,49 +41,48 @@ Zmiany w najnowszej wersji:
 
 Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. W tym wydaniu można zmierzyć się z komputerem, próbując odgadnąć 4 z pośród 8 kolorów. Liczba prób jest nieograniczona.
 
-![GI Master Mind](/assets/img/tressette.png)
+![GI Master Mind](/assets/img/gimastermind.png)
 *GI Master Mind*
+
+> ## [GI Puzzle Balls](http://archives.aros-exec.org/?function=showfile&file=game/puzzle/gipuzzleballs-i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
+
+![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
+*GI Puzzle Balls*
 
 > ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
 > (autor: PolyMars)
 
 Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przeciągnij, aby utworzyć trajektorię, a następnie zwolnij przycisk myszy, aby wysłać bohatera w powietrze. Gra kończy się, gdy jajko wpadnie do wrzącej lawy. Aby uzyskać wysoki wynik, celuj w spadające platformy i zbierz jak najwięcej monet!
 
-![Terri-Fried](/assets/img/giocodel.png)
+![Terri-Fried](/assets/img/terri.png)
 *Terri-Fried*
 
-> ## [Catch It](http://archives.aros-exec.org/?function=showfile&file=game/action/catchit.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+> ## [Crono](http://archives.aros-exec.org/?function=showfile&file=graphics/misc/crono_aros.lha) (v. 3.0)
+> (autor: Domenico Lattanzi)
 
-Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
+Generatore kalendarzy do wydrukowania.  
 
-![Catch It](/assets/img/catchit.png)
-*Catch It*
+Najnowsza wersja umożliwia:
+- Tworzenie kalendarzy w formacie strony DIN A4 lub A3, w orientacji pionowej lub poziomej
+- Kalendarze miesięczne lub roczne
+- Stylizowane jako siatki lub listy
+- Możliwość dostosowania poprzez dodanie zdjęcia, wybór czcionki i kolorów
+- 26 obsługiwanych języków
+- Wybór pomiędzy niedzielą a poniedziałkiem jako pierwszym dniem tygodnia
+- Oznaczanie poszczególnych dni jako dni wolnych od pracy
+- Wyjście do formatu PDF
 
-> ## [Stoppa card game](http://archives.aros-exec.org/?function=showfile&file=game/card/gistoppa.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+![Crono](/assets/img/crono.png)
+*Crono*
 
-La Stoppa to włoska hazardowa gra karciana podobna do pokera. W tej wersji zmierzymy się przeciwko trzem komputerowym graczom. 
+> ## [EuroChamp](http://archives.aros-exec.org/?function=showfile&file=document/misc/eurochamp.lha) (v. 1.44)
+> (autor: Pasi Ylinen)
 
-![Stoppa card game](/assets/img/lastoppa.png)
-*Stoppa card game*
+Dokument w formacie Amigaguide przedstawiający statystyki Mistrzostw Europy od 1960 do 2024 roku. Najnowsze wersja została uzupełniona o składy i wyniki z Euro 2024. Pozycja obowiązkowa dla każdego miłośnika piłki nożnej!  
 
-> ## [GI SlotGame](http://archives.aros-exec.org/?function=showfile&file=game/board/slotgamearos.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+![EuroChamp](/assets/img/euro.png)
+*EuroChamp*
 
-Gra w Slotsy. Na szczęście nie na prawdziwe pieniądze :)
-
-![GI SlotGame](/assets/img/slotgame.png)
-*GI SlotGame*
-
-
-> ## [AROS Space Backdrops](http://archives.aros-exec.org/?function=showfile&file=graphics/theme/spacearosbackdrops.zip) (v. 1.0)
-> ## [AROS Scenic Backdrop](http://archives.aros-exec.org/?function=showfile&file=graphics/theme/scenic_backdrops.zip) (v. 1.0)
-> (autor: James Mattson)
-
-Tła dla AROSa. W pierwszym archiwum mamy 10 teł w tematyce kosmicznej, a w drugim 8 innych. Tła mają logo AROS i są w wysokiej rozdzielczości.
-
-Nagrania na Youtube prezentujące tła: [Video1](https://www.youtube.com/watch?v=PD04-5snP2E), [Video2](https://www.youtube.com/watch?v=U6fSA5-ny9k).
-
-![AROS Backdrops](/assets/img/tapety.jpg)
-*AROS Backdrops*
