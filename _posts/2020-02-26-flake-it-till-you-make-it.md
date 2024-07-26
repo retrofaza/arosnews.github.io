@@ -15,7 +15,7 @@ W lipcu została zaktualizowana dystrybucja Tiny AROS do wersji 3.3. Najważniej
 
 W serwisie YouTube na kanale Amiten TV jest do obejrzenia zapis blisko 3 godzinnego [live streama](https://www.youtube.com/watch?v=KigowKD1Aag) z przeglądu funkcji i oprogramowania AROS One 2.5. **Amiten TV** używa w pełni obsługiwanego komputera PC, karty graficznej 3D, karty dźwiękowej, karty sieciowej. Film jest w języku hiszpańskim. Polecam!
 
-Na [OSNews.com](https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/) został zauważony AROS w wersji AXRuntime. Polecam zapoznać się z tym wpisem oraz komentarzami zamieszonymi pod nim.
+Na [OSNews.com](https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/) został zauważony AROS w wersji AXRuntime. Warto zapoznać się z tym wpisem oraz komentarzami zamieszonymi pod nim.
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
 *#144 (Graphical artifacts when dragging an icon)*  
