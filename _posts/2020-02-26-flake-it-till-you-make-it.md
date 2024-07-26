@@ -9,15 +9,15 @@ ref: 0724
 W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYSTEM" Spadoni oparta jest na najnowszym systemie bazowym i zawiera wszystkie ostatnie aktualizacje i poprawki. Autor wiele wysiłku poświęcił na konfigurację i testowanie załączonego oprogramowania, którego jest naprawdę dużo. Pod ręką mamy wszystko co niezbędne w systemie. AROS One to także nowoczesne, wysokiej jakości tła, okna i ikony. Dzięki temu AROS One to obecnie najlepsza dystrybucja zarówno dla początujących użytkowników AROSa jak i dla zaawansowanych. 
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
-*#144 (Graphical artifacts when dragging an icon)*
+*#144 (Graphical artifacts when dragging an icon)*  
 *#25 (Shell won't open from icon that leave out)*
 
 ![IBOTM 07.2024](/assets/img/ibotm0724.png)
 *Irytujący Bug Miesiąca - lipiec 2024*
 
+Naprawiony przez Deadwooda został bug *#25*, a poprawka ta zasadniczo rozwiązuje również problem buga *#26 Multiple copying of the "Shell" icon when it's deleted*. Więc w lipcu mamy naprawione dwa Irytujące bugi, a bug #144 przechodzi na sierpień. 
 
-
-Na koniec jak zwykle nowości z AROS Archives, gdzie pojawiło się kilka mniejszych produkcji i aktualizacji. Poniżej szczegółowe zestawienie.
+W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
 > ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 5.0)
 > (autor: Juan Carlos Herrán Martín)
@@ -73,7 +73,7 @@ Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. 
 > ## [GI Puzzle Balls](http://archives.aros-exec.org/?function=showfile&file=game/puzzle/gipuzzleballs-i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
+Gra typu "match 3". Gracz musi łączyć co najmniej trzy identyczne elementy (w tym przypadku spadające kulki) w linii prostej, aby je usunąć z planszy. 
 
 ![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
 *GI Puzzle Balls*
