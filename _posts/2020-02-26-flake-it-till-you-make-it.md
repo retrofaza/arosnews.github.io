@@ -13,6 +13,8 @@ W lipcu została zaktualizowana dystrybucja Tiny AROS do wersji 3.3. Najważniej
 ![TinyAROS](/assets/img/tiny33.jpg)
 *Tiny AROS 3.3*
 
+W serwisie YouTube na kanale Amiten TV jest do obejrzenia zapis blisko 3 godzinnego [live streama](https://www.youtube.com/watch?v=KigowKD1Aag) z przeglądu funkcji i oprogramowania AROS One 2.5. **Amiten TV** używa w pełni obsługiwanego komputera PC, karty graficznej 3D, karty dźwiękowej, karty sieciowej. Film jest w języku hiszpańskim. Polecam!
+
 W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
 *#144 (Graphical artifacts when dragging an icon)*  
 *#25 (Shell won't open from icon that leave out)*
