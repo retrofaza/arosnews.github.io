@@ -36,30 +36,6 @@ Zmiany w najnowszej wersji:
 ![Pintor Web](/assets/img/pintorweb5.jpg)
 *Pintor Web*
 
-> ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. W tym wydaniu można zmierzyć się z komputerem, próbując odgadnąć 4 z pośród 8 kolorów. Liczba prób jest nieograniczona.
-
-![GI Master Mind](/assets/img/gimastermind.png)
-*GI Master Mind*
-
-> ## [GI Puzzle Balls](http://archives.aros-exec.org/?function=showfile&file=game/puzzle/gipuzzleballs-i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
-
-![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
-*GI Puzzle Balls*
-
-> ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
-> (autor: PolyMars)
-
-Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przeciągnij, aby utworzyć trajektorię, a następnie zwolnij przycisk myszy, aby wysłać bohatera w powietrze. Gra kończy się, gdy jajko wpadnie do wrzącej lawy. Aby uzyskać wysoki wynik, celuj w spadające platformy i zbierz jak najwięcej monet!
-
-![Terri-Fried](/assets/img/terri.png)
-*Terri-Fried*
-
 > ## [Crono](http://archives.aros-exec.org/?function=showfile&file=graphics/misc/crono_aros.lha) (v. 3.0)
 > (autor: Domenico Lattanzi)
 
@@ -77,6 +53,30 @@ Najnowsza wersja umożliwia:
 
 ![Crono](/assets/img/crono.png)
 *Crono*
+
+> ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
+> (autor: PolyMars)
+
+Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przeciągnij, aby utworzyć trajektorię, a następnie zwolnij przycisk myszy, aby wysłać bohatera w powietrze. Gra kończy się, gdy jajko wpadnie do wrzącej lawy. Aby uzyskać wysoki wynik, celuj w spadające platformy i zbierz jak najwięcej monet!
+
+![Terri-Fried](/assets/img/terri.png)
+*Terri-Fried*
+
+> ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. W tym wydaniu można zmierzyć się z komputerem, próbując odgadnąć 4 z pośród 8 kolorów. Liczba prób jest nieograniczona.
+
+![GI Master Mind](/assets/img/gimastermind.png)
+*GI Master Mind*
+
+> ## [GI Puzzle Balls](http://archives.aros-exec.org/?function=showfile&file=game/puzzle/gipuzzleballs-i386-aros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
+
+Prosta gra w której celem jest znalezienie klucza i dostanie się do wyjścia. Po drodze trzeba uważać na przeszkadzajki i nie dać się złapać strażnikom. Do przejścia jest 10 poziomów.
+
+![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
+*GI Puzzle Balls*
 
 > ## [EuroChamp](http://archives.aros-exec.org/?function=showfile&file=document/misc/eurochamp.lha) (v. 1.44)
 > (autor: Pasi Ylinen)
