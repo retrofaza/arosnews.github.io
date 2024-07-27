@@ -3,6 +3,7 @@ layout: post
 title: AROS x86 - lipiec 2024
 subtitle: podsumowanie miesiąca
 lang: pl
+tag: tutorial
 ref: 0724
 ---
 
