@@ -24,7 +24,7 @@ W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę 
 ![IBOTM 07.2024](/assets/img/ibotm0724.png)
 *Irytujący Bug Miesiąca - lipiec 2024*
 
-Naprawiony przez **Deadwooda** został bug *#25*, a poprawka ta zasadniczo rozwiązuje również problem buga *#26 Multiple copying of the "Shell" icon when it's deleted*. Więc w lipcu mamy naprawione dwa Irytujące bugi, a bug *#144* przechodzi na sierpień. 
+Naprawiony przez **Deadwooda** został bug *#25*, a [poprawka](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1279&pid=5842#post_5811) ta zasadniczo rozwiązuje również problem buga *#26 Multiple copying of the "Shell" icon when it's deleted*. Więc w lipcu mamy naprawione dwa Irytujące bugi, a bug *#144* przechodzi na sierpień. 
 
 W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
