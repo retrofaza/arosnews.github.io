@@ -87,6 +87,14 @@ Gra typu "match 3". Gracz musi łączyć co najmniej trzy identyczne elementy (w
 ![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
 *GI Puzzle Balls*
 
+> ## [Donkey Kong](http://archives.aros-exec.org/?function=showfile&file=game/board/donkeykong_net_arosx86.lha) (v. 1.83)
+> (autor: Anbjorn Myren)
+
+Remake gry LCD z serii Game&Watch stworzonej przez Nintendo. 
+
+![DonkeyKong](/assets/img/donkeykong.jpg)
+*Donkey Kong*
+
 > ## [EuroChamp](http://archives.aros-exec.org/?function=showfile&file=document/misc/eurochamp.lha) (v. 1.44)
 > (autor: Pasi Ylinen)
 
