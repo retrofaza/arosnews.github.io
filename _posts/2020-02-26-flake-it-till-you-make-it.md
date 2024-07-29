@@ -35,7 +35,7 @@ W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet 
 
 Zmiany w najnowszej wersji:
 - Zmieniona okładka programu, aby uniknąć jednego problemu z wersją AROS.
-- Poprawioy i ulepszony efekt Polaroid.
+- Poprawiony i ulepszony efekt Polaroid.
 - Naprawiono błędy.
 - Nowe efekty korekcji.
 - Nowe efekty wizualne.
