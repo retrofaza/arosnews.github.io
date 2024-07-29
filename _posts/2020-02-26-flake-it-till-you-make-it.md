@@ -6,9 +6,9 @@ lang: pl
 ref: 0724
 ---
 
-W czerwcu wyszedł AROS One 2.5. Dystrybucja przygotowana przez Carlo "AMIGASYSTEM" Spadoni oparta jest na najnowszym systemie bazowym i zawiera wszystkie ostatnie aktualizacje i poprawki. Autor wiele wysiłku poświęcił na konfigurację i testowanie załączonego oprogramowania, którego jest naprawdę dużo. Pod ręką mamy wszystko co niezbędne w systemie. AROS One to także nowoczesne, wysokiej jakości tła, okna i ikony. Dzięki temu AROS One to obecnie najlepsza dystrybucja zarówno dla początujących użytkowników AROSa jak i dla zaawansowanych. 
+W lipcu Deadwood rozpoczął prace nad aktualizacją przeglądarki OWB (zgodnie z [Development plan](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20&pid=5871#post_5869). Na forum AROS World założone są tematy dotyczące zarówno 32-bitowej jak i 64-bitowej wersji przeglądarki. Można tam pobrać najnowszą wersję deweloperską i uczestniczyć w testach, do czego mocno zachęcam. Jednocześnie wypuszczona została publiczna wersja AROS 64-bit na której można pracować z 64-bitową Oddysey Web Browser. Na blogu zamieściłem prosty [tutorial](https://arosnews.github.io/OWB-aros-linux-hosted/) jak zainstalowac tę wersję hostowaną w systemie linux.
 
-W lipcu została zaktualizowana dystrybucja Tiny AROS do wersji 3.3. Najważniejsza zmiana to Wanderer jako domyślne środowisko desktopowe (wcześniej domyślnym środowiskiem był Magellan). Zmiana ta zapewne została podyktowana poprawkami, które spotkały Wanderera w ostatnich miesiącach. Pełną listę zmian w załączonym oprogramowaniu można znaleźć na [stronie projektu](https://www.tinyaros.it/).
+Została zaktualizowana dystrybucja Tiny AROS do wersji 3.3. Najważniejsza zmiana to Wanderer jako domyślne środowisko desktopowe (wcześniej domyślnym środowiskiem był Magellan). Zmiana ta zapewne została podyktowana poprawkami, które spotkały Wanderera w ostatnich miesiącach. Pełną listę zmian w załączonym oprogramowaniu można znaleźć na [stronie projektu](https://www.tinyaros.it/).
 
 ![TinyAROS](/assets/img/tiny33.jpg)
 *Tiny AROS 3.3*
