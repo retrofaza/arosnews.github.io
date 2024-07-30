@@ -71,6 +71,19 @@ Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przecią
 ![Terri-Fried](/assets/img/terri.png)
 *Terri-Fried*
 
+> ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.0)
+> (autor: Juan Carlos Herrán Martín)
+
+Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
+    - HLE Poker Card (High-Low-Equal Poker Card).
+    - BlackJuan.
+    - Siete y Media.
+    - Baccarat.
+    - BlackIvan Card.
+
+![Cards Making Kit](/assets/img/cardsmakingkit.png)
+*Cards Making Kit*
+
 > ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
