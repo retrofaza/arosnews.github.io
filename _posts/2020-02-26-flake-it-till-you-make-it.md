@@ -74,7 +74,7 @@ Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przecią
 > ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.0)
 > (autor: Juan Carlos Herrán Martín)
 
-Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
+Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:  
     - HLE Poker Card (High-Low-Equal Poker Card).  
     - BlackJuan.  
     - Siete y Media.  
