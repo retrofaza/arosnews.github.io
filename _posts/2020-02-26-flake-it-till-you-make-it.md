@@ -81,7 +81,7 @@ Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
     - Baccarat.  
     - BlackIvan Card.  
 
-![Cards Making Kit](/assets/img/cardsmakingkit.png)
+![Cards Making Kit](/assets/img/cardsmakingkit.jpg)
 *Cards Making Kit*
 
 > ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
