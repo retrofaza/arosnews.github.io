@@ -116,3 +116,12 @@ Dokument w formacie Amigaguide przedstawiający statystyki Mistrzostw Europy od 
 ![EuroChamp](/assets/img/euro.png)
 *EuroChamp*
 
+> ## [icons_pack_kensv4](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/more_icons_kensv4.zip) (v.2)
+> (autor: amiwell79)
+
+Zestaw nieoficjalnych ikon w stylu kensv4 dla aplikacji i szuflad.
+
+![icons_pack_kensv4](/assets/img/iconspackkensv4.png)
+*icons_pack_kensv4*
+
+
