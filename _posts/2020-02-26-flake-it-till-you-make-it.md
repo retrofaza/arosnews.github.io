@@ -34,7 +34,7 @@ Naprawiony przez **Deadwooda** został bug *#25*, a [poprawka](https://www.arosw
 W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
 > ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 1.0)
-> (autor: Juan Carlos Herrán Martín)
+> (autor: Space.cpp)
 
 Ta gra to roguelite dungeon crawler z rozgrywką w stylu Zeldy. Przedzieraj się przez lochy, pokonując wrogów i zbierając przedmioty. Awansuj swoją postać, aby stać się silniejszym i z łatwością pokonywać kolejne piętra. Jeśli zginiesz, musisz zacząć od nowa, ale zachowujesz swoje atrybuty. Czy uda ci się dotrzeć do 30. piętra, zabić strażnika i wrócić na powierzchnię żywy?
 
