@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AROS x86 - lipiec 2024
+title: AROS x86 - sierpień 2024
 subtitle: podsumowanie miesiąca
 lang: pl
 ref: 0724
@@ -33,40 +33,21 @@ Naprawiony przez **Deadwooda** został bug *#25*, a [poprawka](https://www.arosw
 
 W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
-> ## [Pintor Web](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 5.0)
+> ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 1.0)
 > (autor: Juan Carlos Herrán Martín)
 
-Łatwy w obsłudze program do edycji zdjęć wykorzystywanych w projektach stron internetowych. Umożliwia zmianę rozmiaru, obrót, stosowanie efektów wizualnych, dodawanie znaku wodnego lub logo marki, zapisywanie w różnych formatach.
+Ta gra to roguelite dungeon crawler z rozgrywką w stylu Zeldy. Przedzieraj się przez lochy, pokonując wrogów i zbierając przedmioty. Awansuj swoją postać, aby stać się silniejszym i z łatwością pokonywać kolejne piętra. Jeśli zginiesz, musisz zacząć od nowa, ale zachowujesz swoje atrybuty. Czy uda ci się dotrzeć do 30. piętra, zabić strażnika i wrócić na powierzchnię żywy?
 
-Zmiany w najnowszej wersji:
-- Zmieniona okładka programu, aby uniknąć jednego problemu z wersją AROS.
-- Poprawiony i ulepszony efekt Polaroid.
-- Naprawiono błędy.
-- Nowe efekty korekcji.
-- Nowe efekty wizualne.
-- Zoptymalizowano kod.
-- Przepisana instrukcja PDF.
+![The Chaotic Dungeon](/assets/img/chaotic.png)
+*The Chaotic Dungeon*
 
-![Pintor Web](/assets/img/pintorweb5.jpg)
-*Pintor Web*
+> ## [WhatIFF?](http://archives.aros-exec.org/?function=showfile&file=graphics/misc/crono_aros.lha) (v. 3.14)
+> (autorzy: WhatIFF? Staff)
 
-> ## [Crono](http://archives.aros-exec.org/?function=showfile&file=graphics/misc/crono_aros.lha) (v. 3.0)
-> (autor: Domenico Lattanzi)
+Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Wydanie 14 - Sierpień 2024 r.
 
-Generatore kalendarzy do wydrukowania.  
-
-Najnowsza wersja umożliwia:
-- Tworzenie kalendarzy w formacie strony DIN A4 lub A3, w orientacji pionowej lub poziomej
-- Kalendarze miesięczne lub roczne
-- Stylizowane jako siatki lub listy
-- Możliwość dostosowania poprzez dodanie zdjęcia, wybór czcionki i kolorów
-- 26 obsługiwanych języków
-- Wybór pomiędzy niedzielą a poniedziałkiem jako pierwszym dniem tygodnia
-- Oznaczanie poszczególnych dni jako dni wolnych od pracy
-- Wyjście do formatu PDF
-
-![Crono](/assets/img/crono.png)
-*Crono*
+![WhatIFF?](/assets/img/whatiff314.png)
+*WhatIFF? - sierpień 2024*
 
 > ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
 > (autor: PolyMars)
