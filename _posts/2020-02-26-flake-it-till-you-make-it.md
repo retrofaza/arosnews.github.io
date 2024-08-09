@@ -33,7 +33,7 @@ Naprawiony przez **Deadwooda** został bug *#25*, a [poprawka](https://www.arosw
 
 W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
-> ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=graphics/convert/pintorweb.lha) (v. 1.0)
+> ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=game/roleplaying/chaotic-dungeon.i386-aros.zip) (v. 1.0)
 > (autor: Space.cpp)
 
 Ta gra to roguelite dungeon crawler z rozgrywką w stylu Zeldy. Przedzieraj się przez lochy, pokonując wrogów i zbierając przedmioty. Awansuj swoją postać, aby stać się silniejszym i z łatwością pokonywać kolejne piętra. Jeśli zginiesz, musisz zacząć od nowa, ale zachowujesz swoje atrybuty. Czy uda ci się dotrzeć do 30. piętra, zabić strażnika i wrócić na powierzchnię żywy?
@@ -41,7 +41,7 @@ Ta gra to roguelite dungeon crawler z rozgrywką w stylu Zeldy. Przedzieraj się
 ![The Chaotic Dungeon](/assets/img/chaotic.png)
 *The Chaotic Dungeon*
 
-> ## [WhatIFF?](http://archives.aros-exec.org/?function=showfile&file=graphics/misc/crono_aros.lha) (v. 3.14)
+> ## [WhatIFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.14.lha) (v. 3.14)
 > (autorzy: WhatIFF? Staff)
 
 Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Wydanie 14 - Sierpień 2024 r.
