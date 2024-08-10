@@ -13,10 +13,10 @@ Na blogu zamieściłem serię tutoriali, jak zainstalować Oddysey Web Browser w
 - [Oddysey Web Browser w AxRT Linux](https://arosnews.github.io/oddysey-web-browser-axrt-linux/)  
 - [Oddysey Web Browser w AxRT Windows 11 (WSL2)](https://arosnews.github.io/oddysey-web-browser-axrt-wsl2/)  
 
-Została zaktualizowana dystrybucja Tiny AROS do wersji 3.3. Najważniejsza zmiana to Wanderer jako domyślne środowisko desktopowe (wcześniej domyślnym środowiskiem był Magellan). Zmiana ta zapewne została podyktowana poprawkami, które spotkały Wanderera w ostatnich miesiącach. Pełną listę zmian w załączonym oprogramowaniu można znaleźć na [stronie projektu](https://www.tinyaros.it/).
+Została zaktualizowana dystrybucja Tiny AROS do wersji 3.4. Pełną listę zmian w załączonym oprogramowaniu można znaleźć na [stronie projektu](https://www.tinyaros.it/).
 
-![TinyAROS](/assets/img/tiny33.jpg)
-*Tiny AROS 3.3*
+![TinyAROS](/assets/img/tiny34.jpg)
+*Tiny AROS 3.4*
 
 W serwisie YouTube na kanale Amiten TV jest do obejrzenia zapis blisko 3 godzinnego [live streama](https://www.youtube.com/watch?v=KigowKD1Aag) z przeglądu funkcji i oprogramowania AROS One 2.5. **Amiten TV** używa w pełni obsługiwanego komputera PC, karty graficznej 3D, karty dźwiękowej, karty sieciowej. Film jest w języku hiszpańskim. Polecam!
 
