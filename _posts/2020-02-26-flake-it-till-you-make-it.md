@@ -52,7 +52,7 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Wydanie 14 - Sierpie
 > ## [SFSobject](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sfsobject.i386-aros.zip) (v. 1.6)
 > (autorzy: Jean-Marie COAT, Farox)
 
-Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów Smart File System. Obiektami systemu plików są na przykład katalogi i pliki. Za pomocą SFSObject można ukryć niektóre pliki lub uczynić katalog nieusuwalnym, nawet gdy ochrona przed usunięciem jest wyłączona.
+Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów SmartFilesystem. Obiektami systemu plików są na przykład katalogi i pliki. Za pomocą SFSObject można ukryć niektóre pliki lub uczynić katalog nieusuwalnym, nawet gdy ochrona przed usunięciem jest wyłączona.
 
 ![SFSobject](/assets/img/sfsobject.png)
 *SFSobject*
