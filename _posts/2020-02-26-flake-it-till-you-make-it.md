@@ -49,13 +49,13 @@ Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Wydanie 14 - Sierpie
 ![WhatIFF?](/assets/img/whatiff314.png)
 *WhatIFF? - sierpień 2024*
 
-> ## [Terri-Fried](http://archives.aros-exec.org/?function=showfile&file=game/platform/terri-fried.i386-aros.zip) (v. 1.0)
-> (autor: PolyMars)
+> ## [SFSobject](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sfsobject.i386-aros.zip) (v. 1.6)
+> (autorzy: Jean-Marie COAT, Farox)
 
-Czy pomożesz przetrwać temu jajku? Kliknij prawym przyciskiem myszy i przeciągnij, aby utworzyć trajektorię, a następnie zwolnij przycisk myszy, aby wysłać bohatera w powietrze. Gra kończy się, gdy jajko wpadnie do wrzącej lawy. Aby uzyskać wysoki wynik, celuj w spadające platformy i zbierz jak najwięcej monet!
+Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów Smart File System. Obiektami systemu plików są na przykład katalogi i pliki. Za pomocą SFSObject można ukryć niektóre pliki lub uczynić katalog nieusuwalnym, nawet gdy ochrona przed usunięciem jest wyłączona.
 
-![Terri-Fried](/assets/img/terri.png)
-*Terri-Fried*
+![SFSobject](/assets/img/sfsobject.png)
+*SFSobject*
 
 > ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.0)
 > (autor: Juan Carlos Herrán Martín)
