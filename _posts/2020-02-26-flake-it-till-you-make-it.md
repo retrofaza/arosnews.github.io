@@ -57,34 +57,29 @@ Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów SmartFil
 ![SFSobject](/assets/img/sfsobject.png)
 *SFSobject*
 
-> ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.0)
+> ## [Baphomet ScreenSaver](http://archives.aros-exec.org/?function=showfile&file=utility/misc/baphometscreensaver.lha) (v. 1.0)
 > (autor: Juan Carlos Herrán Martín)
 
-Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:  
-    - HLE Poker Card (High-Low-Equal Poker Card).  
-    - BlackJuan.  
-    - Siete y Media.  
-    - Baccarat.  
-    - BlackIvan Card.  
+Baphomet ScreenSaver
 
-![Cards Making Kit](/assets/img/cardsmakingkit.jpg)
-*Cards Making Kit*
+![Baphomet ScreenSaver](/assets/img/baphometss.jpg)
+*Baphomet ScreenSaver*
 
-> ## [GI Master Mind](http://archives.aros-exec.org/?function=showfile&file=game/board/gimastermindaros.i386-aros.zip) (v. 1.0)
+> ## [Leeko](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/leeko-i386-aros.zip) (v. 1.0)
+> (autor: Fit demogroup, port by Farox)
+
+Leeko
+
+![Leeko](/assets/img/leeko.jpg)
+*Leeko*
+
+> ## [Micery](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/micery-i386-aros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-Gra na inteligencję, która polega na odgadnięciu tajnej kombinacji kolorów. W tym wydaniu można zmierzyć się z komputerem, próbując odgadnąć 4 z pośród 8 kolorów. Liczba prób jest nieograniczona.
+Micery 
 
-![GI Master Mind](/assets/img/gimastermind.png)
-*GI Master Mind*
-
-> ## [GI Puzzle Balls](http://archives.aros-exec.org/?function=showfile&file=game/puzzle/gipuzzleballs-i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
-
-Gra typu "match 3". Gracz musi łączyć co najmniej trzy identyczne elementy (w tym przypadku spadające kulki) w linii prostej, aby je usunąć z planszy. 
-
-![GI Puzzle Balls](/assets/img/gipuzzleballs.png)
-*GI Puzzle Balls*
+![Micery](/assets/img/micery.jpg)
+*Micery*
 
 > ## [Donkey Kong](http://archives.aros-exec.org/?function=showfile&file=game/board/donkeykong_net_arosx86.lha) (v. 1.83)
 > (autor: Anbjorn Myren)
