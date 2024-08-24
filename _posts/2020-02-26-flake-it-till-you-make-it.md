@@ -74,7 +74,7 @@ Leeko
 *Leeko*
 
 > ## [Micery](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/micery-i386-aros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+> (autor: Fit demogroup, port by Farox)
 
 Micery 
 
