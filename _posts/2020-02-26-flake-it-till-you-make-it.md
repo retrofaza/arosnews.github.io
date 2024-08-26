@@ -13,11 +13,6 @@ Na blogu zamieściłem serię tutoriali, jak zainstalować Oddysey Web Browser w
 - [Oddysey Web Browser w AxRT Linux](https://arosnews.github.io/oddysey-web-browser-axrt-linux/)  
 - [Oddysey Web Browser w AxRT Windows 11 (WSL2)](https://arosnews.github.io/oddysey-web-browser-axrt-wsl2/)  
 
-Została zaktualizowana dystrybucja Tiny AROS do wersji 3.4. Pełną listę zmian w załączonym oprogramowaniu można znaleźć na [stronie projektu](https://www.tinyaros.it/).
-
-![TinyAROS](/assets/img/tiny34.jpg)
-*Tiny AROS 3.4*
-
 W serwisie YouTube na kanale Amiten TV jest do obejrzenia zapis blisko 3 godzinnego [live streama](https://www.youtube.com/watch?v=KigowKD1Aag) z przeglądu funkcji i oprogramowania AROS One 2.5. **Amiten TV** używa w pełni obsługiwanego komputera PC, karty graficznej 3D, karty dźwiękowej, karty sieciowej. Film jest w języku hiszpańskim. Polecam!
 
 Na [OSNews.com](https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/) został zauważony AROS w wersji AXRuntime. Warto zapoznać się z tym wpisem oraz komentarzami zamieszonymi pod nim.
@@ -80,29 +75,4 @@ Micery
 
 ![Micery](/assets/img/micery.jpg)
 *Micery*
-
-> ## [Donkey Kong](http://archives.aros-exec.org/?function=showfile&file=game/board/donkeykong_net_arosx86.lha) (v. 1.83)
-> (autor: Anbjorn Myren)
-
-Remake gry LCD z serii Game&Watch stworzonej przez Nintendo. 
-
-![DonkeyKong](/assets/img/donkeykong.jpg)
-*Donkey Kong*
-
-> ## [EuroChamp](http://archives.aros-exec.org/?function=showfile&file=document/misc/eurochamp.lha) (v. 1.44)
-> (autor: Pasi Ylinen)
-
-Dokument w formacie Amigaguide przedstawiający statystyki Mistrzostw Europy od 1960 do 2024 roku. Najnowsze wersja została uzupełniona o składy i wyniki z Euro 2024. Pozycja obowiązkowa dla każdego miłośnika piłki nożnej!  
-
-![EuroChamp](/assets/img/euro.png)
-*EuroChamp*
-
-> ## [icons_pack_kensv4](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/more_icons_kensv4.zip) (v.2)
-> (autor: amiwell79)
-
-Zestaw nieoficjalnych ikon w stylu kensv4 dla aplikacji i szuflad.
-
-![icons_pack_kensv4](/assets/img/iconspackkensv4.png)
-*icons_pack_kensv4*
-
 
