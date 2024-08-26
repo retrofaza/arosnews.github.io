@@ -65,7 +65,7 @@ Baphomet ScreenSaver
 
 Leeko
 
-![Leeko](/assets/img/leeko.jpg)
+![Leeko](/assets/img/lekko.jpg)
 *Leeko*
 
 > ## [Micery](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/micery-i386-aros.zip) (v. 1.0)
