@@ -27,6 +27,8 @@ Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w który
 
 Dzięki pracy Deadwooda wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
 
+Timothy Deters, obecny właściciel praw do programu **Final Writer**, wprowadził długo oczekiwaną aktualizację. Nowa wersja (7.1) zawiera funkcję eksportu do pliku PDF, lokalizację zgodną z wytycznymi AmigaOS, możliwość drukowania przez FTP/IPP, zaktualizowaną obsługę formatu RTF oraz zupełnie nowy mechanizm sprawdzania pisowni w czasie rzeczywistym oparty na MySpell. Na [stronie producenta](https://final-writer.com/) dostępne są wersje dla AROS 68k/ApolloOS, AROS x86-64 (ABIv1) oraz AROS x86 (ABIv0). Pełna wersja kosztuje 50$. Wersje demo są do pobrania bezpłatnie.
+
 Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
 
 > ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=game/roleplaying/chaotic-dungeon.i386-aros.zip) (v. 1.0)
