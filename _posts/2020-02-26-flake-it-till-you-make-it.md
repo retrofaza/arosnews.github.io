@@ -6,12 +6,26 @@ lang: pl
 ref: 0724
 ---
 
-W lipcu Deadwood rozpoczął prace nad aktualizacją przeglądarki OWB (zgodnie z [Development plan](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20&pid=5871#post_5869)). Na forum AROS World założone są tematy dotyczące zarówno 32-bitowej jak i 64-bitowej wersji przeglądarki. Można tam pobrać najnowszą wersję deweloperską i uczestniczyć w testach, do czego mocno zachęcam. Jednocześnie wypuszczona została publiczna wersja AROS 64-bit na której można pracować z 64-bitową Oddysey Web Browser.
 
-Na blogu zamieściłem serię tutoriali, jak zainstalować Oddysey Web Browser w różnych środowiskach:
-- [Oddysey Web Browser w AROS Linux hosted](https://arosnews.github.io/oddysey-web-browser-aros-linux-hosted/)  
-- [Oddysey Web Browser w AxRT Linux](https://arosnews.github.io/oddysey-web-browser-axrt-linux/)  
-- [Oddysey Web Browser w AxRT Windows 11 (WSL2)](https://arosnews.github.io/oddysey-web-browser-axrt-wsl2/)  
+W ramach Irytującego Buga Miesiąca w sierpniu został naprawiony bug:  
+*#144 (Graphical artifacts when dragging an icon)*  
+Link do poprawki znajdziecie w [temacie na forum ArosWorld](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1299&pid=6134#post_6124).
+
+Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w których użytkownicy mogli głosować na najbardziej irytujące ich bugi pojawiały się co miesiąc począwszy od listopada 2023. Kolejno wygrywały:
+*#64 (Wanderer: properly run tools with CLI tooltype)*  
+*#107 (Wanderer Rename: Cannot change size of letters in name without changing name)*  
+*#91 (Wrong parsing of boot parameters in Prefs/Boot)*  
+*#115 (Add an easy way to enable tethering in Network preferences)*  
+*#135 (AHCI - only 7.9 GB allocated out of disk)*  
+*#105 (DiskInfo showing OFS instead of FAT)*  
+*#116 (Wanderer: Allow deleting by pressing Del key)*  
+*#125 (You can access a drawer icon even if the directory assigned to it does not exist)*  
+*#140 (Wanderer: Changing the disk label does not work)*  
+*#25 (Shell won't open from icon that leave out)*  
+*#26 (Multiple copying of the Shell icon when it is deleted)*  
+*#144 (Graphical artifacts when dragging an icon)*  
+
+Dzięki pracy Deadwooda wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
 
 W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
 *#144 (Graphical artifacts when dragging an icon)*  
