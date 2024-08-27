@@ -27,7 +27,7 @@ Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w który
 
 Dzięki pracy Deadwooda wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
 
-W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
+Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
 
 > ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=game/roleplaying/chaotic-dungeon.i386-aros.zip) (v. 1.0)
 > (autor: Space.cpp)
