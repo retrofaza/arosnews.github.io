@@ -13,10 +13,6 @@ Na blogu zamieściłem serię tutoriali, jak zainstalować Oddysey Web Browser w
 - [Oddysey Web Browser w AxRT Linux](https://arosnews.github.io/oddysey-web-browser-axrt-linux/)  
 - [Oddysey Web Browser w AxRT Windows 11 (WSL2)](https://arosnews.github.io/oddysey-web-browser-axrt-wsl2/)  
 
-W serwisie YouTube na kanale Amiten TV jest do obejrzenia zapis blisko 3 godzinnego [live streama](https://www.youtube.com/watch?v=KigowKD1Aag) z przeglądu funkcji i oprogramowania AROS One 2.5. **Amiten TV** używa w pełni obsługiwanego komputera PC, karty graficznej 3D, karty dźwiękowej, karty sieciowej. Film jest w języku hiszpańskim. Polecam!
-
-Na [OSNews.com](https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/) został zauważony AROS w wersji AXRuntime. Warto zapoznać się z tym wpisem oraz komentarzami zamieszonymi pod nim.
-
 W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
 *#144 (Graphical artifacts when dragging an icon)*  
 *#25 (Shell won't open from icon that leave out)*
@@ -65,7 +61,7 @@ Wygaszacz ekranu dla AROSa. Motywem przewodnim jest odwieczna walka pomiędzy an
 
 Leeko to produkcja grupy Fit. Po raz pierwszy została zaprezentowana na party Assembly 2003 w konkursie *Combined 64k Intro*, gdzie zajęła 3 miejsce.  
 
-Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchamić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.
+Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchomić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.
 
 ![Leeko](/assets/img/lekko.jpg)
 *Leeko*
@@ -75,9 +71,11 @@ Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla Amig
 
 Micery to produkcja grup Bandwagon & Fit. Po raz pierwszy została zaprezentowana na imprezie Alternative Party V (2004) w konkursie *Dynamic Demo*, gdzie zajęła 2 miejsce.  
 
-Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchamić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.  
+Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchomić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.  
 
 (Demo nie ma zakończenia, aby z niego wyjść należy nacisnąć ESC.)
+
+Oba dema, Leeko i Micery, możecie zobaczyć [na filmiku w serwisie Youtube](https://www.youtube.com/watch?v=4cN1mXnszIQ) na kanale Jamesa Mattsona.
 
 ![Micery](/assets/img/micery.jpg)
 *Micery*
