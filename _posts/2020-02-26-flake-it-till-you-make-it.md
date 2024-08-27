@@ -55,7 +55,7 @@ Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów SmartFil
 > ## [Baphomet ScreenSaver](http://archives.aros-exec.org/?function=showfile&file=utility/misc/baphometscreensaver.lha) (v. 1.0)
 > (autor: Juan Carlos Herrán Martín)
 
-Baphomet ScreenSaver
+Wygaszacz ekranu dla AROSa. Motywem przewodnim jest odwieczna walka pomiędzy aniołami i demonami.
 
 ![Baphomet ScreenSaver](/assets/img/baphometss.jpg)
 *Baphomet ScreenSaver*
@@ -63,15 +63,21 @@ Baphomet ScreenSaver
 > ## [Leeko](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/leeko-i386-aros.zip) (v. 1.0)
 > (autor: Fit demogroup, port by Farox)
 
-Leeko
+Leeko to produkcja grupy Fit. Po raz pierwszy została zaprezentowana na party Assembly 2003 w konkursie *Combined 64k Intro*, gdzie zajęła 3 miejsce.  
+
+Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchamić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.
 
 ![Leeko](/assets/img/lekko.jpg)
 *Leeko*
 
 > ## [Micery](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/micery-i386-aros.zip) (v. 1.0)
-> (autor: Fit demogroup, port by Farox)
+> (autorzy: Bandwagon & Fit demogroups, port by Farox)
 
-Micery 
+Micery to produkcja grup Bandwagon & Fit. Po raz pierwszy została zaprezentowana na imprezie Alternative Party V (2004) w konkursie *Dynamic Demo*, gdzie zajęła 2 miejsce.  
+
+Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchamić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.  
+
+(Demo nie ma zakończenia, aby z niego wyjść należy nacisnąć ESC.)
 
 ![Micery](/assets/img/micery.jpg)
 *Micery*
