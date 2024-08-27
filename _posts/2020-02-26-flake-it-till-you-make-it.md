@@ -11,7 +11,7 @@ W ramach Irytującego Buga Miesiąca w sierpniu został naprawiony bug:
 *#144 (Graphical artifacts when dragging an icon)*  
 Link do poprawki znajdziecie w [temacie na forum ArosWorld](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1299&pid=6134#post_6124).
 
-Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w których użytkownicy mogli głosować na najbardziej irytujące ich bugi pojawiały się co miesiąc począwszy od listopada 2023. Kolejno wygrywały:
+Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w których użytkownicy mogli głosować na najbardziej irytujące ich bugi pojawiały się co miesiąc począwszy od listopada 2023. Kolejno wygrywały:  
 *#64 (Wanderer: properly run tools with CLI tooltype)*  
 *#107 (Wanderer Rename: Cannot change size of letters in name without changing name)*  
 *#91 (Wrong parsing of boot parameters in Prefs/Boot)*  
@@ -26,15 +26,6 @@ Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w który
 *#144 (Graphical artifacts when dragging an icon)*  
 
 Dzięki pracy Deadwooda wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
-
-W ankiecie na Irytujący bug miesiąca mieliśmy w lipcu remis. Równą liczbę głosów otrzymały zgłoszenia:  
-*#144 (Graphical artifacts when dragging an icon)*  
-*#25 (Shell won't open from icon that leave out)*
-
-![IBOTM 07.2024](/assets/img/ibotm0724.png)
-*Irytujący Bug Miesiąca - lipiec 2024*
-
-Naprawiony przez **Deadwooda** został bug *#25*, a [poprawka](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1279&pid=5842#post_5811) ta zasadniczo rozwiązuje również problem buga *#26 Multiple copying of the "Shell" icon when it's deleted*. Więc w lipcu mamy naprawione dwa Irytujące bugi, a bug *#144* przechodzi na sierpień. 
 
 W AROS Archives czuć sezon wakacyjny, bo nowych programów niewiele, ale nawet z tej ilości można wybrać coś ciekawego :)
 
