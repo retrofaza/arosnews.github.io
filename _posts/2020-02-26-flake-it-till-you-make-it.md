@@ -35,7 +35,7 @@ https://arosworld.org/infusions/forum/viewthread.php?thread_id=1293&rowstart=40#
 Jeśli chcielibyście docenić pracę Krzysztofa nad przeglądarką OWB i nie tylko, poniżej link do jego Paypala. Każdy donate będzie mile widziany!
 Link Deadwooda: [https://www.paypal.com/paypalme/4deadwood](https://www.paypal.com/paypalme/4deadwood)  
 
-Praca nad aktualizacją OWB nie byłaby tak szybka, gdyby nie wcześniejszy wysiłek Jacka Piszczka przy przeglądarce Wayfarer! Również dla niego rozważcie donate (zaznaczając, że to od użytkownika AROSa :)) 
+Praca nad aktualizacją OWB nie byłaby tak szybka, gdyby nie wcześniejszy wysiłek Jacka Piszczka przy przeglądarce Wayfarer! Również dla niego rozważcie donate (zaznaczając, że to od użytkownika AROSa :))  
 Link Jacka: [https://www.paypal.com/paypalme/wayfarerbrowser](https://www.paypal.com/paypalme/wayfarerbrowser)
 
 Timothy Deters, obecny właściciel praw do programu **Final Writer**, wprowadził długo oczekiwaną aktualizację. Nowa wersja (7.1) zawiera funkcję eksportu do pliku PDF, lokalizację zgodną z wytycznymi AmigaOS, możliwość drukowania przez FTP/IPP, zaktualizowaną obsługę formatu RTF oraz zupełnie nowy mechanizm sprawdzania pisowni w czasie rzeczywistym oparty na MySpell. Na [stronie producenta](https://final-writer.com/) dostępne są wersje dla AROS 68k/ApolloOS, AROS x86-64 (ABIv1) oraz AROS x86 (ABIv0). Pełna wersja kosztuje 50$. Wersje demo są do pobrania bezpłatnie.
