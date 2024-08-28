@@ -25,7 +25,18 @@ Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w który
 *#26 (Multiple copying of the Shell icon when it is deleted)*  
 *#144 (Graphical artifacts when dragging an icon)*  
 
-Dzięki pracy Deadwooda wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
+Dzięki pracy **Deadwooda** wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
+
+W przypadku Oddysey Web Browser dostaliśmy więcej niż ktokolwiek się spodziewał. Silnik WebKit został zaktualizowany z poziomu Sierpień 2015 do poziomu Luty 2019. Żeby wyobrazić sobie ogrom wysiłku jaki wymaga taka aktualizacja, wystarczy powiedzieć, że obejmuje ona ponad 50 000 zmian! OWB 2.0 nadal jest w wersji alfa, a prace trwają nad przywróceniem wszystkich funkcjonalności oraz stabilności przeglądarki.
+
+OWB 32-bit:
+https://arosworld.org/infusions/forum/viewthread.php?thread_id=1293&rowstart=40#post_6065
+
+Jeśli chcielibyście docenić pracę Krzysztofa nad przeglądarką OWB i nie tylko, poniżej link do jego Paypala. Każdy donate będzie mile widziany!
+Link Deadwooda: [https://www.paypal.com/paypalme/4deadwood](https://www.paypal.com/paypalme/4deadwood)  
+
+Praca nad aktualizacją OWB nie byłaby tak szybka, gdyby nie wcześniejszy wysiłek Jacka Piszczka przy przeglądarce Wayfarer! Również dla niego rozważcie donate (zaznaczając, że to od użytkownika AROSa :)) 
+Link Jacka: [https://www.paypal.com/paypalme/wayfarerbrowser](https://www.paypal.com/paypalme/wayfarerbrowser)
 
 Timothy Deters, obecny właściciel praw do programu **Final Writer**, wprowadził długo oczekiwaną aktualizację. Nowa wersja (7.1) zawiera funkcję eksportu do pliku PDF, lokalizację zgodną z wytycznymi AmigaOS, możliwość drukowania przez FTP/IPP, zaktualizowaną obsługę formatu RTF oraz zupełnie nowy mechanizm sprawdzania pisowni w czasie rzeczywistym oparty na MySpell. Na [stronie producenta](https://final-writer.com/) dostępne są wersje dla AROS 68k/ApolloOS, AROS x86-64 (ABIv1) oraz AROS x86 (ABIv0). Pełna wersja kosztuje 50$. Wersje demo są do pobrania bezpłatnie.
 
