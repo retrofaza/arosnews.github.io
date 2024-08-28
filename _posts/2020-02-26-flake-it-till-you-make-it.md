@@ -92,16 +92,16 @@ Wygaszacz ekranu dla AROSa. Motywem przewodnim jest odwieczna walka pomiędzy an
 ![Baphomet ScreenSaver](/assets/img/baphometss.jpg)
 *Baphomet ScreenSaver*
 
-> ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.1)
+> ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.10)
 > (autor: Juan Carlos Herrán Martín)
 
 Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
 
-    HLE Poker Card (High-Low-Equal Poker Card).
-    BlackJuan.
-    Siete y Media.
-    Baccarat.
-    BlackIvan Card.
+- HLE Poker Card (High-Low-Equal Poker Card).
+- BlackJuan.
+- Siete y Media.
+- Baccarat.
+- BlackIvan Card.
 
 ![Cards Making Kit](/assets/img/cardsmakingkit.jpg)
 *Cards Making Kit*
