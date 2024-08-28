@@ -103,7 +103,7 @@ Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
 - Baccarat.
 - BlackIvan Card.
 
-![Cards Making Kit](/assets/img/cardsmakingkit.jpg)
+![Cards Making Kit](/assets/img/cardsmakingkit21.jpg)
 *Cards Making Kit*
 
 
