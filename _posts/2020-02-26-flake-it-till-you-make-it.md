@@ -60,14 +60,6 @@ Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów SmartFil
 ![SFSobject](/assets/img/sfsobject.png)
 *SFSobject*
 
-> ## [Baphomet ScreenSaver](http://archives.aros-exec.org/?function=showfile&file=utility/misc/baphometscreensaver.lha) (v. 1.0)
-> (autor: Juan Carlos Herrán Martín)
-
-Wygaszacz ekranu dla AROSa. Motywem przewodnim jest odwieczna walka pomiędzy aniołami i demonami.
-
-![Baphomet ScreenSaver](/assets/img/baphometss.jpg)
-*Baphomet ScreenSaver*
-
 > ## [Leeko](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/leeko-i386-aros.zip) (v. 1.0)
 > (autor: Fit demogroup, port by Farox)
 
@@ -91,4 +83,27 @@ Oba dema, Leeko i Micery, możecie zobaczyć [na filmiku w serwisie Youtube](htt
 
 ![Micery](/assets/img/micery.jpg)
 *Micery*
+
+> ## [Baphomet ScreenSaver](http://archives.aros-exec.org/?function=showfile&file=utility/misc/baphometscreensaver.lha) (v. 1.0)
+> (autor: Juan Carlos Herrán Martín)
+
+Wygaszacz ekranu dla AROSa. Motywem przewodnim jest odwieczna walka pomiędzy aniołami i demonami.
+
+![Baphomet ScreenSaver](/assets/img/baphometss.jpg)
+*Baphomet ScreenSaver*
+
+> ## [Cards Making Kit](http://archives.aros-exec.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.1)
+> (autor: Juan Carlos Herrán Martín)
+
+Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
+
+    HLE Poker Card (High-Low-Equal Poker Card).
+    BlackJuan.
+    Siete y Media.
+    Baccarat.
+    BlackIvan Card.
+
+![Cards Making Kit](/assets/img/cardsmakingkit.jpg)
+*Cards Making Kit*
+
 
