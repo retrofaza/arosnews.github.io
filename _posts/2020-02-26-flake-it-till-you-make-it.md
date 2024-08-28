@@ -6,6 +6,7 @@ lang: pl
 ref: 0724
 ---
 
+Pomimo okresu wakacyjnego, deweloperzy AROSa nie zwolnili tempa. Sierpień przyniósł dla społeczności kolejną porcję bugfixów, a także dwie aktualizacje dużych i wyczekiwanych programów. Mowa oczywiście o OWB 2.0-alpha oraz Final Writerze 7.1, który w pierwszej kolejności został wydany na systemy AROS.
 
 W ramach Irytującego Buga Miesiąca w sierpniu został naprawiony bug:  
 *#144 (Graphical artifacts when dragging an icon)*  
@@ -27,7 +28,7 @@ Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w który
 
 Dzięki pracy **Deadwooda** wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
 
-W przypadku **Oddysey Web Browser** dostaliśmy więcej niż ktokolwiek się spodziewał. Silnik WebKit został zaktualizowany z poziomu Sierpień 2015 do poziomu Luty 2019. Żeby wyobrazić sobie ogrom wysiłku jaki wymaga taka aktualizacja, wystarczy powiedzieć, że obejmuje ona ponad 50 000 zmian! OWB 2.0 nadal jest w wersji alfa, a prace trwają nad przywróceniem wszystkich funkcjonalności oraz stabilności przeglądarki. Głównym celem dla OWB 2.0 jest obsługa 90% stron, które działały wcześniej i poprawne funkcjonowanie strony YouTube. Myślę jednak, że finalnie dostaniemy znacznie więcej. Na forum ArosWorld są założone dwa tematy dla [OWB 32-bit](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1293&rowstart=40#post_6065) oraz dla [OWB 64-bit](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=20&pid=6090#post_6088). Można tam zgłaszać bugi i pobierać najnowsze wersje alfa przeglądarki.
+W przypadku **Odyssey Web Browser** dostaliśmy więcej niż ktokolwiek się spodziewał. Silnik WebKit został zaktualizowany z poziomu Sierpień 2015 do poziomu Luty 2019. Żeby wyobrazić sobie ogrom wysiłku jaki wymaga taka aktualizacja, wystarczy powiedzieć, że obejmuje ona ponad 50 000 zmian! OWB 2.0 nadal jest w wersji alfa, a prace trwają nad przywróceniem wszystkich funkcjonalności oraz stabilności przeglądarki. Głównym celem dla OWB 2.0 jest obsługa 90% stron, które działały wcześniej i poprawne funkcjonowanie strony YouTube. Myślę jednak, że finalnie dostaniemy znacznie więcej. Na forum ArosWorld są założone dwa tematy dla [OWB 32-bit](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1293&rowstart=40#post_6065) oraz dla [OWB 64-bit](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=20&pid=6090#post_6088). Można tam zgłaszać bugi i pobierać najnowsze wersje alfa przeglądarki.
 
 Jeśli chcielibyście docenić pracę Krzysztofa nad przeglądarką OWB i nie tylko, poniżej link do jego Paypala. Każdy donate będzie mile widziany!
 Link Deadwooda: **[https://www.paypal.com/paypalme/4deadwood](https://www.paypal.com/paypalme/4deadwood)**  
@@ -71,7 +72,7 @@ Jest to małe narzędzie do ustawiania niektórych atrybutów obiektów SmartFil
 > ## [Leeko](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/leeko-i386-aros.zip) (v. 1.0)
 > (autor: Fit demogroup, port by Farox)
 
-Leeko to produkcja grupy Fit. Po raz pierwszy została zaprezentowana na party Assembly 2003 w konkursie *Combined 64k Intro*, gdzie zajęła 3 miejsce.  
+Leeko to demoscenowa produkcja grupy Fit. Po raz pierwszy została zaprezentowana na party Assembly 2003 w konkursie *Combined 64k Intro*, gdzie zajęła 3 miejsce.  
 
 Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchomić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.
 
@@ -81,7 +82,7 @@ Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla Amig
 > ## [Micery](http://archives.aros-exec.org/?function=showfile&file=demo/scene/fit/micery-i386-aros.zip) (v. 1.0)
 > (autorzy: Bandwagon & Fit demogroups, port by Farox)
 
-Micery to produkcja grup Bandwagon & Fit. Po raz pierwszy została zaprezentowana na imprezie Alternative Party V (2004) w konkursie *Dynamic Demo*, gdzie zajęła 2 miejsce.  
+Micery to demoscenowa produkcja grup Bandwagon & Fit. Po raz pierwszy została zaprezentowana na imprezie Alternative Party V (2004) w konkursie *Dynamic Demo*, gdzie zajęła 2 miejsce.  
 
 Jest to port dla AROS i386 ABIv0 autorstwa Faroxa oparty na źródłach dla AmigaOS4. Do optymalnej wydajności potrzebna jest karta graficzna (bez niej też działa, ale wolniej). Demo można uruchomić w różnych rozdzielczościach, opis parametrów uruchomieniowych znajduje się w pliku README.  
 
