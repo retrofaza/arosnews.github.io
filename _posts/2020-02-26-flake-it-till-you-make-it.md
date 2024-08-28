@@ -40,7 +40,7 @@ Timothy Deters, obecny właściciel praw do programu **Final Writer**, wprowadzi
 ![The Chaotic Dungeon](/assets/img/finalwriter7.png)
 *Final Writer 7.1 dla AROSa*
 
-Firma Airsoft Softwair wypuściła aktualizację wtyczki do programu Hollywood o nazwie RapaGUI. Wersja 2.2 zawiera kilka poprawek błędów. RapaGUI to jedna z najczęściej używanych wtyczek do Hollywood, umożliwiająca tworzenie graficznych interfejsów. Interfejsy te są definiowane w plikach XML, co pozwala na ich uruchamianie na różnych systemach operacyjnych z użyciem natywnych widżetów, co zapewnia spójny wygląd i styl. [Wersję dla systemu AROS x86](https://www.hollywood-mal.com/download/RapaGUI_Amiga.lha) można pobrać z oficjalnej strony Hollywood.
+Firma Airsoft Softwair wypuściła aktualizację wtyczki do programu Hollywood o nazwie **RapaGUI**. Wersja 2.2 zawiera kilka poprawek błędów. RapaGUI to jedna z najczęściej używanych wtyczek do Hollywood, umożliwiająca tworzenie graficznych interfejsów. Interfejsy te są definiowane w plikach XML, co pozwala na ich uruchamianie na różnych systemach operacyjnych z użyciem natywnych widżetów, co zapewnia spójny wygląd i styl. [Wersję dla systemu AROS x86](https://www.hollywood-mal.com/download/RapaGUI_Amiga.lha) można pobrać z oficjalnej strony Hollywood.
 
 Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
 
