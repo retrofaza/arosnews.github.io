@@ -46,7 +46,7 @@ Firma Airsoft Softwair wypuściła aktualizację wtyczki do programu Hollywood o
 Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
 
 > ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+> (różni autorzy)
 
 GISkyBalls
 
