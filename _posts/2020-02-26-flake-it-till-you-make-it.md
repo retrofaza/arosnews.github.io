@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - sierpień 2024
+title: AROS x86 - wrzesień 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0724
+ref: 0924
 ---
 
 Pomimo okresu wakacyjnego, deweloperzy AROSa nie zwolnili tempa. Sierpień przyniósł dla społeczności kolejną porcję bugfixów, a także dwie aktualizacje dużych i wyczekiwanych programów. Mowa oczywiście o OWB 2.0-alpha oraz Final Writerze 7.1, który w pierwszej kolejności został wydany na systemy AROS.
@@ -45,21 +45,21 @@ Firma Airsoft Softwair wypuściła aktualizację wtyczki do programu Hollywood o
 
 Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
 
-> ## [The Chaotic Dungeon](http://archives.aros-exec.org/?function=showfile&file=game/roleplaying/chaotic-dungeon.i386-aros.zip) (v. 1.0)
-> (autor: Space.cpp)
+> ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
+> (autor: Giovanni Iacobelli)
 
-Ta gra to roguelite dungeon crawler z rozgrywką w stylu Zeldy. Przedzieraj się przez lochy, pokonując wrogów i zbierając przedmioty. Awansuj swoją postać, aby stać się silniejszym i z łatwością pokonywać kolejne piętra. Jeśli zginiesz, musisz zacząć od nowa, ale zachowujesz swoje atrybuty. Czy uda ci się dotrzeć do 30. piętra, zabić strażnika i wrócić na powierzchnię żywy?
+GISkyBalls
 
-![The Chaotic Dungeon](/assets/img/chaotic.png)
-*The Chaotic Dungeon*
+![GISkyBalls](/assets/img/chaotic.png)
+*GISkyBalls*
 
-> ## [WhatIFF?](http://archives.aros-exec.org/?function=showfile&file=document/misc/whatiff3.14.lha) (v. 3.14)
+> ## [StandardMWBIcons](http://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (autorzy: WhatIFF? Staff)
 
-Magazyn o tematyce amigowej wydawany w formacie Amigaguide. Wydanie 14 - Sierpień 2024 r.
+StandardMWBIcons
 
-![WhatIFF?](/assets/img/whatiff314.png)
-*WhatIFF? - sierpień 2024*
+![StandardMWBIcons](/assets/img/whatiff314.png)
+*StandardMWBIcons*
 
 > ## [SFSobject](http://archives.aros-exec.org/?function=showfile&file=utility/misc/sfsobject.i386-aros.zip) (v. 1.6)
 > (autorzy: Jean-Marie COAT, Farox)
