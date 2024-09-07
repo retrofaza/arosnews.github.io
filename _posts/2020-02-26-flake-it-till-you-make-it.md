@@ -6,44 +6,9 @@ lang: pl
 ref: 0924
 ---
 
-Pomimo okresu wakacyjnego, deweloperzy AROSa nie zwolnili tempa. Sierpień przyniósł dla społeczności kolejną porcję bugfixów, a także dwie aktualizacje dużych i wyczekiwanych programów. Mowa oczywiście o OWB 2.0-alpha oraz Final Writerze 7.1, który w pierwszej kolejności został wydany na systemy AROS.
 
-W ramach Irytującego Buga Miesiąca w sierpniu został naprawiony bug:  
-*#144 (Graphical artifacts when dragging an icon)*  
-Link do poprawki znajdziecie w [temacie na forum ArosWorld](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1299&pid=6134#post_6124).
-
-Na ten moment program IBOTM zostaje zawieszony. Przypomnę, że ankiety w których użytkownicy mogli głosować na najbardziej irytujące ich bugi pojawiały się co miesiąc począwszy od listopada 2023. Kolejno wygrywały:  
-*#64 (Wanderer: properly run tools with CLI tooltype)*  
-*#107 (Wanderer Rename: Cannot change size of letters in name without changing name)*  
-*#91 (Wrong parsing of boot parameters in Prefs/Boot)*  
-*#115 (Add an easy way to enable tethering in Network preferences)*  
-*#135 (AHCI - only 7.9 GB allocated out of disk)*  
-*#105 (DiskInfo showing OFS instead of FAT)*  
-*#116 (Wanderer: Allow deleting by pressing Del key)*  
-*#125 (You can access a drawer icon even if the directory assigned to it does not exist)*  
-*#140 (Wanderer: Changing the disk label does not work)*  
-*#25 (Shell won't open from icon that leave out)*  
-*#26 (Multiple copying of the Shell icon when it is deleted)*  
-*#144 (Graphical artifacts when dragging an icon)*  
-
-Dzięki pracy **Deadwooda** wszystkie te bugi zostały załatane, a AROS stał się o wiele stabilniejszy i wygodniejszy w użyciu. IBOTM być może wróci do nas w przyszłym roku! Póki co wysiłek naszego najbardziej obecnie aktywnego dewelopera został przekieroway na aktualizację przeglądarki OWB.
-
-W przypadku **Odyssey Web Browser** dostaliśmy więcej niż ktokolwiek się spodziewał. Silnik WebKit został zaktualizowany z poziomu Sierpień 2015 do poziomu Luty 2019. Żeby wyobrazić sobie ogrom wysiłku jaki wymaga taka aktualizacja, wystarczy powiedzieć, że obejmuje ona ponad 50 000 zmian! OWB 2.0 nadal jest w wersji alfa, a prace trwają nad przywróceniem wszystkich funkcjonalności oraz stabilności przeglądarki. Głównym celem dla OWB 2.0 jest obsługa 90% stron, które działały wcześniej i poprawne funkcjonowanie strony YouTube. Myślę jednak, że finalnie dostaniemy znacznie więcej. Na forum ArosWorld są założone dwa tematy dla [OWB 32-bit](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1293&rowstart=100&pid=6192#post_6188) oraz dla [OWB 64-bit](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=20&pid=6190#post_6189). Można tam zgłaszać bugi i pobierać najnowsze wersje alfa przeglądarki.
-
-Jeśli chcielibyście docenić pracę Krzysztofa nad przeglądarką OWB i nie tylko, poniżej link do jego Paypala. Każdy donate będzie mile widziany!
-Link Deadwooda: **[https://www.paypal.com/paypalme/4deadwood](https://www.paypal.com/paypalme/4deadwood)**  
-
-Praca nad aktualizacją OWB nie byłaby tak szybka, gdyby nie wcześniejszy wysiłek Jacka Piszczka przy przeglądarce Wayfarer! Również dla niego rozważcie donate (zaznaczając, że to od użytkownika AROSa :))  
-Link Jacka: **[https://www.paypal.com/paypalme/wayfarerbrowser](https://www.paypal.com/paypalme/wayfarerbrowser)**  
-
-Timothy Deters, obecny właściciel praw do programu **Final Writer**, wprowadził długo oczekiwaną aktualizację. Nowa wersja (7.1) zawiera funkcję eksportu do pliku PDF, lokalizację zgodną z wytycznymi AmigaOS, możliwość drukowania przez FTP/IPP, zaktualizowaną obsługę formatu RTF oraz zupełnie nowy mechanizm sprawdzania pisowni w czasie rzeczywistym oparty na MySpell. Na [stronie producenta](https://final-writer.com/) dostępne są wersje dla AROS 68k/ApolloOS, AROS x86-64 (ABIv1) oraz AROS x86 (ABIv0). Pełna wersja kosztuje 50$. Wersje demo są do pobrania bezpłatnie.
-
-![The Chaotic Dungeon](/assets/img/finalwriter7.png)
-*Final Writer 7.1 dla AROSa*
-
-Firma Airsoft Softwair wypuściła aktualizację wtyczki do programu Hollywood o nazwie **RapaGUI**. Wersja 2.2 zawiera kilka poprawek błędów. RapaGUI to jedna z najczęściej używanych wtyczek do Hollywood, umożliwiająca tworzenie graficznych interfejsów. Interfejsy te są definiowane w plikach XML, co pozwala na ich uruchamianie na różnych systemach operacyjnych z użyciem natywnych widżetów, co zapewnia spójny wygląd i styl. [Wersję dla systemu AROS x86](https://www.hollywood-mal.com/download/RapaGUI_Amiga.lha) można pobrać z oficjalnej strony Hollywood.
-
-Na koniec jak zwykle nowości z AROS Archives. W tym miesiącu pojawiło się kilka nowych pozycji. Poniżej szczegółowa lista.
+![AROS One 2.6](/assets/img/arosone26.jpg)
+*AROS One 2.6*
 
 > ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
 > (różni autorzy)
