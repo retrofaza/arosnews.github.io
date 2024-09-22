@@ -33,14 +33,14 @@ Gra polega na zidentyfikowaniu tych samych par w ustalonym czasie.
 ![GIMemoryGame](/assets/img/0924/MemoryGameAros.png)
 *GIMemoryGame*
 
-> ## [BlackIvan+](https://archives.aros-exec.org/?function=showfile&file=game/card/blackivan.lha) (v. 2.0)
+> ## [BlackIvan+](https://archives.aros-exec.org/?function=showfile&file=game/card/blackivan.lha) (v. 2.10)
 > (autor: Juan Carlos Herrán Martín)
 
 Spróbuj pokonać Nikky'ego, twardego gracza w blackjacka, w jak najkrótszym czasie i zapisać swoje imię w Galerii Sław.  
 
 W grze można odblokować specjalny tryb "tylko dla dorosłych". W tym celu potrzebujesz pliku klucza, który możesz otryzmać od autora programu po wysłaniu mu maila.
 
-Zmiany w wersji 2.0:
+Zmiany w wersji 2.10:
 - Naprawione błędy.
 - Nowa grafika.
 - Nowe głosy, tylko w języku hiszpańskim dla „Trybu normalnego” i „Trybu dla dorosłych”.
