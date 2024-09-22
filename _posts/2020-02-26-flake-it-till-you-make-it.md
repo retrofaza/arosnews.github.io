@@ -10,6 +10,8 @@ ref: 0924
 ![AROS One 2.6](/assets/img/arosone26.jpg)
 *AROS One 2.6*
 
+Na kanale YouTube InstallOS pojawił się [filmik](https://www.youtube.com/watch?v=M7YjufrJqDs) z instalacji AROS One 2.6. Przegląd zawartości nowej wersji dystrybucji znajdziemy także na kanale Jamesa Mattsona - [Część 1](https://www.youtube.com/watch?v=Ml3XaQaqcQw), [Część 2](https://www.youtube.com/watch?v=Jx1kLvR9fs4). Szczególnie polecam kanał Proteque-CBN, gdzie autor pokazuje [AROS One 2.6 wraz z własnym komentarzem](https://www.youtube.com/watch?v=ZNXauy5m5Wc).
+
 Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
 
 Nowe pozycje w AROS-Archive od zeszłego miesiąca:
