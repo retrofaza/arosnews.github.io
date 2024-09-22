@@ -10,6 +10,10 @@ ref: 0924
 ![AROS One 2.6](/assets/img/arosone26.jpg)
 *AROS One 2.6*
 
+Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
+
+Nowe pozycje w AROS-Archve od zeszłego miesiąca:
+
 > ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
