@@ -22,7 +22,7 @@ Nowe pozycje w AROS-Archive od zeszłego miesiąca:
 
 Gra zręcznościowa. Celem gry jest zebranie wszystkich toczących się kulek.
 
-![GISkyBalls](/assets/img/0924/SkybBallsAros.png)
+![GISkyBalls](/assets/img/0924/SkyBallsAros.png)
 *GISkyBalls*
 
 > ## [GIMemoryGame](https://archives.aros-exec.org/?function=showfile&file=game/misc/gimemorygamearos.zip) (v. 1.0)
