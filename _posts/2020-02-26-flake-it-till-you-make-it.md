@@ -46,6 +46,6 @@ Zmiany w wersji 2.0:
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
 
-StandardMWBIcons
+Paczka zawiera ikony w standardzie MagicWB. Jest to próba stworenia największej kolekcji ikon MagicWB. W zestawie znajduje się ponad 2400 ikon.
 
 
