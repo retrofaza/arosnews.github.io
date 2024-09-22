@@ -8,7 +8,7 @@ ref: 0924
 
 AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231).
 
-![AROS One 2.6](/assets/img/arosone26.jpg)
+![AROS One 2.6](/assets/img/0924/arosone26.jpg)
 *AROS One 2.6*
 
 Na kanale YouTube InstallOS pojawił się [filmik](https://www.youtube.com/watch?v=M7YjufrJqDs) z instalacji AROS One 2.6. Przegląd zawartości nowej wersji dystrybucji znajdziemy także na kanale Jamesa Mattsona - [Część 1](https://www.youtube.com/watch?v=Ml3XaQaqcQw), [Część 2](https://www.youtube.com/watch?v=Jx1kLvR9fs4). Szczególnie polecam kanał Proteque-CBN, gdzie autor zamieśił [film z prezentacją AROS One 2.6](https://www.youtube.com/watch?v=ZNXauy5m5Wc) opatrzony własnym komentarzem.
@@ -22,7 +22,7 @@ Nowe pozycje w AROS-Archive od zeszłego miesiąca:
 
 Gra zręcznościowa. Celem gry jest zebranie wszystkich toczących się kulek.
 
-![GISkyBalls](/assets/img/giskyballs.png)
+![GISkyBalls](/assets/img/0924/SkybBallsAros.png)
 *GISkyBalls*
 
 > ## [GIMemoryGame](https://archives.aros-exec.org/?function=showfile&file=game/misc/gimemorygamearos.zip) (v. 1.0)
@@ -30,7 +30,7 @@ Gra zręcznościowa. Celem gry jest zebranie wszystkich toczących się kulek.
 
 Gra polega na zidentyfikowaniu tych samych par w ustalonym czasie.
 
-![GIMemoryGame](/assets/img/gimemorygame.png)
+![GIMemoryGame](/assets/img/0924/MemoryGameAros.png)
 *GIMemoryGame*
 
 > ## [BlackIvan+](https://archives.aros-exec.org/?function=showfile&file=game/card/blackivan.lha) (v. 2.0)
@@ -47,7 +47,7 @@ Zmiany w wersji 2.0:
 - Nowe dodatki w „Trybie dla dorosłych”.
 - Gra obsługuje talie Baphometa, te talie mają karty o większym rozmiarze i innym wyglądzie.
 
-![BlackIvan+](/assets/img/blackivancard.png)
+![BlackIvan+](/assets/img/0924/blackivancard.jpg)
 *BlackIvan Card+*
 
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
