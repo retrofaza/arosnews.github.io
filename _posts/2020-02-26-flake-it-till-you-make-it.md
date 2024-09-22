@@ -13,7 +13,7 @@ ref: 0924
 > ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
 > (autor: Giovanni Iacobelli)
 
-GISkyBalls
+Gra zręcznościowa. Celem gry jest zebranie wszystkich toczących się kulek.
 
 ![GISkyBalls](/assets/img/giskyballs.png)
 *GISkyBalls*
@@ -21,7 +21,7 @@ GISkyBalls
 > ## [GIMemoryGame](https://archives.aros-exec.org/?function=showfile&file=game/misc/gimemorygamearos.zip) (v. 1.0)
 > (autor:	Giovanni Iacobelli)
 
-GIMemoryGameAros
+Gra polega na zidentyfikowaniu tych samych par w ustalonym czasie.
 
 ![GIMemoryGame](/assets/img/gimemorygame.png)
 *GIMemoryGame*
@@ -29,7 +29,16 @@ GIMemoryGameAros
 > ## [BlackIvan+](https://archives.aros-exec.org/?function=showfile&file=game/card/blackivan.lha) (v. 2.0)
 > (autor: Juan Carlos Herrán Martín)
 
-BlackIvan Card+
+Spróbuj pokonać Nikky'ego, twardego gracza w blackjacka, w jak najkrótszym czasie i zapisać swoje imię w Galerii Sław.  
+
+W grze można odblokować specjalny tryb "tylko dla dorosłych". W tym celu potrzebujesz pliku klucza, który możesz otryzmać od autora programu po wysłaniu mu maila.
+
+Zmiany w wersji 2.0:
+- Naprawione błędy.
+- Nowa grafika.
+- Nowe głosy, tylko w języku hiszpańskim dla „Trybu normalnego” i „Trybu dla dorosłych”.
+- Nowe dodatki w „Trybie dla dorosłych”.
+- Gra obsługuje talie Baphometa, te talie mają karty o większym rozmiarze i innym wyglądzie.
 
 ![BlackIvan+](/assets/img/blackivancard.png)
 *BlackIvan Card+*
