@@ -50,6 +50,14 @@ Zmiany w wersji 2.10:
 ![BlackIvan+](/assets/img/0924/blackivancard.jpg)
 *BlackIvan Card+*
 
+> ## [Baccarat](https://archives.aros-exec.org/?function=showfile&file=game/card/baccarat.lha) (v. 2.0)
+> (autor: Juan Carlos Herrán Martín)
+
+Ta gra to mały hołd dla mitycznej gry karcianej, spopularyzowanej przez film z Jamesem Bondem - Dr. No. Jako agent specjalny 007 możesz zagrać w Baccarat w wirtualnym kasynie.
+
+![Baccarat](/assets/img/0924/baccarat.jpg)
+*Baccarat*
+
 > ## [Nean der taler](https://archives.aros-exec.org/?function=showfile&file=demo/intro/neandertaler.i386-aros.zip) (v. 1.0)
 > (autorzy:	Bypass & NonAlienNature5/Fit)
 
