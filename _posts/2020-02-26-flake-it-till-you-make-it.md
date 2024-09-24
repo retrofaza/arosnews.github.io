@@ -6,7 +6,7 @@ lang: pl
 ref: 0924
 ---
 
-AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231).
+AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231). AROS One to najlepsza opcja dla zaczynających przygodę z AROSem lub powracających użytkowników. Dystrybucja bazuje na aktualnym wydaniu ABIv0, jest wypełniona przydatnym oprogramowaniem, jest odpowiednio skonfigurowana i oferuje duże możliwości personalizacji.  
 
 ![AROS One 2.6](/assets/img/0924/arosone26.jpg)
 *AROS One 2.6*
