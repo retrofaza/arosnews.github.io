@@ -50,6 +50,22 @@ Zmiany w wersji 2.10:
 ![BlackIvan+](/assets/img/0924/blackivancard.jpg)
 *BlackIvan Card+*
 
+> ## [Nean der taler](https://archives.aros-exec.org/?function=showfile&file=demo/intro/neandertaler.i386-aros.zip) (v. 1.0)
+> (autorzy:	Bypass & NonAlienNature5/Fit)
+
+Nean der taler
+
+![Nean der taler](/assets/img/0924/neandertaler.png)
+*Nean der taler*
+
+> ## [Organica](https://archives.aros-exec.org/?function=showfile&file=demo/intro/organica.i386-aros.zip) (v. 1.0)
+> (autor:	Faemiyah demogroup)
+
+Organica
+
+![Organica](/assets/img/0924/organica.png)
+*Organica*
+
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
 
