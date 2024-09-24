@@ -69,7 +69,7 @@ Nowości w wersji 2.0:
 
 Nean der taler
 
-![Nean der taler](/assets/img/0924/neandertaler.png)
+![Nean der taler](/assets/img/0924/neandertaler.jpg)
 *Nean der taler*
 
 > ## [Organica](https://archives.aros-exec.org/?function=showfile&file=demo/intro/organica.i386-aros.zip) (v. 1.0)
@@ -77,7 +77,7 @@ Nean der taler
 
 Organica
 
-![Organica](/assets/img/0924/organica.png)
+![Organica](/assets/img/0924/organica.jpg)
 *Organica*
 
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
