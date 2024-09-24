@@ -55,6 +55,12 @@ Zmiany w wersji 2.10:
 
 Ta gra to mały hołd dla mitycznej gry karcianej, spopularyzowanej przez film z Jamesem Bondem - Dr. No. Jako agent specjalny 007 możesz zagrać w Baccarat w wirtualnym kasynie.
 
+Nowości w wersji 2.0:  
+- Nowa grafika stworzona z pomocą AI.
+- Nowe głosy (angielski i hiszpański) stworzone z pomocą AI.
+- Usunięto Joker Girl.
+- Gra pokazuje nowy format talii z Baphomet Decks.
+
 ![Baccarat](/assets/img/0924/baccarat.jpg)
 *Baccarat*
 
