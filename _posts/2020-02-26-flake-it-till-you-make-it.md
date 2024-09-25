@@ -67,7 +67,7 @@ Nowości w wersji 2.0:
 > ## [Nean der taler](https://archives.aros-exec.org/?function=showfile&file=demo/intro/neandertaler.i386-aros.zip) (v. 1.0)
 > (autorzy:	Bypass & NonAlienNature5/Fit)
 
-Nean der taler
+Demoscenowa produkcja z The Party 2000. Nean der taler zajęło drugie miejsce w 64k intro compo. Port dla AROSa przygotował Farox w oparciu o wersję Unixową.
 
 ![Nean der taler](/assets/img/0924/neandertaler.jpg)
 *Nean der taler*
@@ -75,7 +75,7 @@ Nean der taler
 > ## [Organica](https://archives.aros-exec.org/?function=showfile&file=demo/intro/organica.i386-aros.zip) (v. 1.0)
 > (autor:	Faemiyah demogroup)
 
-Organica
+Demoscenowa produkcja wystawiona po raz pierwszy na party Assembly w 2007 roku, gdzie zajęła 9 miejsce w 4k intro compo. Port dla AROSa przygotował Farox.
 
 ![Organica](/assets/img/0924/organica.jpg)
 *Organica*
