@@ -83,6 +83,6 @@ Demoscenowa produkcja wystawiona po raz pierwszy na party Assembly w 2007 roku, 
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
 
-Paczka zawiera ikony w standardzie MagicWB. Jest to próba stworenia największej kolekcji ikon MagicWB. W zestawie znajduje się ponad 2400 ikon.
+Paczka zawiera ikony w standardzie MagicWB. Jest to próba stworzenia największej kolekcji ikon MagicWB. W zestawie znajduje się ponad 2400 ikon.
 
 
