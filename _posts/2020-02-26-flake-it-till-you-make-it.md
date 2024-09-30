@@ -80,6 +80,14 @@ Demoscenowa produkcja wystawiona po raz pierwszy na party Assembly w 2007 roku, 
 ![Organica](/assets/img/0924/organica.jpg)
 *Organica*
 
+> ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/filetool/unshield.386-aros.zip) (v. 1.5.2)
+> (autor:	Twogood, Porting by Farox)
+
+Narzędzie do wyodrębniania plików CAB z pliku exe InstallShield.
+
+![Unshield](/assets/img/0924/Unshield.jpg)
+*Unshield*
+
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
 
