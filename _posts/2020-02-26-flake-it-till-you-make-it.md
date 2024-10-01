@@ -6,6 +6,8 @@ lang: pl
 ref: 0924
 ---
 
+We wrześniu intensywnie testowano nowe wersje przeglądarki Odyssey Web Browser. Na forum AROS World, Deadwood regularnie udostępnia najnowsze buildy, które każdy może pobrać i przetestować. Warto to zrobić, ponieważ główny cel, czyli obsługa YouTube, działa już całkiem dobrze! Nie możemy się doczekać pełnej wersji OWB 2.0.
+
 AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231). AROS One to najlepsza opcja dla zaczynających przygodę z AROSem lub powracających użytkowników. Dystrybucja bazuje na aktualnym wydaniu ABIv0, jest wypełniona przydatnym oprogramowaniem, jest odpowiednio skonfigurowana i oferuje duże możliwości personalizacji.  
 
 ![AROS One 2.6](/assets/img/0924/arosone26.jpg)
@@ -84,9 +86,6 @@ Demoscenowa produkcja wystawiona po raz pierwszy na party Assembly w 2007 roku, 
 > (autor:	Twogood, Porting by Farox)
 
 Narzędzie do wyodrębniania plików CAB z pliku exe InstallShield.
-
-![Unshield](/assets/img/0924/Unshield.jpg)
-*Unshield*
 
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
