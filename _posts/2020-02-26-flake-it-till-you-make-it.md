@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - wrzesień 2024
+title: AROS x86 - październik 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0924
+ref: 1024
 ---
 
 We wrześniu intensywnie testowano nowe wersje przeglądarki Odyssey Web Browser. Na forum AROS World, Deadwood regularnie udostępnia najnowsze buildy, które każdy może pobrać i przetestować. Warto to zrobić, ponieważ główny cel, czyli obsługa YouTube, działa już całkiem dobrze! Nie możemy się doczekać pełnej wersji OWB 2.0.
@@ -19,73 +19,61 @@ Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, któ
 
 Nowe pozycje w AROS-Archive od zeszłego miesiąca:
 
-> ## [GISkyBalls](http://archives.aros-exec.org/?function=showfile&file=game/misc/giskyballsaros.zip) (v. 1.0)
-> (autor: Giovanni Iacobelli)
+> ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
+> (autor: Stuart Caie, port by Farox)
 
-Gra zręcznościowa. Celem gry jest zebranie wszystkich toczących się kulek.
+CabExtract
 
-![GISkyBalls](/assets/img/0924/SkyBallsAros.png)
-*GISkyBalls*
+![CabExtract](/assets/img/0924/SkyBallsAros.png)
+*CabExtract*
 
-> ## [GIMemoryGame](https://archives.aros-exec.org/?function=showfile&file=game/misc/gimemorygamearos.zip) (v. 1.0)
-> (autor:	Giovanni Iacobelli)
+> ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unshield.i386-aros.zip) (v. 1.51)
+> (autor:	David Eriksson, port by Farox)
 
-Gra polega na zidentyfikowaniu tych samych par w ustalonym czasie.
+Unshield
 
-![GIMemoryGame](/assets/img/0924/MemoryGameAros.png)
-*GIMemoryGame*
+![Unshield](/assets/img/0924/MemoryGameAros.png)
+*Unshield*
 
-> ## [BlackIvan+](https://archives.aros-exec.org/?function=showfile&file=game/card/blackivan.lha) (v. 2.10)
-> (autor: Juan Carlos Herrán Martín)
+> ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
+> (autor: The GemRB Project)
 
-Spróbuj pokonać Nikky'ego, twardego gracza w blackjacka, w jak najkrótszym czasie i zapisać swoje imię w Galerii Sław.  
+GemRB
 
-W grze można odblokować specjalny tryb "tylko dla dorosłych". W tym celu potrzebujesz pliku klucza, który możesz otryzmać od autora programu po wysłaniu mu maila.
+![GemRB](/assets/img/0924/blackivancard.jpg)
+*GemRB*
 
-Zmiany w wersji 2.10:
-- Naprawione błędy.
-- Nowa grafika.
-- Nowe głosy, tylko w języku hiszpańskim dla „Trybu normalnego” i „Trybu dla dorosłych”.
-- Nowe dodatki w „Trybie dla dorosłych”.
-- Gra obsługuje talie Baphometa, te talie mają karty o większym rozmiarze i innym wyglądzie.
+> ## [Python](https://archives.aros-exec.org/?function=showfile&file=development/language/python-2.5.2.x86_64-aros-v11.zip) (v. 2.5.2)
+> (autor: Stanislaw Szymczyk)
 
-![BlackIvan+](/assets/img/0924/blackivancard.jpg)
-*BlackIvan Card+*
+Python 2.5.2
 
-> ## [Baccarat](https://archives.aros-exec.org/?function=showfile&file=game/card/baccarat.lha) (v. 2.0)
-> (autor: Juan Carlos Herrán Martín)
+![Python](/assets/img/0924/baccarat.jpg)
+*Python 2.5.2*
 
-Ta gra to mały hołd dla mitycznej gry karcianej, spopularyzowanej przez film z Jamesem Bondem - Dr. No. Jako agent specjalny 007 możesz zagrać w Baccarat w wirtualnym kasynie.
+> ## [Adoom3](https://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.x86_64-aros-v11.zip) (v. 1.5.3)
+> (autorzy:	Nick 'Kalamatee' Andrews)
 
-Nowości w wersji 2.0:  
-- Nowa grafika stworzona z pomocą AI.
-- Nowe głosy (angielski i hiszpański) stworzone z pomocą AI.
-- Usunięto Joker Girl.
-- Gra pokazuje nowy format talii z Baphomet Decks.
+Adoom3
 
-![Baccarat](/assets/img/0924/baccarat.jpg)
-*Baccarat*
+![Adoom3](/assets/img/0924/neandertaler.jpg)
+*Adoom3*
 
-> ## [Nean der taler](https://archives.aros-exec.org/?function=showfile&file=demo/intro/neandertaler.i386-aros.zip) (v. 1.0)
-> (autorzy:	Bypass & NonAlienNature5/Fit)
+> ## [SetScreenMode](https://archives.aros-exec.org/?function=showfile&file=utility/shell/setscreenmode.i386-aros.zip) (v. 1.0)
+> (autor:	Nigel Tromans)
 
-Demoscenowa produkcja z The Party 2000. Nean der taler zajęło drugie miejsce w 64k intro compo. Port dla AROSa przygotował Farox w oparciu o wersję Unixową.
+SetScreenMode
 
-![Nean der taler](/assets/img/0924/neandertaler.jpg)
-*Nean der taler*
+![SetScreenMode](/assets/img/0924/organica.jpg)
+*SetScreenMode*
 
-> ## [Organica](https://archives.aros-exec.org/?function=showfile&file=demo/intro/organica.i386-aros.zip) (v. 1.0)
-> (autor:	Faemiyah demogroup)
+> ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
+> (autor:	Domenico Lattanzi)
 
-Demoscenowa produkcja wystawiona po raz pierwszy na party Assembly w 2007 roku, gdzie zajęła 9 miejsce w 4k intro compo. Port dla AROSa przygotował Farox.
+Amifish
 
-![Organica](/assets/img/0924/organica.jpg)
-*Organica*
-
-> ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/filetool/unshield.386-aros.zip) (v. 1.5.2)
-> (autor:	Twogood, Porting by Farox)
-
-Narzędzie do wyodrębniania plików CAB z pliku exe InstallShield.
+![Amifish](/assets/img/0924/organica.jpg)
+*Amifish*
 
 > ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
 > (różni autorzy)
