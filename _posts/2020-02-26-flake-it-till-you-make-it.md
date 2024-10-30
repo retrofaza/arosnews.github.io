@@ -6,7 +6,7 @@ lang: pl
 ref: 1024
 ---
 
-We wrześniu intensywnie testowano nowe wersje przeglądarki Odyssey Web Browser. Na forum AROS World, Deadwood regularnie udostępnia najnowsze buildy, które każdy może pobrać i przetestować. Warto to zrobić, ponieważ główny cel, czyli obsługa YouTube, działa już całkiem dobrze! Nie możemy się doczekać pełnej wersji OWB 2.0.
+Dawno nie działo się tak wiele jednocześnie. W tym miesiącu dostaliśmy zbiorczą aktualizację do wersji bazowej systemu ABIv0, mamy nową wersję przeglądarki internetowej, a na dodatek zaczęły się pojawiać wersje x64 ważnego oprogramowania. Parafrazując slogan Commodore: "Are you keeping up with the AROS?". Mam nadzieję, że tak!
 
 AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231). AROS One to najlepsza opcja dla zaczynających przygodę z AROSem lub powracających użytkowników. Dystrybucja bazuje na aktualnym wydaniu ABIv0, jest wypełniona przydatnym oprogramowaniem, jest odpowiednio skonfigurowana i oferuje duże możliwości personalizacji.  
 
