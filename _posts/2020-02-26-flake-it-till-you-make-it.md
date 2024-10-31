@@ -48,6 +48,7 @@ RayGui
 > (autor: github.com/notkatsuu/kMusicPlayer, port by Serk118)
 
 kMusicPlayer to wizualny odtwarzacz muzyki zbudowany z C i Raylib. Zapewnia prosty interfejs wizualny do odtwarzania ulubionych utworów muzycznych.  
+
 Główne cechy:
 - Odtwarzanie muzyki: Łatwe odtwarzanie ulubionych utworów. Obsługuje formaty .mp3 i .wav.
 - Wizualizacja kształtu fali: Wizualizacja muzyki dzięki renderowaniu kształtu fali.
