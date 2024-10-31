@@ -63,7 +63,7 @@ BeeBase
 > ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
 > (autor: www.raylib.com, port by Serk118)
 
-Koala Seasons
+Fight the elements! Fight your enemies! Save the world! How long will you survive? This game was originally created by emegeme to be used as a benchmark test for Raylib on Android devices.
 
 ![Koala Seasons](/assets/img/0924/SkyBallsAros.png)
 *Koala Seasons*
@@ -71,7 +71,10 @@ Koala Seasons
 > ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
 > (autor:	Domenico Lattanzi)
 
-Amifish
+Amifish is a chess program made to play chess with the Amiga-like systems, exploiting the power of one of the most powerful chess engines of the world: Stockfish, developed by Tord Romstad, Marco Costalba, Joona Kiiski and Gary Linscott. A chess engine is a console program who play chess, receiving strings as commands and producing strings in output as result of computation. Stockfish and much others engines are compatible with a standard named UCI (Universal Chess Interface). The name Amifish is obtained by joining the words Amiga and Stockfish (although, however, the project is open to all engines compliant with the UCI standard), is a light program for amateurs, is made to have fun with chess, with only the most important options
+implemented.  
+
+To play against the computer, you need the Stockfish chess engine, which you can also download from AROS Archives.
 
 ![Amifish](/assets/img/0924/organica.jpg)
 *Amifish*
