@@ -47,7 +47,12 @@ RayGui
 > ## [kMusicPlayer](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip)
 > (autor: github.com/notkatsuu/kMusicPlayer, port by Serk118)
 
-kMusicPlayer
+kMusicPlayer to wizualny odtwarzacz muzyki zbudowany z C i Raylib. Zapewnia prosty interfejs wizualny do odtwarzania ulubionych utworów muzycznych.  
+Główne cechy:
+- Odtwarzanie muzyki: Łatwe odtwarzanie ulubionych utworów. Obsługuje formaty .mp3 i .wav.
+- Wizualizacja kształtu fali: Wizualizacja muzyki dzięki renderowaniu kształtu fali.
+- Wątkowe ładowanie muzyki: Szybkie ładowanie muzyki dzięki ładowaniu wątkowemu.
+- Proste sterowanie: Kontroluj odtwarzanie za pomocą prostych skrótów klawiaturowych w RayGUI.
 
 ![kMusicPlayer](/assets/img/0924/SkyBallsAros.png)
 *kMusicPlayer*
@@ -55,7 +60,7 @@ kMusicPlayer
 > ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
 > (autor: Steffen Gutman)
 
-BeeBase
+BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem użytkownika dla wszystkich systemów amigowych, a także dla Windows, Mac i Linux. Siła BeeBase leży w graficznym interfejsie użytkownika i możliwościach programowania. Umożliwia on przetwarzanie danych na różne sposoby, np. automatyczne obliczenia po wprowadzeniu danych przez użytkownika, generowanie raportów, importowanie i eksportowanie danych itp. 
 
 ![BeeBase](/assets/img/0924/SkyBallsAros.png)
 *BeeBase*
