@@ -83,7 +83,7 @@ BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem u
 > ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
 > (autor: www.raylib.com, port by Serk118)
 
-Fight the elements! Fight your enemies! Save the world! How long will you survive? This game was originally created by emegeme to be used as a benchmark test for Raylib on Android devices.
+Walcz z żywiołami! Walcz z wrogami! Ocal świat! Jak długo uda ci się przetrwać? Ta gra została pierwotnie stworzona przez emegeme jako benchmark dla Raylib na urządzeniach z Androidem.
 
 ![Koala Seasons](/assets/img/0924/SkyBallsAros.png)
 *Koala Seasons*
@@ -91,10 +91,9 @@ Fight the elements! Fight your enemies! Save the world! How long will you surviv
 > ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
 > (autor:	Domenico Lattanzi)
 
-Amifish is a chess program made to play chess with the Amiga-like systems, exploiting the power of one of the most powerful chess engines of the world: Stockfish, developed by Tord Romstad, Marco Costalba, Joona Kiiski and Gary Linscott. A chess engine is a console program who play chess, receiving strings as commands and producing strings in output as result of computation. Stockfish and much others engines are compatible with a standard named UCI (Universal Chess Interface). The name Amifish is obtained by joining the words Amiga and Stockfish (although, however, the project is open to all engines compliant with the UCI standard), is a light program for amateurs, is made to have fun with chess, with only the most important options
-implemented.  
+Amifish to program szachowy stworzony do gry w szachy na systemach amigowych, wykorzystujący moc jednego z najpotężniejszych silników szachowych na świecie: Stockfish, opracowanego przez Torda Romstada, Marco Costalbę, Joonę Kiiski i Gary'ego Linscotta. Silnik szachowy to program konsolowy, który gra w szachy, odbierając ciągi znaków jako polecenia i generując ciągi znaków na wyjściu jako wynik obliczeń. Stockfish i wiele innych silników jest kompatybilnych ze standardem o nazwie UCI (Universal Chess Interface). Nazwa Amifish powstała z połączenia słów Amiga i Stockfish (choć projekt jest otwarty dla wszystkich silników zgodnych ze standardem UCI), jest lekkim programem dla amatorów, stworzonym do zabawy w szachy, z zaimplementowanymi tylko najważniejszymi opcjami.
 
-To play against the computer, you need the Stockfish chess engine, which you can also download from AROS Archives.
+Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który również można pobrać z AROS Archives.
 
 ![Amifish](/assets/img/0924/organica.jpg)
 *Amifish*
@@ -110,7 +109,7 @@ GemRB
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
 > (autor: Stuart Caie, port by Farox)
 
-A program to extract Microsoft Cabinet files. Cabinet (`.CAB`) files are a form of archive, which Microsoft use to distribute their software, and things like Windows Font Packs. The cabextract program unpacks these files.
+Program do rozpakowywania plików Microsoft Cabinet. Pliki Cabinet (`.CAB`) są formą archiwum, którego Microsoft używa do dystrybucji swojego oprogramowania i rzeczy takich jak Windows Font Packs. Program cabextract rozpakowuje te pliki.
 
 ![CabExtract](/assets/img/0924/SkyBallsAros.png)
 *CabExtract*
