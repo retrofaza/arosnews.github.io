@@ -31,7 +31,21 @@ GLFW 3.4
 > ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
 > (autor: raylibtech.itch.io/rfxgen, port by Serk118)
 
-rFXGen
+Prosty i łatwy w użyciu generator dźwięków fx.
+
+Funkcje:  
+- Predefiniowane **ustawienia dźwiękowe** (Coin, Shoot, Explosion, PowerUp...)
+- Obsługa wielu typów fal (kwadratowa, piłokształtna, sinusoidalna, szum)
+- Do **5 slotów dźwiękowych** do przechowywania wygenerowanego dźwięku (zapis tymczasowy)
+- Wczytywanie plików `.rfx` z parametrami generowania dźwięku
+- Zapisywanie plików `.rfx` z parametrami generowania dźwięku (**104 bajty**)
+- Eksport danych wave jako `.wav`, `.raw` lub `.h` (tablica bajtów)
+- Konfigurowalna częstotliwość próbkowania, bity na próbkę i kanały podczas eksportu
+- Wiele stylów GUI z obsługą niestandardowych (`.rgs`)
+- Obsługa konwersji wsadowej `.rfx` do `.wav` z wiersza poleceń
+- Odtwarzacz audio z wiersza poleceń dla plików `.wav`, `.ogg`, `.mp3` i `.flac`
+- Całkowicie przenośny (jednoplikowy, bez zależności)**.
+- **Darmowy i open-source**
 
 ![rFXGen](/assets/img/0924/SkyBallsAros.png)
 *rFXGen*
