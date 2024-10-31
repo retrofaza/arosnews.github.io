@@ -31,7 +31,7 @@ GLFW 3.4
 > ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
 > (autor: raylibtech.itch.io/rfxgen, port by Serk118)
 
-Prosty i łatwy w użyciu generator dźwięków fx.
+Prosty i łatwy w użyciu generator efektów dźwiękowych.
 
 Funkcje:  
 - Predefiniowane **ustawienia dźwiękowe** (Coin, Shoot, Explosion, PowerUp...)
