@@ -110,15 +110,15 @@ GemRB
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
 > (autor: Stuart Caie, port by Farox)
 
-CabExtract
+A program to extract Microsoft Cabinet files. Cabinet (`.CAB`) files are a form of archive, which Microsoft use to distribute their software, and things like Windows Font Packs. The cabextract program unpacks these files.
 
 ![CabExtract](/assets/img/0924/SkyBallsAros.png)
 *CabExtract*
 
-> ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unshield.i386-aros.zip) (v. 1.51)
+> ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unshield.i386-aros.zip) (v. 1.5.1)
 > (autor:	David Eriksson, port by Farox)
 
-Unshield
+Narzędzie do wyodrębniania plików `.CAB` z pliku `.exe` InstallShield.
 
 ![Unshield](/assets/img/0924/MemoryGameAros.png)
 *Unshield*
