@@ -8,16 +8,81 @@ ref: 1024
 
 Dawno nie działo się tak wiele jednocześnie. W tym miesiącu dostaliśmy zbiorczą aktualizację do wersji bazowej systemu ABIv0, mamy nową wersję przeglądarki internetowej, a na dodatek zaczęły się pojawiać wersje x64 ważnego oprogramowania. Parafrazując slogan Commodore: "Are you keeping up with the AROS?". Mam nadzieję, że tak!
 
-AMIGASYSTEM wypuścił aktualizację swojej dystrybucji AROS One. Wersja 2.6 zawiera wszystkie najświeższe poprawki systemu. Pełna lista zmian zamieszczona jest [tutaj](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=6231#post_6231). AROS One to najlepsza opcja dla zaczynających przygodę z AROSem lub powracających użytkowników. Dystrybucja bazuje na aktualnym wydaniu ABIv0, jest wypełniona przydatnym oprogramowaniem, jest odpowiednio skonfigurowana i oferuje duże możliwości personalizacji.  
-
-![AROS One 2.6](/assets/img/0924/arosone26.jpg)
-*AROS One 2.6*
-
-Na kanale YouTube InstallOS pojawił się [filmik](https://www.youtube.com/watch?v=M7YjufrJqDs) z instalacji AROS One 2.6. Przegląd zawartości nowej wersji dystrybucji znajdziemy także na kanale Jamesa Mattsona - [Część 1](https://www.youtube.com/watch?v=Ml3XaQaqcQw), [Część 2](https://www.youtube.com/watch?v=Jx1kLvR9fs4). Szczególnie polecam kanał Proteque-CBN, gdzie autor zamieśił [film z prezentacją AROS One 2.6](https://www.youtube.com/watch?v=ZNXauy5m5Wc) opatrzony własnym komentarzem.
-
 Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
 
 Nowe pozycje w AROS-Archive od zeszłego miesiąca:
+
+> ## [Raylib](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip) (v. 5.0)
+> (autor: www.raylib.com, port by Serk118)
+
+Raylib 5
+
+![Raylib](/assets/img/0924/SkyBallsAros.png)
+*Raylib 5*
+
+> ## [GLFW](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) (v. 3.4)
+> (autor: www.glfw.org, port by Serk118)
+
+GLFW 3.4
+
+![GLFW](/assets/img/0924/SkyBallsAros.png)
+*GLFW 3.4*
+
+> ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
+> (autor: raylibtech.itch.io/rfxgen, port by Serk118)
+
+rFXGen
+
+![rFXGen](/assets/img/0924/SkyBallsAros.png)
+*rFXGen*
+
+> ## [RayGui](https://archives.aros-exec.org/?function=showfile&file=development/misc/raygui.i386-aros.zip)
+> (autor: github.com/raysan5/raygui, port by Serk118)
+
+RayGui
+
+![RayGui](/assets/img/0924/SkyBallsAros.png)
+*RayGui*
+
+> ## [kMusicPlayer](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip)
+> (autor: github.com/notkatsuu/kMusicPlayer, port by Serk118)
+
+kMusicPlayer
+
+![kMusicPlayer](/assets/img/0924/SkyBallsAros.png)
+*kMusicPlayer*
+
+> ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
+> (autor: Steffen Gutman)
+
+BeeBase
+
+![BeeBase](/assets/img/0924/SkyBallsAros.png)
+*BeeBase*
+
+> ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
+> (autor: www.raylib.com, port by Serk118)
+
+Koala Seasons
+
+![Koala Seasons](/assets/img/0924/SkyBallsAros.png)
+*Koala Seasons*
+
+> ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
+> (autor:	Domenico Lattanzi)
+
+Amifish
+
+![Amifish](/assets/img/0924/organica.jpg)
+*Amifish*
+
+> ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
+> (autor: The GemRB Project)
+
+GemRB
+
+![GemRB](/assets/img/0924/blackivancard.jpg)
+*GemRB*
 
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
 > (autor: Stuart Caie, port by Farox)
@@ -35,13 +100,21 @@ Unshield
 ![Unshield](/assets/img/0924/MemoryGameAros.png)
 *Unshield*
 
-> ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
-> (autor: The GemRB Project)
+> ## [SetScreenMode](https://archives.aros-exec.org/?function=showfile&file=utility/shell/setscreenmode.i386-aros.zip) (v. 1.0)
+> (autor:	Nigel Tromans)
 
-GemRB
+SetScreenMode
 
-![GemRB](/assets/img/0924/blackivancard.jpg)
-*GemRB*
+![SetScreenMode](/assets/img/0924/organica.jpg)
+*SetScreenMode*
+
+> ## [Perl](https://archives.aros-exec.org/?function=showfile&file=development/language/perl-5.7.2.x86_64-aros-v11.zip) (v. 5.7.2)
+> (autor: Stanislaw Szymczyk)
+
+Perl
+
+![Perl](/assets/img/0924/baccarat.jpg)
+*Perl*
 
 > ## [Python](https://archives.aros-exec.org/?function=showfile&file=development/language/python-2.5.2.x86_64-aros-v11.zip) (v. 2.5.2)
 > (autor: Stanislaw Szymczyk)
@@ -59,25 +132,5 @@ Adoom3
 ![Adoom3](/assets/img/0924/neandertaler.jpg)
 *Adoom3*
 
-> ## [SetScreenMode](https://archives.aros-exec.org/?function=showfile&file=utility/shell/setscreenmode.i386-aros.zip) (v. 1.0)
-> (autor:	Nigel Tromans)
-
-SetScreenMode
-
-![SetScreenMode](/assets/img/0924/organica.jpg)
-*SetScreenMode*
-
-> ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
-> (autor:	Domenico Lattanzi)
-
-Amifish
-
-![Amifish](/assets/img/0924/organica.jpg)
-*Amifish*
-
-> ## [StandardMWBIcons](https://archives.aros-exec.org/?function=showfile&file=graphics/icon/standardmagicwb.lha) (v. 1.7)
-> (różni autorzy)
-
-Paczka zawiera ikony w standardzie MagicWB. Jest to próba stworzenia największej kolekcji ikon MagicWB. W zestawie znajduje się ponad 2400 ikon.
 
 
