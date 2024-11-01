@@ -17,7 +17,7 @@ Nowe pozycje w AROS-Archive od zeszłego miesiąca:
 
 Raylib 5
 
-![Raylib](/assets/img/0924/SkyBallsAros.png)
+![Raylib](/assets/img/1024/SkyBallsAros.png)
 *Raylib 5*
 
 > ## [GLFW](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) (v. 3.4)
@@ -25,7 +25,7 @@ Raylib 5
 
 GLFW 3.4
 
-![GLFW](/assets/img/0924/SkyBallsAros.png)
+![GLFW](/assets/img/1024/SkyBallsAros.png)
 *GLFW 3.4*
 
 > ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
@@ -47,7 +47,7 @@ Funkcje:
 - Całkowicie przenośny (jednoplikowy, bez zależności)**.
 - **Darmowy i open-source**
 
-![rFXGen](/assets/img/0924/SkyBallsAros.png)
+![rFXGen](/assets/img/1024/SkyBallsAros.png)
 *rFXGen*
 
 > ## [RayGui](https://archives.aros-exec.org/?function=showfile&file=development/misc/raygui.i386-aros.zip)
@@ -55,7 +55,7 @@ Funkcje:
 
 RayGui
 
-![RayGui](/assets/img/0924/SkyBallsAros.png)
+![RayGui](/assets/img/1024/SkyBallsAros.png)
 *RayGui*
 
 > ## [kMusicPlayer](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip)
@@ -69,7 +69,7 @@ Główne cechy:
 - Wątkowe ładowanie muzyki: Szybkie ładowanie muzyki dzięki ładowaniu wątkowemu.
 - Proste sterowanie: Kontroluj odtwarzanie za pomocą prostych skrótów klawiaturowych w RayGUI.
 
-![kMusicPlayer](/assets/img/0924/SkyBallsAros.png)
+![kMusicPlayer](/assets/img/1024/SkyBallsAros.png)
 *kMusicPlayer*
 
 > ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
@@ -77,7 +77,7 @@ Główne cechy:
 
 BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem użytkownika dla wszystkich systemów amigowych, a także dla Windows, Mac i Linux. Siła BeeBase leży w graficznym interfejsie użytkownika i możliwościach programowania. Umożliwia on przetwarzanie danych na różne sposoby, np. automatyczne obliczenia po wprowadzeniu danych przez użytkownika, generowanie raportów, importowanie i eksportowanie danych itp. 
 
-![BeeBase](/assets/img/0924/SkyBallsAros.png)
+![BeeBase](/assets/img/1024/SkyBallsAros.png)
 *BeeBase*
 
 > ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
@@ -85,7 +85,7 @@ BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem u
 
 Walcz z żywiołami! Walcz z wrogami! Ocal świat! Jak długo uda ci się przetrwać? Ta gra została pierwotnie stworzona przez emegeme jako benchmark dla Raylib na urządzeniach z Androidem.
 
-![Koala Seasons](/assets/img/0924/SkyBallsAros.png)
+![Koala Seasons](/assets/img/1024/SkyBallsAros.png)
 *Koala Seasons*
 
 > ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
@@ -95,7 +95,7 @@ Amifish to program szachowy stworzony do gry w szachy na systemach amigowych, wy
 
 Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który również można pobrać z AROS Archives.
 
-![Amifish](/assets/img/0924/organica.jpg)
+![Amifish](/assets/img/1024/amifish.png)
 *Amifish*
 
 > ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
@@ -103,7 +103,7 @@ Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który r�
 
 GemRB
 
-![GemRB](/assets/img/0924/blackivancard.jpg)
+![GemRB](/assets/img/1024/blackivancard.jpg)
 *GemRB*
 
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
@@ -111,7 +111,7 @@ GemRB
 
 Program do rozpakowywania plików Microsoft Cabinet. Pliki Cabinet (`.CAB`) są formą archiwum, którego Microsoft używa do dystrybucji swojego oprogramowania i rzeczy takich jak Windows Font Packs. Program cabextract rozpakowuje te pliki.
 
-![CabExtract](/assets/img/0924/SkyBallsAros.png)
+![CabExtract](/assets/img/1024/SkyBallsAros.png)
 *CabExtract*
 
 > ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unshield.i386-aros.zip) (v. 1.5.1)
@@ -119,7 +119,7 @@ Program do rozpakowywania plików Microsoft Cabinet. Pliki Cabinet (`.CAB`) są 
 
 Narzędzie do wyodrębniania plików `.CAB` z pliku `.exe` InstallShield.
 
-![Unshield](/assets/img/0924/MemoryGameAros.png)
+![Unshield](/assets/img/1024/MemoryGameAros.png)
 *Unshield*
 
 > ## [SetScreenMode](https://archives.aros-exec.org/?function=showfile&file=utility/shell/setscreenmode.i386-aros.zip) (v. 1.0)
@@ -127,7 +127,7 @@ Narzędzie do wyodrębniania plików `.CAB` z pliku `.exe` InstallShield.
 
 SetScreenMode
 
-![SetScreenMode](/assets/img/0924/organica.jpg)
+![SetScreenMode](/assets/img/1024/organica.jpg)
 *SetScreenMode*
 
 > ## [Perl](https://archives.aros-exec.org/?function=showfile&file=development/language/perl-5.7.2.x86_64-aros-v11.zip) (v. 5.7.2)
@@ -135,7 +135,7 @@ SetScreenMode
 
 Perl
 
-![Perl](/assets/img/0924/baccarat.jpg)
+![Perl](/assets/img/1024/baccarat.jpg)
 *Perl*
 
 > ## [Python](https://archives.aros-exec.org/?function=showfile&file=development/language/python-2.5.2.x86_64-aros-v11.zip) (v. 2.5.2)
@@ -143,7 +143,7 @@ Perl
 
 Python 2.5.2
 
-![Python](/assets/img/0924/baccarat.jpg)
+![Python](/assets/img/1024/baccarat.jpg)
 *Python 2.5.2*
 
 > ## [Adoom3](https://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.x86_64-aros-v11.zip) (v. 1.5.3)
@@ -151,7 +151,7 @@ Python 2.5.2
 
 Adoom3
 
-![Adoom3](/assets/img/0924/neandertaler.jpg)
+![Adoom3](/assets/img/1024/neandertaler.jpg)
 *Adoom3*
 
 
