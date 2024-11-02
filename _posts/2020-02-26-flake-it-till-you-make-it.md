@@ -55,6 +55,13 @@ Główne cechy:
 - Wątkowe ładowanie muzyki: Szybkie ładowanie muzyki dzięki ładowaniu wątkowemu.
 - Proste sterowanie: Kontroluj odtwarzanie za pomocą prostych skrótów klawiaturowych w RayGUI.
 
+> ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
+> (autor: www.raylib.com, port by Serk118)
+
+Walcz z żywiołami! Walcz z wrogami! Ocal świat! Jak długo uda ci się przetrwać? Ta gra została pierwotnie stworzona przez emegeme jako benchmark dla Raylib na urządzeniach z Androidem.  
+  
+Pozostałe nowości w AROS Archives:  
+
 > ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
 > (autor: Steffen Gutman)
 
@@ -62,11 +69,6 @@ BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem u
 
 ![BeeBase](/assets/img/1024/beebase.png)
 *BeeBase*
-
-> ## [Koala Seasons](https://archives.aros-exec.org/?function=showfile&file=game/strategy/koala_seasons.i386-aros.zip)
-> (autor: www.raylib.com, port by Serk118)
-
-Walcz z żywiołami! Walcz z wrogami! Ocal świat! Jak długo uda ci się przetrwać? Ta gra została pierwotnie stworzona przez emegeme jako benchmark dla Raylib na urządzeniach z Androidem.
 
 > ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
 > (autor:	Domenico Lattanzi)
