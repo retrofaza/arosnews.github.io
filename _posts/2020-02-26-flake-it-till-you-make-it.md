@@ -10,7 +10,12 @@ Dawno nie działo się tak wiele jednocześnie. W tym miesiącu dostaliśmy zbio
 
 Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
 
-Serk118 zaktualizował swoje porty [GLFW 3.4](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) oraz [Raylib 5.0](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip). Raylib to biblioteka programistyczna pozwalająca cieszyć się programowaniem gier wideo; bez wyszukanego interfejsu, bez wizualnych pomocników, bez narzędzi gui lub edytorów... po prostu kodowanie w czysto spartański sposób. Z tym updatem dostajemy także:
+Serk118 zaktualizował swoje porty [GLFW 3.4](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) oraz [Raylib 5.0](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip).
+
+![Ralib5](/assets/img/1024/raylib.png)
+*Raylib 5*
+
+Raylib to biblioteka programistyczna pozwalająca cieszyć się programowaniem gier wideo; bez wyszukanego interfejsu, bez wizualnych pomocników, bez narzędzi gui lub edytorów... po prostu kodowanie w czysto spartański sposób. Z tym updatem dostajemy także:
 
 > ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
 > (autor: raylibtech.itch.io/rfxgen, port by Serk118)
