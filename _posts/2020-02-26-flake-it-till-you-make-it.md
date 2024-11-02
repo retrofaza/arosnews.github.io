@@ -18,8 +18,9 @@ Największym wydarzeniem jest niewątpliwie [Odyssey Web Browser w wersji 2.0](h
 
 W dzisiejszym świecie, gdzie strony internetowe stają się bardziej wymagające z dnia na dzień, aktualizacja przeglądarki internetowej to niekończąca się podróż. Warto rozważyć [donate dla Deadwooda](https://www.paypal.com/paypalme/4deadwood), gdyż aktualizacja silnika Webkit do wersji dzisiejszej to jeszcze niezliczone godziny pracy. Do rozwoju możesz się przyczynić także pobierając i testując przeglądarkę. Nawet jeśli nie używasz AROSa na codzień, warto spróbować choćby na wirtualnej maszynie pod Windowsem.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc](https://www.youtube.com/watch?v=cA1lAy36Pg0" frameborder="0"> </iframe>
-
+<div class="embed-container">
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+</div>
 
 Za sprawą Daremona jest już 64-bitowy [Python](https://archives.aros-exec.org/?function=showfile&file=development/language/python-2.5.2.x86_64-aros-v11.zip) i [Perl](https://archives.aros-exec.org/?function=showfile&file=development/language/perl-5.7.2.x86_64-aros-v11.zip), dzięki czemu mamy cały natywny toolchain dla 64-bit. Ponadto Daremon skompilował bibliotekę audio [libMAD](https://archives.aros-exec.org/?function=showfile&file=development/library/libmad-0.15.1b.x86_64-aros-v11.zip), a gracze ucieszą się z 64-bitowych wersji [Doom 3](https://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.x86_64-aros-v11.zip), silników [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.x86_64-aros-v11.zip), [ResidualVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.x86_64-aros-v11.zip) i [ScummVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.x86_64-aros-v11.zip). ALB42 swój czytnik ePub [Legadaon](https://home.alb42.de/files/Legadon03_AROS64.lha) także udostepnił w wersji dla ABIv11. Czy przyszły rok będzie rokiem totalnej przesiadki na 64-bity?
 
