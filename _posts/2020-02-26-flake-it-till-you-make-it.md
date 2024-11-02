@@ -39,9 +39,9 @@ Funkcje:
 > ## [RayGui](https://archives.aros-exec.org/?function=showfile&file=development/misc/raygui.i386-aros.zip)
 > (autor: github.com/raysan5/raygui, port by Serk118)
 
-RayGui
+Raygui został zaprojektowany jako moduł pomocniczy dla Raylib do tworzenia prostych interfejsów GUI przy użyciu stylu graficznego raylib (proste kolory, zwykłe prostokątne kształty, szerokie granice...), ale może być dostosowany do innych silników/frameworków.
 
-![RayGui](/assets/img/1024/SkyBallsAros.png)
+![RayGui](/assets/img/1024/raygui.png)
 *RayGui*
 
 > ## [kMusicPlayer](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip)
