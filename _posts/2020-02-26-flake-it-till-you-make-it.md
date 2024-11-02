@@ -11,7 +11,9 @@ Dawno nie działo się tak wiele jednocześnie. W tym miesiącu dostaliśmy zbio
 Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
 
 
-Gracze ucieszą się z 64-bitowych wersji [Doom 3](https://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.x86_64-aros-v11.zip), silników [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.x86_64-aros-v11.zip), [ResidualVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.x86_64-aros-v11.zip) i [ScummVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.x86_64-aros-v11.zip). 
+Gracze ucieszą się z 64-bitowych wersji [Doom 3](https://archives.aros-exec.org/?function=showfile&file=game/fps/adoom3-1.5.3.x86_64-aros-v11.zip), silników [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.x86_64-aros-v11.zip), [ResidualVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/residualvm-0.3.1-1.x86_64-aros-v11.zip) i [ScummVM](https://archives.aros-exec.org/?function=showfile&file=emulation/misc/scummvm-1.9.0-1.x86_64-aros-v11.zip). Czy przyszły rok będzie rokiem totalnej przesiadki na 64-bity?
+
+Wracając do 32-bitowej teraźniejszości:  
 
 Serk118 zaktualizował swoje porty [GLFW 3.4](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) oraz [Raylib 5.0](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip).
 
