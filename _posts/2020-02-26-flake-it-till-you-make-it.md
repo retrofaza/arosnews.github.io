@@ -89,6 +89,11 @@ Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który r�
 
 GemRB to przenośna, open-source'owa implementacja 8 wersji silnika Infinity Engine firmy Bioware. Uruchamia gry **Baldur's Gate**, **Icewind Dale** i **Planescape: Torment** oraz ich rozszerzenia i mody. Silnik wymaga plików z danymi z oryginalnych gier. Port dla AROSa przygotował Daremon.
 
+> ## [Legadon](https://home.alb42.de/files/Legadon03_AROS.lha) (v. 0.3)
+> (autor: ALB42)
+
+Prosty czytnik ePub dla AROS. ePuby to po prostu pliki zip z plikami XML i HTML, które opisują książkę elektroniczną. Legadon wyodrębnia tekst z HTML i pokazuje go użytkownikowi jako plain tekst w polu tekstowym.
+
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
 > (autor: Stuart Caie, port by Farox)
 
