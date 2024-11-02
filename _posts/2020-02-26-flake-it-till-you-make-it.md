@@ -10,23 +10,7 @@ Dawno nie działo się tak wiele jednocześnie. W tym miesiącu dostaliśmy zbio
 
 Firma AirSoft Softwair wydała nową wersję wtyczki do programu Hollywood, która umożliwia odtwarzanie plików dźwiękowych w formacie SID. W wersji 2.0 dokonano całkowitej zmiany głównego silnika obsługującego ten format, zastępując TinySID nowym cRSID. Dzięki temu emulacja jest bardziej precyzyjna i wspiera Real SID. Wersję dla AROS x86 można pobrać [stąd](https://www.hollywood-mal.com/download/SID_Amiga.lha).
 
-Nowe pozycje w AROS-Archive od zeszłego miesiąca:
-
-> ## [Raylib](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip) (v. 5.0)
-> (autor: www.raylib.com, port by Serk118)
-
-Raylib 5
-
-![Raylib](/assets/img/1024/SkyBallsAros.png)
-*Raylib 5*
-
-> ## [GLFW](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) (v. 3.4)
-> (autor: www.glfw.org, port by Serk118)
-
-GLFW 3.4
-
-![GLFW](/assets/img/1024/SkyBallsAros.png)
-*GLFW 3.4*
+Serk118 zaktualizował swoje porty [GLFW 3.4](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_glfw_3_4.i386-aros.zip) oraz [Raylib 5.0](https://archives.aros-exec.org/?function=showfile&file=development/library/lib_raylib5.i386-aros.zip). Raylib to biblioteka programistyczna pozwalająca cieszyć się programowaniem gier wideo; bez wyszukanego interfejsu, bez wizualnych pomocników, bez narzędzi gui lub edytorów... po prostu kodowanie w czysto spartański sposób. Z tym updatem dostajemy także:
 
 > ## [rFXGen](https://archives.aros-exec.org/?function=showfile&file=audio/rfxgen-aros.zip)
 > (autor: raylibtech.itch.io/rfxgen, port by Serk118)
@@ -46,9 +30,6 @@ Funkcje:
 - Odtwarzacz audio z wiersza poleceń dla plików `.wav`, `.ogg`, `.mp3` i `.flac`
 - Całkowicie przenośny (jednoplikowy, bez zależności)**.
 - **Darmowy i open-source**
-
-![rFXGen](/assets/img/1024/SkyBallsAros.png)
-*rFXGen*
 
 > ## [RayGui](https://archives.aros-exec.org/?function=showfile&file=development/misc/raygui.i386-aros.zip)
 > (autor: github.com/raysan5/raygui, port by Serk118)
