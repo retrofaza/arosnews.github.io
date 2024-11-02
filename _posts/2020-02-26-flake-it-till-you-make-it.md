@@ -79,7 +79,7 @@ BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem u
 
 Amifish to program szachowy stworzony do gry w szachy na systemach amigowych, wykorzystujący moc jednego z najpotężniejszych silników szachowych na świecie: Stockfish, opracowanego przez Torda Romstada, Marco Costalbę, Joonę Kiiski i Gary'ego Linscotta. Silnik szachowy to program konsolowy, który gra w szachy, odbierając ciągi znaków jako polecenia i generując ciągi znaków na wyjściu jako wynik obliczeń. Stockfish i wiele innych silników jest kompatybilnych ze standardem o nazwie UCI (Universal Chess Interface). Nazwa Amifish powstała z połączenia słów Amiga i Stockfish (choć projekt jest otwarty dla wszystkich silników zgodnych ze standardem UCI), jest lekkim programem dla amatorów, stworzonym do zabawy w szachy, z zaimplementowanymi tylko najważniejszymi opcjami.
 
-Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który również można pobrać z AROS Archives.
+Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który również można [pobrać](https://archives.aros-exec.org/?function=showfile&file=game/misc/stockfish5_aros-i386.zip) z AROS Archives.
 
 ![Amifish](/assets/img/1024/amifish.png)
 *Amifish*
