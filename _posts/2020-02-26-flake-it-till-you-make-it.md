@@ -55,9 +55,6 @@ Główne cechy:
 - Wątkowe ładowanie muzyki: Szybkie ładowanie muzyki dzięki ładowaniu wątkowemu.
 - Proste sterowanie: Kontroluj odtwarzanie za pomocą prostych skrótów klawiaturowych w RayGUI.
 
-![kMusicPlayer](/assets/img/1024/SkyBallsAros.png)
-*kMusicPlayer*
-
 > ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
 > (autor: Steffen Gutman)
 
@@ -70,9 +67,6 @@ BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem u
 > (autor: www.raylib.com, port by Serk118)
 
 Walcz z żywiołami! Walcz z wrogami! Ocal świat! Jak długo uda ci się przetrwać? Ta gra została pierwotnie stworzona przez emegeme jako benchmark dla Raylib na urządzeniach z Androidem.
-
-![Koala Seasons](/assets/img/1024/SkyBallsAros.png)
-*Koala Seasons*
 
 > ## [Amifish](https://archives.aros-exec.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.0)
 > (autor:	Domenico Lattanzi)
@@ -87,34 +81,28 @@ Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który r�
 > ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
 > (autor: The GemRB Project)
 
-GemRB
-
-![GemRB](/assets/img/1024/blackivancard.jpg)
-*GemRB*
+GemRB to przenośna, open-source'owa implementacja 8 wersji silnika Infinity Engine firmy Bioware. Uruchamia gry **Baldur's Gate**, **Icewind Dale** i **Planescape: Torment** oraz ich rozszerzenia i mody. Silnik wymaga plików z danymi z oryginalnych gier. Port dla AROSa przygotował Daremon.
 
 > ## [CabExtract](https://archives.aros-exec.org/?function=showfile&file=utility/archive/cabextract1.11.i386-aros.zip) (v. 1.11)
 > (autor: Stuart Caie, port by Farox)
 
 Program do rozpakowywania plików Microsoft Cabinet. Pliki Cabinet (`.CAB`) są formą archiwum, którego Microsoft używa do dystrybucji swojego oprogramowania i rzeczy takich jak Windows Font Packs. Program cabextract rozpakowuje te pliki.
 
-![CabExtract](/assets/img/1024/SkyBallsAros.png)
-*CabExtract*
-
 > ## [Unshield](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unshield.i386-aros.zip) (v. 1.5.1)
 > (autor:	David Eriksson, port by Farox)
 
 Narzędzie do wyodrębniania plików `.CAB` z pliku `.exe` InstallShield.
 
-![Unshield](/assets/img/1024/MemoryGameAros.png)
-*Unshield*
-
 > ## [SetScreenMode](https://archives.aros-exec.org/?function=showfile&file=utility/shell/setscreenmode.i386-aros.zip) (v. 1.0)
 > (autor:	Nigel Tromans)
 
-SetScreenMode
+Set_Screen_Mode to mała aplikacja Hollywood do automatycznego ustawiania tryb ekranu podczas uruchamiania z wcześniej ustawionej listy.  
 
-![SetScreenMode](/assets/img/1024/organica.jpg)
-*SetScreenMode*
+Uwaga: Set_Screen_Mode jest przydatny tylko wtedy, gdy instalacja AROS jest wykorzystuje natywną grafikę.  
+
+Została stworzona, aby umożliwić maszynom, które są przenoszone między różnymi wyświetlaczami (takimi jak laptopy z wewnętrznym ekranem i zewnętrznie podłączonymi monitorami) automatycznie uruchamiać się w preferowanym trybie ekranu dla każdego z tych wyświetlaczy, a także pomóc w wyświetlaniu ekranu na ekranach, które są trudne do w użyciu (na przykład takich, które nie są w stanie wyświetlić domyślnego trybu 640x480).  
+
+Set_Screen_Mode odczyta dostępne tryby ekranu dostarczone przez przez wyświetlacz i porówna je z trybami wybranymi przez użytkownika na uporządkowanej liście. Możliwe jest również wymuszenie trybu, nawet jeśli nie ma go na liście lub całkowicie zignorować tryby ustawione dla Set_Screen_Mode.  
 
 > ## [Perl](https://archives.aros-exec.org/?function=showfile&file=development/language/perl-5.7.2.x86_64-aros-v11.zip) (v. 5.7.2)
 > (autor: Stanislaw Szymczyk)
