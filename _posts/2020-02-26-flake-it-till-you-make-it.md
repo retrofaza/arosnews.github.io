@@ -23,7 +23,7 @@ Pozostałe nowości w AROS Archives:
 > (autor:	Domenico Lattanzi)
 
 SilkRAW to program umożliwiający pracę z plikami RAW generowanymi przez lustrzanki cyfrowe, działający jako interfejs do programu dcRAW napisanego przez Dave'a 
-Coffina.  
+Coffina (Należy ściągnąć [dcRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/convert/dcraw.i386-aros.zip) i umieścić go w szufladzie programu SilkRAW). 
 
 Funkcje:  
 - Eksport miniatur, pojedynczych plików RAW lub grup, z metadanymi możliwości wyodrębniania i obracania 
