@@ -19,14 +19,6 @@ Aby pobrać ISO systemu oraz update 2 i zapoznać się z pełną listą zmian, o
 
 Pozostałe nowości w AROS Archives:  
 
-> ## [BeeBase](https://archives.aros-exec.org/?function=showfile&file=office/database/beebase-1.1.lha) (v. 1.1)
-> (autor: Steffen Gutman)
-
-BeeBase to relacyjny, programowalny system baz danych z graficznym interfejsem użytkownika dla wszystkich systemów amigowych, a także dla Windows, Mac i Linux. Siła BeeBase leży w graficznym interfejsie użytkownika i możliwościach programowania. Umożliwia on przetwarzanie danych na różne sposoby, np. automatyczne obliczenia po wprowadzeniu danych przez użytkownika, generowanie raportów, importowanie i eksportowanie danych itp. 
-
-![BeeBase](/assets/img/1024/beebase.png)
-*BeeBase*
-
 > ## [SilkRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/misc/silkraw_aros.lha) (v. 3.0)
 > (autor:	Domenico Lattanzi)
 
