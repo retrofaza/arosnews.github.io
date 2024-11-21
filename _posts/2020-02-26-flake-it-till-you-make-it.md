@@ -34,10 +34,13 @@ Funkcje:
 ![SilkRAW](/assets/img/1124/silkraw.png)
 *SilkRAW*
 
-> ## [GemRB](https://archives.aros-exec.org/?function=showfile&file=game/roleplaying/gemrb-0.8.8-0.i386-aros.zip) (v. 0.8.8-0)
-> (autor: The GemRB Project)
+> ## [UHCTools](https://archives.aros-exec.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) (v. 1.8)
+> (autorzy: Patrik Axelsson, David Eriksson)
 
-GemRB to przenośna, open-source'owa implementacja 8 wersji silnika Infinity Engine firmy Bioware. Uruchamia gry **Baldur's Gate**, **Icewind Dale** i **Planescape: Torment** oraz ich rozszerzenia i mody. Silnik wymaga plików z danymi z oryginalnych gier. Port dla AROSa przygotował Daremon.
+Jest to zbiór programów i skryptów dla komputerów Amiga i ich pochodnych, aby uprościć codzienne użytkowanie i uczynić Amigę bardziej niezależną.
+
+![UHCTools](/assets/img/1124/uhctools.png)
+*UHCTools*
 
 > ## [Legadon](https://home.alb42.de/files/Legadon03_AROS.lha) (v. 0.3)
 > (autor: ALB42)
