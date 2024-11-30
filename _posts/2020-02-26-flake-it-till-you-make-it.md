@@ -40,6 +40,15 @@ Na forum Aros World Deadwood przedstawił zaktualizowany [plan rozwoju](https://
 
 Pozostałe nowości w AROS Archives:  
 
+> ## [FastTracker2 Clone](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/ft2clone166.i386-aros.zip) (v. 1.66)
+> (autor:	Olaf Sørensen, port by Farox & Deremon)
+
+FastTracker2 Clone
+
+![FastTracker2 Clone](/assets/img/1124/ft2clone.png)
+*FastTracker2 Clone*
+
+
 > ## [SilkRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/misc/silkraw_aros.lha) (v. 3.0)
 > (autor:	Domenico Lattanzi)
 
