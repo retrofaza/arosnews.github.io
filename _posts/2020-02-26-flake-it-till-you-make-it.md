@@ -32,7 +32,7 @@ Korzystanie z Odyssey w systemie Windows:
 Korzystanie z Odyssey pod Linuksem:  
 [https://arosnews.github.io/OWB-axrt-linux/](https://arosnews.github.io/OWB-axrt-linux/)
 
-Na forum Aros World Deadwood przedstawił zaktualizowany plan rozwoju AROSa. Jak się dowiadujemy, 
+Na forum Aros World Deadwood przedstawił zaktualizowany [plan rozwoju](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20#post_6834) AROSa. Jak się dowiadujemy, nacisk zostanie położony na przyspieszenie synchronizacji źródeł wersji 32-bitowej (ABIv0) z najnowszą wersją 64-bitową systemu (ABIv11). Dalszy plan pozostaje niezmieniony, więc możemy się spodziewać emulatora 32-bit dla ABIv11 i AxRuntime (którego prototyp już działa!), a następnie wydania natywnej wersji systemu 64-bit.  
 
 Pozostałe nowości w AROS Archives:  
 
