@@ -15,14 +15,12 @@ Nową wersję można pobrać z:
 [https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1](https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1)  
 [https://axrt.org/downloads-aros-64bit](https://axrt.org/downloads-aros-64bit)  
 
-{: .box-success}
-Aby pobrać ISO systemu oraz update 2 i zapoznać się z pełną listą zmian, odwiedź:  
-[https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20220318-1)
-
+Jednocześnie wydana została **64-bitowa wersja przeglądarki internetowej Odyssey w wersji 2.1** (wymaga do działania najnowszej wersji systemu). W porównaniu z wydaną niedawno wersją 32-bit, wersja 64-bitowa oferuje akcelerację JavaScript za pomocą kompilatora JIT dla większej wydajności, a także możliwości wykorzystania wielu rdzeni procesora podczas uruchamiania w AxRuntime.
 
 <div class="embed-container">
 <iframe width="700" height="480" src="https://www.youtube.com/watch?v=haT1RsF7ZyM" frameborder="0"> </iframe>
 </div>
+
 
 
 Pozostałe nowości w AROS Archives:  
