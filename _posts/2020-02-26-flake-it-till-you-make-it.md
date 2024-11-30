@@ -6,6 +6,8 @@ lang: pl
 ref: 1124
 ---
 
+
+
 W listopadzie dostaliśmy nowe wydanie 64-bitowej wersji bazowej systemu (ABIv11 20241102-1). Ta nowa wersja wprowadza wiele ulepszeń do Wanderera i Zune, a także ponad 60 poprawek błędów, które zostały wdrożone od marca 2023 roku. **Aktualnie do pobrania jest wersja przeznaczona do uruchomienia w środowisku linuks hosted. Wersji działającej na natywnym sprzęcie możemy spodziewać się najwcześniej w przyszłym roku.**
 
 Pełną listę zmian można znaleźć tutaj:  
@@ -16,13 +18,7 @@ Nową wersję można pobrać z:
 [https://axrt.org/downloads-aros-64bit](https://axrt.org/downloads-aros-64bit)  
 
 Jednocześnie wydana została **64-bitowa wersja przeglądarki internetowej Odyssey w wersji 2.1** (wymaga do działania najnowszej wersji systemu). W porównaniu z wydaną niedawno wersją 32-bit, wersja 64-bitowa oferuje akcelerację JavaScript za pomocą kompilatora JIT dla większej wydajności, a także możliwości wykorzystania wielu rdzeni procesora podczas uruchamiania w AxRuntime.
-
-
-
-<div class="embed-container">
-<iframe width="700" height="480" src="https://www.youtube.com/watch?v=cA1lAy36Pg0" frameborder="0"> </iframe>
-</div>  
-
+  
 <div class="embed-container">
 <iframe width="700" height="480" src="https://www.youtube.com/watch?v=haT1RsF7ZyM" frameborder="0"> </iframe>
 </div>  
@@ -39,6 +35,8 @@ Korzystanie z Odyssey pod Linuksem:
 [https://arosnews.github.io/OWB-axrt-linux/](https://arosnews.github.io/OWB-axrt-linux/)
 
 Na forum Aros World Deadwood przedstawił zaktualizowany [plan rozwoju](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20#post_6834) AROSa. Jak się dowiadujemy, nacisk zostanie położony na przyspieszenie synchronizacji źródeł wersji 32-bitowej (ABIv0) z najnowszą wersją 64-bitową systemu (ABIv11). Dalszy plan pozostaje niezmieniony, więc możemy się spodziewać emulatora 32-bit dla ABIv11 i AxRuntime (którego prototyp już działa!), a następnie wydania natywnej wersji systemu 64-bit.  
+
+
 
 Pozostałe nowości w AROS Archives:  
 
