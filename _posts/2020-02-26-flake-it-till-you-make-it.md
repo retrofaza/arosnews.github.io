@@ -6,7 +6,7 @@ lang: pl
 ref: 1124
 ---
 
-Mija rok odkąd zacząłem prowadzić bloga opisującego nowości w AROSie. Moje pierwsze kroki z systemem kilka lat temu nie były zbyt udane. Jednak z czasem zacząłem przekonywać się do niego coraz bardziej. Można powiedzieć, że przeszedłem długą drogę od "umiarkowanego sceptyka" do człowieka zakochanego po uszy w tym rozwiązaniu :) Obecnie, dla mnie osobiście, AROS jest najlepszą Amigą NG. Śledzenie jego rozwoju i testowanie nowych elementów daje mi dużo satysfakcji. Zachęcam was do tego samego! 
+Minął już rok, odkąd zacząłem prowadzić bloga poświęconego nowościom w świecie AROSa. Moje pierwsze doświadczenia z tym systemem, kilka lat temu, nie należały do najbardziej udanych. Z czasem jednak coraz bardziej przekonywałem się do jego możliwości. Można powiedzieć, że przeszedłem długą drogę – od umiarkowanego sceptyka do osoby absolutnie zakochanej w tym rozwiązaniu :) Dziś AROS to dla mnie najlepsza wersja Amigi NG. Śledzenie jego rozwoju i testowanie nowych funkcji sprawia mi ogromną satysfakcję. Serdecznie zachęcam was, byście sami spróbowali!
 
 W listopadzie dostaliśmy nowe wydanie 64-bitowej wersji bazowej systemu (ABIv11 20241102-1). Ta nowa wersja wprowadza wiele ulepszeń do Wanderera i Zune, a także ponad 60 poprawek błędów, które zostały wdrożone od marca 2023 roku. **Aktualnie do pobrania jest wersja przeznaczona do uruchomienia w środowisku linuks hosted. Wersji działającej na natywnym sprzęcie możemy spodziewać się najwcześniej w przyszłym roku.**
 
