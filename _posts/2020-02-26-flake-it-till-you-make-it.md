@@ -34,14 +34,6 @@ Funkcje:
 ![SilkRAW](/assets/img/1124/silkraw.png)
 *SilkRAW*
 
-> ## [UHCTools](https://archives.aros-exec.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) (v. 1.8)
-> (autorzy: Patrik Axelsson, David Eriksson)
-
-Jest to zbiór programów i skryptów dla komputerów Amiga i ich pochodnych, aby uprościć codzienne użytkowanie i uczynić Amigę bardziej niezależną.
-
-![UHCTools](/assets/img/1124/uhctools.png)
-*UHCTools*
-
 > ## [Sacrificio Pagano](https://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 3.0)
 > (autor: Juan Carlos Herrán Martín)
 
@@ -49,4 +41,9 @@ Sacrificio Pagano
 
 ![Sacrificio Pagano](/assets/img/1124/spagano.jpg)
 *Sacrificio Pagano*
+
+> ## [UHCTools](https://archives.aros-exec.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) (v. 1.8)
+> (autorzy: Patrik Axelsson, David Eriksson)
+
+Jest to zbiór programów i skryptów dla komputerów Amiga i ich pochodnych, aby uprościć codzienne użytkowanie i uczynić Amigę bardziej niezależną.
 
