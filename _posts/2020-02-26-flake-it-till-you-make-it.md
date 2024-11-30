@@ -9,7 +9,7 @@ ref: 1124
 W listopadzie dostaliśmy nowe wydanie 64-bitowej wersji bazowej systemu (ABIv11 20241102-1). Ta nowa wersja wprowadza wiele ulepszeń do Wanderera i Zune, a także ponad 60 poprawek błędów, które zostały wdrożone od marca 2023 roku. **Aktualnie do pobrania jest wersja przeznaczona do uruchomienia w środowisku linuks hosted. Wersji działającej na natywnym sprzęcie możemy spodziewać się w przyszłym roku.**
 
 Pełną listę zmian można znaleźć tutaj:  
-https://axrt.org/release-notes?id=aros-abiv11-20241102-1  
+[https://axrt.org/release-notes?id=aros-abiv11-20241102-1](https://axrt.org/release-notes?id=aros-abiv11-20241102-1)  
 
 Nową wersję można pobrać z:  
 [https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1](https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1)  
@@ -21,6 +21,16 @@ Jednocześnie wydana została **64-bitowa wersja przeglądarki internetowej Odys
 <iframe width="700" height="480" src="https://www.youtube.com/watch?v=haT1RsF7ZyM" frameborder="0"> </iframe>
 </div>
 
+Jeśli chcesz wypróbować Odyssey, przygotowaliśmy kilka samouczków:  
+
+Korzystanie z Odyssey w systemie AROS linux:  
+[https://arosnews.github.io/OWB-aros-linux-hosted/](https://arosnews.github.io/OWB-aros-linux-hosted/)
+
+Korzystanie z Odyssey w systemie Windows:  
+[https://arosnews.github.io/OWB-axrt-wsl2/](https://arosnews.github.io/OWB-axrt-wsl2/)
+
+Korzystanie z Odyssey pod Linuksem:  
+[https://arosnews.github.io/OWB-axrt-linux/](https://arosnews.github.io/OWB-axrt-linux/)
 
 
 Pozostałe nowości w AROS Archives:  
