@@ -43,7 +43,7 @@ Pozostałe nowości w AROS Archives:
 > ## [FastTracker2 Clone](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/ft2clone166.i386-aros.zip) (v. 1.66)
 > (autor:	Olaf Sørensen, port by Farox & Deremon)
 
-Legendarny demoscenowy tracker, którego główną innowacją było wprowadzenie formatu plików XM (Extended Module). Teraz dzięki wysiłkowi Faroxa i Deremona mam także jego port na AROSie. 
+Legendarny demoscenowy tracker, którego główną innowacją było wprowadzenie formatu plików XM (Extended Module). Teraz dzięki wysiłkowi Faroxa i Deremona mamy także jego port na AROSie. 
 
 ![FastTracker2 Clone](/assets/img/1124/ft2clone.png)
 *FastTracker2 Clone*
@@ -55,7 +55,7 @@ SilkRAW to program umożliwiający pracę z plikami RAW generowanymi przez lustr
 Coffina (Należy ściągnąć [dcRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/convert/dcraw.i386-aros.zip) i umieścić go w szufladzie programu SilkRAW). 
 
 Funkcje:  
-- Eksport miniatur, pojedynczych plików RAW lub grup, z metadanymi możliwości wyodrębniania i obracania 
+- Eksport miniatur, pojedynczych plików RAW lub grup
 - 25 obsługiwanych opcji dcRAW
 - Przetwarzanie wsadowe plików RAW z zapisem w formatach TIFF, PPM, JPG, PNG, ILBM
 - Dalsze przetwarzanie poza dcRAW  
