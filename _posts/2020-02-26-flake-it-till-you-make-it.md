@@ -36,18 +36,17 @@ Korzystanie z Odyssey pod Linuksem:
 
 Na forum Aros World Deadwood przedstawił zaktualizowany [plan rozwoju](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20#post_6834) AROSa. Jak się dowiadujemy, nacisk zostanie położony na przyspieszenie synchronizacji źródeł wersji 32-bitowej (ABIv0) z najnowszą wersją 64-bitową systemu (ABIv11). Dalszy plan pozostaje niezmieniony, więc możemy się spodziewać emulatora 32-bit dla ABIv11 i AxRuntime (którego prototyp już działa!), a następnie wydania natywnej wersji systemu 64-bit.  
 
-
+Nastąpiła aktualizacja używanego w AROSie kompilatora GCC. Dzięki ciężkiej pracy @thatguywiththekids domyślny kompilator został zaktualizowany z GCC 6.5.0 do GCC 10.5.0 zarówno dla x86_64, jak i m68k!
 
 Pozostałe nowości w AROS Archives:  
 
 > ## [FastTracker2 Clone](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/ft2clone166.i386-aros.zip) (v. 1.66)
 > (autor:	Olaf Sørensen, port by Farox & Deremon)
 
-FastTracker2 Clone
+Legendarny demoscenowy tracker, którego główną innowacją było wprowadzenie formatu plików XM (Extended Module). Teraz dzięki wysiłkowi Faroxa i Deremona mam także jego port na AROSie. 
 
 ![FastTracker2 Clone](/assets/img/1124/ft2clone.png)
 *FastTracker2 Clone*
-
 
 > ## [SilkRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/misc/silkraw_aros.lha) (v. 3.0)
 > (autor:	Domenico Lattanzi)
@@ -67,7 +66,10 @@ Funkcje:
 > ## [Sacrificio Pagano](https://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 3.0)
 > (autor: Juan Carlos Herrán Martín)
 
-Sacrificio Pagano
+Prosty programik dla wierzących w magię. Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom.
+
+W wersji 3.0 mamy przede wszystkim poprawioną warstwą wizualną programu.
+
 
 ![Sacrificio Pagano](/assets/img/1124/spagano.jpg)
 *Sacrificio Pagano*
