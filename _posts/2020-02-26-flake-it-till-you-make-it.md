@@ -9,7 +9,7 @@ ref: 1124
 Koniec roku sprzyja podsumowaniom. A jest co podsumowywać, bo po latach mniejszej aktywności, ten rok wreszcie zaczął obfitować w pozytywne wydarzenia. Postęp był widoczny z miesiąca na miesiąc, co zresztą mieliście okazję śledzić na tym blogu. AROS ruszył mocno do przodu i nie zamierza się zatrzymywać :)
 
 
-##System
+## System
 
 W samym core systemu działo się chyba najwięcej. Główne dystrybucje bazują obecnie na 32-bitowej gałęzi Deadwooda (ABIv0), a ta miała w tym roku jedno główne wydanie (ABIv0 20220318-1) i dwie duże aktualizacje zbiorcze z poprawkami.
 
