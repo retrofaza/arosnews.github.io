@@ -20,7 +20,7 @@ Uruchomienie przez Deadwooda takich inicjatyw jak "Irytujący Bug Miesiąca" poz
 Chociaż obecnie postęp w większości jest na barkach Deadwooda, to warto odnotować, że nie byłby on tak szybki bez wcześniejszej pracy włożonej w rozwój AROSa przez Kalamatee i innych deweloperów. Bardzo liczymy na ich powrót do aktywnej pracy nad systemem!
 
 
-##Dystrybucje
+# Dystrybucje
 
 Mieliśmy w 2024 roku dwie aktualizowane dystrybucje dla architektury x86.
 
