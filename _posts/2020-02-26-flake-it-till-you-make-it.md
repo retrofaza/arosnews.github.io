@@ -6,76 +6,77 @@ lang: pl
 ref: 1124
 ---
 
-Minął już rok, odkąd zacząłem prowadzić bloga poświęconego nowościom w świecie AROSa. Moje pierwsze doświadczenia z tym systemem, kilka lat temu, nie należały do najbardziej udanych. Z czasem jednak coraz bardziej przekonywałem się do jego możliwości. Można powiedzieć, że przeszedłem długą drogę – od umiarkowanego sceptyka do osoby absolutnie zakochanej w tym rozwiązaniu :) Dziś AROS to dla mnie najlepsza wersja Amigi NG. Śledzenie jego rozwoju i testowanie nowych funkcji sprawia mi ogromną satysfakcję. Serdecznie zachęcam was, byście sami spróbowali!
-
-W listopadzie dostaliśmy nowe wydanie 64-bitowej wersji bazowej systemu (ABIv11 20241102-1). Ta nowa wersja wprowadza wiele ulepszeń do Wanderera i Zune, a także ponad 60 poprawek błędów, które zostały wdrożone od marca 2023 roku. **Aktualnie do pobrania jest wersja przeznaczona do uruchomienia w środowisku linuks hosted. Wersji działającej na natywnym sprzęcie możemy spodziewać się najwcześniej w przyszłym roku.**
-
-Pełną listę zmian można znaleźć tutaj:  
-[https://axrt.org/release-notes?id=aros-abiv11-20241102-1](https://axrt.org/release-notes?id=aros-abiv11-20241102-1)  
-
-Nową wersję można pobrać z:  
-[https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1](https://github.com/deadwood2/AROS/releases/tag/ABIv11_20241102-1)  
-[https://axrt.org/downloads-aros-64bit](https://axrt.org/downloads-aros-64bit)  
-
-Jednocześnie wydana została **64-bitowa wersja przeglądarki internetowej Odyssey w wersji 2.1** (wymaga do działania najnowszej wersji systemu). W porównaniu z wydaną niedawno wersją 32-bit, wersja 64-bitowa oferuje akcelerację JavaScript za pomocą kompilatora JIT dla większej wydajności, a także możliwości wykorzystania wielu rdzeni procesora podczas uruchamiania w AxRuntime.
-  
-<div class="embed-container">
-<iframe width="700" height="480" src="https://www.youtube.com/watch?v=haT1RsF7ZyM" frameborder="0"> </iframe>
-</div>  
-
-Jeśli chcesz wypróbować Odyssey, przygotowaliśmy kilka samouczków:  
-
-Korzystanie z Odyssey w systemie AROS linux:  
-[https://arosnews.github.io/OWB-aros-linux-hosted/](https://arosnews.github.io/OWB-aros-linux-hosted/)
-
-Korzystanie z Odyssey w systemie Windows:  
-[https://arosnews.github.io/OWB-axrt-wsl2/](https://arosnews.github.io/OWB-axrt-wsl2/)
-
-Korzystanie z Odyssey pod Linuksem:  
-[https://arosnews.github.io/OWB-axrt-linux/](https://arosnews.github.io/OWB-axrt-linux/)
-
-Na forum Aros World Deadwood przedstawił zaktualizowany [plan rozwoju](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=20#post_6834) AROSa. Jak się dowiadujemy, nacisk zostanie położony na przyspieszenie synchronizacji źródeł wersji 32-bitowej (ABIv0) z najnowszą wersją 64-bitową systemu (ABIv11). Dalszy plan pozostaje niezmieniony, więc możemy się spodziewać emulatora 32-bit dla ABIv11 i AxRuntime (którego prototyp już działa!), a następnie wydania natywnej wersji systemu 64-bit.  
-
-Nastąpiła aktualizacja używanego w AROSie kompilatora GCC. Dzięki ciężkiej pracy @thatguywiththekids domyślny kompilator został zaktualizowany z GCC 6.5.0 do GCC 10.5.0 zarówno dla x86_64, jak i m68k!
-
-Pozostałe nowości w AROS Archives:  
-
-> ## [FastTracker2 Clone](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/ft2clone166.i386-aros.zip) (v. 1.66)
-> (autor:	Olaf Sørensen, port by Farox & Deremon)
-
-Legendarny demoscenowy tracker, którego główną innowacją było wprowadzenie formatu plików XM (Extended Module). Teraz dzięki wysiłkowi Faroxa i Deremona mamy także jego port na AROSie. 
-
-![FastTracker2 Clone](/assets/img/1124/ft2clone.png)
-*FastTracker2 Clone*
-
-> ## [SilkRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/misc/silkraw_aros.lha) (v. 3.0)
-> (autor:	Domenico Lattanzi)
-
-SilkRAW to program umożliwiający pracę z plikami RAW generowanymi przez lustrzanki cyfrowe, działający jako interfejs do programu dcRAW napisanego przez Dave'a 
-Coffina (Należy ściągnąć [dcRAW](https://archives.aros-exec.org/?function=showfile&file=graphics/convert/dcraw.i386-aros.zip) i umieścić go w szufladzie programu SilkRAW). 
-
-Funkcje:  
-- Eksport miniatur, pojedynczych plików RAW lub grup
-- 25 obsługiwanych opcji dcRAW
-- Przetwarzanie wsadowe plików RAW z zapisem w formatach TIFF, PPM, JPG, PNG, ILBM
-- Dalsze przetwarzanie poza dcRAW  
-
-![SilkRAW](/assets/img/1124/silkraw.png)
-*SilkRAW*
-
-> ## [Sacrificio Pagano](https://archives.aros-exec.org/?function=showfile&file=utility/misc/sacrificiopagano.lha) (v. 3.0)
-> (autor: Juan Carlos Herrán Martín)
-
-Prosty programik dla wierzących w magię. Umożliwia skonfigurowanie własnego ołtarzyka na ekranie komputera, co ma ułatwiać oddawanie się magicznym praktykom.
-
-W wersji 3.0 mamy przede wszystkim poprawioną warstwą wizualną programu.
+Koniec roku sprzyja podsumowaniom. A jest co podsumowywać, bo po latach mniejszej aktywności, ten rok wreszcie zaczął obfitować w pozytywne wydarzenia. Postęp był widoczny z miesiąca na miesiąc, co zresztą mieliście okazję śledzić na tym blogu. AROS ruszył mocno do przodu i nie zamierza się zatrzymywać :)
 
 
-![Sacrificio Pagano](/assets/img/1124/spagano.jpg)
-*Sacrificio Pagano*
+##System
 
-> ## [UHCTools](https://archives.aros-exec.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) (v. 1.8)
-> (autorzy: Patrik Axelsson, David Eriksson)
+W samym core systemu działo się chyba najwięcej. Główne dystrybucje bazują obecnie na 32-bitowej gałęzi Deadwooda (ABIv0), a ta miała w tym roku jedno główne wydanie (ABIv0 20220318-1) i dwie duże aktualizacje zbiorcze z poprawkami.
 
-Jest to zbiór programów i skryptów dla komputerów Amiga i ich pochodnych, aby uprościć codzienne użytkowanie i uczynić Amigę bardziej niezależną.
+Deadwood wydał także wersję 64-bitową systemu (ABIv11) w wersji linux hosted (ABIv11 20241102-1) oraz AxRuntime w wersji 41.12, co zapowiada w niedługim czasie całkowitą przesiadkę na 64-bity. Opracował też prototyp emulatora, który umożliwi na 64-bitowym AROSie uruchamianie programów napisanych dla 32-bitowej wersji systemu. 
 
+Uruchomienie przez Deadwooda takich inicjatyw jak "Irytujący Bug Miesiąca" pozwoliło zbliżyć deweloperów z użytkownikami i skupić się na naprawie błędów, których społeczność oczekiwała najbardziej. To był pracowity i owocny rok w jego wykonaniu.
+
+Chociaż obecnie postęp w większości jest na barkach Deadwooda, to warto odnotować, że nie byłby on tak szybki bez wcześniejszej pracy włożonej w rozwój AROSa przez Kalamatee i innych deweloperów. Bardzo liczymy na ich powrót do aktywnej pracy nad systemem!
+
+
+##Dystrybucje
+
+Mieliśmy w 2024 roku dwie aktualizowane dystrybucje dla architektury x86.
+
+AROS One wydawany przez AMIGASYSTEM to najbardziej kompletna dystrybucja AROSa. Dostaliśmy w tym roku kilka wydań, zawsze po większej aktualizacji bazowego systemu. W AROS One jest pod ręką wszystko czego możemy tylko potrzebować. Mnóstwo programów i gier, wiele gotowych konfiguracji i skryptów. Distro jest bardzo spójne pod względem wyglądu i ikon, posiada też wiele dodatkowych skórek i tapet, więc możemy je dostosować pod siebie. Najnowszym wydaniem jest wersja 2.7.
+
+Drugą dystrybucją jest Tiny AROS, której autorem jest Amiwell79. Jak sama nazwa wskazuje to distro jest przeznaczone dla minimalistów, którzy nie potrzebują wszystkiego, ale jednak woleliby nie zaczynać od gołego systemu. Najlepiej wypróbować każdą i wybrać tę, która będzie nam bardziej pasowała.
+
+Obie dystrybucje używają obecnie Wanderera jako domyślnego pulpitu.
+
+Olaf Schönweiß wprawdzie nie wydał nowej wersji AROS Vision w 2024 roku, ale aktywnie pracował nad kolejnym wydaniem swojej dystrybucji dla architektury m68k i wydania możemy się spodziewać na początku 2025 roku.
+
+
+##Sprzęt
+
+Lista rekomendowanego sprzętu dla AROSa wzbogaciła się o dwie płyty główne: ASUS P8Z68-V LX oraz Gigabyte GA-MA770T UD3/UD3P. Moim zdaniem warto przyjrzeć się konstrukcji ASUSa. Na tę chwilę jest to najnowszy i najmocniejszy sprzęt z listy rekomendowanych, niedrogi i szeroko dostępny w serwisach aukcyjnych. Jeśli planujesz zakup sprzętu pod AROSa będzie to najlepszy wybór. Rekomendowane płyty mają zapewnione długoterminowe wsparcie, wszystkie nowe wydania AROSa będą testowane pod względem kompatybilności z nimi.
+
+Do sprzedaży trafił A600GS. Na sprzęcie zainstalowany jest system Amibench, który jest zmodyfikowaną wersją AROSa m68k.
+
+##Dla programistów
+
+Hollywood cieszy się niesłabnącą popularnością wśród twórców oprogramowania dla Amigi NG. w 2024 na AROSa wyszedł Hollywood Designer 7.0 - nakładka wspomagająca tworzenie prezentacji, gier i aplikacji. Od wydania poprzedniej wersji minęły dwa lata i przez ten czas autor wprowadził wiele ulepszeń. Program do działania wymaga pakietu Hollywood w wersji 10.0. Zarówno Hollywood jak i Hollywood Designer są oprogramowaniem komercyjnym.
+
+Dzięki serk118 otrzymaliśmy biblioteki GLFW 3.4 i Raylib 5.0. GLFW umożliwia tworzenie aplikacji OpenGL i OpenGL ES. Zapewnia proste, niezależne od platformy API do tworzenia okien, kontekstów i powierzchni, odczytu danych wejściowych, obsługi zdarzeń itp. Z kolei Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo wykorzystująca GLFW. Otwiera to nowe pole do portowania i tworzenia oprogramowania dla AROS.
+
+Deremon przygotował długo wyczekiwaną aktualizację Pythona. W najnowszych dystrybucjach i w AROS Archives mamy już wersję 3.3.7.
+
+Farox przeportował i udostępnił bibliotekę muzyczną DUMB ("Dynamic Universal Music Bibliotheque"), którą wykorzystał przy portowaniu wielu demoscenowych produkcji dla AROSa.
+
+Kompilator GCC został zaktualizowany do wersji 10.5.0. Dzięki ciężkiej pracy thatguywiththekids mamy teraz zaktualizowaną wersję GCC na gałęzi głównej, zarówno dla x86_64, jak i m68k.
+
+
+##Programy i internet
+
+Wydarzeniem 2024 roku na pewno jest wydanie przez Deadwooda przeglądarki Odyssey 2.1. Silnik Webkit został zaktualizowany od sierpnia 2015 r. do lutego 2019 r. W rezultacie Youtube, a także wiele innych nowoczesnych witryn ponownie działa w przeglądarce AROSa. Dodatkowo, przeportowany został media player z przeglądarki Wayfarer 1.21 oraz włączona akceleracja dekodowania oparta o instrukcje SSE. Wydane zostały też wersje 64-bitowe Odyssey Web Browser dla AROS hosted i AxRuntime oferujące znacznie większą wydajność dzięki akceleracji JavaScript za pomocą kompilatora JIT.
+
+Kolejną głośną premierą był Final Writer 7.1. Jest to bez wątpienia najbardziej rozbudowany i najlepszy edytor tekstu w naszym amigowym świecie. Final Writer jest programem komercyjnym, ale wart jest każdego wydanego na niego dolara. Za darmo ze strony autora można pobrać wersję demonstracyjną programu.
+
+Steffen Gutman wypuścił BeeBase w wersji 1.1. Jest to relacyjny, programowalny system baz danych z graficznym interfejsem użytkownika.
+
+jPV wydał RNOEffects 2.0. Jest to program do przetwarzania obrazów z naciskiem na dobre opcje konwersji wsadowej, efekty oparte na kanale alfa i edycję pikseli. Program został napisany w Hollywood i jednocześnie jest świetnym przykładem jak wiele można w nim osiągnąć.
+
+Duet Farox i Deremon przeportowali dla AROSa Fast Tracker 2 - legendarny demoscenowy tracker, którego główną innowacją było wprowadzenie formatu plików XM (Extended Module). Ponadto w tym roku Franck "hitchhikr" Charlet wydał kilka aktualizacji swojego regularnie rozwijanego trackera Protrekkr.
+
+Mijający rok przyniósł nam też AROSowe wersje doskonale znanych z Amigi klasycznej programów World Construction Set oraz Bars & Pipes.
+
+
+##Gry
+
+Nie mogło też zabraknąć gier. Farox przygotował nam port wipEout Rewrite. Kultowe futurystyczne wyścigi z PSX'a zawitały wreszcie na AROSa. Gra jest naprawdę solidna, a dzięki wysokiej rozdzielczości gra się lepiej niż w oryginale. Innym ciekawym portem od Faroxa jest Magical Broom Extreme. Mamy tu do czynienia z grą typu shoot 'em-up. W grze sterujemy czarownicą latającą na miotle. Towarzyszy nam ładna grafika 3D, a na ekranie dzieje się naprawdę wiele.
+
+Kolejny duży tytuł to aktualizacja Doom 3 przeportowanego pierwotnie przez Kalamatee. Gry oczywiście nie trzeba nikomu przedstawiać. W tym roku dzięki Deremonowi silnik dhewm3, na którym opiera się gra, został zaktualizowany do wersji 1.5.3. Ponadto Deremon zaktualizował emulatory ScummVM do wersji 1.9.0-1, ResidualVM do wersji 0.3.1-1 oraz GemRB do wersji 0.8.8-0. Fani przygodówek mają powody do radości, bo dzięki tym aktualizacjom mamy wiele nowych gier, które są możliwe do ogrania na AROSie.
+
+Pojawiło się kilkadziesiąt mniejszych gier, bądź aktualizacji, których nie sposób teraz wszystkich wymienić. Po szczegóły odsyłam do wcześniejszych comiesięcznych podsumowań. Dziękuję autorom takim jak Domenico Lattanzi, Giovanni Iacobelli, Juan Carlos Herran Martin i innym za ich nieustające wsparcie dla AROSa.
+
+Także wydawane w tym roku produkcje na Amigę klasyczną w większości przypadków bez problemu mogliśmy odpalić na AROSie przy pomocy Janus-UAE.
+
+##Podsumowanie
+
+2024 rok był dla użytkowników AROSa bardzo udany. Nadchodzący rok zapowiada się jeszcze lepiej. Osobiście życzyłbym sobie żebyśmy mieli jeszcze więcej deweloperów i liczę, że tak właśnie się stanie. Nadchodząca przesiadka na 64-bitowy natywny system jest dobrą okazją do powrotu.
