@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AROS x86 - Podsumowanie roku 2024
-subtitle: podsumowanie miesiąca
+title: Podsumowanie roku 2024
+subtitle: AROS x86
 lang: pl
 ref: 1224
 ---
