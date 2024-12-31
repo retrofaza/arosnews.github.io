@@ -48,7 +48,7 @@ Dzięki **Serk118** otrzymaliśmy biblioteki **GLFW 3.4** i **Raylib 5.0**. GLFW
 
 **Farox** przeportował i udostępnił bibliotekę muzyczną **DUMB** ("Dynamic Universal Music Bibliotheque"), którą wykorzystał przy portowaniu wielu demoscenowych produkcji dla AROSa.
 
-Kompilator **GCC** został zaktualizowany do wersji **10.5.0**. Dzięki ciężkiej pracy **Thatguywiththekids** mamy teraz zaktualizowaną wersję GCC na gałęzi głównej, zarówno dla x86_64, jak i m68k.
+Kompilator **GCC** został zaktualizowany do wersji **10.5.0**. Dzięki ciężkiej pracy **ThatGuyWithTheKids** mamy teraz zaktualizowaną wersję GCC na gałęzi głównej, zarówno dla x86_64, jak i m68k.
 
 
 ### Programy i internet
