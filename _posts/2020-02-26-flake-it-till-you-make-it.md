@@ -1,12 +1,12 @@
 ---
 layout: post
-title: AROS x86 - listopad 2024
+title: AROS x86 - Podsumowanie roku 2024
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 1124
+ref: 1224
 ---
 
-Koniec roku sprzyja podsumowaniom. A jest co podsumowywać, bo po latach mniejszej aktywności, ten rok wreszcie zaczął obfitować w pozytywne wydarzenia. Postęp był widoczny z miesiąca na miesiąc, co zresztą mieliście okazję śledzić na tym blogu. AROS ruszył mocno do przodu i nie zamierza się zatrzymywać :)
+Koniec roku to czas refleksji i podsumowań. Po latach mniejszej aktywności, możemy śmiało powiedzieć, że ten rok przyniósł nam wiele pozytywnych wydarzeń. Z miesiąca na miesiąc obserwowaliśmy znaczący postęp, który mieliście okazję śledzić na naszym blogu. AROS ruszył naprzód z impetem i nie zamierza zwalniać tempa!
 
 
 ### System
@@ -30,8 +30,7 @@ Drugą dystrybucją jest **Tiny AROS**, której autorem jest **Amiwell79**. Jak 
 
 Obie dystrybucje używają obecnie Wanderera jako domyślnego pulpitu.
 
-**Olaf Schönweiß** wprawdzie nie wydał nowej wersji **AROS Vision** w 2024 roku, ale aktywnie pracował nad kolejnym wydaniem swojej dystrybucji dla architektury **m68k** i wydania możemy się spodziewać na początku 2025 roku.
-
+**Olaf Schönweiß** wprawdzie nie wydał nowej wersji **AROS Vision** w 2024 roku, ale intensywnie pracował nad kolejną wersją swojej dystrybucji dla architektury **m68k**. Możemy oczekiwać, że nowe wydanie ukaże się na początku 2025 roku.
 
 ### Sprzęt
 
@@ -79,4 +78,4 @@ Także wydawane w tym roku produkcje na Amigę klasyczną w większości przypad
 
 ### Podsumowanie
 
-2024 rok był dla użytkowników AROSa bardzo udany. Nadchodzący rok zapowiada się jeszcze lepiej. Osobiście życzyłbym sobie żebyśmy mieli jeszcze więcej deweloperów i liczę, że tak właśnie się stanie. Nadchodząca przesiadka na 64-bitowy natywny system jest dobrą okazją do powrotu.
+Rok 2024 okazał się wyjątkowo pomyślny dla użytkowników AROSa. Z nadzieją patrzymy w przyszłość, ponieważ nadchodzący rok zapowiada się jeszcze lepiej. Osobiście życzyłbym sobie żebyśmy mieli jeszcze więcej aktywnyvh deweloperów i liczę, że tak właśnie się stanie. Przesiadka na 64-bitowy natywny system stanowi świetną okazję do powrotu i dalszego rozwoju.
