@@ -101,6 +101,14 @@ PuzzleTiles
 ![PuzzleTiles](/assets/img/0125/puzzletiles.jpg)
 *PuzzleTiles*
 
+> ## [V.A.M.P.](https://archives.aros-exec.org/?function=showfile&file=video/play/vamp.lha) (v. 3.20)
+> (autor:	Juan Carlos Herrán Martín)
+
+V.A.M.P.
+
+![V.A.M.P.](/assets/img/0125/vamp.png)
+*V.A.M.P.*
+
 > ## [iConecta](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.50)
 > (autor:	Juan Carlos Herrán Martín)
 
