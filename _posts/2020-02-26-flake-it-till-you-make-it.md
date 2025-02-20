@@ -77,6 +77,14 @@ v2.8.0
 ![Protrekkr](/assets/img/0125/protrekkr.png)
 *Protrekkr*
 
+> ## [SQLMan](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6)
+> (autor: Lazar Zoltan)
+
+SQLMan
+
+![SQLMan](/assets/img/0125/sqlman.jpg)
+*SQLMan*
+
 > ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8)
 > (autor: Bernd Assenmacher)
 
