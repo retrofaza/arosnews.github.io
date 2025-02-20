@@ -10,9 +10,46 @@ ref: 0125
 
 Pozostałe nowości w AROS Archives:  
 
-> ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.0)
+> ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2)
 > (autor:	Franck "hitchhikr" Charlet)
 
+v2.8.2
+
+- Patterns wouldn't scroll sometimes when starting to play, fixed.
+- Note volume from channels (volume columns and effects 03) are now handled in the velocity sent to midi output.
+- Changed LCTRL + F1 / F2 (Decrease / Increase editing step) to LCTRL + F2 / F4 due to Mac OS "interfering".
+- Fixed Midi handling on Linux and Mac OS.
+- Fixed the keyboard shortcuts on Mac OS.
+- Typos in the manual: Transpose to 1 octave higher shortcuts are LCTRL + K and LCTRL + LSHIFT + K.
+- Replaced pink noise with triangle waveform in synth.
+- White noise is now twice as loud to be on par with other waveforms loudness.
+- Added a function to hard sync OSC 1 to OSC 2.
+- Inserting or deleting a track didn't modify the other patterns data.
+- Fixed an ugly visual bug that occured when changing colors during playing.
+- Added tracks header foreground color modifier.
+- Sub oscillator can now be scaled from oscillator 1 by semitones.
+- Maths combiner functions are also used for sub oscillator.
+- Fixed various bugs here and there.
+- VU meters are now displayed on a single line and a much less sensitive.
+- Removed support for antediluvian NoiseTrekker 1/2 modules & instruments, they were only supported for salvage and conversion purposes.
+- Saving a pattern without any currently selected block will save the entire pattern into the file.
+- New logo !
+
+v2.8.1
+
+- Nośniki LFO kanałów są teraz prawidłowo resetowane przy starcie odtwarzania.
+- Dane LFO kanałów mogą być teraz wysyłane do odcięcia filtra kanału, głośność i panoramowanie.
+- Dodano skaler częstotliwości LFO kanału.
+- Dodano następujące efekty:
+  - 43: Ustawianie częstotliwości LFO kanału.
+  - 44: Ustawianie współczynnika skali częstotliwości LFO kanału.
+  - 45: Ustawianie ilości LFO kanału do wysłania do odcięcia filtra kanału.
+  - 46: Ustawianie ilości LFO kanału wysyłanej do głośności kanału.
+  - 47: Ustaw ilość LFO kanału, aby wysłać do panoramy kanału.
+- Naprawiono bardzo stary błąd NoiseTrekker, w którym wartości LFO wysyłane do kanałów były tracone, ponieważ były zbyt duże i zaciśnięte.
+- Naprawiono nieprzyjemną regresję, która występowała w 64-bitowych wersjach skompilowanych.  
+
+v2.8.0
 - Dodano funkcję negacji bieżącej palety.
 - Dodano dwie funkcje do obracania bieżącej palety w lewo lub w prawo.
 - Przearanżowano bitchbiker.ptk i dodano go do oficjalnej listy modułów.
