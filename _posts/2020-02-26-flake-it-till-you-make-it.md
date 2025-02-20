@@ -15,25 +15,25 @@ Pozostałe nowości w AROS Archives:
 
 v2.8.2
 
-- Patterns wouldn't scroll sometimes when starting to play, fixed.
-- Note volume from channels (volume columns and effects 03) are now handled in the velocity sent to midi output.
-- Changed LCTRL + F1 / F2 (Decrease / Increase editing step) to LCTRL + F2 / F4 due to Mac OS "interfering".
-- Fixed Midi handling on Linux and Mac OS.
-- Fixed the keyboard shortcuts on Mac OS.
-- Typos in the manual: Transpose to 1 octave higher shortcuts are LCTRL + K and LCTRL + LSHIFT + K.
-- Replaced pink noise with triangle waveform in synth.
-- White noise is now twice as loud to be on par with other waveforms loudness.
-- Added a function to hard sync OSC 1 to OSC 2.
-- Inserting or deleting a track didn't modify the other patterns data.
-- Fixed an ugly visual bug that occured when changing colors during playing.
-- Added tracks header foreground color modifier.
-- Sub oscillator can now be scaled from oscillator 1 by semitones.
-- Maths combiner functions are also used for sub oscillator.
-- Fixed various bugs here and there.
-- VU meters are now displayed on a single line and a much less sensitive.
-- Removed support for antediluvian NoiseTrekker 1/2 modules & instruments, they were only supported for salvage and conversion purposes.
-- Saving a pattern without any currently selected block will save the entire pattern into the file.
-- New logo !
+- Patterny czasami nie przewijały się po rozpoczęciu odtwarzania, naprawiono.
+- Głośność nut z kanałów (kolumny głośności i efekty 03) są teraz obsługiwane w prędkości wysyłanej do wyjścia midi.
+- Zmieniono LCTRL + F1 / F2 (zmniejszanie / zwiększanie kroku edycji) na LCTRL + F2 / F4 ze względu na „zakłócanie” systemu Mac OS.
+- Poprawiono obsługę Midi w systemach Linux i Mac OS.
+- Poprawiono skróty klawiaturowe w systemie Mac OS.
+- Literówki w instrukcji: Skróty transpozycji do 1 oktawy wyżej to LCTRL + K i LCTRL + LSHIFT + K.
+- Zastąpiono różowy szum falą trójkątną w syntezatorze.
+- Biały szum jest teraz dwa razy głośniejszy, aby dorównać głośności innych przebiegów.
+- Dodano funkcję twardej synchronizacji OSC 1 z OSC 2.
+- Wstawianie lub usuwanie ścieżki nie modyfikowało danych innych patternów.
+- Naprawiono brzydki błąd wizualny, który występował podczas zmiany kolorów podczas odtwarzania.
+- Dodano modyfikator koloru pierwszego planu nagłówka ścieżek.
+- Suboscylator może być teraz skalowany od oscylatora 1 o półtony.
+- Funkcje sumatora matematycznego są również używane dla oscylatora podrzędnego.
+- Naprawiono różne błędy tu i ówdzie.
+- Mierniki VU są teraz wyświetlane w jednej linii i są znacznie mniej czułe.
+- Usunięto obsługę przedpotopowych modułów i instrumentów NoiseTrekker 1/2, były one obsługiwane tylko do celów ratunkowych i konwersji.
+- Zapisywanie patternu bez aktualnie wybranego bloku spowoduje zapisanie całego patternu do pliku.
+- Nowe logo!
 
 v2.8.1
 
@@ -55,13 +55,13 @@ v2.8.0
 - Przearanżowano bitchbiker.ptk i dodano go do oficjalnej listy modułów.
 - Zmieniono zachowanie trybu pojedynczego kroku, odtwarzanie zatrzymuje się tylko wtedy, gdy wciśnięty jest klawisz enter (lub return) i odtwarzany jest tylko bieżący pattern (naciśnij lewy Shift, aby przejść do trybu utworu).
 - Dodano funkcję transpozycji zakresu instrumentów.
-- Funkcje modyfikacji wzorców są aktywne tylko wtedy, gdy włączony jest tryb edycji.
+- Funkcje modyfikacji patternów są aktywne tylko wtedy, gdy włączony jest tryb edycji.
 - Funkcje transpozycji śledzą teraz ostatnio używane instrumenty, aby móc transponować odpowiednie nuty używane bez instrumentów.
 - Zatrzymanie trybu krokowego spowoduje, że tryb edycji pozostanie nienaruszony.
 - Próbka „Maksymalizuj” (Max) jest teraz nazywana „Normalizuj” (Norm) w edytorze próbek.
 - Więcej wizualnych informacji zwrotnych dla aktualnie odtwarzanego sampla w edytorze sampli.
 - Dodano opcję pokazywania/usuwania wiodących cyfr zerowych we wzorach.
-- Dodano tryb edycji suwaków wzorców (sprawdź instrukcję, aby uzyskać wyjaśnienia). Uwaga: Tryb ten może być dość obciążający dla procesora.
+- Dodano tryb edycji suwaków patternów (sprawdź instrukcję, aby uzyskać wyjaśnienia). Uwaga: Tryb ten może być dość obciążający dla procesora.
 - Naprawiono różne błędy w edycji patternów.
 - Mierniki VU kanałów były rysowane zbyt wiele razy nad sobą, naprawiono.
 - Poprawiono poziomy audio mierników VU kanałów.
