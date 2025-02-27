@@ -10,7 +10,7 @@ ref: 0125
 
 Pozostałe nowości w AROS Archives:  
 
-> `i386` ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2)
+> ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2) `i386`
 > (autor:	Franck "hitchhikr" Charlet)
 
 v2.8.2
