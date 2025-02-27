@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AROS x86 - styczeń 2025
+title: AROS x86 - styczeń-luty 2025
 subtitle: podsumowanie miesiąca
 lang: pl
 ref: 0125
