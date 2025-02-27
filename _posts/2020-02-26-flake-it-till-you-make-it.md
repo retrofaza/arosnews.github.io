@@ -95,13 +95,31 @@ W nowej kompilacji dla AROS `x86_64` NXEngine został zaktualizowany do wersji 1
 ![Cave Story](/assets/img/0125/cavestory.jpg)
 *Cave Story*
 
-> ## [SQLMan](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6) `i386`
+> ## [SQLite Manager](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6) `i386`
 > (autor: Lazar Zoltan)
 
-SQLMan
+SQLite Manager to aplikacja oparta na silniku bazy danych SQLite. Umożliwia tworzenie, przeglądanie i modyfikowanie baz danych. Obsługa bazy danych może odbywać się za pośrednictwem GUI lub powłoki poleceń SQL, aby zaspokoić wszelkie potrzeby. Dostępne jest wstępne wsparcie dla otwartych plików arkuszy kalkulacyjnych xml, które mogą być konwertowane do baz danych, a nawet do natywnych arkuszy kalkulacyjnych Amigi.
 
-![SQLMan](/assets/img/0125/sqlman.jpg)
-*SQLMan*
+Zmiany w wersji 0.6:  
+
+- zmiana: Moduł importu OS4Depot wymaga wtyczki HURL.hwp do komunikacji SSL HTTP.
+- poprawka: niektóre poprawki OS3.x sprawiły, że działa z MUI3.8, ale nadal występują problemy
+- dodanie: lista modułów jest wyświetlana w oknie informacji
+- zmiana: zaktualizowano wtyczkę SQLite do wersji 1.2 w archiwum
+- dodanie: dodano klasę balansu pomiędzy elementami GUI
+- dodanie: ustawienie tytułu ekranu na nazwę i wersję programu
+- zmiana: Błędy SQL nie zamykają bazy danych
+- poprawka: identyfikatory mui nie mogą obsługiwać niektórych znaków niełacińskich, więc nazwy pól są konwertowane do unikalnych ciągów łacińskich w gui xml
+- poprawka: importer xlsx - usunięto funkcję węgierskiego konwertera UTF8 wymaganą wcześniej przed pbsługą UTF8 w Hollywood
+- poprawka: przycisk ArrowRight panelu zapytań został poprawnie wykonany z klasą imagebutton
+- poprawka: Moduł importu OS4Depot - poprawiono funkcje surowych ciągów znaków względem UTF8
+- poprawka: Moduł importu OS4Depot nie działał, jeśli brakowało podkategorii
+- dodanie: wsparcie dropfile dla otwierania bazy danych z pierwszej ikony
+- dodanie: okno informacji wyświetla wersję silnika sqlite3
+- poprawka: importer dbf konwertuje ciągi do UTF8 w razie potrzeby          
+
+![SQLite Manager](/assets/img/0125/sqlman.jpg)
+*SQLite Manager*
 
 > ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8) `i386`
 > (autor: Bernd Assenmacher)
