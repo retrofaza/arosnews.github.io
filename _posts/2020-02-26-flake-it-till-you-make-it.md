@@ -139,14 +139,6 @@ Zmiany w wersji 2.8:
 ![Image2PDF](/assets/img/0125/image2pdf.jpg)
 *Image2PDF*
 
-> ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6) `x86_64`
-> (autorzy: Daisuke Amaya, Caitlin Shaw)
-
-Cave Story
-
-![Cave Story](/assets/img/0125/cavestory.jpg)
-*Cave Story*
-
 > ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
