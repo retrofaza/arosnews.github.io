@@ -85,7 +85,12 @@ v2.8.0
 > ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6) `x86_64`
 > (autorzy: Daisuke Amaya, Caitlin Shaw)
 
-Cave Story
+Cave Story lub Doukutsu Monogatari to uznane przez krytyków dzieło niezależnego dewelopera Pixel, pierwotnie stworzone jako hołd dla gier takich jak Metroid i Castlevania. Cave Story to platformówka 2D z klasycznym, ratującym świat bohaterem i naciskiem na eksplorację i odkrywanie.
+
+Wersja AROS jest portem NXEngine, kompletnego klona/przepisania Cave Story na licencji GPL open-source. Dołączona jest przetłumaczona na język angielski wersja danych gry, które zostało wykonane przez Aeon Genesis Translations. Jeśli chcesz grać w innym języku
+języku, pobierz inną zlokalizowaną wersję i nadpisz „Doukutsu.exe” i zawartość katalogu „data” przed pierwszym uruchomieniem gry.
+
+W nowej kompilacji dla AROS `x86_64` NXEngine został zaktualizowany do wersji 1.0.0.6.
 
 ![Cave Story](/assets/img/0125/cavestory.jpg)
 *Cave Story*
