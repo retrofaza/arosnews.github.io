@@ -14,7 +14,7 @@ Pozostałe nowości w AROS Archives:
 > ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2) `i386`
 > (autor:	Franck "hitchhikr" Charlet)
 
-Franck "hitchhikr" Charlet nieustaje w ulepszaniu swojego flagowego programu i w ostatnim czasie mieliśmy bardzo dużo aktualizacji. ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru.
+Franck "hitchhikr" Charlet nieustaje w ulepszaniu swojego flagowego programu i w ostatnim czasie mieliśmy bardzo dużo aktualizacji. Ponadto, co mnie szczególnie cieszy, do dyspozycji mamy także wersję 64-bit. ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru.
 
 Zmiany w najnowszych wersjach:
 
@@ -81,6 +81,14 @@ v2.8.0
 
 ![Protrekkr](/assets/img/0125/protrekkr.png)
 *Protrekkr*
+
+> ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6) `x86_64`
+> (autorzy: Daisuke Amaya, Caitlin Shaw)
+
+Cave Story
+
+![Cave Story](/assets/img/0125/cavestory.jpg)
+*Cave Story*
 
 > ## [SQLMan](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6) `i386`
 > (autor: Lazar Zoltan)
