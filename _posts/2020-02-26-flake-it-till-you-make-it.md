@@ -78,7 +78,7 @@ v2.8.0
 ![Protrekkr](/assets/img/0125/protrekkr.png)
 *Protrekkr*
 
-> ## [SQLMan](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6)
+> ## [SQLMan](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6) `i386`
 > (autor: Lazar Zoltan)
 
 SQLMan
@@ -86,7 +86,7 @@ SQLMan
 ![SQLMan](/assets/img/0125/sqlman.jpg)
 *SQLMan*
 
-> ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8)
+> ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8) `i386`
 > (autor: Bernd Assenmacher)
 
 Image2PDF
@@ -94,7 +94,7 @@ Image2PDF
 ![Image2PDF](/assets/img/0125/image2pdf.jpg)
 *Image2PDF*
 
-> ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6)
+> ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6) `x86_64`
 > (autorzy: Daisuke Amaya, Caitlin Shaw)
 
 Cave Story
@@ -102,7 +102,7 @@ Cave Story
 ![Cave Story](/assets/img/0125/cavestory.jpg)
 *Cave Story*
 
-> ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0)
+> ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
 Piramide
@@ -110,7 +110,7 @@ Piramide
 ![Piramide](/assets/img/0125/piramide.jpg)
 *Piramide*
 
-> ## [PuzzleTiles](https://archives.aros-exec.org/?function=showfile&file=game/puzzle/puzzletiles_aros.lha) (v. 1.0)
+> ## [PuzzleTiles](https://archives.aros-exec.org/?function=showfile&file=game/puzzle/puzzletiles_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
 PuzzleTiles
@@ -118,15 +118,15 @@ PuzzleTiles
 ![PuzzleTiles](/assets/img/0125/puzzletiles.jpg)
 *PuzzleTiles*
 
-> ## [V.A.M.P.](https://archives.aros-exec.org/?function=showfile&file=video/play/vamp.lha) (v. 3.20)
+> ## [V.A.M.P.](https://archives.aros-exec.org/?function=showfile&file=video/play/vamp.lha) (v. 3.20) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
 V.A.M.P.
 
-![V.A.M.P.](/assets/img/0125/vamp.png)
+![V.A.M.P.](/assets/img/0125/vamp.png) 
 *V.A.M.P.*
 
-> ## [iConecta](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.50)
+> ## [iConecta](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.50) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
 iConecta  
