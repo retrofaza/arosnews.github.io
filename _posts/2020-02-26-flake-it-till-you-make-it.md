@@ -14,6 +14,10 @@ Pozostałe nowości w AROS Archives:
 > ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2) `i386`
 > (autor:	Franck "hitchhikr" Charlet)
 
+Franck "hitchhikr" Charlet nieustaje w ulepszaniu swojego flagowego programu i w ostatnim czasie mieliśmy bardzo dużo aktualizacji. ProTrekkr to program typu tracker łączący w sobie syntezator programowy wraz z tradycyjnym trackerem sampli, który może (głównie) być używany do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier. Jest to mocno zmodyfikowana wersja starego NoiseTrekker 2, który został stworzony przez Juana Antonio Arguelles Rius aka Arguru.
+
+Zmiany w najnowszych wersjach:
+
 v2.8.2
 
 - Patterny czasami nie przewijały się po rozpoczęciu odtwarzania, naprawiono.
