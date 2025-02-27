@@ -93,6 +93,14 @@ Image2PDF
 ![Image2PDF](/assets/img/0125/image2pdf.jpg)
 *Image2PDF*
 
+> ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0)
+> (autor: Domenico Lattanzi)
+
+Piramide
+
+![Piramide](/assets/img/0125/piramide.jpg)
+*Piramide*
+
 > ## [PuzzleTiles](https://archives.aros-exec.org/?function=showfile&file=game/puzzle/puzzletiles_aros.lha) (v. 1.0)
 > (autor: Domenico Lattanzi)
 
