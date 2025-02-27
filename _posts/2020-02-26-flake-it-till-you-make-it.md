@@ -124,7 +124,17 @@ Zmiany w wersji 0.6:
 > ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8) `i386`
 > (autor: Bernd Assenmacher)
 
-Image2PDF
+Małe narzędzie do konwersji obrazów do formatu PDF. Przede wszystkim służy do konwertowania skanów wykonanych np. za pomocą Scandal lub Scanquix do dokumentów PDF w określonych formatach wyjściowych, takich jak A3, A4, A5, Legal, Letter lub ImageSize, ale może być również używane do konwersji innych plików graficznych.
+
+Zmiany w wersji 2.8:
+
+- Wykonana lokalizacja
+- Dodano język niemiecki
+- Dodano angielskie i niemieckie pliki katalogów do celów tłumaczenia, więc jeśli ktoś chce innego języka, wystarczy przetłumaczyć i utworzyć określony plik katalogu. 
+- Naprawiono błąd, w którym plik przewodnika nie był znajdowany po naciśnięciu „F1” lub wybierając „Help(F1)” w menu.
+- naprawiono podobny błąd, w którym pdftops nie był znajdowany podczas drukowania
+- naprawiono błąd instalatora, w którym ścieżka nie była poprawnie ustawiona w s:user-startup na AmigaOS3/4, MorphOS i Aros
+- wprowadzono inne drobne poprawki
 
 ![Image2PDF](/assets/img/0125/image2pdf.jpg)
 *Image2PDF*
