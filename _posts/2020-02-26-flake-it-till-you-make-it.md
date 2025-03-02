@@ -208,11 +208,11 @@ Coraz więcej starszych aplikacji zostaje przekompilowywanych na x86_64. W ostat
 | `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
 | `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
 | `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [SidDump](https://archives.aros-exec.org/?function=showfile&file=audio/misc/siddump.x86_64-aros-v11.zip) | C64 music debug output utility |
+| `x86_64` | [SFSObject](https://archives.aros-exec.org/?function=showfile&file=utility/misc/sfsobject.x86_64-aros-v11.zip) | Sets SFS object attributes |
+| `x86_64` | [QLView](https://archives.aros-exec.org/?function=showfile&file=graphics/viewer/qlview.x86_64-aros-v11.zip) | Sinclair QL Screen viewer |
+| `x86_64` | [Potrace](https://archives.aros-exec.org/?function=showfile&file=graphics/convert/potrace.x86_64-aros-v11.zip) | Transforming bitmaps into vector graphics |
+| `x86_64` | [GNU-Grep](https://archives.aros-exec.org/?function=showfile&file=utility/misc/grep.x86_64-aros-v11.zip) | GNU Grep |
 | `x86_64` | [TimeIT](https://archives.aros-exec.org/?function=showfile&file=utility/shell/timeit.x86_64-aros-v11.zip) | Shell command for timing other commands |
 | `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
 | `x86_64` | [Skandalfoclock](https://archives.aros-exec.org/?function=showfile&file=utility/workbench/skandalfoclock.x86_64-aros-v11.zip) | 	Advanced Analog Clock |
