@@ -203,10 +203,28 @@ Mały i prosty program do testowania połączenia internetowego. W tej wersji do
 Coraz więcej starszych aplikacji zostaje przekompilowywanych na x86_64. W ostatnim czasie do AROS Archives trafiły:
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
-| `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) | Bitmap Paint With Additional Effect |
-| `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) | Bitmap Paint With Additional Effect |
-| `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) | Bitmap Paint With Additional Effect |
-| `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) | Bitmap Paint With Additional Effect |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [TimeIT](https://archives.aros-exec.org/?function=showfile&file=utility/shell/timeit.x86_64-aros-v11.zip) | Shell command for timing other commands |
+| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [Skandalfoclock](https://archives.aros-exec.org/?function=showfile&file=utility/workbench/skandalfoclock.x86_64-aros-v11.zip) | 	Advanced Analog Clock |
+| `x86_64` | [Rescode](https://archives.aros-exec.org/?function=showfile&file=utility/misc/rescode.x86_64-aros-v11.zip) | Calculates resistor values (4 and 5 band) |
+| `x86_64` | [Nomarch](https://archives.aros-exec.org/?function=showfile&file=utility/archive/nomarch.x86_64-aros-v11.zip) | Extract old .arc and .ark archives |
+| `x86_64` | [JoyTest](https://archives.aros-exec.org/?function=showfile&file=utility/misc/joytest.x86_64-aros-v11.zip) | Joypad test prints lowlevel data to the shell |
+| `x86_64` | [DiskUsage](https://archives.aros-exec.org/?function=showfile&file=utility/shell/diskusage.x86_64-aros-v11.zip) | Estimates file space usage |
+| `x86_64` | [DirTree](https://archives.aros-exec.org/?function=showfile&file=utility/misc/dirtree.x86_64-aros-v11.zip) | Shell command displaying directory trees |
+| `x86_64` | [Bin2Iso](https://archives.aros-exec.org/?function=showfile&file=utility/filetool/bin2iso.x86_64-aros-v11.zip) | Convert Bin File to ISO 9660 |
+| `x86_64` | [Alac](https://archives.aros-exec.org/?function=showfile&file=audio/misc/alac.x86_64-aros-v11.zip) | Apple Lossless Audio Codec decoder |
+| `x86_64` | [Dclock](https://archives.aros-exec.org/?function=showfile&file=utility/workbench/dclock.x86_64-aros-v11.lha) | Utilities Clock for Wanderer |
+| `x86_64` | [WgetGui](https://archives.aros-exec.org/?function=showfile&file=network/misc/wgetgui.x86_64-aros-v11.zip) | Gui for Wget |
 | `x86_64` | [ZuneCalc](https://archives.aros-exec.org/?function=showfile&file=office/misc/zunecalc.x86_64-aros-v11.zip) | Simple Calculator |
 | `x86_64` | [ZuneView](https://archives.aros-exec.org/?function=showfile&file=graphics/viewer/zuneview.x86_64-aros-v11.tar) | Picture Viewer With Effect |
 | `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=graphics/edit/zunepaint.x86_64-aros-v11.tar) | Bitmap Paint With Additional Effect |
