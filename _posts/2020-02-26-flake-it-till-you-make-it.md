@@ -6,6 +6,10 @@ lang: pl
 ref: 0125
 ---
 
+Początek roku w świecie AROSa to przygotowania do zapowiadanego przejścia na 64-bit. Równolegle odbywa się praca nad wersją bazową systemu, portowane jest oprogramowanie i przygotowywane są dystrybucje. Autorzy AROS One i Tiny AROS zapowiedzieli wydanie swoich dystrybucji po pojawieniu się stabilnego systemu 64-bit.
+
+Deadwood cały czas pracuje nad nowym buildem x86_64 ABIv11. Wersje testowe są do pobrania na [forum ArosWorld](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1337). Zachęcamy do pobierania, testowania i zgłaszania napotkanych błędów. Najbliższym celem jest wydanie builda, który będzie działał na popularnych maszynach wirtualnych oraz na wybranym dedykowanym sprzęcie. 
+
 W ostatnim czasie odświeżona została strona [www.aros.org](http://www.aros.org). "ThatGuyWithTheKids" przeniósł skrypty budujące stronę do Pythona 3, a Matthias "Mazze" Rustler wprowadził drobne poprawki i zaktualizował wiele informacji. Więcej na ten temat można poczytać we [wpisie na blogu Mazze](https://www.mazze-online.de/blogdir/2025/02/26/aros-website.html).
 
 Pozostałe nowości w AROS Archives:  
