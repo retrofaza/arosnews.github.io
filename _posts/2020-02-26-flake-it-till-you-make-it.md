@@ -85,10 +85,9 @@ v2.8.0
 > ## [Cave Story](https://archives.aros-exec.org/?function=showfile&file=game/platform/cavestory.x86_64-aros-v11.zip) (v. 1.0.0.6) `x86_64`
 > (autorzy: Daisuke Amaya, Caitlin Shaw)
 
-Cave Story lub Doukutsu Monogatari to uznane przez krytyków dzieło niezależnego dewelopera Pixel, pierwotnie stworzone jako hołd dla gier takich jak Metroid i Castlevania. Cave Story to platformówka 2D z klasycznym, ratującym świat bohaterem i naciskiem na eksplorację i odkrywanie.
+Cave Story lub Doukutsu Monogatari to uznane przez krytyków dzieło niezależnego dewelopera Pixel, pierwotnie stworzone jako hołd dla gier takich jak Metroid i Castlevania. Cave Story to platformówka 2D z klasycznym, ratującym świat bohaterem i naciskiem na eksplorację oraz odkrywanie.
 
-Wersja AROS jest portem NXEngine, kompletnego klona/przepisania Cave Story na licencji GPL open-source. Dołączona jest przetłumaczona na język angielski wersja danych gry, które zostało wykonane przez Aeon Genesis Translations. Jeśli chcesz grać w innym języku
-języku, pobierz inną zlokalizowaną wersję i nadpisz „Doukutsu.exe” i zawartość katalogu „data” przed pierwszym uruchomieniem gry.
+Wersja AROS jest portem NXEngine, kompletnego klona/przepisania Cave Story na licencji GPL open-source. Dołączona jest przetłumaczona na język angielski wersja danych gry, które zostało wykonane przez Aeon Genesis Translations. Jeśli chcesz grać w innym języku, pobierz inną zlokalizowaną wersję i nadpisz „Doukutsu.exe” i zawartość katalogu „data” przed pierwszym uruchomieniem gry.
 
 W nowej kompilacji dla AROS `x86_64` NXEngine został zaktualizowany do wersji 1.0.0.6.
 
@@ -150,7 +149,16 @@ Piramide to pasjans rozgrywany za pomocą kart francuskich. Nazwa gry jest włos
 > ## [PuzzleTiles](https://archives.aros-exec.org/?function=showfile&file=game/puzzle/puzzletiles_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
-PuzzleTiles
+W PuzzleTiles wybrany przez użytkownika obraz jest rozkładany na części, a następnie zadaniem gracza jest go ponownie złożyć w całość. "Puzzle" układamy za pomocą myszki, zamieniając miejscami dwa wskazane fragmenty.
+
+Funkcje:
+
+- Można użyć dowolnego obrazu w formacie rozpoznawanym przez system
+- Możliwość dostosowania rozmiaru okna
+- 5 poziomów trudności
+- Dostępny jest pasek postępu informujący o osiągniętym punkcie przebudowy obrazu
+- Możliwość podglądu ukończonego obrazu przez 5 sekund w celu uzyskania podpowiedzi
+- Efekty dźwiękowe, które również pomagają użytkownikowi w odbudowie obrazu  
 
 ![PuzzleTiles](/assets/img/0125/puzzletiles.jpg)
 *PuzzleTiles*
@@ -169,7 +177,7 @@ V.A.M.P - Virtual Amiga Multimedia Player - wyświetla obecnie następujące for
 
 Dostępny w następujących językach: hiszpański, angielski, włoski, francuski, fiński, szwedzki, polski, grecki.
 
-Ulepszenia w tej wersji:
+Zmiany w tej wersji:
 
 - Drobne ulepszenia i nowe logo.
 - Naprawiono niektóre problemy ze specjalnymi rozmiarami wideo do odtwarzania filmów pobranych z: Facebook Reels, Tik Tok, CapCut, Instagram Reels, Kwai i Whatsapp.
@@ -182,7 +190,10 @@ UWAGA: Zalecane rozmiary wideo to 360xNN pikseli, rozmiary większe niż szeroko
 > ## [iConecta](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) (v. 5.50) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
-iConecta  
+Mały i prosty program do testowania połączenia internetowego. W tej wersji dodano:
+- Nową grafikę intra
+- Nowe motywy: Haker, Pirat i Kosmos
+- Grafikę HD
 
 ![iConecta](/assets/img/0125/iconecta.png)
 *iConecta*
