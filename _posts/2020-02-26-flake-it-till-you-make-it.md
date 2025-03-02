@@ -160,19 +160,20 @@ PuzzleTiles
 
 V.A.M.P - Virtual Amiga Multimedia Player - wyświetla obecnie następujące formaty multimedialne:
 
-    Amiga Anim formaty: anim, anim5, ham6, ham8, yafa.
-    Format filmów MovieSetter.
-    Formaty animacji internetowych: gif, apng.
-    Wyświetlanie obrazów: jpg, png, gif, lbm, bmp, svg, jp2(jpeg 2000), tiff, pcx, webp (z Datatypes).
-    Formaty wideo: cdxl, ogg, avi, mpeg, mpg, wmv, flv, mp4, mov, 3gp, m4v.
-    Pliki muzyczne i dźwiękowe: mp3, mod, med, 8svx, 16sv, iff, aiff, wav, ac3, wave, riff, ogg, flac, m4a, wma, dbm, hvl, aiff, s3m, xm, sid.
+- Amiga Anim formaty: anim, anim5, ham6, ham8, yafa.
+- Format filmów MovieSetter.
+- Formaty animacji internetowych: gif, apng.
+- Wyświetlanie obrazów: jpg, png, gif, lbm, bmp, svg, jp2(jpeg 2000), tiff, pcx, webp (z Datatypes).
+- Formaty wideo: cdxl, ogg, avi, mpeg, mpg, wmv, flv, mp4, mov, 3gp, m4v.
+- Pliki muzyczne i dźwiękowe: mp3, mod, med, 8svx, 16sv, iff, aiff, wav, ac3, wave, riff, ogg, flac, m4a, wma, dbm, hvl, aiff, s3m, xm, sid.
 
-Dostępne w następujących językach: Hiszpański. Angielski. Włoski. Francuski. Fiński. Szwedzki. Polski. Grecki.
+Dostępny w następujących językach: hiszpański, angielski, włoski, francuski, fiński, szwedzki, polski, grecki.
 
 Ulepszenia w tej wersji:
 
 - Drobne ulepszenia i nowe logo.
 - Naprawiono niektóre problemy ze specjalnymi rozmiarami wideo do odtwarzania filmów pobranych z: Facebook Reels, Tik Tok, CapCut, Instagram Reels, Kwai i Whatsapp.
+
 UWAGA: Zalecane rozmiary wideo to 360xNN pikseli, rozmiary większe niż szerokość 360 będą odtwarzane wolno w zależności od szybkości procesora.
 
 ![V.A.M.P.](/assets/img/0125/vamp.png) 
