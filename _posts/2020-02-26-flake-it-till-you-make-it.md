@@ -12,7 +12,7 @@ Deadwood cały czas pracuje nad nowym buildem x86_64 ABIv11. Wersje testowe są 
 
 W ostatnim czasie odświeżona została strona [www.aros.org](http://www.aros.org). "ThatGuyWithTheKids" przeniósł skrypty budujące stronę do Pythona 3, a Matthias "Mazze" Rustler wprowadził drobne poprawki i zaktualizował wiele informacji. Więcej na ten temat można poczytać we [wpisie na blogu Mazze](https://www.mazze-online.de/blogdir/2025/02/26/aros-website.html).
 
-Pozostałe nowości w AROS Archives:  
+Ostatnie nowości w AROS Archives:  
 
 > ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.x86_64-aros-v11.zip) (v. 2.8.2) `x86_64`
 > ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2) `i386`
