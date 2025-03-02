@@ -200,3 +200,7 @@ Mały i prosty program do testowania połączenia internetowego. W tej wersji do
 ![iConecta](/assets/img/0125/iconecta.png)
 *iConecta*
 
+Coraz więcej starszych aplikacji zostaje przekompilowywanych na x86_64. W ostatnim czasie do AROS Archives trafiły:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+| `x86_64` | [ZunePaint](https://archives.aros-exec.org/?function=showfile&file=network/misc/iconecta.lha) | Bitmap Paint With Additional Effect |
