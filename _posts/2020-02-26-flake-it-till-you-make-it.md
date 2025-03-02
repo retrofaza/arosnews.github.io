@@ -142,7 +142,7 @@ Zmiany w wersji 2.8:
 > ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
-Piramide
+Piramide to pasjans rozgrywany za pomocą kart francuskich. Nazwa gry jest włoskim tłumaczeniem słowa „piramida” i wzięła się z tego, że podczas gry karty są układane w kształcie trójkąta. Celem gracza jest usunięcie wszystkich kart, które tworzą piramidę.
 
 ![Piramide](/assets/img/0125/piramide.jpg)
 *Piramide*
