@@ -6,7 +6,7 @@ lang: pl
 ref: 0125
 ---
 
-
+W ostatnim czasie odświeżona została strona [www.aros.org](http://www.aros.org). "ThatGuyWithTheKids" przeniósł skrypty budujące stronę do Pythona 3, a Matthias "Mazze" Rustler wprowadził drobne poprawki i zaktualizował wiele informacji. Więcej na ten temat można poczytać we [wpisie na blogu Mazze](https://www.mazze-online.de/blogdir/2025/02/26/aros-website.html).
 
 Pozostałe nowości w AROS Archives:  
 
