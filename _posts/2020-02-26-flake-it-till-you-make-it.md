@@ -91,7 +91,7 @@ Wersja AROS jest portem NXEngine, kompletnego klona/przepisania Cave Story na li
 
 W nowej kompilacji dla AROS `x86_64` NXEngine został zaktualizowany do wersji 1.0.0.6.
 
-![Cave Story](/assets/img/0125/cavestory.jpg)
+![Cave Story](/assets/img/0125/cavestory.png)
 *Cave Story*
 
 > ## [SQLite Manager](https://archives.aros-exec.org/?function=showfile&file=office/database/sqlman.i386-aros.lha) (v. 0.6) `i386`
@@ -117,7 +117,7 @@ Zmiany w wersji 0.6:
 - dodanie: okno informacji wyświetla wersję silnika sqlite3
 - poprawka: importer dbf konwertuje ciągi do UTF8 w razie potrzeby          
 
-![SQLite Manager](/assets/img/0125/sqlman.jpg)
+![SQLite Manager](/assets/img/0125/sqlman.png)
 *SQLite Manager*
 
 > ## [Image2PDF](https://archives.aros-exec.org/?function=showfile&file=office/dtp/image2pdf.i386-aros.lha) (v. 2.8) `i386`
@@ -135,15 +135,17 @@ Zmiany w wersji 2.8:
 - naprawiono błąd instalatora, w którym ścieżka nie była poprawnie ustawiona w s:user-startup na AmigaOS3/4, MorphOS i Aros
 - wprowadzono inne drobne poprawki
 
-![Image2PDF](/assets/img/0125/image2pdf.jpg)
+![Image2PDF](/assets/img/0125/image2pdf.png)
 *Image2PDF*
 
 > ## [Piramide](https://archives.aros-exec.org/?function=showfile&file=game/card/piramide_aros.lha) (v. 1.0) `i386`
 > (autor: Domenico Lattanzi)
 
-Piramide to pasjans rozgrywany za pomocą kart francuskich. Nazwa gry jest włoskim tłumaczeniem słowa „piramida” i wzięła się z tego, że podczas gry karty są układane w kształcie trójkąta. Celem gracza jest usunięcie wszystkich kart, które tworzą piramidę.
+Piramide to pasjans rozgrywany za pomocą kart francuskich. Nazwa gry jest włoskim tłumaczeniem słowa „piramida” i wzięła się z tego, że podczas gry karty są układane w kształcie trójkąta. Celem gracza jest usunięcie wszystkich kart, które tworzą piramidę.  
 
-![Piramide](/assets/img/0125/piramide.jpg)
+Uwaga! Trzeba pobrać zestaw kart (jest wiele różnych do wyboru) z zewnętrznej strony. Szczegóły w załączonym do archiwum pliku Guide.
+
+![Piramide](/assets/img/0125/piramide.png)
 *Piramide*
 
 > ## [PuzzleTiles](https://archives.aros-exec.org/?function=showfile&file=game/puzzle/puzzletiles_aros.lha) (v. 1.0) `i386`
@@ -160,7 +162,7 @@ Funkcje:
 - Możliwość podglądu ukończonego obrazu przez 5 sekund w celu uzyskania podpowiedzi
 - Efekty dźwiękowe, które również pomagają użytkownikowi w odbudowie obrazu  
 
-![PuzzleTiles](/assets/img/0125/puzzletiles.jpg)
+![PuzzleTiles](/assets/img/0125/puzzletiles.png)
 *PuzzleTiles*
 
 > ## [V.A.M.P.](https://archives.aros-exec.org/?function=showfile&file=video/play/vamp.lha) (v. 3.20) `i386`
