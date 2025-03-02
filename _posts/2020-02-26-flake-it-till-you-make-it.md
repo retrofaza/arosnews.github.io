@@ -203,11 +203,21 @@ Mały i prosty program do testowania połączenia internetowego. W tej wersji do
 Coraz więcej starszych aplikacji zostaje przekompilowywanych na x86_64. W ostatnim czasie do AROS Archives trafiły:
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
-| `x86_64` | [TinySID](https://archives.aros-exec.org/?function=showfile&file=audio/play/tinysid.x86_64-aros-v11.zip) | A small, multiplatform SID player |
+| `x86_64` | [ZapperNG](https://archives.aros-exec.org/?function=showfile&file=utility/workbench/zapperng.x86_64-aros-v11.zip) | Change the behaviour of the zoom-button |
+| `x86_64` | [Switch](https://archives.aros-exec.org/?function=showfile&file=utility/workbench/switch.x86_64-aros-v11.zip) | Screens/windows switcher commodity |
+| `x86_64` | [Amigakeyremap](https://archives.aros-exec.org/?function=showfile&file=utility/misc/amigakeyremaper.x86_64-aros-v11.zip.zip) | Simple program that swaps left/right amiga keys |
+| `x86_64` | [WildMIDI](https://archives.aros-exec.org/?function=showfile&file=audio/play/wildmidi.x86_64-aros-v11.zip) | Midi Player |
+| `x86_64` | [CLS](https://archives.aros-exec.org/?function=showfile&file=utility/shell/cls.x86_64-aros-v11.zip) | Clear Screen command |
+| `x86_64` | [Demac](https://archives.aros-exec.org/?function=showfile&file=audio/misc/demac.x86_64-aros-v11.zip) | Decoder for .ape files |
+| `x86_64` | [7zDec](https://archives.aros-exec.org/?function=showfile&file=utility/archive/7zdec.x86_64-aros-v11.zip) | Unarchive 7zip files (.7z) |
+| `x86_64` | [Zunearc](https://archives.aros-exec.org/?function=showfile&file=utility/archive/zunearc.x86_64-aros-v11.zip) | A Zune front end for archivers |
+| `x86_64` | [UnRAR](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unrar-v6.11.x86_64-aros-v11.zip) | UnRAR for AROS 64 v11 |
+| `x86_64` | [Demoeffects](https://archives.aros-exec.org/?function=showfile&file=demo/misc/demoeffects.x86_64-aros-v11.zip) | Many Demo Effects |
+| `x86_64` | [Sdllopan](https://archives.aros-exec.org/?function=showfile&file=game/board/sdllopan.x86_64-aros-v11.zip) | MahJong clone |
+| `x86_64` | [Bad Apple](https://archives.aros-exec.org/?function=showfile&file=demo/misc/badapple.x86_64-aros-v11.zip) | The famous Bad Apple animation |
+| `x86_64` | [UnTarka](https://archives.aros-exec.org/?function=showfile&file=utility/archive/untarka.x86_64-aros-v11.zip) | Unpack tar file |
+| `x86_64` | [UnMount](https://archives.aros-exec.org/?function=showfile&file=utility/text/misc/unmount.x86_64-aros-v11.zip) | Device unmounting tool |
+| `x86_64` | [UNLZX](https://archives.aros-exec.org/?function=showfile&file=utility/archive/unlzx.x86_64-aros-v11.zip) | Unpack lzx files |
 | `x86_64` | [SidDump](https://archives.aros-exec.org/?function=showfile&file=audio/misc/siddump.x86_64-aros-v11.zip) | C64 music debug output utility |
 | `x86_64` | [SFSObject](https://archives.aros-exec.org/?function=showfile&file=utility/misc/sfsobject.x86_64-aros-v11.zip) | Sets SFS object attributes |
 | `x86_64` | [QLView](https://archives.aros-exec.org/?function=showfile&file=graphics/viewer/qlview.x86_64-aros-v11.zip) | Sinclair QL Screen viewer |
