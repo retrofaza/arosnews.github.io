@@ -14,7 +14,7 @@ W ostatnim czasie odświeżona została strona [www.aros.org](http://www.aros.or
 
 Ostatnie nowości w AROS Archives:  
 
-> ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.x86_64-aros-v11.zip) (v. 2.8.2) `x86_64`
+> ## [Protrekkr]({{ network[1] }}/?function=showfile&file=audio/tracker/protrekkr.x86_64-aros-v11.zip) (v. 2.8.2) `x86_64`
 > ## [Protrekkr](https://archives.aros-exec.org/?function=showfile&file=audio/tracker/protrekkr.i386-aros.zip) (v. 2.8.2) `i386`
 > (autor:	Franck "hitchhikr" Charlet)
 
