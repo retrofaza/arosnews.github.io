@@ -79,7 +79,7 @@ Nowa wersja zachowuje podstawowe mechaniki oryginału, jednocześnie wprowadzaj�
 
 "Hydra Castle Labyrinth" to darmowa gra z gatunku metroidvania, stworzona przez japońskiego twórcę E. Hashimoto, znanego również jako Buster, i wydana w 2011 roku. Gracz wciela się w rycerza eksplorującego rozległy, labiryntowy zamek w poszukiwaniu skarbów i potężnych artefaktów, walcząc z różnorodnymi przeciwnikami i bossami.
 
-Gra oferuje rozległy świat pełen ukrytych przedmiotów i sekretów, zachęcając do dokładnego badania każdego zakątka zamku.​Zbieranie przedmiotów: Podczas przygody gracz zdobywa różnorodne przedmioty, takie jak broń, tarcze czy klucze, które umożliwiają dostęp do nowych obszarów i ułatwiają walkę z przeciwnikami.​ W zamku znajduje się osiem lochów, z których każdy kończy się starciem z unikatowym bossem. Pokonanie ich jest kluczowe dla postępu w grze.
+Gra oferuje rozległy świat pełen ukrytych przedmiotów i sekretów, zachęcając do dokładnego badania każdego zakątka zamku.​ Podczas przygody gracz zdobywa różnorodne przedmioty, takie jak broń, tarcze czy klucze, które umożliwiają dostęp do nowych obszarów i ułatwiają walkę z przeciwnikami.​ W zamku znajduje się osiem lochów, z których każdy kończy się starciem z unikatowym bossem. Pokonanie ich jest kluczowe dla postępu w grze.
 
 ![Hydra Castle Labyrinth](/assets/img/0325/hydracastlelabyrinth-2.png)
 *Hydra Castle Labyrinth*
