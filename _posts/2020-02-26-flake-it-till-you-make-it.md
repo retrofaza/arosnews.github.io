@@ -37,7 +37,7 @@ Tinytris to minimalistyczna wersja klasycznej gry Tetris. Charakteryzuje się pr
 > ## [OpenJazz](https://archives.arosworld.org/?function=showfile&file=game/platform/openjazz.x86_64-aros-v11.zip) (v. 20240919) `x86_64`
 > (autor: AlisterT)
 
-OpenJazz
+OpenJazz to open-source’owy silnik umożliwiający uruchamianie gry Jazz Jackrabbit, klasycznej platformówki z 1994 roku stworzonej przez Epic MegaGames. Nie zawiera oryginalnych plików gry – użytkownik musi posiadać oryginalne dane z Jazz Jackrabbit, aby uruchomić OpenJazz. Można je zdobyć legalnie, korzystając z platformy GOG lub innych legalnych źródeł.
 
 ![OpenJazz](/assets/img/0325/openjazz-2.png)
 *OpenJazz*
@@ -45,7 +45,9 @@ OpenJazz
 > ## [Biniax 2](https://archives.arosworld.org/?function=showfile&file=game/puzzle/biniax2.x86_64-aros-v11.zip) (v. 1.3) `x86_64`
 > (autor: Jordan Tuzsuzov)
 
-OpenJazz to open-source’owy silnik umożliwiający uruchamianie gry Jazz Jackrabbit, klasycznej platformówki z 1994 roku stworzonej przez Epic MegaGames. Nie zawiera oryginalnych plików gry – użytkownik musi posiadać oryginalne dane z Jazz Jackrabbit, aby uruchomić OpenJazz. 
+Biniax 2 to gra logiczna stworzona przez Jordana Tuzsuzova, będąca kontynuacją gry Biniax. Gra została wydana w 2007 roku i zdobyła uznanie za swoją unikalną rozgrywkę oraz dostępność na wielu platformach.​
+
+Gracz steruje elementem o określonym kolorze, poruszając się po planszy wypełnionej parami kolorowych elementów. Celem jest dopasowanie i usunięcie par tych samych kolorów, co przynosi punkty. Gra kończy się, gdy nie ma już dostępnych ruchów. 
 
 ![Biniax 2](/assets/img/0325/Biniax2-2.png)
 *Biniax 2*
