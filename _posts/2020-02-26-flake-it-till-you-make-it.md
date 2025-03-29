@@ -18,9 +18,9 @@ Nowa wersja 32-bitowego systemu bazowego AROS (ABIv0 20250313) jest już dostęp
 
 Pakiety są dostępne do pobrania na [GitHubie](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20250313-1). Udostępniono także [aktualizację](https://github.com/deadwood2/AROS/releases/download/ABIv0_20220318-1/AROS-20220318-1-U3-any-i386-update.zip) dla osób, które mają już zainstalowaną poprzednią wersję systemu AROS (20220318-1). Dodatkowo dostępna jest [lista rekomendowanego sprzętu](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware_(32-bit)) na WikiBooks, która może pomóc przy doborze odpowiedniego urządzenia.
 
-Na bazie nowego systemu możemy się wkrótce spodziewać kolejnego wydania 32-bitowej dystrybycji AROS One. Niezależnie od tego wiąż trwają prace nad jej pierwszą 64-bitową odsłoną. 
+Na bazie nowego systemu możemy się wkrótce spodziewać kolejnego wydania 32-bitowej dystrybycji AROS One. Niezależnie od tego wciąż trwają prace nad jej pierwszą 64-bitową odsłoną. 
 
-
+Zmienił się adres strony AROS Archives. Domena archives.aros-exec.org, która przez lata kierowała do AROSowego repozytorium wygasła. Nowy adres to: [https://archives.arosworld.org](https://archives.arosworld.org).
 
 W marcu AROS Archives został w przeważającej większości zasypany portami gier dla przyszłych 64-bitowych dystrybucji. Większość tych produkcji była już dostępna na 32-bitowej wersji systemu, ale w niektórych wypadkach porty dla 64-bit dostaliśmy w nowszych wersjach.   
 
