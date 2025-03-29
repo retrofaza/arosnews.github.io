@@ -24,7 +24,7 @@ Tymczasem Olaf Schönweiß jest na ostatniej prostej w pracach nad dystrybucją 
 
 Zmienił się adres strony AROS Archives. Domena archives.aros-exec.org, która przez lata kierowała do AROSowego repozytorium wygasła. Nowy adres to: [https://archives.arosworld.org](https://archives.arosworld.org).
 
-W marcu AROS Archives został w przeważającej większości zasypany portami gier dla przyszłych 64-bitowych dystrybucji. Większość tych produkcji była już dostępna na 32-bitowej wersji systemu, ale w niektórych wypadkach porty dla 64-bit dostaliśmy w nowszych wersjach.   
+W marcu AROS Archives został w dużej mierze zdominowany przez porty gier przeznaczone dla przyszłych 64-bitowych dystrybucji. Większość z nich była już wcześniej dostępna na 32-bitowej wersji systemu, jednak w niektórych przypadkach nowe porty pojawiły się w nowszych wersjach.
 
 > ## [Hocoslamfy](https://archives.arosworld.org/?function=showfile&file=game/misc/hocoslamfy.x86_64-aros-v11.zip) (v. 2016) `x86_64`
 > (autorzy:	Nebuleon Fumika, hi-ban, jxv)
