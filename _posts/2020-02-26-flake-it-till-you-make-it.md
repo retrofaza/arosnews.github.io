@@ -6,9 +6,17 @@ lang: pl
 ref: 0325
 ---
 
+Nowa wersja 32-bitowego systemu bazowego AROS (ABIv0 20250313) jest już dostępna do pobrania. W tej wersji zawarto wszystkie zmiany z ostatnich trzech lat rozwoju systemu, a także wprowadzono wiele ulepszeń. Główne zmiany obejmują:
 
+- Ulepszone wsparcie dla nowszego sprzętu, w tym obsługa ACPI.
+- Ulepszona stabilność i wsparcie dla sterowników dysków i sieci.
+- Ponad 60 poprawek błędów w programach i bibliotekach systemowych.
+- Stabilizacja sterowników dla wirtualizacji (VirtualBox, VMware i QEMU), co umożliwia testowanie systemu w środowiskach wirtualnych przed zakupem odpowiedniego sprzętu.
+- Aktualizacje podstawowych bibliotek systemowych.
 
-Ostatnie nowości w AROS Archives:  
+Pakiety są dostępne do pobrania na [GitHubie](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20250313-1). Udostępniono także [aktualizację](https://github.com/deadwood2/AROS/releases/download/ABIv0_20220318-1/AROS-20220318-1-U3-any-i386-update.zip) dla osób, które mają już zainstalowaną poprzednią wersję systemu AROS (20220318-1). Dodatkowo dostępna jest [lista rekomendowanego sprzętu](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware_(32-bit)) na WikiBooks, która może pomóc przy doborze odpowiedniego urządzenia.
+
+W marcu AROS Archives został w przeważającej większości zasypany portami gier dla przyszłych 64-bitowych dystrybucji. Większość tych produkcji była już dostępna na 32-bitowej wersji systemu, ale w niektórych wypadkach porty dla 64-bit dostaliśmy w nowszych wersjach.   
 
 > ## [Hocoslamfy](https://archives.arosworld.org/?function=showfile&file=game/misc/hocoslamfy.x86_64-aros-v11.zip) (v. 2016) `x86_64`
 > (autorzy:	Nebuleon Fumika, hi-ban, jxv)
@@ -130,4 +138,9 @@ Flashback opowiada historię Conrada B. Harta, który budzi się na obcej planec
 
 ![REminiscence](/assets/img/0325/REminiscence-2.png)
 *REminiscence*
+
+> ## [filesysbox.library](https://archives.arosworld.org/?function=showfile&file=library/misc/filesysbox.i386-aros.lha) (v. 54.5) `i386`
+> (autorzy:	Leif Salomonsson, Fredrik Wikstrom)
+
+Filesysbox.library to warstwa systemu plików zgodna z FUSE. Pierwotnie opracowana przez przez Leifa Salomonssona. Zarządza blokadami, powiadomieniami, uchwytami plików, pakietami, limitami czasu aktualizacji i nie tylko, uwalniając system plików od tych zadań. Wersja 0.730 biblioteki została wydana jako open source i została wykorzystana jako podstawa dla tej wersji.  
 
