@@ -6,7 +6,7 @@ lang: pl
 ref: 0325
 ---
 
-Wydarzeniem marca jest wydanie przez Deadwood'a nowej 32-bitowej wersji bazowej systemu (AROS ABIv0 20250313). Aktualizacja ta doprowadza 32-bitowe jądro do tego samego poziomu, co nadchodzące wydanie 64-bitowe, nad którym nieustannie trwają prace. Ponadto wersja m68k również otrzymuje poprawki. W świecie AROS-a wciąż wiele się dzieje, a osoby zainteresowane użytkowaniem systemu Amigi w tym wydaniu nie mogą narzekać na nudę!
+Wydarzeniem marca jest wydanie przez Deadwood'a nowej 32-bitowej wersji bazowej systemu (AROS ABIv0 20250313). Aktualizacja ta doprowadza 32-bitowe jądro do tego samego poziomu, co nadchodzące wydanie 64-bitowe, nad którym nieustannie trwają prace. Ponadto wersja 68k również otrzymuje poprawki. W świecie AROS-a wciąż wiele się dzieje, a osoby zainteresowane użytkowaniem systemu Amigi w tym wydaniu nie mogą narzekać na nudę!
 
 Nowa wersja 32-bitowego systemu bazowego AROS (ABIv0 20250313) jest już dostępna do pobrania. W tej wersji zawarto wszystkie zmiany z ostatnich trzech lat rozwoju systemu, a także wprowadzono wiele ulepszeń. Główne zmiany obejmują:
 
@@ -18,9 +18,9 @@ Nowa wersja 32-bitowego systemu bazowego AROS (ABIv0 20250313) jest już dostęp
 
 Pakiety są dostępne do pobrania na [GitHubie](https://github.com/deadwood2/AROS/releases/tag/ABIv0_20250313-1). Udostępniono także [aktualizację](https://github.com/deadwood2/AROS/releases/download/ABIv0_20220318-1/AROS-20220318-1-U3-any-i386-update.zip) dla osób, które mają już zainstalowaną poprzednią wersję systemu AROS (20220318-1). Dodatkowo dostępna jest [lista rekomendowanego sprzętu](https://en.wikibooks.org/wiki/Aros/Platforms/x86_Complete_System_HCL#Recommended_hardware_(32-bit)) na WikiBooks, która może pomóc przy doborze odpowiedniego urządzenia.
 
-Na bazie nowego systemu możemy się wkrótce spodziewać kolejnego wydania 32-bitowej dystrybycji AROS One. Niezależnie od tego wciąż trwają prace nad jej pierwszą 64-bitową odsłoną. 
+Carlo Spadoni (AMIGASYSTEM) zapowiedział, że w oparciu o nowy system wkrótce pojawi się kolejne wydanie 32-bitowej dystrybucji AROS One. Równocześnie trwają prace nad jej pierwszą wersją 64-bitową. Dodatkowo, AROS One 68k dla procesorów Motorola ma otrzymać aktualizację do wersji 2.0 – już teraz dostępna jest wersja testowa.  
 
-Olaf Schönweiß jest już niemal na ukończeniu swojej dystrybucji AROS Vision dla architektury m68k. W niedługim czasie możemy spodziewać się wydania. Także Carlo Spadoni (AMIGASYSTEM) ogłosił rozpoczęcie pracy nad aktualizacją swojego AROS One w wersji dla m68k.
+Tymczasem Olaf Schönweiß jest na ostatniej prostej w pracach nad dystrybucją **AROS Vision** dla architektury 68k, a jej oficjalne wydanie powinno nastąpić w najbliższym czasie.
 
 Zmienił się adres strony AROS Archives. Domena archives.aros-exec.org, która przez lata kierowała do AROSowego repozytorium wygasła. Nowy adres to: [https://archives.arosworld.org](https://archives.arosworld.org).
 
