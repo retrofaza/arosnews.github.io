@@ -20,6 +20,8 @@ Pakiety są dostępne do pobrania na [GitHubie](https://github.com/deadwood2/ARO
 
 Na bazie nowego systemu możemy się wkrótce spodziewać kolejnego wydania 32-bitowej dystrybycji AROS One. Niezależnie od tego wciąż trwają prace nad jej pierwszą 64-bitową odsłoną. 
 
+Olaf Schönweiß jest już niemal na ukończeniu swojej dystrybucji AROS Vision dla architektury m68k. W niedługim czasie możemy spodziewać się wydania. Także Carlo Spadoni (AMIGASYSTEM) ogłosił rozpoczęcie pracy nad aktualizacją swojego AROS One w wersji dla m68k.
+
 Zmienił się adres strony AROS Archives. Domena archives.aros-exec.org, która przez lata kierowała do AROSowego repozytorium wygasła. Nowy adres to: [https://archives.arosworld.org](https://archives.arosworld.org).
 
 W marcu AROS Archives został w przeważającej większości zasypany portami gier dla przyszłych 64-bitowych dystrybucji. Większość tych produkcji była już dostępna na 32-bitowej wersji systemu, ale w niektórych wypadkach porty dla 64-bit dostaliśmy w nowszych wersjach.   
