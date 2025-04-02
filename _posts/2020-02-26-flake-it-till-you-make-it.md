@@ -25,7 +25,7 @@ Polar Paint
 ![Polar Paint](/assets/img/0425/polarpaint.jpg)
 *Polar Paint*
 
-> ## [Los Malditos](https://archives.arosworld.org/?function=showfile&file=game/adventure/losmalditos.lha) (v. 1.1) `i386`
+> ## [Los Malditos](https://archives.arosworld.org/?function=showfile&file=game/adventure/losmalditos.lha) (v. 1.10) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
 Los Malditos
