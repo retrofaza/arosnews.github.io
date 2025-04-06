@@ -7,15 +7,13 @@ ref: 0425
 ---
 
 
-> ## [REminiscence](https://archives.arosworld.org/?function=showfile&file=game/platform/reminiscence.x86_64-aros-v11.zip) (v. 0.3.2) `x86_64`
-> (autor:	Gregory Montoir)
+> ## [FLX player](https://archives.arosworld.org/?function=showfile&file=video/play/flx_play.x86_64-aros-v11.zip.zip) (v. 0.3) `x86_64`
+> (autor:	Jasper Berlijn)
 
-REminiscence to port gry "Flashback" – klasycznej gry akcji i platformowej z 1992 roku, stworzonej przez Delphine Software. Jest to projekt open-source, który pozwala na uruchomienie oryginalnej gry Flashback na współczesnych systemach operacyjnych bez potrzeby emulacji.
+FLX Player
 
-Flashback opowiada historię Conrada B. Harta, który budzi się na obcej planecie z utratą pamięci. Jego zadaniem jest ucieczka przed niebezpieczeństwem i odkrycie tajemnicy, która stoi za jego amnezją. Gra oferuje różnorodne poziomy, pełne akcji, rozwiązywania zagadek i unikania pułapek.
-
-![REminiscence](/assets/img/0325/REminiscence-2.png)
-*REminiscence*
+![FLX Player](/assets/img/0425/flxplayer.png)
+*FLX Player*
 
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.0) `i386`
 > (autor:	Anbjørn Myren)
