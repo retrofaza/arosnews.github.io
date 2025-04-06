@@ -7,7 +7,7 @@ ref: 0425
 ---
 
 
-> ## [FLX player](https://archives.arosworld.org/?function=showfile&file=video/play/flx_play.x86_64-aros-v11.zip.zip) (v. 0.3) `x86_64`
+> ## [FLX Player](https://archives.arosworld.org/?function=showfile&file=video/play/flx_play.x86_64-aros-v11.zip.zip) (v. 0.3) `x86_64`
 > (autor:	Jasper Berlijn)
 
 FLX Player
