@@ -9,7 +9,7 @@ ref: 0425
 > ## [Untangle](https://archives.arosworld.org/?function=showfile&file=game/puzzle/untangle.x86_64-aros-v11.zip) (v. 1.2) `x86_64`
 > (autor:	Grzegorz Kraszewski)
 
-Untangle to gra logiczna stworzona przez Grzegorza Kraszewskiego dla komputerów Amiga. W grze gracz ma za zadanie rozplątać zestaw punktów połączonych liniami, tak aby żadna linia nie przecinała innej. Gra działa w oknie na Workbenchu i jest kompatybilna z systemami AmigaOS 3.0+, AmigaOS 4, MorphOS oraz AROS. ​
+Untangle to gra logiczna stworzona przez Grzegorza Kraszewskiego dla komputerów Amiga. Gracz ma za zadanie rozplątać zestaw punktów połączonych liniami, tak aby żadna linia nie przecinała innej. Gra działa w oknie na Workbenchu i jest kompatybilna z systemami AmigaOS 3.0+, AmigaOS 4, MorphOS oraz AROS. ​
 
 Wersja 1.2 wprowadza 25 nowych poziomów, zwiększając ich łączną liczbę do 200, oraz dodaje lokalizację w języku polskim.
 
