@@ -35,7 +35,7 @@ Polar Paint
 > ## [Los Malditos](https://archives.arosworld.org/?function=showfile&file=game/adventure/losmalditos.lha) (v. 1.10) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
-Los Malditos
+Los Malditos to gra przygodowa typu point-and-click z elementami RPG, przeznaczona dla systemów Amiga NG. Gra osadzona jest w fantastycznym świecie przypominającym klimatem klasyczne gry fabularne, takie jak Dungeons & Dragons. Gracze będą mieli możliwość wyboru spośród kilku bohaterów, eksplorowania krainy Vaccei, walki z różnorodnymi przeciwnikami (w tym zombie, wilkołakami, magami i nekromantami), zdobywania magicznych artefaktów oraz interakcji z mieszkańcami. Autor planuje stopniowe dodawanie kolejnych rozdziałów, rozwijając tym samym świat gry i jej fabułę. ​
 
 ![Los Malditos](/assets/img/0425/losmalditos.jpg)
 *Los Malditos*
