@@ -24,7 +24,7 @@ FLX Player
 ![FLX Player](/assets/img/0425/flxplayer.png)
 *FLX Player*
 
-> ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.0) `i386`
+> ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.052) `i386`
 > (autor:	Anbjørn Myren)
 
 Polar Paint
