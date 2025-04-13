@@ -39,3 +39,36 @@ Los Malditos to gra przygodowa typu point-and-click z elementami RPG, przeznaczo
 
 ![Los Malditos](/assets/img/0425/losmalditos.jpg)
 *Los Malditos*
+
+> ## [High-Low-Equal Poker](https://archives.arosworld.org/?function=showfile&file=game/card/hle-pokercard.lha) (v. 2.20) `i386`
+> (autor:	Juan Carlos Herrán Martín)
+
+Prosta gra karciana. Odgadnij następną kartę, która pojawi się na stole i zdobądź pieniądze oraz punkty. Jest to specjalna wersja promująca inną grę autora - Los Malditos del Valle del Cerro.
+
+Zmiany w  wersji 2.20:
+- Gra zawiera ekskluzywną talię Baphometa z bohaterami z gry "Los Malditos' del Valle del Cerro".
+- Naprawiono błąd związany z silnikiem kart.
+- Dwa tryby gry: A=1 (As równa się 1) i Poker A>K (As jak w pokerze jest najwyższą kartą).
+- Teraz gra może otwierać i grać z taliami Baphometa.
+- Nowy ekran wyjścia z gry zamiast okna żądania.
+- Drobne ulepszenia.
+
+![High-Low-Equal Poker](/assets/img/0425/hlepoker.jpg)
+*High-Low-Equal Poker*
+
+> ## [Cards Making Kit](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.20) `i386`
+> (autor:	Juan Carlos Herrán Martín)
+
+Jest to małe narzędzie do tworzenia własnych talii do gier karcianych:
+
+- HLE Poker Card (High-Low-Equal Poker Card).
+- BlackJuan.
+- Siete y Media.
+- Baccarat.
+- BlackIvan Card.
+
+Ta wersja ma nową wersję talii testowych, aby pokazać talie Baphometa i inne drobne ulepszenia.
+
+![Cards Making Kit](/assets/img/0425/cardsmakingkit.jpg)
+*Cards Making Kit*
+
