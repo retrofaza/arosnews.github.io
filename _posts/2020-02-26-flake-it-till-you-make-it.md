@@ -39,7 +39,9 @@ meteMP3
 > ## [raudio](https://archives.arosworld.org/?function=showfile&file=development/library/raudio.i386-aros.zip) (v. 1.1) `i386`
 > (autor:	serk118)
 
-Raylib
+Raylib to prosta i łatwa w użyciu biblioteka do programowania gier wideo. Raylib jest silnie inspirowany biblioteką graficzną Borland BGI i frameworkiem XNA i szczególnie dobrze nadaje się do prototypowania, narzędzi, aplikacji graficznych, systemów wbudowanych i edukacji. Dzięki serk118 mamy tę bibliotekę na AROSie zaktualizowaną do najnowszej wersji 5.5.
+
+Ponadto otrzymaliśmy przebudowane biblioteki GLFW, Glad, miniaudio oraz raudio współpracujące z nowym Raylibem. 
 
 ![Raylib](/assets/img/0425/raylib.png)
 *Raylib 5.5*
