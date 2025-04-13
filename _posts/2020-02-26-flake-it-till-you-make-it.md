@@ -6,6 +6,8 @@ lang: pl
 ref: 0425
 ---
 
+Wydanie w zeszłym miesiącu nowej wersji bazowej systemu AROS (ABIv0 32-bit) zaowocowało niemal natychmiast pojawieniem się zaktualizowanych dystrybucji. Wyszedł Tiny AROS v3.5 oraz AROS One v2.8.
+
 ![Tiny AROS](/assets/img/0425/tinyaros.jpg)
 *Tiny AROS 3.5*
 
