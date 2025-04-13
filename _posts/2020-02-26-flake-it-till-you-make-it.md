@@ -24,6 +24,22 @@ FLX Player to prosty odtwarzacz animacji w formatach FLI, FLC i FLX (popularne f
 ![FLX Player](/assets/img/0425/flxplayer.png)
 *FLX Player*
 
+> ## [meteMP3](https://archives.arosworld.org/?function=showfile&file=audio/play/metemp3-1.5.i386-aros.zip) (v. 1.5) `i386`
+> (autor:	serk118)
+
+meteMP3
+
+![meteMP3](/assets/img/0425/metemp3.png)
+*meteMP3*
+
+> ## [Raylib](https://archives.arosworld.org/?function=showfile&file=development/library/raylib_5.5.i386-aros.zip) (v. 5.5) `i386`
+> (autor:	serk118)
+
+Raylib
+
+![Raylib](/assets/img/0425/raylib.png)
+*Raylib 5.5*
+
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.052) `i386`
 > (autor:	Anbjørn Myren)
 
