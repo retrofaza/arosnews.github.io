@@ -33,6 +33,10 @@ meteMP3
 *meteMP3*
 
 > ## [Raylib](https://archives.arosworld.org/?function=showfile&file=development/library/raylib_5.5.i386-aros.zip) (v. 5.5) `i386`
+> ## [GLFW](https://archives.arosworld.org/?function=showfile&file=development/library/glfw_3.4.i386-aros.zip) (v. 3.4) `i386`
+> ## [Glad](https://archives.arosworld.org/?function=showfile&file=development/library/libglad.i386-aros.zip) (v. 4.3) `i386`
+> ## [miniaudio](https://archives.arosworld.org/?function=showfile&file=development/library/miniaudio.i386-aros.zip) (v. 0.11.21) `i386`
+> ## [raudio](https://archives.arosworld.org/?function=showfile&file=development/library/raudio.i386-aros.zip) (v. 1.1) `i386`
 > (autor:	serk118)
 
 Raylib
