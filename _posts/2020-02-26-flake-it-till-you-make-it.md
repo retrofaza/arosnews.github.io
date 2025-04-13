@@ -6,6 +6,8 @@ lang: pl
 ref: 0425
 ---
 
+![Tiny AROS](/assets/img/0425/tinyaros.jpg)
+*Tiny AROS 3.5*
 
 ![AROS One](/assets/img/0425/arosone.jpg)
 *AROS One 2.8*
