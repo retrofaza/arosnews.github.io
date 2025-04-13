@@ -6,6 +6,10 @@ lang: pl
 ref: 0425
 ---
 
+
+![AROS One](/assets/img/0425/arosone.jpg)
+*AROS One 2.8*
+
 > ## [Untangle](https://archives.arosworld.org/?function=showfile&file=game/puzzle/untangle.x86_64-aros-v11.zip) (v. 1.2) `x86_64`
 > (autor:	Grzegorz Kraszewski)
 
