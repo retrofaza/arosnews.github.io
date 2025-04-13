@@ -35,7 +35,8 @@ Podstawowe cechy:
 - Używanie backendu AHI z miniaudio.
 - Funkcje Play, Prev, Next, Pause...
 - Podwójne kliknięcie i odtwarzanie.
-- Wsparcie dla tagów ID3.  
+- Wsparcie dla tagów ID3.
+- Możliwość podmiany ikon przycisków na własne.
 
 ![meteMP3](/assets/img/0425/metemp3.png)
 *meteMP3*
