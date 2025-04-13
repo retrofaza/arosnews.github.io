@@ -27,7 +27,15 @@ FLX Player to prosty odtwarzacz animacji w formatach FLI, FLC i FLX (popularne f
 > ## [meteMP3](https://archives.arosworld.org/?function=showfile&file=audio/play/metemp3-1.5.i386-aros.zip) (v. 1.5) `i386`
 > (autor:	serk118)
 
-meteMP3
+MeteMP3 to odtwarzacz plików MP3 stworzony specjalnie dla systemu AROS. Jest to lekka aplikacja wykorzystująca interfejs Zune/MUI.
+
+Podstawowe cechy:
+- Formaty [.mp3 |.flac |.wav] jako domyślne.
+- Skanowanie folderu.
+- Używanie backendu AHI z miniaudio.
+- Funkcje Play, Prev, Next, Pause...
+- Podwójne kliknięcie i odtwarzanie.
+- Wsparcie dla tagów ID3.  
 
 ![meteMP3](/assets/img/0425/metemp3.png)
 *meteMP3*
