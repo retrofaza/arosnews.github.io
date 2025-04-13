@@ -12,14 +12,14 @@ Wydanie w zeszłym miesiącu nowej wersji bazowej systemu AROS (ABIv0 32-bit) za
 *Tiny AROS 3.5*
 
 {: .box-note}
-Pełna lista zmian dla Tiny AROS 3.5:
+Pełna lista zmian dla Tiny AROS 3.5:  
 [https://arosworld.org/infusions/forum/viewthread.php?thread_id=1105&rowstart=220#post_8031](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1105&rowstart=220#post_8031)
 
 ![AROS One](/assets/img/0425/arosone.jpg)
 *AROS One 2.8*
 
 {: .box-note}
-Pełna lista zmian dla AROS One 2.8:
+Pełna lista zmian dla AROS One 2.8:  
 [https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=8058#post_8058](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=8058#post_8058)
 
 > ## [Untangle](https://archives.arosworld.org/?function=showfile&file=game/puzzle/untangle.x86_64-aros-v11.zip) (v. 1.2) `x86_64`
