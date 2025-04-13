@@ -19,7 +19,7 @@ Wersja 1.2 wprowadza 25 nowych poziomów, zwiększając ich łączną liczbę do
 > ## [FLX Player](https://archives.arosworld.org/?function=showfile&file=video/play/flx_play.x86_64-aros-v11.zip.zip) (v. 0.3) `x86_64`
 > (autor:	Jasper Berlijn)
 
-FLX Player
+FLX Player to prosty odtwarzacz animacji w formatach FLI, FLC i FLX (popularne formaty animacji z lat 90). Program uruchamiany jest z poziomu linii poleceń.​
 
 ![FLX Player](/assets/img/0425/flxplayer.png)
 *FLX Player*
@@ -27,7 +27,11 @@ FLX Player
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.052) `i386`
 > (autor:	Anbjørn Myren)
 
-Polar Paint
+PolarPaint to narzędzie graficzne stworzone przy użyciu środowiska Hollywood, oferujące możliwość pracy jednocześnie aż na ośmiu niezależnych obszarach roboczych. Każda z przestrzeni może mieć osobne ustawienia dotyczące historii zmian, z konfigurowalną liczbą poziomów cofania i ponawiania (Undo/Redo) – od 10 aż do 100 kroków.
+
+Program udostępnia podstawowe funkcje edycji grafiki, a także obsługę przezroczystości w dwóch różnych trybach działania. Z uwagi na zaawansowaną funkcjonalność, aplikacja stawia stosunkowo wysokie wymagania sprzętowe – do poprawnego działania niezbędny jest szybki komputer, zdolny do wyświetlenia rozdzielczości co najmniej 1440x900 w 16-bitowej głębi kolorów oraz posiadający minimum 40 MB wolnej pamięci.
+
+Każdy aktywny obszar roboczy zużywa około 4 MB pamięci RAM, podobnie jak poziomy Undo/Redo, co oznacza, że dostępna ilość pamięci ma bezpośredni wpływ na liczbę możliwych kroków historii i jednoczesnych przestrzeni pracy. Aby zminimalizować wpływ na pamięć, autor zaimplementował mechanizm zapisywania nieaktywnych obszarów roboczych i historii edycji na dysku. Rozwiązanie to pozwala na korzystanie z pełnych możliwości programu nawet przy ograniczonej ilości RAM, choć kosztem spadku wydajności ze względu na częsty dostęp do dysku.
 
 ![Polar Paint](/assets/img/0425/polarpaint.jpg)
 *Polar Paint*
