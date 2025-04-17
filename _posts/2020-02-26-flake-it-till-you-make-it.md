@@ -107,6 +107,18 @@ Zmiany w  wersji 2.20:
 ![High-Low-Equal Poker](/assets/img/0425/hlepoker.jpg)
 *High-Low-Equal Poker*
 
+> ## [Baccarat](https://archives.arosworld.org/?function=showfile&file=game/card/baccarat.lha) (v. 2.05) `i386`
+> (autor:	Juan Carlos Herrán Martín)
+
+Zagraj w wirtualnym kasynie w amigową wersję Baccarat. Jest to gra będąca małym hołdem dla mitycznej gry karcianej, spopularyzowanej przez film o przygodach Jamesa Bonda "Dr. No".
+
+Zmiany w wersji 2.05:
+- Nowa okładka wyjścia (bardziej w stylu Jamesa Bonda).
+- Naprawiono błąd z taliami Baphometa i przeciążeniem ekranu gry, który powodował spowolnienia.
+
+![Baccarat](/assets/img/0425/baccarat.jpg)
+*Baccarat*
+
 > ## [Cards Making Kit](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.20) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
