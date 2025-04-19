@@ -57,6 +57,14 @@ Podstawowe cechy:
 ![meteMP3](/assets/img/0425/metemp3.png)
 *meteMP3*
 
+> ## [arSFSDoctor](https://archives.arosworld.org/?function=showfile&file=utility/filetool/arsfsdoctor11.i386-aros.zip) (v. 1.1) `i386`
+> (autor:	serk118)
+
+AROSowa wersja programu SFSDoctor, która mana celu wyglądać i działać jak oryginał. **arSFSDoctor** służy do odzyskiwania utraconych / usuniętych i uszkodzonych dysków / partycji sfs.
+
+![arSFSDoctor](/assets/img/0425/arsfsdoctor.png)
+*arSFSDoctor*
+
 > ## [Raylib](https://archives.arosworld.org/?function=showfile&file=development/library/raylib_5.5.i386-aros.zip) (v. 5.5) `i386`
 > ## [GLFW](https://archives.arosworld.org/?function=showfile&file=development/library/glfw_3.4.i386-aros.zip) (v. 3.4) `i386`
 > ## [Glad](https://archives.arosworld.org/?function=showfile&file=development/library/libglad.i386-aros.zip) (v. 4.3) `i386`
@@ -70,6 +78,16 @@ Ponadto otrzymaliśmy przebudowane biblioteki GLFW, Glad, miniaudio oraz raudio 
 
 ![Raylib](/assets/img/0425/raylib.png)
 *Raylib 5.5*
+
+> ## [Amifish](https://archives.arosworld.org/?function=showfile&file=game/board/amifish.i386-aros.lha) (v. 2.1) `i386`
+> (autor:	Domenico Lattanzi)
+
+Amifish to program szachowy stworzony do gry w szachy na systemach amigowych, wykorzystujący moc jednego z najpotężniejszych silników szachowych na świecie: Stockfish, opracowanego przez Torda Romstada, Marco Costalbę, Joonę Kiiski i Gary’ego Linscotta. Silnik szachowy to program konsolowy, który gra w szachy, odbierając ciągi znaków jako polecenia i generując ciągi znaków na wyjściu jako wynik obliczeń. Stockfish i wiele innych silników jest kompatybilnych ze standardem o nazwie UCI (Universal Chess Interface). Nazwa Amifish powstała z połączenia słów Amiga i Stockfish (choć projekt jest otwarty dla wszystkich silników zgodnych ze standardem UCI), jest lekkim programem dla amatorów, stworzonym do zabawy w szachy, z zaimplementowanymi tylko najważniejszymi opcjami.
+
+Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który również można [pobrać](https://archives.arosworld.org/?function=showfile&file=game/misc/stockfish5_aros-i386.zip) z AROS Archives.
+
+![Amifish](/assets/img/0425/amifish.png)
+*Amifish*
 
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.055) `i386`
 > ## [Polar Paint_Small](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_small_aros.lha) (v. 1.055) `i386`
