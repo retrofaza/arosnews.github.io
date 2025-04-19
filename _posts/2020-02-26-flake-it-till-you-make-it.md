@@ -71,7 +71,8 @@ Ponadto otrzymaliśmy przebudowane biblioteki GLFW, Glad, miniaudio oraz raudio 
 ![Raylib](/assets/img/0425/raylib.png)
 *Raylib 5.5*
 
-> ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.052) `i386`
+> ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.055) `i386`
+> ## [Polar Paint_Small](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_small_aros.lha) (v. 1.055) `i386`
 > (autor:	Anbjørn Myren)
 
 PolarPaint to narzędzie graficzne stworzone przy użyciu środowiska Hollywood, oferujące możliwość pracy jednocześnie aż na ośmiu niezależnych obszarach roboczych. Każda z przestrzeni może mieć osobne ustawienia dotyczące historii zmian, z konfigurowalną liczbą poziomów cofania i ponawiania (Undo/Redo) – od 10 aż do 100 kroków.
@@ -79,6 +80,8 @@ PolarPaint to narzędzie graficzne stworzone przy użyciu środowiska Hollywood,
 Program udostępnia podstawowe funkcje edycji grafiki, a także obsługę przezroczystości w dwóch różnych trybach działania. Z uwagi na zaawansowaną funkcjonalność, aplikacja stawia stosunkowo wysokie wymagania sprzętowe – do poprawnego działania niezbędny jest szybki komputer, zdolny do wyświetlenia rozdzielczości co najmniej 1440x900 w 16-bitowej głębi kolorów oraz posiadający minimum 40 MB wolnej pamięci.
 
 Każdy aktywny obszar roboczy zużywa około 4 MB pamięci RAM, podobnie jak poziomy Undo/Redo, co oznacza, że dostępna ilość pamięci ma bezpośredni wpływ na liczbę możliwych kroków historii i jednoczesnych przestrzeni pracy. Aby zminimalizować wpływ na pamięć, autor zaimplementował mechanizm zapisywania nieaktywnych obszarów roboczych i historii edycji na dysku. Rozwiązanie to pozwala na korzystanie z pełnych możliwości programu nawet przy ograniczonej ilości RAM, choć kosztem spadku wydajności ze względu na częsty dostęp do dysku.
+
+W wersji **Polar Paint small** zostały ograniczone obszar rysowania oraz okno programu, aby działał na mniejszych zasobach.
 
 ![Polar Paint](/assets/img/0425/polarpaint.jpg)
 *Polar Paint*
