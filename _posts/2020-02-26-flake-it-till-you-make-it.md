@@ -140,6 +140,21 @@ Zmiany w wersji 2.05:
 ![Baccarat](/assets/img/0425/baccarat.jpg)
 *Baccarat*
 
+> ## [Siete y Media](https://archives.arosworld.org/?function=showfile&file=game/card/baccarat.lha) (v. 2.00) `i386`
+> (autor:	Juan Carlos Herrán Martín)
+
+Siete y Media, znana również jako Siedem i Pół, to popularna hiszpańska gra karciana, w której celem jest uzyskanie sumy punktów jak najbliższej 7 i pół, ale nie przekraczającej tej wartości. Gra wykorzystuje hiszpańską talię 40 kart (bez ósemek i dziewiątek).
+
+Wartości kart:
+- Asy liczą się jako 1 punkt.
+- Karty od 2 do 7 mają wartość odpowiadającą ich numerowi.
+- Figury (walet, dama, król) liczą się jako pół punktu (½).
+
+Siete y Media jest grą prostą do nauczenia, ale oferuje pewną dozę strategii w podejmowaniu decyzji o dobraniu kolejnej karty. Jest popularną grą towarzyską w krajach hiszpańskojęzycznych.
+
+![Siete y Media](/assets/img/0425/sieteymedia.jpg)
+*Siete y Media*
+
 > ## [Cards Making Kit](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.20) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
