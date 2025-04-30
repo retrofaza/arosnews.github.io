@@ -155,6 +155,20 @@ Siete y Media jest grą prostą do nauczenia, ale oferuje pewną dozę strategii
 ![Siete y Media](/assets/img/0425/sieteymedia.jpg)
 *Siete y Media*
 
+> ## [Blackjuan Poker](https://archives.arosworld.org/?function=showfile&file=game/card/blackjuan.lha) (v. 2.00) `i386`
+> (autor:	Juan Carlos Herrán Martín)
+
+BlackJuan Poker Card to klon blackjacka stworzony w aplikacji Hollywood.
+
+Zmiany w wersji 2.00:
+- Nowa grafika stworzona z pomocą AI.
+- Naprawione błędy.
+- Teraz gra może się otwierać i grać z taliami Baphometa.
+
+![Blackjuan Poker](/assets/img/0425/blackjuan.jpg)
+*Blackjuan Poker*
+
+
 > ## [Cards Making Kit](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) (v. 2.20) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
