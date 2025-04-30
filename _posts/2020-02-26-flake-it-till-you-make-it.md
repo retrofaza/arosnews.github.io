@@ -89,6 +89,16 @@ Do gry przeciwko komputerowi potrzebny jest silnik szachowy Stockfish, który r�
 ![Amifish](/assets/img/0425/amifish.png)
 *Amifish*
 
+> ## [Xiangqi](https://archives.arosworld.org/?function=showfile&file=game/board/xiangqi.i386-aros.lha) (v. 1.0) `i386`
+> (autor:	Domenico Lattanzi)
+
+Xiangqi to program szachowy stworzony do gry w Xiangqi (chińskie szachy), wykorzystujący silniki szachowe kompatybilne z UCI dla ruchów wykonywanych przez komputery. Silnik szachowy to program konsolowy, który gra w szachy, odbierając ciągi jako polecenia i generujący ciągi na wyjściu jako wynik obliczeń. 
+
+Aby grać przeciwko komputerowi należy pobrać silnik z innej lokalizacji.  
+
+![Xiangqi](/assets/img/0425/xiangqi.png)
+*Xiangqi*
+
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.055) `i386`
 > ## [Polar Paint_Small](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_small_aros.lha) (v. 1.055) `i386`
 > (autor:	Anbjørn Myren)
