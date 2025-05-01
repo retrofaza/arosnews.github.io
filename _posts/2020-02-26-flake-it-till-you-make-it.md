@@ -6,6 +6,16 @@ lang: pl
 ref: 0425
 ---
 
+Kwiecień przyniósł entuzjastyczne wieści dla społeczności AROS! Oprócz nowych dystrybucji 32-bitowych systemów, wydarzyło się coś naprawdę przełomowego - pojawiło się stabilne, bootowalne ISO 64-bitowego AROS-a! To ogromny krok naprzód, który otwiera przed systemem nowe możliwości i pozwala mu lepiej dostosować się do współczesnych technologii. Przejście na architekturę 64-bitową oznacza większą wydajność, lepsze wykorzystanie zasobów sprzętowych i zgodność z rosnącymi wymaganiami świata open source. To ekscytujący moment dla wszystkich użytkowników i deweloperów AROS!
+
+To ISO jest podsumowaniem kilku lat rozwoju przez wielu programistów AROS i ostatnich sześciu miesięcy intensywnych testów, debugowania i stabilizacji. Ta wstępna wersja przynosi ulepszone wsparcie dla środowisk wirtualnych (VirtualBox, VMware i QEMU) oraz dla niektórych, ale jeszcze nie wszystkich, urządzeń obsługiwanych przez wersję 32-bitową. Jeśli chcesz dowiedzieć się więcej o tym, jakie zmiany nastąpią w kolejnych miesiącach, sprawdź nasz [plan rozwoju](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=40#post_8156).
+
+Pliki do pobrania można znaleźć na stronie [github.com](https://github.com/deadwood2/AROS/releases/tag/ABIv11_20250418-1) lub [axrt.org](https://axrt.org/downloads-aros-64bit).
+
+Pełny dziennik zmian dla tego wydania jest dostępny [tutaj](https://github.com/deadwood2/AROS/releases/tag/ABIv11_20250418-1) lub [tutaj](https://axrt.org/release-notes?id=aros-abiv11-20250418-1).
+
+Wkróte - według zapowiedzi Deadwooda - przeglądarka Odyssey Web Browser otrzyma aktualizację, która wprowadzi nowocześniejsze wersje silnika WebKit, lepiej wykorzystujące pamięć RAM i 64-bitową kompilację JIT. Dzięki temu użytkownicy AROS-a będą mogli komfortowo przeglądać współczesne strony internetowe. Dodatkowo, najnowsze rdzenie emulujące Amigę, również wyposażone w 64-bitowy JIT, staną się dostępne i będą lepiej zintegrowane z systemem, co zapewni jeszcze płynniejsze działanie i większe możliwości. Dla użytkowników AROS to początek nowego, obiecującego rozdziału!
+
 Wydanie w zeszłym miesiącu nowej wersji bazowej systemu AROS (ABIv0 32-bit) zaowocowało niemal natychmiast pojawieniem się zaktualizowanych dystrybucji. Wyszedł Tiny AROS v3.5 oraz AROS One v2.8.
 
 ![Tiny AROS](/assets/img/0425/tinyaros.jpg)
@@ -21,6 +31,10 @@ Pełna lista zmian dla Tiny AROS 3.5:
 {: .box-note}
 Pełna lista zmian dla AROS One 2.8:  
 [https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=8058#post_8058](https://arosworld.org/infusions/forum/viewthread.php?thread_id=1124&pid=8058#post_8058)
+
+Nowe 32-bitowe dystrybucje systemu AROS zawierają wszystkie zmiany z ostatnich trzech lat rozwoju systemu, a także wprowadzają wiele ulepszeń. To solidna propozycja na dzień dzisiejszy. Jednak prawdziwa rewolucja dopiero nadchodzi — trwają testy dystrybucji opartej na wersji 64-bitowej, która wzbudza duże oczekiwania w społeczności. Jeśli jesteś fanem AROS, warto śledzić rozwój i przygotować się na kolejną generację tego systemu!
+
+Tymczasem garść nowości z AROS Archives:
 
 > ## [Untangle](https://archives.arosworld.org/?function=showfile&file=game/puzzle/untangle.x86_64-aros-v11.zip) (v. 1.2) `x86_64`
 > (autor:	Grzegorz Kraszewski)
