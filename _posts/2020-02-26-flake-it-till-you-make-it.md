@@ -43,7 +43,7 @@ Zmiany i nowości w wersji v2.8.3 PRE 2:
 
 GICriptoFileX
 
-![GICriptoFileX](/assets/img/0425/gicriptofilex.png)
+![GICriptoFileX](/assets/img/0525/gicriptofile.jpg)
 *GICriptoFileX*
 
 > ## [BOH](https://archives.arosworld.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.5) `i386`
