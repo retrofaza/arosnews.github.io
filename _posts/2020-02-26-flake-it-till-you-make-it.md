@@ -30,7 +30,7 @@ GICriptoFileX
 
 BOH
 
-![BOH](/assets/img/0425/boh.png)
+![BOH](/assets/img/boh.jpg)
 *BOH*
 
 > ## [Polar Paint](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) (v. 1.057) `i386`
