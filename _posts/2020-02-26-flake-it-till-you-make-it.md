@@ -78,6 +78,6 @@ W wersji **Polar Paint small** zostały ograniczone obszar rysowania oraz okno p
 
 Video Slot Machine
 
-![Video Slot Machine](/assets/img/0525/videoslotmachine.jpg)
+![Video Slot Machine](/assets/img/0525/vsm.jpg)
 *Video Slot Machine*
 
