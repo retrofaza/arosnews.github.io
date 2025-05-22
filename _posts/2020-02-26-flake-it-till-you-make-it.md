@@ -41,7 +41,7 @@ Zmiany i nowości w wersji v2.8.3 PRE 2:
 > ## [GICriptoFileX](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
 > (autor:	Giovanni Iacobelli)
 
-GICriptoFileX
+GICriptoFile Cross Edition to program do szyfrowania naszych plików przy użyciu zastrzeżonego 128-bitowego algorytmu klucza symetrycznego. Algorytm ten nie jest udostępniany publicznie.
 
 ![GICriptoFileX](/assets/img/0525/gicriptofile.jpg)
 *GICriptoFileX*
