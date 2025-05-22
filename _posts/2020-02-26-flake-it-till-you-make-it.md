@@ -12,7 +12,26 @@ Tymczasem garść nowości z AROS Archives:
 > ## [Protrekkr](https://archives.arosworld.org/?function=showfile&file=audio/edit/protrekkr.x86_64-aros-v11.zip) (v. 2.8.3PRE) `x86_64`
 > (autor:	Franck Charlet)
 
-Protrekkr
+Zmiany i nowości w wersji v2.8.3 PRE 2:
+
+- Można teraz wybrać rozdzielczość trybu pełnoekranowego.
+- Dodano 4 parametryzowalne filtry opóźnienia stereo.
+- Nowe efekty:
+  - 2D: Ustawianie typu filtra opóźnienia stereo.
+  - 2E: Ustawienie odcięcia filtra opóźnienia stereo.
+  - 2F: Ustawienie rezonansu filtra opóźnienia stereo.
+- Zakres danych midi jest teraz poprawnie skalowany: dane wiersza FF będą wysyłane jako 127.
+- Ptk wysyła teraz zdarzenia Midi start/cont/stop i Midi clock.
+- Dodano 2 funkcje w sekwencerze do przesuwania pozycji w górę lub w dół.
+- Globalne głośności kanałów są teraz używane również dla nut midi.
+- Dodano funkcję sekwencera do ponownego mapowania/zamiany i zmiany numerów i wartości efektów.
+- Naprawiono kilka błędów z funkcjami transpozycji nut.
+- Przyspieszono śledzenie i odtwarzanie.
+- Usunięto splajny, kanały mogą być teraz indywidualnie odszumiane (lub nie) z tego powodu dodano ten efekt:
+  - 30: Kontrola siły odszumiania kanałów (informacje o parametrach można znaleźć w instrukcji).
+- Zmieniono nazwę dystrybucji Mac OS 64 bit z ia64 na x86_64 (i x86 na x86_32).
+- Naprawiono awarię podczas uruchamiania w niektórych wersjach systemu macOS.
+- Wersja MorphOS jest teraz oficjalnie obsługiwana.
 
 ![Protrekkr](/assets/img/0525/protrekkr.jpg)
 *Protrekkr*
