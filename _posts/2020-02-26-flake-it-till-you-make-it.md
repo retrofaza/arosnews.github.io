@@ -76,7 +76,15 @@ W wersji **Polar Paint small** zostały ograniczone obszar rysowania oraz okno p
 > ## [Video Slot Machine](https://archives.arosworld.org/?function=showfile&file=game/board/videoslotmachine.lha) (v. 1.20) `i386`
 > (autor:	Juan Carlos Herrán Martín)
 
-Video Slot Machine
+Symulator automatu hazardowego. Automat możesz spersonalizować za pomocą własnych filmików video, które będą odtwarzane, gdy wygrywasz wirtualne pieniądze.
+
+Zmiany w wersji 1.20:
+- Naprawione błędy.
+- Nowa grafika tła wykonana z pomocą IA na ekranie monitora.
+- Melodie w tle stworzone z pomocą IA.
+- Dodano język hiszpański.
+- Teraz gra może odtwarzać do 9 filmów.
+- Nowa okładka gry.
 
 ![Video Slot Machine](/assets/img/0525/vsm.jpg)
 *Video Slot Machine*
