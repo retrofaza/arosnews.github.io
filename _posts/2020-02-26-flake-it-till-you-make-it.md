@@ -10,7 +10,9 @@ ref: 0525
 Tymczasem garść nowości z AROS Archives:
 
 > ## [Protrekkr](https://archives.arosworld.org/?function=showfile&file=audio/edit/protrekkr.x86_64-aros-v11.zip) (v. 2.8.3PRE) `x86_64`
-> (autor:	Franck Charlet)
+> (autor:	Franck “hitchhikr” Charlet)
+
+ProTrekkr to program trackerowy, który łączy w sobie syntezator programowy z tradycyjnym trackerem sampli, który może (głównie) służyć do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier.
 
 Zmiany i nowości w wersji v2.8.3 PRE 2:
 
