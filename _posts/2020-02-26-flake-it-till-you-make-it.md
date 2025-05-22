@@ -28,7 +28,11 @@ GICriptoFileX
 > ## [BOH](https://archives.arosworld.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.5) `i386`
 > (autor:	Simone Bevilacqua "Saimo")
 
-BOH
+BOH to dungeon crawler, w którym musisz rozwiązywać zagadki, zbierać przedmioty, otwierać przejścia, unikać pułapek, zabijać Evil Masters i generowanych przez nich sługusów i ostatecznie wyjść z labiryntów w jednym kawałku. Zachowaj zimną krew, unikaj wrogów tak bardzo, jak to możliwe, skup się na labiryntach, a ostatecznie dotrzesz do końca.
+
+Zmiany w wersji 2.5:
+- Poprawiono deskryptor misji "Tribute to Asimov" zawartej w pakietach AmigaOS i AROS.
+- Naprawiono i zaktualizowano podręcznik (zawierał nieaktualne informacje).
 
 ![BOH](/assets/img/boh.jpg)
 *BOH*
