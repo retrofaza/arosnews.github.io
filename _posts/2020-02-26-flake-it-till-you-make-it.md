@@ -14,7 +14,7 @@ Tymczasem garść nowości z AROS Archives:
 
 Protrekkr
 
-![Protrekkr](/assets/img/0525/protrekkr.png)
+![Protrekkr](/assets/img/0525/protrekkr.jpg)
 *Protrekkr*
 
 > ## [GICriptoFileX](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
