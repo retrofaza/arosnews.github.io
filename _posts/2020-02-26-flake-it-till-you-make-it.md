@@ -6,6 +6,7 @@ lang: pl
 ref: 0525
 ---
 
+W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSA - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
 
 Tymczasem garść nowości z AROS Archives:
 
@@ -46,7 +47,7 @@ Nano i Arrakis to porty dla AROSa dwóch dem wydanych oryginalnie na Apple iPod 
 
 Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich pierwsze demo dla Apple iPod Nano G1. Dekadę później na demoparty Nordlicht 2016 grupa wydała drugie demo - Arrakis.
 
-Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
+Porty dla AROSa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
 
 ![Arrakis i Nano](/assets/img/0525/arrakisnano.png)
 *Dema Nano i Arrakis*
