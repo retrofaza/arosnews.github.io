@@ -6,6 +6,8 @@ lang: pl
 ref: 0525
 ---
 
+Rok 2025 miał być rokiem przejścia na 64-bit. I aż milo popatrzeć, jak to przejście dzieje się na naszych oczach! W zeszłym miesiącu mieliśmy wydany stabliny system bazowy, a w tym już jest pierwsza 64-bitowa dystrybucja. Widoczna jest aktywności deweloperów oraz rosnące zainteresowanie spoza tradycyjnego kręgu AROSowych entuzjastów. Projekt AROS nie tylko żyje, ale konsekwentnie zmierza do przodu :) 
+
 Nowa wersja systemu AROS One właśnie ujrzała światło dzienne! To pierwsza odsłona długo oczekiwanej 64-bitowej edycji. Można [ją pobrać](https://sites.google.com/view/arosone) jako obraz ISO DVD lub obraz USB Flash. 
 
 ![AROS One 1.0 x86_64](/assets/img/0525/arosone64.jpg)
