@@ -56,6 +56,15 @@ Porty dla AROSa używają SDL 1.2 do uruchomienia i działają z rozdzielczości
 ![Arrakis i Nano](/assets/img/0525/arrakisnano.png)
 *Dema Nano i Arrakis*
 
+> ## [meteMP3](https://archives.arosworld.org/?function=showfile&file=audio/play/metemp3.x86_64-aros-v11.zip) (v. 1.5) `x86_64`
+> ## [AmiSSL](https://archives.arosworld.org/?function=showfile&file=network/misc/amissl.x86_64-aros-v11.zip) (v. 4.2) `x86_64`
+> (autor: serk118)
+
+**Serk118** kontynuuje przenoszenie swoich wcześniejszych programów i portów na 64-bitowy system. Dostajemy opisywany w zeszłym miesiącu **meteMP3** - lekki odtwarzacz plików MP3, stworzony specjalnie dla systemu AROS, wykorzystujący interfejs Zune/MUI. Druga pozycja to znany **AmiSSL** w wersji 4.2.
+
+![meteMP3](/assets/img/0425/metemp3.png)
+*meteMP3*
+
 > ## [GICriptoFileX](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
 > (autor:	Giovanni Iacobelli)
 
