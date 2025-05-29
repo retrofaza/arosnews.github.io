@@ -10,7 +10,7 @@ W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros
 
 Kolejną świetną wiadomością jest rozpoczęcie przez **Kalamatee** prac nad przeportowaniem dla AROSa kompilatora GCC w wersji 15. Nowszy kompilator umożliwi portowanie nowszego oprogramowania, między innymi Webkita z którego korzysta przeglądarka OWB.
 
-Skoro jesteśmy przy Odyssey Web Browser, to **Deadwood** udostępnił do testów betę nowej wersji przeglądarki dla systemu x86_64. Najnowsza beta jest oparta o silnik Webkit 2.32.4 i poprawia obsługe wielu stron. Dostajemy między innymi lepsze renderowanie Githuba, możliwość przeglądania wiadomości w GMailu, możliwość zalogowania się na Discord. Wersję testową można [pobrać stąd](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=40#post_8342).
+Skoro jesteśmy przy Odyssey Web Browser, to **Deadwood** udostępnił do testów betę nowej wersji przeglądarki dla systemu x86_64. Najnowsza beta jest oparta o silnik Webkit 2.32.4 i poprawia obsługę wielu stron. Dostajemy między innymi lepsze renderowanie Githuba, możliwość przeglądania wiadomości w GMailu, możliwość zalogowania się na Discord. Wersję testową można [pobrać stąd](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=40#post_8342).
 
 Tymczasem garść nowości z AROS Archives:
 
