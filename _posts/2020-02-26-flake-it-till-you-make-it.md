@@ -48,7 +48,7 @@ Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich p
 
 Porty dla Arosa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
 
-![Arrakis i Nano](/assets/img/0525/arrakisnano.jpg)
+![Arrakis i Nano](/assets/img/0525/arrakisnano.png)
 *Dema Nano i Arrakis*
 
 > ## [GICriptoFileX](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
