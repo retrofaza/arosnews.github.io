@@ -21,7 +21,7 @@ Kolejną świetną wiadomością jest rozpoczęcie przez **Kalamatee** prac nad 
 
 Skoro jesteśmy przy Odyssey Web Browser, to **Deadwood** udostępnił do testów betę nowej wersji przeglądarki dla systemu x86_64. Najnowsza beta jest oparta o silnik Webkit 2.32.4 i poprawia obsługę wielu stron. Dostajemy między innymi lepsze renderowanie Githuba, możliwość przeglądania wiadomości w GMailu, możliwość zalogowania się na Discord. Wersję testową można [pobrać stąd](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=40#post_8342).
 
-Tymczasem garść nowości z AROS Archives:
+A co nowego w AROS Archives?  
 
 > ## [Protrekkr](https://archives.arosworld.org/?function=showfile&file=audio/edit/protrekkr.x86_64-aros-v11.zip) (v. 2.8.3PRE) `x86_64`
 > (autor:	Franck “hitchhikr” Charlet)
