@@ -6,9 +6,12 @@ lang: pl
 ref: 0525
 ---
 
+Nowa wersja systemu AROS One właśnie ujrzała światło dzienne! To pierwsza odsłona długo oczekiwanej 64-bitowej edycji. Można [ją pobrać](https://sites.google.com/view/arosone) jako obraz ISO DVD lub obraz USB Flash. 
 
 ![AROS One 1.0 x86_64](/assets/img/0525/arosone64.jpg)
 *AROS One 1.0 64-bit*
+
+O tym, co przynosi wydanie stabilnego bazowego systemu 64-bitowego (ABIv11) mogliście przeczytać w zeszłym miesiącu. AROS One v1.0 to pełna 64-bitowa wersja systemu AROS (ABIv11), wzbogacona o większość oprogramowania dostępnego w AROS Archives oraz pakiet Contrib, przeznaczony dla 64-bitowej edycji AROSa. Nowa wersja zachowuje charakterystyczny wygląd graficzny, zestaw ikon oraz skrypty znane z wersji 2.8 AROS One 32Bit, zapewniając spójność wizualną i funkcjonalną dla użytkowników.
 
 W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSa - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
 
