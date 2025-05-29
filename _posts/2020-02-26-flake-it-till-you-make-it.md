@@ -6,6 +6,10 @@ lang: pl
 ref: 0525
 ---
 
+
+![AROS One 1.0 x86_64](/assets/img/0525/arosone64.jpg)
+*AROS One 1.0 64-bit*
+
 W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSa - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
 
 Kolejną świetną wiadomością jest rozpoczęcie przez **Kalamatee** prac nad przeportowaniem dla AROSa kompilatora GCC w wersji 15. Nowszy kompilator umożliwi portowanie nowszego oprogramowania, między innymi Webkita z którego korzysta przeglądarka OWB.
