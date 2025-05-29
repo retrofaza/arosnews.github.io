@@ -6,7 +6,11 @@ lang: pl
 ref: 0525
 ---
 
-W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSA - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
+W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSa - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
+
+Kolejną świetną wiadomością jest rozpoczęcie przez **Kalamatee** prac nad przeportowaniem dla AROSa kompilatora GCC w wersji 15. Nowszy kompilator umożliwi portowanie nowszego oprogramowania, między innymi Webkita z którego korzysta przeglądarka OWB.
+
+Skoro jesteśmy przy Odyssey Web Browser, to **Deadwood** udostępnił do testów betę nowej wersji przeglądarki dla systemu x86_64. Najnowsza beta jest oparta o silnik Webkit 2.32.4 i poprawia obsługe wielu stron. Dostajemy między innymi lepsze renderowanie Githuba, możliwość przeglądania wiadomości w GMailu, możliwość zalogowania się na Discord. Wersję testową można [pobrać stąd](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=40#post_8342).
 
 Tymczasem garść nowości z AROS Archives:
 
