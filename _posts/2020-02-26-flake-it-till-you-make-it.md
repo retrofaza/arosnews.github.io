@@ -1,90 +1,45 @@
 ---
 layout: post
-title: AROS x86 - maj 2025
+title: AROS x86 - czerwiec 2025
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0525
+ref: 0625
 ---
-
-Rok 2025 miał być rokiem przejścia na 64-bit. I aż milo popatrzeć, jak to przejście dzieje się na naszych oczach! W zeszłym miesiącu mieliśmy wydany stabliny system bazowy, a w tym już jest pierwsza 64-bitowa dystrybucja. Widoczna jest aktywności deweloperów oraz rosnące zainteresowanie spoza tradycyjnego kręgu AROSowych entuzjastów. Projekt AROS nie tylko żyje, ale konsekwentnie zmierza do przodu :) 
-
-Nowa wersja systemu AROS One właśnie ujrzała światło dzienne! To pierwsza odsłona długo oczekiwanej 64-bitowej edycji. Można [ją pobrać](https://sites.google.com/view/arosone) jako obraz ISO DVD lub obraz USB Flash. 
-
-![AROS One 1.0 x86_64](/assets/img/0525/arosone64.jpg)
-*AROS One 1.0 64-bit*
-
-O tym, co przynosi wydanie stabilnego bazowego systemu 64-bitowego (ABIv11) mogliście przeczytać w zeszłym miesiącu. AROS One v1.0 to pełna 64-bitowa wersja systemu AROS (ABIv11), wzbogacona o większość oprogramowania dostępnego w AROS Archives oraz pakiet Contrib, przeznaczony dla 64-bitowej edycji AROSa. Nowa wersja zachowuje charakterystyczny wygląd graficzny, zestaw ikon oraz skrypty znane z wersji 2.8 AROS One 32Bit, zapewniając spójność wizualną i funkcjonalną dla użytkowników.
-
-W tym miesiącu wydany został **[AROS Portable](https://arosnews.github.io/aros-portable)**. Umożliwia uruchomienie i wypróbowanie AROSa na praktycznie każdym nowoczesnym komputerze PC. To rozwiązanie (mające pod spodem linuksa i AROS One) daje możliwość łatwego startu z AROSem bez potrzeby inwestowania w dedykowany sprzęt, czy uruchamiania samodzielnie maszyn wirtualnych. Wystarczy nagrać obraz na pendrive i można zacząć używać AROSa - prościej już się nie da! Z pierwszych komentarzy wiemy, że rozwiązanie spotkało się z ciepłym przyjęciem. Dziękujemy redakcji **The Register** za [artykuł opisujący AROS Portable](https://www.theregister.com/2025/05/22/aros_live), dzięki któremu informacja o AROSie dotarła do wielu ludzi poza amigową sceną.  
-
-Kolejną świetną wiadomością jest rozpoczęcie przez **Kalamatee** prac nad przeportowaniem dla AROSa kompilatora GCC w wersji 15. Nowszy kompilator umożliwi portowanie nowszego oprogramowania, między innymi Webkita z którego korzysta przeglądarka OWB.
-
-Kalamatee udostępnił na swoim kanale Youtube ciekawy filmik prezentujący, w formie graficznej, rozwój w czasie projektu AROS :)
-
-<iframe width="700" height="480" src="https://www.youtube.com/embed/j8EmSEby0Rg" title="AROS repo in Gource -  2025 05 30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Odyssey Web Browser czeka kolejna aktualizacja. **Deadwood** udostępnił do testów betę nowej wersji przeglądarki dla systemu x86_64. Najnowsza beta jest oparta o silnik Webkit 2.32.4 i poprawia obsługę wielu stron. Dostajemy między innymi lepsze renderowanie Githuba, możliwość przeglądania wiadomości w GMailu, możliwość zalogowania się na Discord. Wersję testową można [pobrać stąd](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1175&rowstart=40#post_8342).
 
 A co nowego w AROS Archives?  
 
-> ## [Protrekkr](https://archives.arosworld.org/?function=showfile&file=audio/edit/protrekkr.x86_64-aros-v11.zip) (v. 2.8.3PRE) `x86_64`
-> (autor:	Franck “hitchhikr” Charlet)
+> ## [fit-039: Boy](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/boy.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
+> (autor:	Fit)
 
-ProTrekkr to program trackerowy, który łączy w sobie syntezator programowy z tradycyjnym trackerem sampli, który może (głównie) służyć do tworzenia muzyki elektronicznej (np. psytrance, trance goa, hard acid, IDM, chip, techno, jungle itp.) do małych intro, dem lub gier.
+fit-039: Boy
 
-Zmiany i nowości w wersji v2.8.3 PRE 2:
+![fit-039: Boy](/assets/img/0625/boy.jpg)
+*fit-039: Boy*
 
-- Można teraz wybrać rozdzielczość trybu pełnoekranowego.
-- Dodano 4 parametryzowalne filtry opóźnienia stereo.
-- Nowe efekty:
-  - 2D: Ustawianie typu filtra opóźnienia stereo.
-  - 2E: Ustawienie odcięcia filtra opóźnienia stereo.
-  - 2F: Ustawienie rezonansu filtra opóźnienia stereo.
-- Zakres danych midi jest teraz poprawnie skalowany: dane wiersza FF będą wysyłane jako 127.
-- Ptk wysyła teraz zdarzenia Midi start/cont/stop i Midi clock.
-- Dodano 2 funkcje w sekwencerze do przesuwania pozycji w górę lub w dół.
-- Globalne głośności kanałów są teraz używane również dla nut midi.
-- Dodano funkcję sekwencera do ponownego mapowania/zamiany i zmiany numerów i wartości efektów.
-- Naprawiono kilka błędów z funkcjami transpozycji nut.
-- Przyspieszono śledzenie i odtwarzanie.
-- Usunięto splajny, kanały mogą być teraz indywidualnie odszumiane (lub nie) z tego powodu dodano ten efekt:
-  - 30: Kontrola siły odszumiania kanałów (informacje o parametrach można znaleźć w instrukcji).
-- Zmieniono nazwę dystrybucji Mac OS 64 bit z ia64 na x86_64 (i x86 na x86_32).
-- Naprawiono awarię podczas uruchamiania w niektórych wersjach systemu macOS.
-- Wersja MorphOS jest teraz oficjalnie obsługiwana.
+> ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) (v. 1.6.2) `x86_64`
+> ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield-1.6.2.i386-aros.zip) (v. 1.6.2) `i386`
+> (autor: David Eriksson /port by Farox)
 
-![Protrekkr](/assets/img/0525/protrekkr.jpg)
-*Protrekkr*
+Unshield
 
-> ## [Arrakis demo](https://archives.arosworld.org/?function=showfile&file=demo/scene/arrakis.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
-> ## [Nano demo](https://archives.arosworld.org/?function=showfile&file=demo/scene/nano.x86_64-aros-v11.zip) (v. 1.2) `x86_64`
-> (autorzy: Kakiarts/TRBL)
+![Unshield](/assets/img/0625/unshield.png)
+*Unshield*
 
-Nano i Arrakis to porty dla AROSa dwóch dem wydanych oryginalnie na Apple iPod Nano G1. Porty skompilował dla AROSa **Farox** tym razem na platformę 64-bitową!
+> ## [CabExtract](https://archives.arosworld.org/?function=showfile&file=utility/archive/cabextract1.11.x86_64-aros-v11.zip) (v. 1.11) `x86_64`
+> (autor: Stuart Caie port by Farox)
 
-Demoscenowa grupa Kakiarts wydała Nano na demoparty EVOKE w 2006 r. Było ich pierwsze demo dla Apple iPod Nano G1. Dekadę później na demoparty Nordlicht 2016 grupa wydała drugie demo - Arrakis.
+CabExtract
 
-Porty dla AROSa używają SDL 1.2 do uruchomienia i działają z rozdzielczością nieco mniejszą niż 800x600 przy użyciu 4x upscalera zakodowanego przez oryginalnego autora. Ponieważ rozdzielczość używana przez iPoda to 176x132, więc na AROSie dema działają w rozdzielczości 704x528.
+![CabExtract](/assets/img/0625/cabextract.png)
+*CabExtract*
 
-![Arrakis i Nano](/assets/img/0525/arrakisnano.png)
-*Dema Nano i Arrakis*
-
-> ## [meteMP3](https://archives.arosworld.org/?function=showfile&file=audio/play/metemp3.x86_64-aros-v11.zip) (v. 1.5) `x86_64`
-> ## [AmiSSL](https://archives.arosworld.org/?function=showfile&file=network/misc/amissl.x86_64-aros-v11.zip) (v. 4.2) `x86_64`
-> (autor: serk118)
-
-**Serk118** kontynuuje przenoszenie swoich wcześniejszych programów i portów na 64-bitowy system. Dostajemy opisywany w zeszłym miesiącu **meteMP3** - lekki odtwarzacz plików MP3, stworzony specjalnie dla systemu AROS, wykorzystujący interfejs Zune/MUI. Druga pozycja to znany **AmiSSL** w wersji 4.2.
-
-![meteMP3](/assets/img/0425/metemp3.png)
-*meteMP3*
-
-> ## [GICriptoFileX](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
+> ## [Dose 2](https://archives.arosworld.org/?function=showfile&file=utility/misc/gicriptofilex.i386-aros.zip) (v. 1.0) `i386`
 > (autor:	Giovanni Iacobelli)
 
-GICriptoFile Cross Edition to program do szyfrowania naszych plików przy użyciu zastrzeżonego 128-bitowego algorytmu klucza symetrycznego. Algorytm ten nie jest udostępniany publicznie.
+Dose 2
 
-![GICriptoFileX](/assets/img/0525/gicriptofile.jpg)
-*GICriptoFileX*
+![Dose 2](/assets/img/0625/dose2.jpg)
+*Dose 2*
 
 > ## [BOH](https://archives.arosworld.org/?function=showfile&file=game/action/boh.i386-aros.lha) (v. 2.5) `i386`
 > (autor:	Simone Bevilacqua "Saimo")
