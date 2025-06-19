@@ -124,12 +124,22 @@ Dave Gnukem
 
 
 > ## [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/filesysbox-v54.7.x86_64-aros-v11.zip) (v. 54.7) `x86_64`
+> ## [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/misc/filesysbox-v54.7.i386-aros.lha) (v. 54.7) `i386`
 > (autor:	Leif Salomonsson, Fredrik Wikstrom)
 
 Filesysbox
 
 ![Filesysbox](/assets/img/0625/filesysbox.jpg)
 *Filesysbox*
+
+> ## [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.x86_64-aros-v11.zip) (v. 53.9) `x86_64`
+> ## [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.i386-aros.lha) (v. 53.9) `i386`
+> (autor:	Fredrik Wikstrom)
+
+smb2-handler
+
+![smb2-handler](/assets/img/0625/smb2-handler.jpg)
+*smb2-handler*
 
 > ## [Dopus5](https://archives.arosworld.org/?function=showfile&file=utility/filetool/dopus5_92_i386-aros.zip) (v. 5.92) `i386`
 > (autor:	Dopus5 Team)
