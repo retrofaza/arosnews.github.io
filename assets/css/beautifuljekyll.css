@@ -1092,11 +1092,11 @@ pre {
 }
 
 /* Support button in navbar */
-.navbar-custom .navbar-nav li.nav-item a[href*="www.paypal.com/paypalme"] {
+.navbar-custom .navbar-nav li.nav-item a[href*="https://www.paypal.com/paypalme"] {
   color: hotpink;
   transition: background 300ms, color 300ms;
 }
-.navbar-custom .navbar-nav li.nav-item a[href*="www.paypal.com/paypalme"]:hover {
+.navbar-custom .navbar-nav li.nav-item a[href*="https://www.paypal.com/paypalme"]:hover {
   background: hotpink;
   color: #3344bb;
 }
