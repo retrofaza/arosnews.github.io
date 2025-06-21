@@ -122,6 +122,21 @@ Dave Gnukem
 ![Dave Gnukem](/assets/img/0625/davegnukem.jpg)
 *Dave Gnukem*
 
+> ## [Ccd2cue](https://archives.arosworld.org/?function=showfile&file=utility/filetool/ccd2cue-v01.x86_64-aros-v11.zip) (v. 0.1) `x86_64`
+> (autor:	Bruno Felix Rezende Ribeiro)
+
+Ccd2cue
+
+![Ccd2cue](/assets/img/0625/ccd2cue.jpg)
+*Ccd2cue*
+
+> ## [Finder](https://archives.arosworld.org/?function=showfile&file=utility/filetool/finder-v3.1.x86_64-aros-v11.zip) (v. 0.1) `x86_64`
+> (autor:	Bruno Felix Rezende Ribeiro)
+
+Finder
+
+![Finder](/assets/img/0625/finder.jpg)
+*Finder*
 
 > ## [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/filesysbox-v54.7.x86_64-aros-v11.zip) (v. 54.7) `x86_64`
 > ## [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/misc/filesysbox-v54.7.i386-aros.lha) (v. 54.7) `i386`
