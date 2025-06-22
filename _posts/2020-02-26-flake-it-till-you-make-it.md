@@ -19,7 +19,7 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 > ## [Dose 2](https://archives.arosworld.org/?function=showfile&file=demo/scene/dose2.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	mfx)
 
-![Dose 2](/assets/img/0625/dose2.jpg)
+![Dose 2](/assets/img/0625/dose2.png)
 *Dose 2 by mfx* - 5th in the Assembly 2001 "Combined Demo" competition
 
 > ## [Stercus Accidit](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/stercus.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
