@@ -21,7 +21,7 @@ Dave Gnukem
 
 SDL PoP
 
-![SDL PoP](/assets/img/0625/sdlpop.jpg)
+![SDL PoP](/assets/img/0625/prince.png)
 *SDL PoP*
 
 Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
