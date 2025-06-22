@@ -13,10 +13,36 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 > ## [fit-039: Boy](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/boy.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	Fit)
 
-fit-039: Boy
-
 ![fit-039: Boy](/assets/img/0625/boy.png)
-*fit-039: Boy*
+*fit-039: Boy by Fit* - 1st place at Icons 2008 demoparty in the "combined demo" competition
+
+> ## [Dose 2](https://archives.arosworld.org/?function=showfile&file=demo/scene/dose2.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
+> (autor:	mfx)
+
+![Dose 2](/assets/img/0625/dose2.jpg)
+*Dose 2 by mfx* - 5th in the Assembly 2001 "Combined Demo" competition
+
+> ## [Stercus Accidit](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/stercus.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
+> (autor:	Fit)
+
+![Stercus Accidit](/assets/img/0625/stercus.jpg)
+*Stercus Accidit by Fit* - 1st place at Motorola Inside 2006 demoparty in the "amiga demo" competition
+
+> ## [Timeless](https://archives.arosworld.org/?function=showfile&file=demo/scene/timeless.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
+> (autor:	David Ashley)
+
+Timeless
+
+![Timeless](/assets/img/0625/timeless.jpg)
+*Timeless*
+
+> ## [Planet Hively](https://archives.arosworld.org/?function=showfile&file=demo/music/planethively.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
+> (autor:	IRIS and Up Rough)
+
+Planet Hively
+
+![Planet Hively](/assets/img/0625/planethively.jpg)
+*Planet Hively*
 
 > ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) (v. 1.6.2) `x86_64`
 > ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield-1.6.2.i386-aros.zip) (v. 1.6.2) `i386`
@@ -35,29 +61,7 @@ CabExtract
 ![CabExtract](/assets/img/0625/cabextract.png)
 *CabExtract*
 
-> ## [Dose 2](https://archives.arosworld.org/?function=showfile&file=demo/scene/dose2.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
-> (autor:	mfx)
 
-Dose 2
-
-![Dose 2](/assets/img/0625/dose2.jpg)
-*Dose 2*
-
-> ## [Timeless](https://archives.arosworld.org/?function=showfile&file=demo/scene/timeless.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
-> (autor:	David Ashley)
-
-Timeless
-
-![Timeless](/assets/img/0625/timeless.jpg)
-*Timeless*
-
-> ## [Planet Hively](https://archives.arosworld.org/?function=showfile&file=demo/music/planethively.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
-> (autor:	IRIS and Up Rough)
-
-Planet Hively
-
-![Planet Hively](/assets/img/0625/planethively.jpg)
-*Planet Hively*
 
 > ## [Screentest](https://archives.arosworld.org/?function=showfile&file=demo/misc/screentest-v1.x86_64-aros-v11.zip) (v. 1) `x86_64`
 > (autor:	Matthias Rustler)
@@ -82,14 +86,6 @@ RMan
 
 ![RMan](/assets/img/0625/rman.jpg)
 *RMan*
-
-> ## [Stercus Accidit](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/stercus.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
-> (autor:	Fit)
-
-Stercus Accidit
-
-![Stercus Accidit](/assets/img/0625/stercus.jpg)
-*Stercus Accidit*
 
 > ## [Antiword](https://archives.arosworld.org/?function=showfile&file=utility/text/convert/antiword-v0.37.x86_64-aros-v11.zip) (v. 0.37) `x86_64`
 > (autor:	Adri van Os)
