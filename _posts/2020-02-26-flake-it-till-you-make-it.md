@@ -37,10 +37,8 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 > ## [Planet Hively](https://archives.arosworld.org/?function=showfile&file=demo/music/planethively.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	IRIS and Up Rough)
 
-Planet Hively
-
-![Planet Hively](/assets/img/0625/planethively.jpg)
-*Planet Hively*
+![Planet Hively](/assets/img/0625/planethively.png)
+*Planet Hively* - Demoscene Musicdisk
 
 > ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) (v. 1.6.2) `x86_64`
 > ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield-1.6.2.i386-aros.zip) (v. 1.6.2) `i386`
