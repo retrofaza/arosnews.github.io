@@ -6,7 +6,9 @@ lang: pl
 ref: 0625
 ---
 
-A co nowego w AROS Archives?  
+A co nowego w AROS Archives?
+
+Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 
 > ## [fit-039: Boy](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/boy.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	Fit)
