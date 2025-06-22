@@ -15,7 +15,7 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 
 fit-039: Boy
 
-![fit-039: Boy](/assets/img/0625/boy.jpg)
+![fit-039: Boy](/assets/img/0625/boy.png)
 *fit-039: Boy*
 
 > ## [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) (v. 1.6.2) `x86_64`
