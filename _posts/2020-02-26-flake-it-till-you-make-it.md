@@ -13,7 +13,7 @@ A co nowego w AROS Archives?
 
 Dave Gnukem
 
-![Dave Gnukem](/assets/img/0625/davegnukem.jpg)
+![Dave Gnukem](/assets/img/0625/davegnukem.png)
 *Dave Gnukem*
 
 > ## [SDL PoP](https://archives.arosworld.org/?function=showfile&file=game/platform/sdlpop.x86_64-aros-v11.zip) (v. 1.14) `x86_64`
