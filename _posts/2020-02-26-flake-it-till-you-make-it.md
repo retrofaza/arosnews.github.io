@@ -25,7 +25,7 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 > ## [Stercus Accidit](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/stercus.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	Fit)
 
-![Stercus Accidit](/assets/img/0625/stercus.jpg)
+![Stercus Accidit](/assets/img/0625/stercus.png)
 *Stercus Accidit by Fit* - 1st place at Motorola Inside 2006 demoparty in the "amiga demo" competition
 
 > ## [Timeless](https://archives.arosworld.org/?function=showfile&file=demo/scene/timeless.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
