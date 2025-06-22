@@ -31,10 +31,8 @@ Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 > ## [Timeless](https://archives.arosworld.org/?function=showfile&file=demo/scene/timeless.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
 > (autor:	David Ashley)
 
-Timeless
-
-![Timeless](/assets/img/0625/timeless.jpg)
-*Timeless*
+![Timeless](/assets/img/0625/timeless.png)
+*Timeless* - SDL port of Tran's Timeless MS-DOS demo
 
 > ## [Planet Hively](https://archives.arosworld.org/?function=showfile&file=demo/music/planethively.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	IRIS and Up Rough)
