@@ -8,6 +8,22 @@ ref: 0625
 
 A co nowego w AROS Archives?
 
+> ## [Dave Gnukem](https://archives.arosworld.org/?function=showfile&file=game/platform/davegnukem.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
+> (autor:	David Joffe)
+
+Dave Gnukem
+
+![Dave Gnukem](/assets/img/0625/davegnukem.jpg)
+*Dave Gnukem*
+
+> ## [SDL PoP](https://archives.arosworld.org/?function=showfile&file=game/platform/sdlpop.x86_64-aros-v11.zip) (v. 1.14) `x86_64`
+> (autor:	NagyD)
+
+SDL PoP
+
+![SDL PoP](/assets/img/0625/sdlpop.jpg)
+*SDL PoP*
+
 Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
 
 > ## [fit-039: Boy](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/boy.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
@@ -98,23 +114,6 @@ DaySleeper
 
 ![DaySleeper](/assets/img/0625/daysleeper.jpg)
 *DaySleeper*
-
-> ## [SDL PoP](https://archives.arosworld.org/?function=showfile&file=game/platform/sdlpop.x86_64-aros-v11.zip) (v. 1.14) `x86_64`
-> (autor:	NagyD)
-
-SDL PoP
-
-![SDL PoP](/assets/img/0625/sdlpop.jpg)
-*SDL PoP*
-
-
-> ## [Dave Gnukem](https://archives.arosworld.org/?function=showfile&file=game/platform/davegnukem.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
-> (autor:	David Joffe)
-
-Dave Gnukem
-
-![Dave Gnukem](/assets/img/0625/davegnukem.jpg)
-*Dave Gnukem*
 
 > ## [Ccd2cue](https://archives.arosworld.org/?function=showfile&file=utility/filetool/ccd2cue-v01.x86_64-aros-v11.zip) (v. 0.1) `x86_64`
 > (autor:	Bruno Felix Rezende Ribeiro)
