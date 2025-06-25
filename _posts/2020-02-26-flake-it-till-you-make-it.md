@@ -11,7 +11,7 @@ A co nowego w AROS Archives?
 > ## [Dave Gnukem](https://archives.arosworld.org/?function=showfile&file=game/platform/davegnukem.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
 > (autor:	David Joffe)
 
-Dave Gnukem
+Dave Gnukem to przewijana strzelanka platformowa 2D w stylu retro, podobna do Duke Nukem 1 (~1991) i nią inspirowana. Podczas gdy oryginalny Duke Nukem 1 miał 16-kolorową grafikę EGA 320x200; celem jest tutaj „podobna, ale inna” rozgrywka oraz „wygląd i styl”. Jest to swego rodzaju parodia oryginału. Należy pamiętać, że nie jest to „klon” ani „remake”.
 
 ![Dave Gnukem](/assets/img/0625/davegnukem.png)
 *Dave Gnukem*
@@ -19,7 +19,7 @@ Dave Gnukem
 > ## [SDL PoP](https://archives.arosworld.org/?function=showfile&file=game/platform/sdlpop.x86_64-aros-v11.zip) (v. 1.14) `x86_64`
 > (autor:	NagyD)
 
-SDL PoP
+SDL-PoP to open-source'owy port klasycznej gry Prince of Persia (wydanej pierwotnie przez Broderbund w 1989 roku), który został przepisany z oryginalnego kodu źródłowego Apple II oraz DOS, z użyciem biblioteki SDL (Simple DirectMedia Layer). Dzięki temu port działa na wielu platformach. Gra zachowuje wszystkie oryginalne mechaniki, poziomy, grafikę i dźwięki.
 
 ![SDL PoP](/assets/img/0625/prince.png)
 *SDL PoP*
