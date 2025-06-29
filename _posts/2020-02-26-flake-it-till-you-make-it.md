@@ -56,6 +56,8 @@ Mamy kilka demoscenowych produkcji, wcześniej dostępnych tylko na 32-bitowej w
 ![Planet Hively](/assets/img/0625/planethively.png)
 *Planet Hively* - Demoscene Musicdisk
 
+Kilka przydatnych narzędzi także doczekało się wersji 64-bit:
+
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
 | `x86_64` | [Unshield](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) | Utility to extract files from InstallShield CAB |
 | `x86_64` | [CabExtract](https://archives.arosworld.org/?function=showfile&file=utility/archive/cabextract1.11.x86_64-aros-v11.zip) | Utility to extract from CAB files |
@@ -70,6 +72,7 @@ Mamy kilka demoscenowych produkcji, wcześniej dostępnych tylko na 32-bitowej w
 | `x86_64` | [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.x86_64-aros-v11.zip) | SMB2 file system client |
 
 
+
 > ## [Dopus5](https://archives.arosworld.org/?function=showfile&file=utility/filetool/dopus5_92_i386-aros.zip) (v. 5.92) `i386`
 > (autor:	Dopus5 Team)
 
@@ -78,10 +81,8 @@ Dopus5
 ![Dopus5](/assets/img/0625/dopus5.jpg)
 *Dopus5*
 
-> ## [Acuario](https://archives.arosworld.org/?function=showfile&file=utility/misc/acuario.lha) (v. 5.92) `i386`
-> (autor:	Dopus5 Team)
+|----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| `i386` | [Acuario](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) | Portable screen saver with beauty mermaid & fishes |
+| `i386` | [Cards Making Kit](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) | SDK to make your decks for Morgue Games |
 
-Acuario
 
-![Acuario](/assets/img/0625/acuario.jpg)
-*Acuario*
