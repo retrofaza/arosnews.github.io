@@ -11,7 +11,7 @@ A co nowego w AROS Archives?
 > ## [Dave Gnukem](https://archives.arosworld.org/?function=showfile&file=game/platform/davegnukem.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
 > (autor:	David Joffe)
 
-Dave Gnukem to przewijana strzelanka platformowa 2D w stylu retro, podobna do Duke Nukem 1 (~1991) i nią inspirowana. Podczas gdy oryginalny Duke Nukem 1 miał 16-kolorową grafikę EGA 320x200; celem jest tutaj „podobna, ale inna” rozgrywka oraz „wygląd i styl”. Jest to swego rodzaju parodia oryginału. Należy pamiętać, że nie jest to „klon” ani „remake”.
+Dave Gnukem to dwuwymiarowa, przewijana strzelanka platformowa w stylu retro, inspirowana klasycznym Duke Nukem 1 z 1991 roku. Choć czerpie z niego klimat, grafiki i ducha epoki 16-kolorowego EGA w rozdzielczości 320×200, nie jest ani klonem, ani remakiem. Zamiast tego oferuje własne podejście do gatunku — rozgrywkę i oprawę wizualną w stylu „podobnym, ale innym”, z wyraźnym przymrużeniem oka. To swoista parodia oryginału, która oddaje hołd klasyce, jednocześnie zachowując autorską tożsamość.
 
 ![Dave Gnukem](/assets/img/0625/davegnukem.png)
 *Dave Gnukem*
