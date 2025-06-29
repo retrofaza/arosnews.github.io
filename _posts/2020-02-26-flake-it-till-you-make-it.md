@@ -78,7 +78,7 @@ Kilka przydatnych narzędzi także doczekało się wersji 64-bit:
 
 Dopus5
 
-![Dopus5](/assets/img/0625/dopus5.jpg)
+![Dopus5](/assets/img/0625/dopus5_1.jpg)
 *Dopus5*
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
