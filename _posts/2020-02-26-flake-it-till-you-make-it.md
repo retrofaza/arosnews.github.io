@@ -71,15 +71,17 @@ Kilka przydatnych narzędzi także doczekało się wersji 64-bit:
 | `x86_64` | [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/filesysbox-v54.7.x86_64-aros-v11.zip) | A FUSE compatible file system layer |
 | `x86_64` | [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.x86_64-aros-v11.zip) | SMB2 file system client |
 
-
+Wciąż wychodzi jeszcze oprogramowanie dla systemu 32-bit:
 
 > ## [Dopus5](https://archives.arosworld.org/?function=showfile&file=utility/filetool/dopus5_92_i386-aros.zip) (v. 5.92) `i386`
 > (autor:	Dopus5 Team)
 
-Dopus5
+Nowa wersja klasycznego menadżera plików z linii „Magellan”. Na razie dla 32-bitowej wersji systemu, ale trwają prace nad Direcory Opus 5.92 dla najnowszego AROSa x86_64. 
 
 ![Dopus5](/assets/img/0625/dopus5_1.jpg)
 *Dopus5*
+
+Dla i386 mamy też aktalizacje aplikacji stworzonych przy pomocy programu Hollywood. Tutaj liczymy, że producent Hollywood wypuści wersję swojego pakietu dla AROSa 64-bit. Jeśli tak się nie stanie, będziemy musieli poczekać na emulator, który umożliwi ich uruchamanie na x86_64.
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
 | `i386` | [Acuario](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) | Portable screen saver with beauty mermaid & fishes |
