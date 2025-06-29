@@ -81,7 +81,7 @@ Nowa wersja klasycznego menadżera plików z linii „Magellan”. Na razie dla 
 ![Dopus5](/assets/img/0625/dopus5_1.jpg)
 *Dopus5*
 
-Dla i386 mamy też aktalizacje aplikacji stworzonych przy pomocy programu Hollywood. Tutaj liczymy, że producent Hollywood wypuści wersję swojego pakietu dla AROSa 64-bit. Jeśli tak się nie stanie, będziemy musieli poczekać na emulator, który umożliwi ich uruchamianie na x86_64.
+Dla i386 mamy też aktualizacje aplikacji stworzonych przy pomocy programu Hollywood. Tutaj liczymy, że producent Hollywood wypuści wersję swojego pakietu dla AROSa 64-bit. Jeśli tak się nie stanie, będziemy musieli poczekać na emulator, który umożliwi ich uruchamianie na x86_64.
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
 | `i386` | [Acuario](https://archives.arosworld.org/?function=showfile&file=utility/archive/unshield1.6.2.x86_64-aros-v11.zip) | Portable screen saver with beauty mermaid & fishes |
