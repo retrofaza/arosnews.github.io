@@ -69,7 +69,7 @@ Kilka przydatnych narzędzi także doczekało się wersji 64-bit:
 | `x86_64` | [Ccd2cue](https://archives.arosworld.org/?function=showfile&file=utility/filetool/ccd2cue-v01.x86_64-aros-v11.zip) | Converts CloneCD CCD to CUE format |
 | `x86_64` | [Finder](https://archives.arosworld.org/?function=showfile&file=utility/filetool/finder-v3.1.x86_64-aros-v11.zip) | MUI File Search Tool |
 | `x86_64` | [Filesysbox](https://archives.arosworld.org/?function=showfile&file=library/filesysbox-v54.7.x86_64-aros-v11.zip) | A FUSE compatible file system layer |
-| `x86_64` | [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.x86_64-aros-v11.zip) | SMB2 file system client |
+| `x86_64` | [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.10.x86_64-aros-v11.zip) | SMB2 file system client |
 
 Wciąż wychodzi jeszcze oprogramowanie dla systemu 32-bit:
 
