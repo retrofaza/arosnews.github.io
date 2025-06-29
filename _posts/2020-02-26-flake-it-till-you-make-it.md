@@ -24,7 +24,7 @@ SDL-PoP to open-source'owy port klasycznej gry Prince of Persia (wydanej pierwot
 ![SDL PoP](/assets/img/0625/prince.png)
 *SDL PoP*
 
-Mamy kilka demoscenowych produkcji skompilowanych dla x86_64:
+Mamy kilka demoscenowych produkcji, wcześniej dostępnych tylko na 32-bitowej wersji systemu, a teraz skompilowanych dla x86_64:
 
 > ## [fit-039: Boy](https://archives.arosworld.org/?function=showfile&file=demo/scene/fit/boy.x86_64-aros-v11.zip) (v. 1.0) `x86_64`
 > (autor:	Fit)
@@ -141,7 +141,7 @@ Filesysbox
 *Filesysbox*
 
 > ## [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.x86_64-aros-v11.zip) (v. 53.9) `x86_64`
-> ## [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs-v53.9.i386-aros.lha) (v. 53.9) `i386`
+> ## [smb2-handler](https://archives.arosworld.org/?function=showfile&file=network/samba/smb2fs.i386-aros.lha) (v. 53.10) `i386`
 > (autor:	Fredrik Wikstrom)
 
 smb2-handler
