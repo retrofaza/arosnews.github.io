@@ -6,7 +6,13 @@ lang: pl
 ref: 0625
 ---
 
-A co nowego w AROS Archives?
+Nowy miesiąc, nowe wieści! Czas na kolejne podsumowanie postępów – a czerwiec przyniósł naprawdę sporo dobrych wiadomości. Przede wszystkim odnotowaliśmy wiele konwersji programów z 32-bitowych na 64-bitowe wersje. To bardzo cieszy, bo oznacza, że nasz tegoroczny cel – pełne przejście na dystrybucje 64-bitowe – staje się coraz bardziej realny.
+
+Deadwood kontynuuje intensywne prace nad wersją 3.0 przeglądarki Odyssey. Już teraz, na podstawie wersji testowej, widać znaczną poprawę w obsłudze wielu stron (Discord.com działa!). Finalne wydanie zbliża się wielkimi krokami! Jeśli chcesz być na bieżąco lub dołączyć do testów – zapraszamy do dedykowanego wątku na forum.
+
+Z kolei Kalamatee miał wyjątkowo aktywny miesiąc – jego poprawki objęły całe repozytorium AROSa: od toolchaina, przez wsparcie dla różnych platform, konfiguracje, aż po skrypty budujące. Świetna, solidna robota!
+
+Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
 
 > ## [Dave Gnukem](https://archives.arosworld.org/?function=showfile&file=game/platform/davegnukem.x86_64-aros-v11.zip) (v. 1.0.2) `x86_64`
 > (autor:	David Joffe)
