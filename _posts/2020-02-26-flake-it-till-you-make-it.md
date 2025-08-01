@@ -20,13 +20,13 @@ InstallerLG
 
 HivelyReplayer
 
-> ## [libmikmod](https://archives.arosworld.org/?function=showfile&file=development/library/libmikmod.x86_64-aros-v11.zip) (v. 3.3.13) `x86_64`
-> (autorzy:	Nicomen, Curty, Spot/Up Rough, Fredrik Wikstrom)
+> ## [UHCTools](https://archives.arosworld.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) (v. 2.1) `i386`
+> (autorzy:	Patrik Axelsson / David Eriksson)
 
-libmikmod
+UHCTools
 
-> ## [V.A.M.P.](https://archives.arosworld.org/?function=showfile&file=video/play/vamp.lha) (v. 3.3.13) `i386`
-> (autorzy:	Nicomen, Curty, Spot/Up Rough, Fredrik Wikstrom)
+> ## [V.A.M.P.](https://archives.arosworld.org/?function=showfile&file=video/play/vamp.lha) (v. 3.25) `i386`
+> (autorzy:	Templario & Samo79)
 
 libmikmod
 
