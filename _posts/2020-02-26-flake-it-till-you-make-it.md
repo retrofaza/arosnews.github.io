@@ -38,8 +38,15 @@ Po trzecie, poprawiana jest obsługa sprzętu – obecnie system 64-bitowy nie w
 
 Timothy **Terminills** Deters zapowiedział wydanie własnej 64-bitowej dystrybucji AROS (ABIv1). Mocną stroną ma być załączenie do niej pełnej wersji **FinalWritera**. Na razie nie jest jeszcze ujawniona nazwa nowej dystrybucji, czekamy na dalsze informacje w tym temacie.
 
+**Amigamia**, administrator forum **AROSWorld**, przywrócił z kopii zapasowej archiwalne fora dyskusyjne poświęcone AROS-owi. To prawdziwa skarbnica wiedzy — można tam nie tylko powspominać, jak wyglądały dawne rozmowy społeczności, ale też znaleźć wiele przydatnych informacji, które wciąż pozostają aktualne.
 
-Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
+Dostępne archiwa (tylko do odczytu):
+- [aros-exec.arosworld.org](https://aros-exec.arosworld.org/)
+- [ae.arosworld.org](https://ae.arosworld.org/)
+
+Przypominam, że aktywne i aktualne forum AROS-a działa pod adresem: [www.arosworld.org](https://www.arosworld.org/) — serdecznie zapraszam do udziału w dyskusji!
+
+Sezon wakacyjny daje o sobie znać szczególnie w AROS Archives – tym razem nowych pozycji jest tak niewiele, że można je policzyć na palcach jednej ręki. Miejmy jednak nadzieję, że w przyszłym miesiącu zaległości zostaną nadrobione z nawiązką :)
 
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
