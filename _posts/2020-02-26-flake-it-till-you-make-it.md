@@ -28,6 +28,14 @@ Krzysztof **Deadwood** Śmiechowicz, oprócz intensywnych prac nad nową wersją
 ![Quickpart](/assets/img/0725/amiberry3.png)  
 *AROS Amiberry*
 
+**Deadwood**, jak co kwartał, przedstawił zaktualizowany plan rozwoju systemu 64-bit, z którym można [zapoznać się tutaj](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1114&rowstart=40&pid=8777#post_8769). W krótkim terminie opiera się on na trzech kierunkach:
+
+Po pierwsze, trwają intensywne prace nad przeglądarką Odyssey – celem jest jej unowocześnienie, aby stabilnie i szybko obsługiwała współczesne usługi online, co pozwoli zastąpić brakujące aplikacje ich internetowymi odpowiednikami.
+
+Po drugie, uzupełniane są braki w oprogramowaniu – poprzez rekompilację lub emulację dodawane są niezbędne funkcjonalności, tak aby w każdej kategorii dostępne było przynajmniej jedno dobrze działające narzędzie.
+
+Po trzecie, poprawiana jest obsługa sprzętu – obecnie system 64-bitowy nie wspiera jeszcze części urządzeń dostępnych w wersji 32-bitowej (np. kart NVidia). Celem jest przywrócenie tego wsparcia oraz rozszerzenie go o nowszy, łatwo dostępny sprzęt z drugiej ręki.
+
 Timothy **Terminills** Deters zapowiedział wydanie własnej 64-bitowej dystrybucji AROS (ABIv1). Mocną stroną ma być załączenie do niej pełnej wersji **FinalWritera**. Na razie nie jest jeszcze ujawniona nazwa nowej dystrybucji, czekamy na dalsze informacje w tym temacie.
 
 
