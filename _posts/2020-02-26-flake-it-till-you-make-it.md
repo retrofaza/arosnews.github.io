@@ -19,11 +19,9 @@ Osobiście najbardziej ucieszyła mnie wiadomość o rozpoczęciu prac nad porte
 
 <iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 *https://www.youtube.com/@Kalamatee*
-<a href="https://github.com/sponsors/NAZWA_UZYTKOWNIKA" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Sponsoruj_na_GitHub-💖-pink?logo=github" alt="Sponsoruj na GitHub" style="height: 40px;">
-</a>
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Kalamatee)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Kalamatee)](https://img.shields.io/github/sponsors/Kalamatee?style=flat
+)
 
 
 
