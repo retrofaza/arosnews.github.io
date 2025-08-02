@@ -15,13 +15,14 @@ Jednym z jego najnowszych projektów jest QuickPart – świeże narzędzie do p
 ![Quickpart](/assets/img/0725/quickpart.png)  
 *AROS Quick Part*
 
-Osobiście najbardziej ucieszyła mnie wiadomość o rozpoczęciu prac nad portem biblioteki SDL2 dla AROSa. Dotychczasowy SDL 1.2, choć zasłużony, swoje lata już ma – i nie da się ukryć, że AROS w tym aspekcie został nieco w tyle. Przejście na SDL2 otwiera drzwi do całej fali nowych portów gier i aplikacji, które z tej biblioteki korzystają. Zapowiada się świetna zabawa – zwłaszcza dla programistów! Już teraz można testować pierwsze wersje (choć wsparcie dla OpenGL nie jest jeszcze dostępne). 
+Osobiście najbardziej ucieszyła mnie wiadomość o rozpoczęciu prac nad portem biblioteki SDL2 dla AROSa. Dotychczasowy SDL 1.2, choć zasłużony, swoje lata już ma – i nie da się ukryć, że AROS w tym aspekcie został nieco w tyle. Przejście na SDL2 otwiera drzwi do całej fali nowych portów gier i aplikacji, które z tej biblioteki korzystają. Zapowiada się świetna zabawa – zwłaszcza dla programistów! Już teraz można testować pierwsze wersje (choć wsparcie dla OpenGL nie jest jeszcze dostępne).  
 
+Kalamatee na pewno będzie miło, jeśli wesprzesz jego pracę:
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Kalamatee)](https://img.shields.io/github/sponsors/Kalamatee?style=flat
+)  
 <iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 *https://www.youtube.com/@Kalamatee*
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Kalamatee)](https://img.shields.io/github/sponsors/Kalamatee?style=flat
-)
 
 
 
