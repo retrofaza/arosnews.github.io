@@ -13,9 +13,12 @@ Nick "Kalamatee" Andrews wprowadził szereg poprawek w całym kodzie źródłowy
 Jedną z rzeczy, nad którą ostatnio pracował Kalamatee, jest QuickPart – nowe narzędzie do partycjonowania. Obecnie QuickPart działa w trybie tylko do odczytu. Można wyświetlać partycje, ale nie można ich modyfikować. Zapowiada się bardzo dobry i przydatny program!
 
 ![Quickpart](/assets/img/0725/quickpart.png)  
-*Quickpart*
+*AROS Quick Part*
 
+To co mnie osobiście najbardziej ucieszyło to rozpoczęcie przez Kalamatee pracy nad portem biblioteki SDL2 dla AROSa. Obecna wersja SDL1.2 jest już, nie ma co ukrywać, wiekowa i tutaj świat AROSowi trochę odjechał. SDL2 z pewnością zaowocuje lawiną aktualizacji i nowych portów gier i programów opartych na tej bibliotece. Zapowiada się świetna zabawa dla programstów :) Na chwilę obecną można już testować możliwości biblioteki (nie działa jeszcze OpenGL!). 
 
+<iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*https://www.youtube.com/@Kalamatee*
 
 Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
 
