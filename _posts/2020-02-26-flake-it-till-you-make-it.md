@@ -23,6 +23,8 @@ Kalamatee na pewno będzie miło, jeśli wesprzesz jego pracę:
 <iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *https://www.youtube.com/@Kalamatee*
 
+Krzysztof **Deadwood** Śmiechowicz, oprócz intensywnych prac nad nową wersją przeglądarki Odyssey, podjął się realizacji kolejnego ambitnego przedsięwzięcia. Rozpoczął prace nad portem emulatora klasycznej **Amigi** na 64-bitowy system AROS. Projekt znajduje się na wczesnym etapie rozwoju, a jego fundamentem najprawdopodobniej będą źródła emulatora Amiberry.
+
 ![Quickpart](/assets/img/0725/amiberry3.png)  
 *Amiberry*
 
