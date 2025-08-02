@@ -23,6 +23,9 @@ Osobiście najbardziej ucieszyła mnie wiadomość o rozpoczęciu prac nad porte
   <img src="https://img.shields.io/badge/Sponsoruj_na_GitHub-💖-pink?logo=github" alt="Sponsoruj na GitHub" style="height: 40px;">
 </a>
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/:Kalamatee)
+
+
 
 Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
 
