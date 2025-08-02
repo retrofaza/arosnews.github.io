@@ -23,6 +23,9 @@ Kalamatee na pewno będzie miło, jeśli wesprzesz jego pracę:
 <iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *https://www.youtube.com/@Kalamatee*
 
+![Quickpart](/assets/img/0725/amiberry3.png)  
+*Amiberry*
+
 Timothy **Terminills** Deters zapowiedział wydanie własnej 64-bitowej dystrybucji AROS (ABIv1). Mocną stroną ma być załączenie do niej pełnej wersji **FinalWritera**. Na razie nie jest jeszcze ujawniona nazwa nowej dystrybucji, czekamy na dalsze informacje w tym temacie.
 
 
