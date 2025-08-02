@@ -10,6 +10,11 @@ Lato to czas, który deweloperzy AROSa spędzają zwykle w otoczeniu palm, gorą
 
 Nick "Kalamatee" Andrews wprowadził szereg poprawek w całym kodzie źródłowym AROSa. Zmiany dotyczą systemu kompilacji, biblioteki C, datatypów, sterowników i innych. Zmian jest naprawdę dużo, więc zainteresowaych odsyłam do [pełnej listy na github](https://github.com/aros-development-team/AROS/commits?author=Kalamatee&since=2025-07-01&until=2025-07-31).
 
+Jedną z rzeczy, nad którą ostatnio pracował Kalamatee, jest QuickPart – nowe narzędzie do partycjonowania. Obecnie QuickPart działa w trybie tylko do odczytu. Można wyświetlać partycje, ale nie można ich modyfikować. Zapowiada się bardzo dobry i przydatny program!
+
+![Quickpart](/assets/img/0725/quickpart.png)  
+*Quickpart*
+
 
 
 Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
