@@ -26,7 +26,7 @@ Kalamatee na pewno będzie miło, jeśli wesprzesz jego pracę:
 Krzysztof **Deadwood** Śmiechowicz, oprócz intensywnych prac nad nową wersją przeglądarki Odyssey, podjął się realizacji kolejnego ambitnego przedsięwzięcia. Rozpoczął prace nad portem emulatora klasycznej **Amigi** na 64-bitowy system AROS. Projekt znajduje się na wczesnym etapie rozwoju, a jego fundamentem najprawdopodobniej będą źródła emulatora Amiberry.
 
 ![Quickpart](/assets/img/0725/amiberry3.png)  
-*Amiberry*
+*AROS Amiberry*
 
 Timothy **Terminills** Deters zapowiedział wydanie własnej 64-bitowej dystrybucji AROS (ABIv1). Mocną stroną ma być załączenie do niej pełnej wersji **FinalWritera**. Na razie nie jest jeszcze ujawniona nazwa nowej dystrybucji, czekamy na dalsze informacje w tym temacie.
 
