@@ -6,19 +6,23 @@ lang: pl
 ref: 0725
 ---
 
-Lato to czas, który deweloperzy AROSa spędzają zwykle w otoczeniu palm, gorącego piasku i pięknych kobiet. Ale nawet wtedy znajdują jeszcze czas, by dodać kilka commitów. Co więc nowego wydarzyło się w lipcu?
+Lato to dla deweloperów AROSa czas wypoczynku wśród palm, gorącego piasku i... pięknych commitów. Nawet podczas wakacyjnego relaksu potrafią znaleźć chwilę, by wprowadzić zmiany do kodu. Co przyniósł nam więc lipiec?
 
-Nick "Kalamatee" Andrews wprowadził szereg poprawek w całym kodzie źródłowym AROSa. Zmiany dotyczą systemu kompilacji, biblioteki C, datatypów, sterowników i innych. Zmian jest naprawdę dużo, więc zainteresowaych odsyłam do [pełnej listy na github](https://github.com/aros-development-team/AROS/commits?author=Kalamatee&since=2025-07-01&until=2025-07-31).
+Nick „Kalamatee” Andrews jak zwykle nie próżnował. Wprowadził całą serię poprawek w różnych częściach systemu – od systemu kompilacji, przez bibliotekę C, datatypy, aż po sterowniki. Lista zmian jest naprawdę imponująca, dlatego wszystkich ciekawych szczegółów zapraszam do [pełnego zestawienia na GitHubie](https://github.com/aros-development-team/AROS/commits?author=Kalamatee&since=2025-07-01&until=2025-07-31).
 
-Jedną z rzeczy, nad którą ostatnio pracował Kalamatee, jest QuickPart – nowe narzędzie do partycjonowania. Obecnie QuickPart działa w trybie tylko do odczytu. Można wyświetlać partycje, ale nie można ich modyfikować. Zapowiada się bardzo dobry i przydatny program!
+Jednym z jego najnowszych projektów jest QuickPart – świeże narzędzie do partycjonowania dysków. Na razie działa w trybie tylko do odczytu, co oznacza, że można przeglądać istniejące partycje, ale jeszcze ich nie modyfikować. Zapowiada się jednak na naprawdę praktyczne i nowoczesne rozwiązanie!
 
 ![Quickpart](/assets/img/0725/quickpart.png)  
 *AROS Quick Part*
 
-To co mnie osobiście najbardziej ucieszyło to rozpoczęcie przez Kalamatee pracy nad portem biblioteki SDL2 dla AROSa. Obecna wersja SDL1.2 jest już, nie ma co ukrywać, wiekowa i tutaj świat AROSowi trochę odjechał. SDL2 z pewnością zaowocuje lawiną aktualizacji i nowych portów gier i programów opartych na tej bibliotece. Zapowiada się świetna zabawa dla programstów :) Na chwilę obecną można już testować możliwości biblioteki (nie działa jeszcze OpenGL!). 
+Osobiście najbardziej ucieszyła mnie wiadomość o rozpoczęciu prac nad portem biblioteki SDL2 dla AROSa. Dotychczasowy SDL 1.2, choć zasłużony, swoje lata już ma – i nie da się ukryć, że AROS w tym aspekcie został nieco w tyle. Przejście na SDL2 otwiera drzwi do całej fali nowych portów gier i aplikacji, które z tej biblioteki korzystają. Zapowiada się świetna zabawa – zwłaszcza dla programistów! Już teraz można testować pierwsze wersje (choć wsparcie dla OpenGL nie jest jeszcze dostępne). 
 
-<iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/VzzCPzGYTVs" title="AROS64 UEFI Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 *https://www.youtube.com/@Kalamatee*
+<a href="https://github.com/sponsors/NAZWA_UZYTKOWNIKA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Sponsoruj_na_GitHub-💖-pink?logo=github" alt="Sponsoruj na GitHub" style="height: 40px;">
+</a>
+
 
 Nie próżnują też inni deweloperzy – coś się kroi i niewykluczone, że wkrótce zostaniemy miło zaskoczeni. A tymczasem zobaczmy, co nowego trafiło w czerwcu do AROS Archives:
 
