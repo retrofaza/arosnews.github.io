@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AROS x86 - lipiec 2025
+title: AROS x86 - sierpień 2025
 subtitle: podsumowanie miesiąca
 lang: pl
-ref: 0725
+ref: 0825
 ---
 
 Lato to dla deweloperów AROSa czas wypoczynku wśród palm, gorącego piasku i... pięknych commitów. Nawet podczas wakacyjnego relaksu potrafią znaleźć chwilę, by wprowadzić zmiany do kodu. Co przyniósł nam więc lipiec?
@@ -47,6 +47,39 @@ Dostępne archiwa (tylko do odczytu):
 Przypominam, że aktywne i aktualne forum AROS-a działa pod adresem: [www.arosworld.org](https://www.arosworld.org/) — serdecznie zapraszam do udziału w dyskusji!
 
 Sezon wakacyjny daje o sobie znać szczególnie w AROS Archives – tym razem nowych pozycji jest tak niewiele, że można je policzyć na palcach jednej ręki. Miejmy jednak nadzieję, że w przyszłym miesiącu zaległości zostaną nadrobione z nawiązką :)
+
+
+> ## [Super-Haxagon](https://archives.arosworld.org/?function=showfile&file=game/action/super-haxagon.x86_64-aros-v11.zip) (v. 3.9.1) `x86_64`
+> (autor:	AJ Walter)
+
+Super-Haxagon
+
+![Super-Haxagon](/assets/img/0825/haxagon.png)
+*Super-Haxagon*
+
+> ## [TBFTSS: The Pandora War](https://archives.arosworld.org/?function=showfile&file=game/action/tbftss.x86_64-aros-v11.zip) (v. 1.5.1) `x86_64`
+> (autor:	Stephen J Sweeney)
+
+TBFTSS
+
+![TBFTSS](/assets/img/0825/tbftss.png)
+*	The Battle for the Solar System: the Pandora War*
+
+> ## [Tilt-N-Roll](https://archives.arosworld.org/?function=showfile&file=game/action/tiltnroll.x86_64-aros-v11.zip) (v. 1.2.0) `x86_64`
+> (autor:	Greg Kennedy)
+
+Tilt-N-Roll
+
+![Tilt-N-Roll](/assets/img/0825/tiltnroll.png)
+*Tilt-N-Roll*
+
+> ## [RNOSoundboard](https://archives.arosworld.org/?function=showfile&file=audio/play/rnosoundboard.i386-aros.lha) (v. 1.0) `i386`
+> (autor:	jPV^RNO)
+
+RNOSoundboard
+
+![RNOSoundboard](/assets/img/0825/rnosoundboard.jpg)
+*RNOSoundboard*
 
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
