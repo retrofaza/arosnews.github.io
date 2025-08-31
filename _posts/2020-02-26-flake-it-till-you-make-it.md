@@ -50,6 +50,9 @@ Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w techno
 ![Tilt-N-Roll](/assets/img/0825/tiltnroll.png)
 *Tilt-N-Roll*
 
+
+Na 32-bit wersję AROS wychodzą już tylko aplikacje Hollywood. Może to już czas, aby producent Hollywood zdecydował się na wydanie swojego programu dla głównej 64-bitowej linii AROSa?
+
 > ## [RNOSoundboard](https://archives.arosworld.org/?function=showfile&file=audio/play/rnosoundboard.i386-aros.lha) (v. 1.0) `i386`
 > (autor:	jPV^RNO)
 
@@ -70,8 +73,8 @@ Główne cechy:
 
 
 |----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
-| `x86_64` | [InstallerLG v.1.0.3](https://archives.arosworld.org/?function=showfile&file=utility/installerlg-v1.0.3.x86_64-aros-v11.zip) | Commodore Installer replacement |
-| `x86_64` | [HivelyReplayer v.0.2](https://archives.arosworld.org/?function=showfile&file=audio/play/hivelyreplay.x86_64-aros-v11.zip) | Replayer from HivelyTracker (AHI) |
-| `i386` | [UHCTools v.2.1](https://archives.arosworld.org/?function=showfile&file=utility/misc/uhctools.i386-aros.lha) | a collection of program and scripts |
-| `i386` | [V.A.M.P. v.3.25](https://archives.arosworld.org/?function=showfile&file=video/play/vamp.lha) | Virtual Amiga Multimedia Player |
+| `i386` | [Cards Making Kit v.2.30](https://archives.arosworld.org/?function=showfile&file=game/utility/cardsmakingkit.lha) | SDK to make your decks for Morgue Games |
+| `i386` | [Janggi v.1.0](https://archives.arosworld.org/?function=showfile&file=game/board/janggi.i386-aros.lha) | Korean chess program UCI compatible |
+| `i386` | [PolarPaint v.1.169](https://archives.arosworld.org/?function=showfile&file=graphics/edit/polarpaint_aros.lha) | Paint program made with Hollywood |
+
 
