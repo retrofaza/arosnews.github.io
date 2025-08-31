@@ -52,7 +52,7 @@ Sezon wakacyjny daje o sobie znać szczególnie w AROS Archives – tym razem no
 > ## [Super-Haxagon](https://archives.arosworld.org/?function=showfile&file=game/action/super-haxagon.x86_64-aros-v11.zip) (v. 3.9.1) `x86_64`
 > (autor:	AJ Walter)
 
-Super-Haxagon
+Super Hexagon to intensywna i niezwykle wymagająca minimalistyczna gra zręcznościowa autorstwa Terry'ego Cavanagha. Gracz steruje niewielkim trójkątem, omijając nadciągające przeszkody w rytm hipnotycznej, elektronicznej ścieżki dźwiękowej Chipzela. Jej psychodeliczna, pulsująca estetyka i perfekcyjne zsynchronizowanie muzyki z działaniem tworzą wciągające, choć bezlitosne doświadczenie. Dostępna na PC i urządzenia mobilne, gra słynie z przytłaczająco pozytywnych recenzji, a jej nieubłagany poziom trudności i mechanika „jeszcze jednej próby” stanowią idealny test refleksu i koncentracji. Wersja dla AROS oparta jest o otwartoźródłową implementację gry (Super-Haxagon) autorstwa AJ Waltera.
 
 ![Super-Haxagon](/assets/img/0825/haxagon.png)
 *Super-Haxagon*
@@ -60,15 +60,15 @@ Super-Haxagon
 > ## [TBFTSS: The Pandora War](https://archives.arosworld.org/?function=showfile&file=game/action/tbftss.x86_64-aros-v11.zip) (v. 1.5.1) `x86_64`
 > (autor:	Stephen J Sweeney)
 
-TBFTSS
+"The Battle for the Solar System: The Pandoran War" to dwuwymiarowy space shooter osadzony w uniwersum science fiction znanym z serii powieści. Rozgrywka, rozgrywająca się pomiędzy tomami książkowej trylogii, pozwala pilotować różnorodne statki kosmiczne – w tym kultowe jednostki z sagi oraz zupełnie nowe modele – w ponad 60 nieliniowych misjach. Gracz angażuje się w intensywne potyczki, wykorzystując zdolności taktyczne i współpracując z AI, aby stawić czoła piratom, zdrajcom oraz potężnej armii Pandory. Dzięki systemowi trofeów, bogatej fabule, gra stanowi gratkę zarówno dla miłośników klasycznych strzelanin, jak i fanów głębokiego, literackiego science-fiction. 
 
 ![TBFTSS](/assets/img/0825/tbftss.png)
-*	The Battle for the Solar System: the Pandora War*
+*The Battle for the Solar System: the Pandora War*
 
 > ## [Tilt-N-Roll](https://archives.arosworld.org/?function=showfile&file=game/action/tiltnroll.x86_64-aros-v11.zip) (v. 1.2.0) `x86_64`
 > (autor:	Greg Kennedy)
 
-Tilt-N-Roll
+Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w technologii OpenGL. Kierujesz kątem nachylenia poziomu za pomocą myszki lub klawiatury. Obracając świat, możesz poprowadzić kulkę przez różne przeszkody do wyjścia. Gra ma wbudowany edytor poziomów może być używany do tworzenia i dystrybucji poziomów wśród znajomych. Świetna propozycja dla tych, którzy szukają nietypowego, lekkiego wyzwania z ciekawym pomysłem na sterowanie.
 
 ![Tilt-N-Roll](/assets/img/0825/tiltnroll.png)
 *Tilt-N-Roll*
