@@ -23,6 +23,8 @@ Dzięki wsparciu Deadwooda i jego wkładzie do OpenGL i SDL_Mixer udało się ju
 
 Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszenia dla AROS-Shell, SMP, font.datatype, iconlist, Zune, Wanderer i nie tylko! Kolejny pracowity miesiąc ze strony Kalamatee.
 
+Steffen **MagicSN** Häuser zapowiedział rozpoczęcie pracy nad portem **RetroArch** dla AROSa. To swoisty „kombajn”, z którym zintegrowano szereg emulatorów rozmaitych platform – od automatów arcade, przez komputery, skończywszy na konsolach retro. Na tle innych narzędzi tego typu wyróżnia się on stosunkowo przyjaznym dla oka interfejsem oraz łatwością obsługi. Warto wesprzeć Steffena dotacją (PayPal: *tirionareonwe@gmail.com*). RetroArch to program, który bardzo przyda się AROSowi. Ponadto każdy wspierajacy otrzyma dostęp do testowych wersji beta.  
+
 **Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
 
 W AROS Archives tym razem kilka ciekawych propozycji, a w szczególności coś dla wytrawnych graczy:
