@@ -50,7 +50,13 @@ Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w techno
 ![Tilt-N-Roll](/assets/img/0825/tiltnroll.png)
 *Tilt-N-Roll*
 
+Pozostałe programy:  
 
+|----------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| `x86_64` | [ccd2iso v.0.3](https://archives.arosworld.org/?function=showfile&file=utility/archive/ccd2iso.x86_64-aros-v11.zip) | Convert CloneCD (.ccd) to ISO Images |
+| `x86_64` | [Sploiner v.1.01](https://archives.arosworld.org/?function=showfile&file=utility/misc/sploiner.x86_64-aros-v11.zip) | split, join and recover files |
+
+{: .box-info}
 Na 32-bit wersję AROS wychodzą już tylko aplikacje Hollywood. Może to już czas, aby producent Hollywood zdecydował się na wydanie swojego programu dla głównej 64-bitowej linii AROSa?
 
 > ## [RNOSoundboard](https://archives.arosworld.org/?function=showfile&file=audio/play/rnosoundboard.i386-aros.lha) (v. 1.0) `i386`
