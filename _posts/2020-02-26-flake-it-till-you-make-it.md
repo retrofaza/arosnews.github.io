@@ -25,6 +25,8 @@ Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszen
 
 Steffen **MagicSN** Häuser zapowiedział rozpoczęcie pracy nad portem **RetroArch** dla AROSa. To swoisty „kombajn”, z którym zintegrowano szereg emulatorów rozmaitych platform – od automatów arcade, przez komputery, skończywszy na konsolach retro. Na tle innych narzędzi tego typu wyróżnia się on stosunkowo przyjaznym dla oka interfejsem oraz łatwością obsługi. Warto wesprzeć Steffena dotacją (PayPal: *tirionareonwe@gmail.com*). RetroArch to program, który bardzo przyda się AROSowi. Ponadto każdy wspierajacy otrzyma dostęp do testowych wersji beta.  
 
+**Olaf Schönweiß** wydał nową wersję [AROS Vision](https://www.aros-vision.de/) - dystrybucję przeznaczoną dla architektury 68k. Ze strony projektu można [pobrać](https://www.aros-vision.de/download.html) wersję przeznaczoną dla WinUAE oraz Apollo V4. AROS Vision od teraz jest także jedną z opcji w [ApolloBoot](https://www.apollo-computer.com/apolloboot.php).
+
 **Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
 
 W AROS Archives tym razem kilka ciekawych propozycji, a w szczególności coś dla wytrawnych graczy:
