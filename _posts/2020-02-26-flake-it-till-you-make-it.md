@@ -10,7 +10,7 @@ Sierpień obfitował w nowości dla AROSa: Deadwood wydał pakiety U1.B i zaktua
 
 **Deadwood** wypuścił aktualizację [**U1.B**](https://axrt.org/download/aros/v11/AROS-20250418-1-U1.B-any-x86_64-update.zip) dla systemu bazowego *20250418-1*, a także [aktualizację SDK](https://axrt.org/download/aros/v11/SDK-20250418-1-U1-any-x86_64-update.zip). Pakiety te zawierają poprawki z kilku ostatnich miesięcy.
 
-{% highlight bash %}  
+{% highlight bash %}
 AROS ABIv11 20250418-1-U1 changes:
 
  Functionalities:
