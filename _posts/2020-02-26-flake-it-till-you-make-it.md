@@ -76,7 +76,17 @@ Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w techno
 > ## [RNOSoundboard](https://archives.arosworld.org/?function=showfile&file=audio/play/rnosoundboard.i386-aros.lha) (v. 1.0) `i386`
 > (autor:	jPV^RNO)
 
-RNOSoundboard
+Nowe oprogramowanie stworzone przez jPV^RNO dla AROS 32Bit, RNOSoundboard to aplikacja umożliwiająca odtwarzanie plików audio za pomocą skrótów klawiaturowych i kliknięć myszą. Ożyw swoją imprezę dzięki gotowemu zestawowi utworów muzycznych i sampli!
+
+Główne cechy:
+- MUI GUI do aranżowania zestawów dźwiękowych
+- Tryb pełnoekranowy soundboard z graficznymi przyciskami
+- Ładuje osadzone obrazy okładek z plików MP3, FLAC i Ogg Vorbis do grafiki przycisków soundboard
+- Wewnętrzne ładowanie i zapisywanie listy odtwarzania
+- Programowalne skróty klawiszowe, a także opcje zapętlania i głośności dla każdego pliku audio
+- Obsługa przeciągania i upuszczania do ładowania plików, katalogów i list odtwarzania
+- Obsługa formatów MP3, FLAC, Ogg Vorbis, AAC, AIFF, WAV, Protracker, DigiBooster, SID, AHX, FastTracker II, ScreamTracker, OctaMED, The Player, NoisePacker, ProRunner, Oktalyzer, Impulse Tracker, Ultra Tracker, Ice Tracker, Liquid Tracker, Quadra Composer i wiele innych formatów
+- Obsługa ARexx, wiersza poleceń i tooltypes
 
 ![RNOSoundboard](/assets/img/0825/rnosoundboard.jpg)
 *RNOSoundboard*
