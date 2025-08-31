@@ -15,6 +15,11 @@ Na swoją aktualizację nie czekał również projekt [AROS Portable](https://ar
 ![AROS Portable](/assets/img/0825/aros.jpg)
 *AROS Portable*
 
+Kalamatee kontynuował prace nad portem SDL2. Najnowsze poprawki, które wprowadził, pozwoliły mu już na uruchomienie zaktualizowanego portu Doom 3:  
+
+<iframe width="700" height="480" src="https://www.youtube.com/embed/I23S1BHWqJ8" title="AROS hosted (under WSL) running doom3 with hostgl." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszenia dla AROS-Shell, SMP, font.datatype, iconlist, Zune, Wanderer i nie tylko! Kolejny pracowity miesiąc ze strony Kalamatee.
 
 **Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
 
