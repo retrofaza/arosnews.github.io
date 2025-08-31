@@ -68,7 +68,7 @@ Super Hexagon to intensywna i niezwykle wymagająca minimalistyczna gra zręczno
 > ## [Tilt-N-Roll](https://archives.arosworld.org/?function=showfile&file=game/action/tiltnroll.x86_64-aros-v11.zip) (v. 1.2.0) `x86_64`
 > (autor:	Greg Kennedy)
 
-Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w technologii OpenGL. Kierujesz kątem nachylenia poziomu za pomocą myszki lub klawiatury. Obracając świat, możesz poprowadzić kulkę przez różne przeszkody do wyjścia. Gra ma wbudowany edytor poziomów może być używany do tworzenia i dystrybucji poziomów wśród znajomych. Świetna propozycja dla tych, którzy szukają nietypowego, lekkiego wyzwania z ciekawym pomysłem na sterowanie.
+Tilt-n-Roll to trójwymiarowa wersja klasycznej gry z kulką, stworzona w technologii OpenGL. Kierujesz kątem nachylenia poziomu za pomocą myszki lub klawiatury. Obracając świat, możesz poprowadzić kulkę przez różne przeszkody do wyjścia. Gra ma wbudowany edytor poziomów - może być używany do tworzenia i dystrybucji poziomów wśród znajomych. Świetna propozycja dla tych, którzy szukają nietypowego, lekkiego wyzwania z ciekawym pomysłem na sterowanie.
 
 ![Tilt-N-Roll](/assets/img/0825/tiltnroll.png)
 *Tilt-N-Roll*
