@@ -19,12 +19,13 @@ Kalamatee kontynuował prace nad portem SDL2. Najnowsze poprawki, które wprowad
 
 <iframe width="700" height="480" src="https://www.youtube.com/embed/I23S1BHWqJ8" title="AROS hosted (under WSL) running doom3 with hostgl." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
+Dzięki wsparciu Deadwooda i jego wkładzie do OpenGL i SDL_Mixer udało się już pierwsze gry skompilowane z SDL2 wrzucić do AROS Archives.
+
 Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszenia dla AROS-Shell, SMP, font.datatype, iconlist, Zune, Wanderer i nie tylko! Kolejny pracowity miesiąc ze strony Kalamatee.
 
 **Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
 
-Sezon wakacyjny daje o sobie znać szczególnie w AROS Archives – tym razem nowych pozycji jest tak niewiele, że można je policzyć na palcach jednej ręki. Miejmy jednak nadzieję, że w przyszłym miesiącu zaległości zostaną nadrobione z nawiązką :)
-
+W AROS Archives tym razem kilka ciekawych propozycji, a w szczególności coś dla wytrawnych graczy:
 
 > ## [Super-Haxagon](https://archives.arosworld.org/?function=showfile&file=game/action/super-haxagon.x86_64-aros-v11.zip) (v. 3.9.1) `x86_64`
 > (autor:	AJ Walter)
