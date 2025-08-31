@@ -12,7 +12,8 @@ ref: 0825
 
 Na swoją aktualizację nie czekał również projekt [AROS Portable](https://arosnews.github.io/aros-portable/) – to doskonała opcja dla tych, którzy chcą wypróbować najnowsze zdobycze systemu, takie jak przeglądarka **Odyssey Web Browser 3.0**, bez konieczności instalacji. Wystarczy nagrać obraz na pendrive i uruchomić go na niemal dowolnym nowoczesnym komputerze.
 
-
+![AROS Portable](/assets/img/0825/aros.jpg)
+*AROS Portable*
 
 
 **Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
