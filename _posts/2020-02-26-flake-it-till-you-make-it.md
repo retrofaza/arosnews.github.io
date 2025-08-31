@@ -6,7 +6,63 @@ lang: pl
 ref: 0825
 ---
 
+Sierpień obfitował w nowości dla AROSa: Deadwood wydał pakiety U1.B i zaktualizowane SDK, a AMIGASYSTEM przygotował aktualizację dla AROS One. Najnowsze poprawki trafiły też do projektu AROS Portable, a Kalamatee uruchomił pod SDL2 zaktualizowanego Dooma 3. Do tego doszły usprawnienia w repozytorium ADT, zapowiedź portu RetroArch, nowa wersja AROS Vision i odświeżone forum AROSWorld.
+
 **Deadwood** wypuścił aktualizację [**U1.B**](https://axrt.org/download/aros/v11/AROS-20250418-1-U1.B-any-x86_64-update.zip) dla systemu bazowego *20250418-1*, a także [aktualizację SDK](https://axrt.org/download/aros/v11/SDK-20250418-1-U1-any-x86_64-update.zip). Pakiety te zawierają poprawki z kilku ostatnich miesięcy.
+
+{% highlight bash %}
+AROS ABIv11 20250418-1-U1 changes:
+
+ Functionalities:
+ C library extended with several wide char functions (Deremon)
+ SSE2/SS3/AVX accelerated pixel conversion routines (Kalamatee)
+ Updated several network drivers to work on 64-bit (Neil)
+
+
+ Updates:
+ Multiview (Russell Shaw, Mazze)
+ Kernel (Johan G)
+ basque.language (jalaguero)
+ Codacy detected fixes (Mazze)
+ Locale files refreshed
+ Prefs/ScreenMode (Kalamatee)
+ etherlink3.device (Neil)
+ AROSTCP (Neil)
+ SAD debugger (Johan G)
+
+
+ 64-bit support:
+ mesa3dgl.library, gallium.hidd, softpipe.hidd, IntelGMA
+ vwmwaresvga.hidd, gallium.library (fixed to work on pre-SSE4.1 CPUs) (deadwood)
+ Prefs/OpenURL (fixed to work on 64-bit) (Kalamatee)
+ nvidianet.device (fixed to work on 64-bit) (Neil)
+
+
+ Functional fixes:
+ icon.library (Russell Shaw)
+ reqtools.library (bugs: Window pointer check) (Josef Wegner)
+ Calculator (bugs: trailing 0) (Ivan G.)
+ gadtools.library (bugs: wrong position of left-aligned object, wrong slider behavior) (ronybeck, r3dbug)
+ C:Copy (bugs: #179) (jalaguero)
+ AROSTCP (bugs: fails with fd == -1) (deadwood)
+ stdlib.library (bugs: wrong value of DST field) (deadwood)
+
+
+ Stability fixes:
+ Prefs/Wanderer (bugs: crash when closing advanced tab) (deadwood)
+ crt.library (bugs: seeking on directory handle possible) (deadwood)
+ intuition.library (bugs: crash when invalid pixfmt) (Kalamatee)
+
+
+ 68k support:
+ exec.library (bugs: wrong CHIP memory alignment for AllocPooled) (Johan G)
+ sagagfx.hidd updates (Willem Drijver)
+ Sprites support (DerThore, Johan G, deadwood)
+ keyboard.device (fix for older games) (ronybeck)
+ Interleaved bitmap support (DerThore)
+ Fix handling Copper1 (Johan G)
+{% endhighlight %}
+ 
 
 **AMIGASYSTEM** wydał pakiet aktualizacyjny dla dystrybucji [AROS One](https://drive.google.com/file/d/175bS0GSN3YCQxJoXWkaQmczm20v3HKh1/view?usp=sharing) zawierający U1.B plus dodatkowo wzbogacający AROS One o nowe programy ([lista zmian](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1418&pid=9157)). 
 
@@ -21,15 +77,18 @@ Kalamatee kontynuował prace nad portem SDL2. Najnowsze poprawki, które wprowad
 
 Dzięki wsparciu Deadwooda i jego wkładzie do OpenGL i SDL_Mixer udało się już pierwsze gry skompilowane z SDL2 wrzucić do AROS Archives.
 
-Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszenia dla AROS-Shell, SMP, font.datatype, iconlist, Zune, Wanderer i nie tylko! Kolejny pracowity miesiąc ze strony Kalamatee.
+Ponadto Kalamatee wprowadził w sierpniu do repozytorium ADT poprawki i ulepszenia dla AROS-Shell, SMP, font.datatype, iconlist, Zune, Wanderer i wielu innych elementów systemu. To był dla niego naprawdę pracowity miesiąc!
 
-Steffen **MagicSN** Häuser zapowiedział rozpoczęcie pracy nad portem **RetroArch** dla AROSa. To swoisty „kombajn”, z którym zintegrowano szereg emulatorów rozmaitych platform – od automatów arcade, przez komputery, skończywszy na konsolach retro. Na tle innych narzędzi tego typu wyróżnia się on stosunkowo przyjaznym dla oka interfejsem oraz łatwością obsługi. Warto wesprzeć Steffena dotacją (PayPal: *tirionareonwe@gmail.com*). RetroArch to program, który bardzo przyda się AROSowi. Ponadto każdy wspierajacy otrzyma dostęp do testowych wersji beta.  
+Z kolei Steffen **MagicSN** Häuser zapowiedział rozpoczęcie prac nad portem **RetroArch** dla AROSa – potężnego „kombajnu”, integrującego szereg emulatorów różnych platform: od klasycznych automatów arcade, przez komputery osobiste, aż po konsole retro. Na tle podobnych narzędzi RetroArch wyróżnia się przyjaznym interfejsem oraz prostotą obsługi. To projekt, który może znacząco wzbogacić AROSa. Warto wesprzeć Steffena dotacją (PayPal: tirionareonwe@gmail.com).
 
-**Olaf Schönweiß** wydał nową wersję [AROS Vision](https://www.aros-vision.de/) - dystrybucję przeznaczoną dla architektury 68k. Ze strony projektu można [pobrać](https://www.aros-vision.de/download.html) wersję przeznaczoną dla WinUAE oraz Apollo V4. AROS Vision od teraz jest także jedną z opcji w [ApolloBoot](https://www.apollo-computer.com/apolloboot.php).
+Nową wersję swojej dystrybucji dla architektury 68k wydał także **Olaf Schönweiß**. [AROS Vision](https://www.aros-vision.de/) dostępny jest zarówno w edycji dla WinUAE, jak i dla Apollo V4, a ponadto został włączony do [ApolloBoot](https://www.apollo-computer.com/apolloboot.php).  
 
-**Amigamia**, administrator forum **AROSWorld**, odświeżył wygląd strony. Nowa skórka jest bardziej przejrzysta i nowoczesna. 
+<iframe width="700" height="480" src="https://www.youtube.com/embed/f2oB6spuS_I" title="AROS VISION 2025:New Release I Customized with Infinite Icons Theme Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+*https://www.youtube.com/@jamesmattson6813*
 
-W AROS Archives tym razem kilka ciekawych propozycji, a w szczególności coś dla wytrawnych graczy:
+Odświeżenia doczekało się również forum AROSWorld – dzięki pracy administratora **Amigamia** strona zyskała nowoczesny, bardziej przejrzysty wygląd.
+
+W AROS Archives również nie brakuje nowości – znajdziemy tam kilka interesujących propozycji, szczególnie dla wymagających graczy:  
 
 > ## [Super-Haxagon](https://archives.arosworld.org/?function=showfile&file=game/action/super-haxagon.x86_64-aros-v11.zip) (v. 3.9.1) `x86_64`
 > (autor:	AJ Walter)
